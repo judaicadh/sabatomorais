@@ -2,44 +2,59 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
-@import "@fontsource-variable/lora";
+@import "@fontsource-variable/playfair-display";
+@import "@fontsource-variable/eb-garamond";
 @import "@fontsource-variable/epilogue";
-@import "@fontsource/neuton";
 
 @plugin "@tailwindcss/typography";
 
 @theme {
-  /* Paper / ink palette */
-  --color-paper-light: #fdfaf6;
-  --color-paper: #f8f4ec;
-  --color-paper-dark: #ede7dd;
-  --color-ink-hover: #221d1b;
-  --color-ink: #2f2a26;
-  --color-ink-muted: #5a5046;
+  /* ---- Classic / traditional palette: navy · burgundy · gold on parchment ---- */
 
-  --color-accent-50: #fdf4e7;
-  --color-accent-100: #f5e2c5;
-  --color-accent-200: #e6cba1;
-  --color-accent-700: #8a6d3b;
+  /* Parchment grounds (kept under the old token names so all markup recolors) */
+  --color-paper-light: #faf5e9;
+  --color-paper: #f4ecd8;
+  --color-paper-dark: #e7dcc2;
 
-  /* Semantic tokens used across the UI (nav, footer, cards) */
-  --color-background: #f8f4ec;
-  --color-foreground: #2f2a26;
-  --color-card: #ffffff;
-  --color-border: #e6ddd0;
-  --color-primary: #37474f;
-  --color-accent: #8a6d3b;
-  --color-accent-foreground: #2f2a26;
-  --color-muted-foreground: #6b6157;
+  /* Ink */
+  --color-ink-hover: #140f0c;
+  --color-ink: #241c17;
+  --color-ink-muted: #5c4f42;
 
-  --font-heading: Neuton, serif;
-  --font-body: "Lora Variable", serif;
+  /* Gold family (used for chips, hairlines, ornaments) */
+  --color-accent-50: #f8efd6;
+  --color-accent-100: #ecdcb0;
+  --color-accent-200: #d8c48f;
+  --color-accent-700: #7a2733; /* burgundy — interactive/hover accents */
+
+  /* Named jewel tones for direct use */
+  --color-navy: #16233b;
+  --color-navy-dark: #0f1a2e;
+  --color-burgundy: #7a2733;
+  --color-burgundy-dark: #5c1c27;
+  --color-gold: #a67c2e;
+  --color-gold-soft: #c9a961;
+
+  /* Semantic aliases used across the UI */
+  --color-background: #f4ecd8;
+  --color-foreground: #241c17;
+  --color-card: #fbf6ea;
+  --color-border: #d8c49a;
+  --color-primary: #16233b;
+  --color-accent: #7a2733;
+  --color-accent-foreground: #16233b;
+  --color-muted-foreground: #6b5d4f;
+
+  /* Typography */
+  --font-heading: "Playfair Display Variable", "Times New Roman", serif;
+  --font-body: "EB Garamond Variable", Georgia, serif;
   --font-sans: "Epilogue Variable", ui-sans-serif, system-ui, sans-serif;
 }
 
 @layer base {
   body {
     @apply bg-paper text-ink font-body;
+    font-size: 1.05rem;
   }
   h1,
   h2,
@@ -52,4 +67,57 @@
   p {
     @apply font-body text-ink-muted dark:text-accent-50;
   }
+}
+
+/* ---- Decorative utilities for the 19th-century scholarly look ---- */
+
+/* Letter-spaced small-caps section label */
+.eyebrow {
+  font-family: var(--font-sans);
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--color-gold);
+}
+
+/* Centered ornament divider: gold rules flanking a fleuron */
+.ornament {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  color: var(--color-gold);
+}
+.ornament::before,
+.ornament::after {
+  content: "";
+  height: 1px;
+  width: clamp(2rem, 12vw, 8rem);
+  background: linear-gradient(
+    to var(--_dir, right),
+    transparent,
+    var(--color-gold-soft)
+  );
+}
+.ornament::before {
+  --_dir: left;
+}
+.ornament-mark {
+  font-family: var(--font-heading);
+  font-size: 1.15rem;
+  line-height: 1;
+}
+
+/* Double-rule frame in gold (used on panels and cards) */
+.frame-gold {
+  border: 1px solid var(--color-border);
+  box-shadow:
+    inset 0 0 0 1px var(--color-card),
+    inset 0 0 0 2px var(--color-gold-soft);
+}
+
+/* Gilt top hairline */
+.gilt-top {
+  border-top: 3px double var(--color-gold-soft);
 }

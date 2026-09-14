@@ -17,7 +17,6 @@ const cards = items
       type: item.type || "Item",
       date: toArray(item.date)[0] || "",
       thumbnail: item.thumbnail || "",
-      subjects: toArray(item.subject).slice(0, 3),
     };
   })
   .filter(Boolean);
@@ -25,25 +24,36 @@ const cards = items
 
 <BaseLayout>
   <!-- Hero -->
-  <section class="border-b border-border bg-paper-light">
-    <div class="mx-auto max-w-screen-xl px-4 py-16 sm:py-20 lg:py-24">
-      <p class="mb-3 font-sans text-sm uppercase tracking-widest text-primary">
-        Judaica Digital Humanities at Penn
-      </p>
-      <h1 class="max-w-3xl text-4xl font-serif leading-tight text-ink sm:text-5xl lg:text-6xl">
-        The Sabato Morais Digital Repository
+  <section class="bg-paper-light">
+    <div class="mx-auto max-w-3xl px-4 py-16 text-center sm:py-24">
+      <p class="eyebrow mb-5">A Digital Archive &middot; 1823&ndash;1897</p>
+
+      <h1 class="font-heading text-4xl leading-[1.1] text-navy sm:text-5xl lg:text-6xl">
+        The Correspondence, Sermons &amp; Manuscripts of
+        <span class="italic text-burgundy">Sabato Morais</span>
       </h1>
-      <p class="mt-6 max-w-2xl font-body text-lg leading-relaxed text-ink-muted">
-        Read, search, and study the correspondence, sermons, and manuscripts of
-        Rev. Sabato Morais (1823–1897) — hazzan of Congregation Mikveh Israel and
-        founder of the Jewish Theological Seminary. Each item pairs a searchable
-        transcription with high-resolution page images.
+
+      <div class="ornament mx-auto my-8 max-w-lg">
+        <span class="ornament-mark">&#10087;</span>
+      </div>
+
+      <p class="mx-auto max-w-2xl font-body text-lg leading-relaxed text-ink-muted sm:text-xl">
+        Read and study the papers of the hazzan of Congregation Mikveh Israel and
+        founder of the Jewish Theological Seminary. Each item pairs a scholarly
+        transcription with high-resolution images of the original document.
       </p>
-      <div class="mt-8 flex flex-wrap gap-3">
-        <a href="#collection" class="rounded-md bg-primary px-5 py-2.5 font-sans text-sm font-medium text-white transition hover:opacity-90">
-          Browse the collection
+
+      <div class="mt-10 flex flex-wrap justify-center gap-3">
+        <a
+          href="#collection"
+          class="rounded-sm bg-navy px-7 py-3 font-sans text-xs font-semibold uppercase tracking-widest text-accent-50 transition hover:bg-navy-dark"
+        >
+          Browse the Collection
         </a>
-        <a href="/about" class="rounded-md border border-border px-5 py-2.5 font-sans text-sm font-medium text-ink transition hover:bg-card">
+        <a
+          href="/about"
+          class="rounded-sm border border-navy/30 px-7 py-3 font-sans text-xs font-semibold uppercase tracking-widest text-navy transition hover:border-navy hover:bg-paper-dark"
+        >
           About Sabato Morais
         </a>
       </div>
@@ -51,48 +61,53 @@ const cards = items
   </section>
 
   <!-- Collection grid -->
-  <section id="collection" class="mx-auto max-w-screen-xl px-4 py-14">
-    <div class="mb-8 flex items-baseline justify-between">
-      <h2 class="text-2xl font-serif text-ink sm:text-3xl">Collection</h2>
-      <span class="font-sans text-sm text-ink-muted">{cards.length} items</span>
-    </div>
+  <section id="collection" class="gilt-top bg-paper">
+    <div class="mx-auto max-w-screen-xl px-4 py-16">
+      <div class="mb-10 text-center">
+        <p class="eyebrow mb-2">The Collection</p>
+        <h2 class="font-heading text-3xl text-navy sm:text-4xl">Browse Items</h2>
+        <p class="mt-2 font-sans text-sm tracking-wide text-ink-muted">{cards.length} items</p>
+      </div>
 
-    <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-      {cards.map((c) => (
-        <a
-          href={`/item/${c.slug}`}
-          class="group flex flex-col overflow-hidden rounded-lg border border-border bg-card shadow-sm transition hover:shadow-md"
-        >
-          <div class="aspect-[4/3] w-full overflow-hidden bg-paper-dark">
-            {c.thumbnail ? (
-              <img
-                src={c.thumbnail}
-                alt={c.title}
-                class="h-full w-full object-cover transition group-hover:scale-[1.02]"
-                loading="lazy"
-              />
-            ) : (
-              <div class="flex h-full w-full items-center justify-center text-ink-muted/50">
-                <svg viewBox="0 0 24 24" class="h-12 w-12" fill="none" stroke="currentColor" stroke-width="1">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M4 5h16v14H4z M4 15l4-4 4 4 4-4 4 4" />
-                </svg>
-              </div>
-            )}
-          </div>
-          <div class="flex flex-1 flex-col p-4">
-            <div class="mb-2 flex items-center gap-2 font-sans text-xs text-ink-muted">
-              <span class="rounded bg-accent-100 px-2 py-0.5 text-ink">{c.type}</span>
-              {c.date && <span>{c.date}</span>}
+      <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
+        {cards.map((c) => (
+          <a
+            href={`/item/${c.slug}`}
+            class="frame-gold group flex flex-col overflow-hidden rounded-sm bg-card transition duration-300 hover:-translate-y-1 hover:shadow-xl"
+          >
+            <div class="aspect-[4/3] w-full overflow-hidden border-b border-border bg-paper-dark">
+              {c.thumbnail ? (
+                <img
+                  src={c.thumbnail}
+                  alt={c.title}
+                  class="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]"
+                  loading="lazy"
+                />
+              ) : (
+                <div class="flex h-full w-full items-center justify-center text-gold-soft/60">
+                  <svg viewBox="0 0 24 24" class="h-14 w-14" fill="none" stroke="currentColor" stroke-width="0.9">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M4 5h16v14H4z M4 15l4-4 4 4 4-4 4 4" />
+                  </svg>
+                </div>
+              )}
             </div>
-            <h3 class="mb-1 font-serif text-lg leading-snug text-ink group-hover:text-accent-700">
-              {c.title}
-            </h3>
-            <p class="line-clamp-3 flex-1 font-body text-sm text-ink-muted">
-              {c.description}
-            </p>
-          </div>
-        </a>
-      ))}
+            <div class="flex flex-1 flex-col p-6 text-center">
+              <p class="eyebrow mb-3">
+                {c.type}{c.date ? ` · ${c.date}` : ""}
+              </p>
+              <h3 class="mb-3 font-heading text-xl leading-snug text-navy transition group-hover:text-burgundy">
+                {c.title}
+              </h3>
+              <div class="ornament mx-auto mb-3 w-16">
+                <span class="ornament-mark text-sm">&#10022;</span>
+              </div>
+              <p class="line-clamp-3 flex-1 font-body text-base leading-relaxed text-ink-muted">
+                {c.description}
+              </p>
+            </div>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 </BaseLayout>

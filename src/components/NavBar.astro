@@ -1,127 +1,48 @@
 ---
 const links = [
     { href: "/", label: "Browse" },
-    {
-        label: "About",
-        children: [
-            { href: "/about", label: "About Sabato Morais" },
-            { href: "/about#repository", label: "About the Repository" },
-        ],
-    },
+    { href: "/about", label: "About Sabato Morais" },
+    { href: "/about#repository", label: "The Repository" },
 ];
 ---
 
-<nav class="border-b border-border">
-    <div class="mx-auto max-w-screen-xl px-4 py-3 flex items-center justify-between">
-        <!-- Left: stacked brand -->
-        <a href="/" class="flex flex-col items-start">
-            <span class="text-md font-sans tracking-wide text-primary">
+<!-- Navy top band -->
+<div class="h-1.5 w-full bg-navy"></div>
+
+<header class="border-b border-border bg-paper-light">
+    <div class="mx-auto max-w-screen-xl px-4 py-7 text-center">
+        <p class="eyebrow mb-3">Judaica Digital Humanities at Penn</p>
+
+        <a href="/" class="inline-block">
+            <h1 class="font-heading text-3xl leading-none text-navy sm:text-4xl md:text-5xl">
                 Sabato Morais
-            </span>
-            <span class="text-xl md:text-2xl font-serif text-accent-foreground leading-tight">
+            </h1>
+            <p class="mt-1 font-heading text-base italic text-burgundy sm:text-lg">
                 Digital Repository
-            </span>
-            <span class="text-md font-sans font-light italic text-primary mt-0.5">
-                Judaica Digital Humanities at Penn
-            </span>
+            </p>
         </a>
 
-        <!-- Right: nav (desktop) -->
-        <ul class="hidden md:flex items-center gap-8 text-sm font-medium">
-            {links.map(link => (
-                    link.children ? (
-                        <li class="relative group">
-                            <button
-                                    type="button"
-                                    class="inline-flex items-center gap-1 text-foreground/90 hover:text-accent transition-colors"
-                                    aria-haspopup="true"
-                                    aria-expanded="false"
-                            >
-                                {link.label}
-                                <svg viewBox="0 0 24 24" class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="1.5">
-                                    <path stroke-linecap="round" stroke-linejoin="round" d="M6 9l6 6 6-6" />
-                                </svg>
-                            </button>
-                            <ul class="absolute right-0 top-full z-20 hidden group-hover:block group-focus-within:block min-w-[16rem] rounded-md border border-border bg-background/95 shadow-lg py-1">
-                                {link.children.map(child => (
-                                    <li>
-                                        <a
-                                                href={child.href}
-                                                class="block px-4 py-2 text-foreground/90 hover:bg-card hover:text-accent transition-colors"
-                                        >
-                                            {child.label}
-                                        </a>
-                                    </li>
-                                ))}
-                            </ul>
-                        </li>
-                    ) : (
-                        <li>
-                            <a href={link.href} class="text-foreground/90 hover:text-accent transition-colors">
-                                {link.label}
-                            </a>
-                        </li>
-                    )
-            ))}
-        </ul>
+        <div class="ornament mx-auto mt-5 max-w-md">
+            <span class="ornament-mark">&#10087;</span>
+        </div>
 
-        <!-- Mobile menu trigger -->
-        <button
-                class="md:hidden inline-flex items-center justify-center rounded-md px-3 py-2 text-foreground/80 hover:bg-card hover:shadow-sm transition"
-                aria-label="Open menu"
-                aria-expanded="false"
-                data-mobile-menu-trigger
-        >
-            <svg viewBox="0 0 24 24" class="h-5 w-5" fill="none" stroke="currentColor" stroke-width="1.5">
-                <path stroke-linecap="round" d="M4 7h16M4 12h16M4 17h16" />
-            </svg>
-        </button>
-    </div>
-
-    <!-- Mobile nav (hidden by default) -->
-    <div class="md:hidden border-t border-border/70 bg-background/95" data-mobile-menu hidden>
-        <ul class="px-4 py-3 space-y-2 text-sm">
-            {links.map(link => (
-                    link.children ? (
-                        <li>
-                            <span class="block px-2 py-2 text-foreground/70 font-medium">
-                                {link.label}
-                            </span>
-                            <ul class="pl-4 space-y-1">
-                                {link.children.map(child => (
-                                    <li>
-                                        <a
-                                                href={child.href}
-                                                class="block px-2 py-2 rounded-md text-foreground/90 hover:bg-card hover:text-accent transition"
-                                        >
-                                            {child.label}
-                                        </a>
-                                    </li>
-                                ))}
-                            </ul>
-                        </li>
-                    ) : (
+        <!-- Navigation -->
+        <nav class="mt-4">
+            <ul class="flex flex-wrap items-center justify-center gap-x-3 gap-y-2 font-sans text-sm">
+                {links.map((link, i) => (
+                    <>
+                        {i > 0 && <li aria-hidden="true" class="text-gold-soft">&#10022;</li>}
                         <li>
                             <a
-                                    href={link.href}
-                                    class="block px-2 py-2 rounded-md text-foreground/90 hover:bg-card hover:text-accent transition"
+                                href={link.href}
+                                class="uppercase tracking-widest text-navy/80 transition-colors hover:text-burgundy"
                             >
                                 {link.label}
                             </a>
                         </li>
-                    )
-            ))}
-        </ul>
+                    </>
+                ))}
+            </ul>
+        </nav>
     </div>
-</nav>
-
-<script is:inline>
-    const btn = document.querySelector('[data-mobile-menu-trigger]');
-    const menu = document.querySelector('[data-mobile-menu]');
-    btn?.addEventListener('click', () => {
-        const isHidden = menu.hasAttribute('hidden');
-        if (isHidden) menu.removeAttribute('hidden');
-        else menu.setAttribute('hidden', '');
-        btn.setAttribute('aria-expanded', String(isHidden));
-    });
-</script>
+</header>
