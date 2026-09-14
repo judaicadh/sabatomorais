@@ -1,0 +1,26 @@
+---
+// A small custom printer's-ornament rosette used as a signature divider mark.
+const { class: className = "text-gold", size = 20 } = Astro.props;
+---
+<svg
+  class={className}
+  width={size}
+  height={size}
+  viewBox="0 0 24 24"
+  fill="none"
+  aria-hidden="true"
+  focusable="false"
+>
+  <!-- Concave four-point star -->
+  <path
+    d="M12 1 C12.6 7 17 11.4 23 12 C17 12.6 12.6 17 12 23 C11.4 17 7 12.6 1 12 C7 11.4 11.4 7 12 1 Z"
+    fill="currentColor"
+  />
+  <!-- Diagonal accent points -->
+  <path
+    d="M12 5.5 C12.2 9 15 11.8 18.5 12 C15 12.2 12.2 15 12 18.5 C11.8 15 9 12.2 5.5 12 C9 11.8 11.8 9 12 5.5 Z"
+    fill="var(--color-teal)"
+    opacity="0.55"
+  />
+  <circle cx="12" cy="12" r="1.5" fill="var(--color-card)" />
+</svg>

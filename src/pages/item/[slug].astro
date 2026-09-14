@@ -2,6 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Clover from "../../components/Clover";
 import TEILoader from "../../components/TEILoader";
+import Motif from "../../components/Motif.astro";
 import items from "../../data/items.json";
 import { slugify } from "../../scripts/slugify.js";
 
@@ -140,7 +141,7 @@ const isLetter = (itemData.type || "").toLowerCase() === "letter";
           <span set:html={formatItalics(title)} />
         </h1>
         <div class="ornament mx-auto mt-6 max-w-md">
-          <span class="ornament-mark">&#10087;</span>
+          <Motif class="text-gold" size={20} />
         </div>
       </div>
 

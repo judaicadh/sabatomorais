@@ -2,7 +2,7 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
-@import "@fontsource-variable/playfair-display";
+@import "@fontsource-variable/cormorant";
 @import "@fontsource-variable/eb-garamond";
 @import "@fontsource-variable/epilogue";
 
@@ -34,6 +34,8 @@
   --color-burgundy-dark: #5c1c27;
   --color-gold: #a67c2e;
   --color-gold-soft: #c9a961;
+  --color-teal: #2f5d54;
+  --color-teal-soft: #4f857a;
 
   /* Semantic aliases used across the UI */
   --color-background: #f4ecd8;
@@ -46,7 +48,7 @@
   --color-muted-foreground: #6b5d4f;
 
   /* Typography */
-  --font-heading: "Playfair Display Variable", "Times New Roman", serif;
+  --font-heading: "Cormorant Variable", "Times New Roman", serif;
   --font-body: "EB Garamond Variable", Georgia, serif;
   --font-sans: "Epilogue Variable", ui-sans-serif, system-ui, sans-serif;
 }
@@ -63,6 +65,8 @@
   h5,
   h6 {
     @apply font-heading text-ink;
+    font-weight: 600;
+    letter-spacing: 0.005em;
   }
   p {
     @apply font-body text-ink-muted dark:text-accent-50;
@@ -75,10 +79,10 @@
 .eyebrow {
   font-family: var(--font-sans);
   text-transform: uppercase;
-  letter-spacing: 0.22em;
+  letter-spacing: 0.24em;
   font-size: 0.7rem;
   font-weight: 600;
-  color: var(--color-gold);
+  color: var(--color-teal);
 }
 
 /* Centered ornament divider: gold rules flanking a fleuron */

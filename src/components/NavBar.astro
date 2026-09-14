@@ -1,4 +1,7 @@
 ---
+import Emblem from "./Emblem.astro";
+import Motif from "./Motif.astro";
+
 const links = [
     { href: "/", label: "Browse" },
     { href: "/about", label: "About Sabato Morais" },
@@ -11,19 +14,20 @@ const links = [
 
 <header class="border-b border-border bg-paper-light">
     <div class="mx-auto max-w-screen-xl px-4 py-7 text-center">
-        <p class="eyebrow mb-3">Judaica Digital Humanities at Penn</p>
+        <p class="eyebrow mb-4">Judaica Digital Humanities at Penn</p>
 
-        <a href="/" class="inline-block">
-            <h1 class="font-heading text-3xl leading-none text-navy sm:text-4xl md:text-5xl">
+        <a href="/" class="inline-flex flex-col items-center">
+            <Emblem size={64} />
+            <h1 class="mt-3 font-heading text-4xl leading-none tracking-wide text-navy sm:text-5xl md:text-6xl">
                 Sabato Morais
             </h1>
-            <p class="mt-1 font-heading text-base italic text-burgundy sm:text-lg">
+            <p class="mt-1 font-heading text-lg italic text-burgundy sm:text-xl">
                 Digital Repository
             </p>
         </a>
 
         <div class="ornament mx-auto mt-5 max-w-md">
-            <span class="ornament-mark">&#10087;</span>
+            <Motif class="text-gold" size={20} />
         </div>
 
         <!-- Navigation -->
