@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Drachman, Bernard</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF13_30</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Drachman, Bernard</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-11" source="" attested="yes">16 November 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff13_30_3r.tif"/>
+                                <graphic url="smbx4ff13_30_3v.tif"/>
+                                <graphic url="smbx4ff13_30_1r.tif"/>
+                                <graphic url="smbx4ff13_30_1v.tif"/>
+                                <graphic url="smbx4ff13_30_2r.tif"/>
+                                <graphic url="smbx4ff13_30_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>From<lb/>
+                <hi rend="underline"></hi>329 E. 51<hi rend="sup">st</hi> St<lb/></p>
+            <p>Rev. Dr. &#91;S.&#93; Morais<lb/>
+                546 N. 5<hi rend="sup">th</hi> St<lb/>
+                Philadelphia<lb/>
+                Pa.<lb/></p>
+                
+                <pb n="1"/>
+            <p>Nov. 16<hi rend="sup">th</hi> 1888<lb/></p>
+            <p>Dear Dr&#33;<lb/></p>
+            <p>Would you kindly let me<lb/> know the address of the man <del>from</del><lb/> whom you wish to induce to send<lb/> his wife a &#91;Hebrew&#93;.  I have unfortunately<lb/> mislaid it or I should have attended to<lb/> the matter.  I would also like to<lb/> know what you think of having a<lb/> public exhibition of the Seminary&#44;<lb/> not an examination&#44; exactly&#44; but<lb/> an exhibition&#44; consisting of recitations<lb/> and addresses of the students&#44; officers<lb/> and friends of the Seminary which<lb/> will draw a large assemblage&#44; keep<lb/> us before the public and gain members<lb/> and patrons or donors.  Dr. Mendes and<lb/> I have been speaking the matter over<lb/> and have thought that the steady<lb/> work going on in the classes while in<lb/></p>
+                
+                <pb n="2"/>
+            <p>itself very valuable was of too quiet<lb/> a character to keep public attention<lb/> upon us and maintain a lively interest.<lb/>  We thought that such a public<lb/> display&#44; besides enabling us to get<lb/> many members and donors on the<lb/> spot would also draw public attention<lb/> to us and would also give the<lb/> pupils a new incentive to active<lb/> effort.  If this should be decided<lb/> upon at once I would undertake to prepare<lb/> the students so as to be able to<lb/> give the exhibition about the middle of January.<lb/></p>
+            <p>Hoping that you will soon let us<lb/> know your views and sentiments in the<lb/> matter&#44; I remain&#44; with best regards to<lb/> yourself and family<lb/> very sincerely<lb/> Bernard Drachman<lb/></p>
+            </body>
+    </text>
+</TEI>

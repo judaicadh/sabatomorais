@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes"></author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF9_11</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes"></author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1884-01" source="" attested="yes">1884</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff9_11_3r.tif"/>
+                                <graphic url="smbx3ff9_11_3v.tif"/>
+                                <graphic url="smbx3ff9_11_1r.tif"/>
+                                <graphic url="smbx3ff9_11_1v.tif"/>
+                                <graphic url="smbx3ff9_11_2r.tif"/>
+                                <graphic url="smbx3ff9_11_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Rev. S. Morais.<lb/>
+                Addressed.<lb/>
+                &#91;Hebrew&#93;<lb/></p>
+                
+                <pb n="2"/> 
+            <p>Questions for Rev. Mr. Morais to<lb/> answer and explain at the Teachers&#39;<lb/> Meeting Monday Eve. Nov. 3rd 1884.<lb/></p>
+                
+            <p>1st. What course of instruction would<lb/> you suggest for a teacher in the<lb/> Sunday School to pursue&#44; who wishes<lb/> in a limited time to teach the<lb/> principles of the Jewish Religion to<lb/> a class of children&#63;</p>
+            <p>Principles &#38; not creeds may be learned chiefly from Deuteronomy&#8212;the spirit of Judaism<lb/> from various books of Grace Aguilar<lb/></p>
+            <p>2. What was the <sic>origon</sic> and mean&#45;<lb/> ing of the title &#34;Morenu.&#34;&#63;<lb/></p>
+            <p>Explain the origins of titles &#91;Hebrew&#93; &#38; then &#91;Hebrew&#93;<lb/></p>
+                
+                <pb n="3"/>
+            <p>3. The term Go&#45;al &#40;in Hebrew&#41; in Ruth 4.&#45;14&#91;&#63;&#93;<lb/> has been translated meaning &#34;Redeemer.&#34; <lb/> Please explain the significance of<lb/> the term.<lb/></p>
+            <p>&#91;Hebrew&#93; to buy back&#44; in case of property disposed of through poverty&#44;<lb/> to purchase back to freedom&#44; in case of people having been &#91;&#63;&#93; enslaved&#44; to mar&#45;<lb/> ry&#44; means of the widow being childless and destitute.</p>
+            <p>4. Please give some account of the<lb/> various translations of the Bible&#44;<lb/> especially of those under Hebrew<lb/> authority. &#91;in pencil&#58;&#93; Think of the Setuagent &#38; of the saying  of the Tal&#45;<lb/>mudists on it&#8212;of Onkelos and  Aguilar&#45;&#45;of Jonathan and  Joseph the &#91;&#63;&#93;<lb/> Refer to the Peshite&#91;&#63;&#93; &#38; of the various English versions. &#91;&#63;&#93; in 1382<lb/> seems to be the first who translated the whole Bible in English. It is found in some<lb/> rare libraries<lb/></p>
+            <p>5.Are there extant&#44; any Hebrew<lb/> books contemporary with the<lb/> books of the Bible&#63;<lb/></p>
+            <p>The Bible is the  oldest book. Speak of the book of &#34;the &#91;&#63;&#93; of<lb/> the Lord&#34; &#38; the book &#34;Yoshar&#91;&#63;&#93;&#34;&#45;&#45; of cuneiform writings &#91;&#63;&#93;<lb/> allegories &#38; corroborating in a great measure Holy Writ<lb/></p>
+                
+                
+            <p>1.	</p>
+        </body>
+    </text>
+</TEI>

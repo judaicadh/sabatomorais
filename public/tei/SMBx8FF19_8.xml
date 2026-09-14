@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Mitchell, Myrtilla E.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx8FF19_8</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Mitchell, Myrtilla E.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx8ff19_8_1r.tif"/>
+                                <graphic url="smbx8ff19_8_1v.tif"/>
+                                <graphic url="smbx8ff19_8_2r.tif"/>
+                                <graphic url="smbx8ff19_8_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Rev<hi rend="sup">d</hi> Dr S<hi rend="sup">o</hi> Morais<lb/></p>
+            <p>Dear Friend<lb/></p>
+            <p>May I claim<lb/> a moment of your valuable time&#44;<lb/> to seek information upon &#40;to me&#41;<lb/> a vexed question.  Having been lately<lb/> appointed&#44; one of those&#44; whose duty<lb/> it shall be&#44; to visit the southern<lb/> districts of the city&#44; in the interest of<lb/> our holy faith&#44; to endeavor to win<lb/> back to allegiance the erring&#59; and<lb/> strive to prevent the evils of <sic>prosyliting</sic><lb/> among the children of our people.<lb/>  Now&#59; my valued friend and teacher<lb/> can you inform me just what<lb/> line of argument&#44; would <hi rend="underline">best avail</hi><lb/> with those whose narrow intellectual<lb/> vision&#44; can &#40;I fear&#41; but grasp the<lb/> creature comforts&#44; of existence&#59; or<lb/></p>
+            
+            <pb n="2"/>
+            <p>whose every energy is bent upon<lb/> securing the means of livelihood<lb/>  What materialistic reward&#63; have<lb/> we in our power to offer to counter<lb/>&#45;balance the bribes of the enemy<lb/> whom I understand are latish<lb/> in the distribution of small gifts<lb/> the baited trap&#44; for the unwary&#44; but<lb/> alas&#44; all too acceptable to the poor<lb/> little ones&#44; so sadly lacking.<lb/></p>
+            <p>Trusting for the favor of a word of<lb/> counsel&#44; from the large compre&#45;<lb/>&#45;hensiveness of so worthy a source as<lb/> your able self<lb/> I remain very sincerely<lb/> Yours<lb/> Myrtilla E Mitchell<lb/>
+                2120 Vine street<lb/></p>
+            <p>Phil<hi rend="sup">a</hi><lb/></p>
+            <p>Saturday evening<lb/></p>
+            </body>
+    </text>
+</TEI>

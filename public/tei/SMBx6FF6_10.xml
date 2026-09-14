@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Teller, Benjamin F.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF6_10</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Teller, Benjamin F.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1891-10" source="" attested="yes">10 October 1891</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff6_10_1r.tif"/>
+                                <graphic url="smbx6ff6_10_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>BENJAMIN F. TELLER.	TELEPHONE NO. 1906.	JOSEPH R. TELLER.<lb/> WILLS RECEIPTED FOR AND SAFELY KEPT FREE OF CHARGE.<lb/> MONEY securely invested in Mort&#45;<lb/>gages and Ground Rents.<lb/>  ACT AS EXECUTORS&#44; ADMINISTRATORS&#44; TRUSTEES AND<lb/> GUARDIANS.<lb/>  NEGOTIATE LOANS on Ground<lb/> Rents&#44; Mortgages and Mortgage<lb/> Collateral<lb/>  Fire Insurance.<lb/>  Accident Insurance.<lb/>  Title Insurance.<lb/>  Life Insurance.<lb/>  BUY AND SELL REAL ESTATE&#44; TAKE GENERAL CHARGE AND<lb/> MANAGEMENT OF PROPERTY.<lb/>  SPECAIL ATTENTION given to the<lb/> Execution of Wills and Admin&#45;<lb/>istering to Estates.<lb/>  LOANS SECURED ON FIRST AND SECOND MORTGAGE&#44; PAYABLE<lb/> AT THE EXPIRATION OF A FIXED PERIOD OF YEARS<lb/> OR IN MONTHLY OR OTHER INSTALMENTS.<lb/></p>
+            <p>BENJAMIN F. TELLER &#38; BRO.&#44;<lb/>
+                Law&#44; Conveyancing&#44; Collections&#44;<lb/></p>
+            <p>OSCAR B. TELLER&#44;<lb/> ATTORNEY AT LAW.<lb/></p>
+            <p>Real Estate&#44; Mortgages&#44; Notaries Public&#44;<lb/>
+                GENERAL AGENTS FOR PHILADELPHIA OF<lb/></p>
+            <p>THE UNITED STATES MUTUAL ACCIDENT ASSOCIATION OF NEW YORK&#44;<lb/>
+                AND OF<lb/>
+                THE MUTUAL BENEFIT COMPANY OF PENNSYLVANIA&#44; with Abe Schelsinger as Asst. General Agent&#44;<lb/>
+                606 CHESTNUT STREET&#44;<lb/></p>
+            <p>PHILADEPHIA&#44; October 10&#44; 1891.<lb/></p>
+            <p>Dear Sir&#58;&#45;<lb/></p>
+            <p>The Board of Directors of the Congregation Rodef Sholom<lb/> desires to postpone the Celebration of the 25th Anniversary of the<lb/> arrival of Doctor Jastrow from Wednesday evening October 21st to<lb/> Wednesday evening November 4th 1891&#44; provided it will suit your<lb/> convenience as well as all the other parties who are to take part<lb/> in the Celebration.  I would be pleased to hear from you.<lb/>  Yours Respectfully&#44;<lb/> B F Teller<lb/></p>
+            <p>Rev. Dr. Sabato Morais&#44;<lb/>
+                546 N. 5th St.&#44; Phila.<lb/></p>
+            </body>
+    </text>
+</TEI>

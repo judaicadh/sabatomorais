@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Nands, William Nathan</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF5_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Nands, William Nathan</author>
+                        <addressee editor="false" attested="no" accepted="no"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1848-03" source="" attested="yes">4 March 1848</dateLet>
+
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff5_4_1r.tif"/>
+                                <graphic url="smbx1ff5_4_1v.tif"/>
+                                <graphic url="smbx1ff5_4_2r.tif"/>
+                                <graphic url="smbx1ff5_4_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+                         
+            <p>9 Paradise Row<lb/>
+                Hackney<lb/>
+                My dear Sir<lb/>
+                and worthy pupil&#44;<lb/></p>
+                <p>I understand you came<lb/> off with flying colours on<lb/> Saturday.  Accept my feli&#8211;<lb/>citations on the occasion.<lb/>  You have now the ball<lb/> at your feet&#44; and it will<lb/> be your own fault if<lb/> you do not reap the ben&#8211;<lb/>efit of the favourable<lb/> impression which you<lb/> have made.  Remember<lb/></p>
+                
+                <pb n="2"/>
+                <p>c&#39;est <del>que</del> le premier pas<lb/> qui conte &#40;if my French is<lb/> not so good as your English&#44;<lb/> set me right when you see<lb/> me&#41;&#58; fallow up the blow<lb/> which you have <del>struck</del><lb/> struck&#44; and if we do not<lb/> see you Hasan&#44; we shall at<lb/> any rate see you &#34;lectu&#8211;<lb/>rer in ordinary&#34; though<lb/> not &#34;to Her Majesty&#44;&#34; to<lb/> the Spanish and Portuguese<lb/> Synagogue.  Joking apart&#44;<lb/> you must not remain<lb/> content with what you<lb/> have done.  You must&#44;<lb/></p>
+                
+                <pb n="3"/>
+                <p>ever at the sacrifice &#91; &#63; &#93;<lb/> valuable time&#44; lecture a&#8211;<lb/>gain and again&#8212;and a<lb/>gain I say unto you&#44; you<lb/> will reap the reward.<lb/></p>
+                <p>Excuse the infliction<lb/> of this epistle&#44; and be&#8211;<lb/>lieve that no one will<lb/> rejoice in any honors<lb/> that may fall upon<lb/> you&#44; more than<lb/></p>
+                <p>Dear Sir<lb/>
+                Yours truly<lb/>
+                Willm. Nathan Nands<lb/>
+                    March. 4<hi rend="sup">th</hi>. 1848<lb/></p>
+                
+                <pb n="4"/>
+                <p>H. Sige. S. Morais.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

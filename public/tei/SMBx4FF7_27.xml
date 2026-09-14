@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Carr, S. A.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF7_27</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Carr, S. A.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1887-11" source="" attested="yes">7 November 1887</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff7_27_1r.tif"/>
+                                <graphic url="smbx4ff7_27_1v.tif"/>
+                                <graphic url="smbx4ff7_27_2r.tif"/>
+                                <graphic url="smbx4ff7_27_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                 
+                <pb n="1"/>
+            <p>N. York Nov<hi rend="sup">er</hi> 7<hi rend="sup">th</hi> 87<lb/></p>
+            <p>Mr Morais<lb/>
+                Dr Sir<lb/></p>
+            <p>I am very much<lb/> interested in a Fair which we<lb/> are going to hold In behalf of<lb/> our &#34;Congregation&#44; Moses MonteforeË¶<lb/> We have only been organized<lb/> two years and from only 5<lb/> members&#44; we now number 20<lb/> or more.  The room in which<lb/> the services have been held are<lb/> too small and we therefore<lb/> would like to have a place of<lb/> worship.  You have no doubt<lb/> heard of our small efforts<lb/> in your numerous visits to our<lb/> city.  My reason for thus<lb/> troubling you Dear Sir is this&#44;<lb/></p>
+                
+                <pb n="2"/>
+            <p>A Gentleman of Boston&#44; Mass&#44;<lb/> has kindly sent me on a<lb/> donation and has given me<lb/> a few names of charitable men<lb/> among those is Mr Alfred Marcus<lb/> of Boston&#44; I have seen by the<lb/> Herard mention made of him<lb/> and his readiness to always<lb/> help his coreligionists.  I know<lb/> the great esteem and admiration<lb/> which Mr Marcus has expressed<lb/> for you and I take this liberty<lb/> of asking you if you will<lb/> either write him yourself in our<lb/> behalf or else give me a letter<lb/> of introduction to him.  I am<lb/> so anxious to do all in my<lb/> poor power to build up a<lb/> good Portuguese Synagogue&#45;&#45;<lb/> and would like to be the one to<lb/> have a Donation from him.<lb/>  You have doubtless forgotten<lb/> me in all these years &#38;<lb/></p>
+                
+                <pb n="3"/>
+            <p>I am a boy of the late Mrs A. Firz&#44;<lb/> and a dear friend of the late<lb/> Miss Leah Lobo.  If I have taken<lb/> too much liberty in thus addressing<lb/> you&#44; you will pardon it in<lb/> my zeal to further the efforts of<lb/> the congregation to which I belong<lb/> in the hope of hearing from<lb/> you at your convenience<lb/> I subscribe myself<lb/> Yours very respectfully<lb/> S. A. Carr.<lb/>  ne&#233; Carvalho&#44;<lb/> No 60. E. 109<hi rend="sup">th</hi> St.<lb/> N. York.<lb/></p>
+            <p>Executive Committee<lb/> A. M. Larado<lb/> G. S. Rosenberg<lb/> Dr Hartogensis<lb/> H. Pariente<lb/> Isidore Osario&#44;<lb/> Rev. M. Lenedalia.<lb/></p>
+            </body>
+    </text>
+</TEI>

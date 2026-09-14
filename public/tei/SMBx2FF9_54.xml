@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Mendes, H. P.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF9_54</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Mendes, H. P.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1880-09" source="" attested="yes">8 September 1880</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff9_54_1r.tif"/>
+                                <graphic url="smbx2ff9_54_1v.tif"/>
+                                <graphic url="smbx2ff9_54_2v.tif"/>
+                                <graphic url="smbx2ff9_54_2r.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>244 West 52.<lb/>
+                New York.<lb/>
+                Sept 8&#47;80<lb/></p>
+            <p>Rev. S. Morais<lb/>
+                Rev. and dear sir<lb/></p>
+            <p>Although the New Year<lb/> has commenced I trust it is yet<lb/> time to express a wish that its growth<lb/> may witness your family&#39;s prosperity&#44;<lb/> and that the blessing of our Father<lb/> may rest upon your labors.<lb/></p>
+            <p>I arrived Sunday week&#44;<lb/> or rather Monday in New York&#44; and<lb/> found my hands well occupied&#59;  I<lb/> received a letter from your son<lb/> on the Eve of my departure for<lb/> England&#44; but whether I acknowledged<lb/> it or not I cannot recall&#59; if I did<lb/> not&#44; then I must apologize to him&#44; so<lb/> kindly discover for me whether I<lb/> have been guilty of discourtesy or<lb/> not.<lb/></p>
+            <p>I regret to say that<lb/></p>
+                
+                <pb n="2"/>
+            <p>2.<lb/></p>
+                
+            <p>my father has been very ill&#44; but I<lb/> hear is progressing&#59; I left him<lb/> almost immediately after the crisis<lb/> was passed&#44; having to leave England<lb/> a little earlier owing to an accident<lb/> to the steamer on which my passage<lb/> was engaged and the substitution of<lb/> a slower boat which would have<lb/> landed me too near the Holy days.<lb/></p>
+            <p>I much regret the changes in<lb/> 44<hi rend="sup">th</hi> St&#59;&#45;&#45;what can be done to revive<lb/> an interest in our faith without pandering<lb/> to those whose religion is not deep seated<lb/> enough to make them actual Jews and<lb/> Jewesses&#44; but whose very attendance at<lb/> a place of worship must be bought by novelty<lb/> and attraction&#33;<lb/></p>
+            <p>I find in England a feeling in<lb/> favor of change&#44; but not to the extent<lb/> American Judaism favors.<lb/></p>
+                
+                <pb n="3"/>
+            <p>3<lb/></p>
+            <p>I wish some means could be<lb/> applied to mitigate the evil<lb/> of congregational legislation in<lb/> Jewish ritual and such matters.<lb/></p>
+            <p>Do you not think an outspoken<lb/> condemnation by our <hi rend="underline">chief</hi> Rabbis<lb/> would at least open the eyes of the<lb/> thinking part of our community.<lb/>  For instance pews are condemned<lb/> by Dr Adler of London&#44; Isidor of France&#44;<lb/> Dunner of Holland&#44; Levi of Corfa&#91;&#63;&#93;&#44;<lb/> and others of repute far greater<lb/> than American Reform&#45;ministers.<lb/>  The organ also&#44; except by Astrue late<lb/> of Belgium&#44; and Isidor&#44; who however<lb/> do not speak at all warmly of it<lb/></p>
+            <p>It does seem to me so sinful<lb/> that the conservation of Judaism<lb/> and Jewish customs should not<lb/> be the common care of all Jews<lb/> in all parts of the world.<lb/></p>
+                
+                <pb n="4"/>
+            <p>4.<lb/></p>
+            <p>All religious societies have organization&#44;<lb/> ours excepted&#59; our policy seems to be<lb/> fold arms and be still&#44; while the sheep<lb/> get loose&#44; feed on pastures new and dan<lb/>gerous&#59; and are exposed to shepherds like<lb/> certain ones of old.<lb/></p>
+            <p>Is there no way of curing the<lb/> evil&#63;<lb/></p>
+            <p>I have no doubt you have<lb/> thought much upon the subject&#59; if<lb/> at your leisure you would express<lb/> yourself as to what your views are with<lb/> regard to interesting European Jews<lb/> in our condition&#44; I should indeed<lb/> be only <sic>to</sic> happy to assist in furthering<lb/> them&#44; being amused that you are not<lb/> an advocate of the laissez&#45;aller policy.<lb/></p>
+            <p>With kind regards to your<lb/> son<lb/>
+                I am dear sir<lb/>
+                yrs vy truly<lb/>
+                H P Mendes<lb/></p>
+        </body>
+    </text>
+</TEI>

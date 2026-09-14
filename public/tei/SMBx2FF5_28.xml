@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF5_28</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Lyons, J. C.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1877-09" source="" attested="yes">3 September 1877</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff5_28_3r.tif"/>
+                                <graphic url="smbx2ff5_28_3v.tif"/>
+                                <graphic url="smbx2ff5_28_4r.tif"/>
+                                <graphic url="smbx2ff5_28_4v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>J. C. Lyons Esqre<lb/>
+            My dear Sir<lb/></p>
+            <p>Literary labors&#44; in which I am constantly<lb/> engaged&#44; and the approaching holidays&#44; claiming my<lb/> attention very seriously&#44; must serve as an apology<lb/> for the brevity with which I answer your communication.<lb/>  Indeed&#59; to give it a suitable reply would be to indite<lb/> a volume.  Let me then simply say that&#58; we the believers<lb/> in One all mighty and all&#45;merciful God&#44; cannot<lb/> admit&#44; under any circumstance whatever&#44; the existence<lb/> of a divine co&#45;adjutor.  Too often have we been<lb/> taught to deem the power of virtue our intercessor&#44; a<lb/> sincere repentance our mediator&#44; that we should give<lb/> credence to a doctrine consigning mankind to perdition<lb/> for a sin not its own&#44; and the accomplishing redemption<lb/> by the death of an innocent being&#44; temporarily a man&#44; but<lb/> eternally a god.  The dogma is subversive of the principles<lb/> underlying Judaism&#44; which is the religion of Reason&#44;<lb/> and not of blind faith.  No doubt&#44; to the masses<lb/> the leading feature of Christianity afford comfort&#44;<lb/></p>
+            
+            <pb n="2"/>
+            <p>and far be it from any to rob his fellow&#45;creatures<lb/> of that which gives them solace.  We Israelites respect<lb/> the convictions of others&#44; and rather than win them<lb/> over to our mode of thinking&#44; discourage proselytism.<lb/>  No&#91;&#63;&#93;&#44; our golden maxim is that every person who does<lb/> his best agreeably to the light received&#44; will be<lb/> accepted by our universal Father.<lb/></p>
+            <p>As to the divinity of Jesus&#44; the error springs from the<lb/> idea that <del>that</del> the redeemer whom Israel expects was to<lb/> be a heavenly being&#44; whereas&#44; according to our Scriptures<lb/> nothing but one who will be born and in due time die&#44; like<lb/> all mortals&#44; is the promised Messiah.  The abilities to<lb/> reconstruct our nationality&#44; and eventually bring about<lb/> a reign of peace will&#44; of course&#44; be extraordinarily high&#44;<lb/> and just because some of the contemporaries of Jesus&#44;<lb/> weighed down by oppression&#44; fancied that he might break<lb/> the Roman yoke&#44; they rallied around him and would<lb/> willingly perhaps have proclaimed him King.  History&#44; however&#44;<lb/> tells us that in these troublous times&#44; pretended Messiahs<lb/> rose and fell more than once.  It was the will<lb/> of the Supreme&#44; that the son of the carpenter should<lb/> be allowed a fame and perpetuity rarely granted <del>to</del><lb/></p>
+            
+            <pb n="3"/>
+            <p><del>any being</del> in the annals of the world&#44; and we<lb/> must bow to His decree.  But not one of the passages<lb/> in the old testament &#40;and this I say with great positiveness&#41;<lb/> can be critically applied to the character and reported<lb/> miraculous deeds.  All Hebraists are of one mind on that <del>respect</del> point of the man of Nazareth.  Regarding <del>As to</del> the scorn and persecution of<lb/> which your correspondent speaks&#44; I think that &#91;&#63;&#93;<lb/> has <del>borne</del> indexed them with greater meekness <del>that</del> than the anoint <del>man</del> <lb/> <del>of Nazareth</del> &#91;&#63;&#93;&#44; and to those who have been the martyrs<lb/> of a grand idea for nearly twenty centuries&#44; the palm<lb/> must be given for having served God and deserved well<lb/> of the human race.<lb/></p>
+            <p>Yours truly<lb/>
+            S. Morais<lb/>
+            September 3d 1877<lb/></p>
+        </body>
+    </text>
+</TEI>

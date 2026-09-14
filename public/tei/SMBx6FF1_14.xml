@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cohen, Max</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF1_14</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cohen, Max</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1891-01" source="" attested="yes">14 January 1891</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff1_13_1r.tif"/>
+                                <graphic url="smbx6ff1_13_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>JOSEPH BLUMENTHAL&#44;<lb/>
+                <emph rend="italics">President</emph>&#44;<lb/>
+                151 EAST 73D STREET.<lb/></p>
+            <p>Jewish Theological Seminary Association.<lb/></p>
+            <p>New York&#44; Jan. 14 1891<lb/></p>
+            <p>Rev. Dr. S. Morais<lb/>
+                Dear Dr.<lb/></p>
+            <p>At the last meeting of the Board of Trustees of the<lb/> J. T. S. A.&#44; a committee on Lectures was appointed of which<lb/> I &#91;&#63;&#93; the lead to be chairman.  Whatever we may do in the<lb/> summer&#44; I would like to have arranged a course of lectures<lb/> to be given from February to May.  I have some ideas running<lb/> through my mind&#44; that I would like to consult you about before<lb/> submitting them to the committee for formal action.<lb/></p>
+            <p>I would suggest one course on the education and training of<lb/> a Rabbi outside of his Hebrew &#38; theological studies.  The following<lb/> subjects for instance have occurred to me&#59;<lb/></p>
+            <p>The pulpit and Political science&#45;&#45;By Prof. E. R. G. Seligman.<lb/></p>
+            <p>The pulpit and Philanthropy&#45;&#45;By Chas. D. Kellogg&#45;&#45;Gen sec&#39;y<lb/> N. Y. Charity Organiza. Soc.<lb/></p>
+            <p>The secular education of the minister&#45;&#45;Hon Seth Low&#44; Pres. Columbia College<lb/></p>
+            <p>The minister as preacher&#45;&#45;By J. P. Solomon &#40;&#63;&#41;<lb/></p>
+            <p>The Rabbi in the sunday school&#45;&#45;By Morris S. Wise&#44; supt. Bne Jeshurun<lb/> sunday school.<lb/></p>
+            <p>The Rabbi in his personal relations with the people&#45;&#45;Sol. Kohn &#40;New York<lb/></p>
+            <p>Then I would add to the list or intersperse with these<lb/></p>
+                
+                <pb n="2"/>
+            <p>lectures something like the followinf&#59;<lb/></p>
+            <p>Jewish numismatics&#45;&#45;By David L. Walter&#44; V. Pres. N. Y. Numismatic Soc. &#38; collector<lb/> of Jewish coins and medals.<lb/></p>
+            <p>The Jeshibah of old &#38; the seminary of today&#45;&#45;S. M. Roeder<lb/></p>
+            <p>What are Amer. institutions&#63;&#45;&#45;By Hon. Oscar S. Strong who you<lb/> know has publ. a work showing the O. T. to be<lb/> the source of Amer. institutions.<lb/></p>
+            <p>Of course whatever the course&#44; you as Pres. of the Faculty<lb/> will be expected to open it&#44; if you will accept the labor of<lb/> preparing &#38; delivering it&#44; &#38; I will not presume even to suggest<lb/> a subject.<lb/></p>
+            <p>If we can succeed in securing all these speakers or<lb/> efficient substitutes we will have a course of ten lectures<lb/> that will about cover the ground of even if given<lb/> weekly.<lb/></p>
+            <p>I trust you will write to me in the fullest candor&#44; expression<lb/> of your opinions either of the course as a whole or the single<lb/> subjects&#44; or the speakers suggested.<lb/></p>
+            <p>The lectures of course are to be open to the public.  Dates time<lb/> of day &#38; day of week &#38; place&#44; are all yet to be decided.<lb/>  The other members of the Com. are Messrs. D. P. Hays and<lb/> Newman Cowen.<lb/></p>
+            <p>Hoping to hear from you at an early day&#44; I beg to remain<lb/> Yours very respectfully<lb/> Max Cohen<lb/> 18 E 91&#39; Str.<lb/></p>
+            </body>
+    </text>
+</TEI>

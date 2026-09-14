@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Leon</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF4_12</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Leon</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Chicago, IL</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-12" source="" attested="yes">28 December 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff4_12_1r.tif"/>
+                                <graphic url="smbx7ff4_12_1v.tif"/>
+                                <graphic url="smbx7ff4_12_2r.tif"/>
+                                <graphic url="smbx7ff4_12_2v.tif"/>
+                                <graphic url="smbx7ff4_12_3r.tif"/>
+                                <graphic url="smbx7ff4_12_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Palmer House&#44;<lb/>
+                Chicago<lb/></p>
+            <p>Dec 28th 1893<lb/></p>
+            <p>Dear Father.<lb/></p>
+            <p>Both yours and Esther&#39;s<lb/> letter to hand<lb/></p>
+            <p>I have done enough<lb/> to worry you all God knows I<lb/> make no promises but I will<lb/> try my best&#44; and I have tried my<lb/> best to get situation but to no<lb/> avail&#44; I owe Muhr&#39;s Sons nothing<lb/> and those that I do owe will<lb/> pay some day in the meantime<lb/> pay none of my debts as I am<lb/> responsible for all contracted<lb/> and there are now made through<lb/> you&#44; the Sloman draft as I said<lb/> before was disgraceful and I<lb/> am sorry you honored it as he<lb/> had personal property of mine<lb/> to secure it&#44; I would have tried<lb/> to meet it before presented had I<lb/> been able to make the money&#44;<lb/> now he has all the best of<lb/> it.<lb/></p>
+            
+            <pb n="2"/>
+            <p>I have found nothing here as yet&#44;<lb/> and the money goes gradually tho&#39;<lb/> I try to economize by eating<lb/> two meals a day and little at<lb/> that I must get out of here<lb/> some place and of course under<lb/> no circumstances will I go<lb/> where you do not want me to&#44;<lb/> but to Kans City I cannot go.<lb/></p>
+            <p>Let me hear from you<lb/> at once please.<lb/>  Leon<lb/>
+                Send c&#47;o Post office<lb/> Chicago<lb/> Ills.<lb/>
+                Please send special<lb/></p>
+            
+            <pb n="3"/>
+            <p>MISSOURI NATIONAL BANK.<lb/>
+                &#36;7 00	Kansas City&#44; Mo. Dec 5th 1893<lb/>
+                Pay to the order of M. Sloman  &#36;7 00<lb/>
+                Seven no 100 Dollars<lb/>
+                Value received and charge to my account with exchange.<lb/>
+                546 N. 5th st. Philadelphia Pa.	Leon D Morais<lb/></p>
+            
+            <pb n="4"/>
+            <p>M Sloman<lb/></p>
+            
+            <p>For Collection and Remittance<lb/>
+                TO THE<lb/>
+                MISSOURI NATIONAL BANK&#44;<lb/>
+                DEC 19 1893<lb/>
+                KANSAS CITY&#44; MO.<lb/>
+                Cashier.<lb/>
+                Collection Department<lb/></p>
+            
+            <p>PAYMENT RECEIVED&#44;<lb/>
+                THE CENTRAL NAT&#39;L BANK&#44;<lb/>
+                THEO. KITCHEN&#44; CASHIER.<lb/></p>
+            </body>
+    </text>
+</TEI>

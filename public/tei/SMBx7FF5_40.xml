@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Mendes de Solla, J.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF5_40</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Mendes de Solla, J.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>San Francisco, CA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1894-03" source="" attested="yes">7 March 1894</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff5_40_1r.tif"/>
+                                <graphic url="smbx7ff5_40_1v.tif"/>
+                                <graphic url="smbx7ff5_40_2r.tif"/>
+                                <graphic url="smbx7ff5_40_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>No 2 California St<lb/></p>
+            <p>San Francisco March 7 1894<lb/></p>
+            <p>Rev. Dr. S. Morais<lb/>
+                My dear Sir<lb/></p>
+            <p>A letter from an old old acquaintance<lb/> from whom you have not heard for a very long<lb/> time will take you by surprise&#44; no doubt.  I have<lb/> now and then read about you in the papers as<lb/> you are thank God &#91;Hebrew&#93; and as you are a public<lb/> man.  I have in a moral sense passed from the world&#44;<lb/> though I am by the will of Providence&#44; and malgr&#233;<lb/> moi obliged to remain in it.  When I write to you<lb/> it involuntarily reminds me of our first meeting<lb/> in Philadelphia&#44; when you and I were candidates<lb/> for the position which you have so faithfully held<lb/> for forty&#45;three years&#44; while I have been a real wan&#45;<lb/>dering Jew&#44; having crossed the oceans about 20 times<lb/> and yet......I have on former occasions<lb/> quoted to you the saying &#91;Hebrew&#93;<lb/> and this&#44; alas&#33; is still applicable to me&#44; but instead<lb/> of &#91;Hebrew&#93; it is &#91;Hebrew&#93; as you will see.  Now&#44; any<lb/> good old friend&#44; to come to the point and purpose<lb/> which induced me again &#91;Hebrew&#93; I must relate to you<lb/> the circumstances that lead me to do so.<lb/></p>
+            <p>You know that I held a position in Denver Col. for<lb/> a number of years.  I might have continued at my<lb/></p>
+            
+            <pb n="2"/>
+            <p>post&#44; but having passed the 70 I had to retire<lb/> to make room for younger powers.  I had in the<lb/> long course of my career gathered a few thousands&#44;<lb/> and these I invested in real estate&#44; as Denver was<lb/> then flourishing&#44; booming as it is called.  The revenue<lb/> from my property was not large&#44; but sufficient to<lb/> keep me comfortable&#44; as I thought for the rest of my<lb/> days&#59; so I retired to my native country where I could<lb/> do more with my limited income than I could in Ame&#45;<lb/>rica.  Shortly after my departure&#44; however&#44; there was<lb/> already a falling off in the value of real property<lb/> and consequently in rents&#44; and when the silver<lb/> prime set in&#44; the metal depreciated&#44; and the mines<lb/> closed my rents gradually decreased until at last<lb/> they were insufficient to pay the mortgage interest&#44;<lb/> taxes&#44; repairs and other expenses and I was obliged<lb/> to make an assignment of the property to my<lb/> agent to whom I was already indebted for<lb/> several hundred dollars.  In this deplorable<lb/> condition I find myself now&#44; my Rev. old friend&#44;<lb/> at the age of 76&#44; without property&#44; capital or po&#45;<lb/>sition&#44; without any resources whatever&#44; too old to<lb/> look for another engagement&#44; actually reduced to<lb/> beggary&#44; and yet I cannot beg&#44; I cannot if my<lb/> very life depend on it.  While in Holland I<lb/></p>
+            
+            <pb n="3"/>
+            <p>could not keep up household expenses and was<lb/> obliged to part with good wife for the time&#44;<lb/> leaving her in care of a sister&#44; while I sold my<lb/> furniture and books to pay my <sic>travelling</sic> expenses<lb/> back to this country where I expected to find a<lb/> home with my son&#44; but times are hard&#44; business<lb/> is bad&#44; and he is not able to give me half nor<lb/> one third of what I absolutely need.  In this<lb/> <sic>embarassing</sic> condition what am I to do&#63;  On whom<lb/> to call for help.  Next to my relatives&#44; I think&#44; are<lb/> my brethren in the ministry.  I have a number<lb/> of acquaintances among them.  If each would<lb/> contribute a trifle for my support I could get<lb/> along.  I do not need much.  &#36;30 a month would<lb/> be sufficient for my wife and self.  If each would<lb/> kindly contribute say one dollar <hi rend="underline">monthly</hi> I would<lb/> be thankful.  From Dr. Pereira Mendes I have<lb/> received some encouraging words and a little mo&#45;<lb/>ney.  He said he brought my appeal before the New<lb/> York Board of Ministers and they expressed much<lb/> sympathy.  Perhaps you could do the same and<lb/> thus aid in procuring for me the necessary amount<lb/> for my living.  However little it may be will be<lb/> thankfully accepted.  I think it hardly neces&#45;<lb/>sary&#44; my friend&#44; to apologize for the liberty<lb/></p>
+            
+            <pb n="4"/>
+            <p>I take in asking from you the favor.  I know you<lb/> too well&#44; and feel assured that you will for me<lb/> what you can.  I close this &#91;Hebrew&#93; trusting<lb/> that it will find you and yours in the full<lb/> engagement of health and peace&#44; and anxiously<lb/> awaiting your answer I remain<lb/> yours very truly<lb/> J. Mendes de Solla.<lb/></p>
+            </body>
+    </text>
+</TEI>

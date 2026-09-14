@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF1_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff1_5_1r.tif"/>
+                                <graphic url="smbx11ff1_5_1v.tif"/>
+                                <graphic url="smbx11ff1_5_2r.tif"/>
+                                <graphic url="smbx11ff1_5_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Preface to a discourse for a Bar Mitzv&#225;<lb/></p>
+            <p>Have you ever seen the confirmation&#63; a gift newly presented to your<lb/> age&#63;  I have not&#59; but I heard a flattering description thereof.<lb/>  You of course&#44; dear Brethren&#44; fully understand to what I have reference.<lb/>  I mean the introduction into the Synagogue of a practice&#44; with which<lb/> Hebrew ministers seek to conciliate the spirit of the time.  Now&#59;<lb/> I can readily imagine how gratifying the appearance of our young<lb/> daughters arrayed in spotless white&#44; wreathed and flowered must<lb/> be&#45;&#45;especially to their parents.  We all have more or less a leaning<lb/> to that weakness.  We all b are affected with a degree of vanity<lb/> touching the mental and bodily attractiveness of our offspring&#44; and<lb/> I could not condemn that failing without being myself in all like&#45;<lb/>&#45;lihood adjudged guilty.  But in determining about the admission<lb/> of a novel ceremony in religion we should consult higher feelings<lb/> than personal gratification.  We should inquire whether the<lb/> imposing sight&#45;&#45;if you desire so to term it&#45;&#45;bears corresponding<lb/> effects&#44; for&#44; if it is barren of happy results&#44; then the momentary<lb/> impression it creates&#44; should not suffice to decide in its<lb/> favor.  Dear Brethren&#33;  I believe that were we to follow<lb/> that process of reasoning regarding the matter at issue&#44;<lb/></p>
+            
+            <pb n="2"/>
+            <p>we would soon discover the hollowness of that practice so much<lb/> extolled.  For&#44; divested of all its trappings&#44; it resolves itself<lb/> into this&#58; During a series of months young Jewesses are taught<lb/> a certain number of answers respecting the beauty and superiority<lb/> of their faith.  An invocation to the Deity or a brief address is<lb/> written for such as can display some elocutionary ability&#44; and<lb/> it is as often repeated as necessary to commit it to memory.<lb/>  On the festival of Pentecost our future wives and mothers are<lb/> presented with pomp&#44; before a large assemblage of their seniors&#44;<lb/> to the Rabbi preacher.  They are catechized&#59; they are<lb/> exhorted to remain faithful&#44; and a benediction is pronounced<lb/> over them all.  Now&#44; admitting that the examiner and those<lb/> whom he questions are true Israelites&#45;&#45;though I heard of instances<lb/> when the initiated were regaled with forbidden viands&#45;&#45;admit&#45;<lb/>&#45;ting&#44; I say&#44; that they are sincere&#44; can it be reasonably supposed<lb/> that that scene will conform the minds of the young in<lb/> the verities of Judaism&#59; confirm their hearts in righteousness&#63;<lb/>  Will not all the surroundings yield a contrary effect&#63;<lb/>  Will not those who by a long and weary teaching were prepared<lb/> exclusively for the occasion&#44; who were instructed how to<lb/> stand erect and how to bend&#44; will they not look upon the<lb/> performance&#44; as a mere pageantry&#44; intended to entertain<lb/></p>
+            
+            <pb n="3"/>
+            <p>the spectators&#63;  And if&#45;&#45;as practised by some&#45;&#45;a<lb/> solemn pledge&#44; which they are incapable of appreciating&#45;&#45;<lb/>is exacted from the young&#44; a pledge that they will perpetrate<lb/> the Hebrew faith&#44; will that ceremony command itself to univer&#45;<lb/>&#45;sal acceptance&#63;  I think not.<lb/></p>
+            <p>But I hear some of you observe that the objection I have<lb/> advanced regarding the confirmation&#44; applies equally to the<lb/> attaining of religious age or becoming Bar Mitzv&#225;h.  It is<lb/> painful for me to admit it&#44; but I have to acknowledge the<lb/> correctness of the remark.  Yes&#44; that time&#45;honored practice<lb/> also&#44; as performed in our days&#44; is unproductive of any moral<lb/> advantage.<lb/></p>
+            </body>
+    </text>
+</TEI>

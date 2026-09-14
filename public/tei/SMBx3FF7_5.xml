@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Abarbanel, Hz.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF7_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Abarbanel, Hz.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1884-05" source="" attested="yes">14 May 1884</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff7_5_1r.tif"/>
+                                <graphic url="smbx3ff7_5_1v.tif"/>
+                                <graphic url="smbx3ff7_5_2r.tif"/>
+                                <graphic url="smbx3ff7_5_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+
+                <p>1687 Third Ave.<lb/>
+                    New York&#44; May 14&#47;1884.<lb/></p>
+                <p>Dear Sir&#44;</p>
+                <p>Whilst I thank you for<lb/> your kind answer of March 6<hi rend="sup">th</hi> in reference<lb/>to my &#34;Reader&#34; lately published&#44; I beg to say<lb/> that since then I have met with a heavy<lb/> loss in having 1&#44;000 volumes at my book&#45;<lb/>binders destroyed by fire&#44; and not being<lb/> insured  it has placed me in difficulties&#44;<lb/> which is the only apology I can make<lb/> for troubling you again.&#45;&#45;<lb/></p>
+                <p>Permit me to say&#44; that I have appointed<lb/> Mr Ch. Landan as my Agent in Philadelphia&#44;<lb/> and that I have reduced the price of my<lb/> &#34;Reader&#34; to 75&#162; p&#91;er&#93; copy&#44; in order to raise<lb/> funds to fill up the gap  the above mentioned<lb/> calamity has occasioned. This price will<lb/> place &#94;it within the reach of all our co&#45;<lb/> religionists&#44; and as the book contains 450<lb/> pages&#44; is nicely printed &#38; bound&#44; it may really<lb/> claim to be not only the cheapest&#44; but also<lb/> the most useful book of its kind ever<lb/> published in this country&#44; in as much as the<lb/> Contents thereof applicable to every age and<lb/> station in life will surely in course of time<lb/> bear good fruit and prove alike useful&#44;<lb/> &#38; interesting for all times to come.&#45;&#45;<lb/></p>
+                <p>I am respectfully<lb/>
+                    Hz. Abarbanel<lb/></p>
+                <p>The Rev. S. Morais<lb/></p>
+                <p>P.S. Mr Landan I have known for years as a<lb/> highly respectable man&#44; and a few lines or<lb/> a few names to call upon will oblige me to<lb/> an everlasting obligation.&#45;&#45;<lb/></p>
+                
+                <pb n="2"/>
+                
+                <p>Opinion of the Press&#44; Etc.<lb/></p>
+                <p>We hail the appearance of this book with the greatest pleasure; it not only fills<lb/> a great necessity&#44; but fills it in a prominent and remarkable manner. The author<lb/> was very careful in his selections&#44; so that it may be adapted for all classes and<lb/> creeds. The book is well&#45;bound and printed&#44; and&#44; although filling over 400 pages&#44;<lb/> the price was put at the low figure of one dollar&#44; and we recommend it to every<lb/> Jewish household.&#45;&#45;<emph rend="italics">Jewish Herald</emph>.<lb/></p>
+                <p>Mr. Abarbanel&#39;s &#34;English School and Family Reader&#44; for the use of Israel&#45;<lb/> ites&#44;&#34; just received&#44; shows clearly that the author has spent much time and labor<lb/> over his work&#44; and culled the best from the writings of the most eminent men.<lb/> The contents of the book ought to be of interest to all classes alike&#44; and valuable<lb/> lessons in the history and principles of Judaism may be drawn from its pages.<lb/> The book is printed in clear type&#44; compactly arranged&#44; neatly bound&#44; and sold for<lb/> the low price of one dollar.&#45;&#45;<emph rend="italics">San Francisco Hebrew Observer</emph>.<lb/>
+                    The want of a proper English reader for our youth has now been well supplied<lb/> by the issue of Mr. Abarbanel&#39;s &#34;English School and Family Reader&#44; for the use<lb/> of Israelites&#44;&#34; a book by far superior to all other similar publications&#44; and we feel<lb/> pleasure in recommending it to every household as the most useful Reader to be<lb/> put in the hands of our youth&#44; especially as the low price of one dollar places it<lb/> within the reach of all classes alike.&#45;&#45;<emph rend="italics">Boston Hebrew Observer</emph>.<lb/></p>
+                <p>The &#34;English School and Family Reader&#44; for the use<lb/> of Israelites&#44;&#34; by Henry<lb/> Abarbanel &#40;Rogers &#38; Sherwood&#41;&#44; contains many interesting extracts from the<lb/> writings of well&#45;known Hebrew scholars. The translations from the German and<lb/> the Hebrew are excellent.&#45;&#45;<emph rend="italics">New York World</emph>.<lb/>	
+                    &#34;English School and Family Reader for the Use<lb/> of Israelites.&#34; Reasons are<lb/> given—and very excellent ones they are—why this work should be extensively cir&#45;<lb/>culated among the young of the Jewish faith&#44; and also the idea that prompted its<lb/> production is excellent&#44; as it fills a void in the requirements of proper books to<lb/> educate the young of the Jewish race that has long been felt. We know of no<lb/> work more desirable to place in the hands of the rising generation than this&#44; and<lb/> have no doubt that&#44; when once before the public&#44; everybody will avail himself of<lb/> this excellent work. The selections are made with great care&#44; and the efforts of<lb/> the author deserve to&#44; as they doubtless will&#44; be crowned with success. No more<lb/> valuable present can be made.&#45;&#45;<emph rend="italics">New York Hebrew Ledger</emph>.<lb/></p>
+                <p>Mr. H. Abarbanel compiled an &#34;English School and Family Reader&#44; for the use<lb/> of Israelites&#34; &#40;Rogers &#38; Sherwood&#44; 442 pages&#44; octavo&#41;. The book consists of of col&#45;<lb/>lections in prose and verse&#44; from various authors on Jewish subjects&#44; and contains<lb/> three divisions. The whole book is a very readable and instructive work&#44; espe&#45;<lb/>cially for young America&#44; who&#44; would find in it quite an amount of information in an<lb/> acceptable form. Mr. Abarbanel&#39;s &#34;Reader&#34; ought to find a place in every family<lb/> library. It is instructive&#44; edifying and pleasing.&#45;&#45;<emph rend="italics">Cincinnati American Israelite</emph>.<lb/></p>
+                <p>The <emph rend="italics">Hebrew</emph> of San Francisco has a large account of its usefulness&#44; and the<lb/> importance of such a publication for our youth.<lb/></p>
+                <p>The <emph rend="italics">Hebrew Gazette</emph> of New York brings a whole column in reference to this<lb/> important work&#44; and strongly recommending it to all parties above all other publi&#45;<lb/>cations of this kind.<lb/></p>
+                <p>The book is deeply interesting and has many merits&#58; it will be found in most<lb/> cases a reliable guide on matters pertaining to Jewish history and literature.&#45;&#45;<lb/> <emph rend="italics">Philadelphia Jewish Record</emph>.<lb/></p>
+                <p>This very interesting &#34;Reader&#34; is a useful contribution to our literature&#44; and<lb/> should be in the hands of all American Israelites who seek to forward the cause<lb/> of education&#44; and have the welfare of our children at heart. Those of riper judg&#45;<lb/>ment&#44; too&#44; may at all times find here an excellent compendium of good Jewish<lb/> matter&#44; all pointing to the truth and perpetuity of Judaism. In short&#44; the book<lb/> contains much useful and important information.&#45;&#45;<emph rend="italics">New York Hebrew Standard</emph>.<lb/></p>
+                <p>In Abarbanel&#39;s &#34;Jewish School and Family Reader&#34; a long&#45;felt want has been<lb/> supplied. A Jewish reading&#45;book&#44; that is to say&#44; a book with selections from con&#45;<lb/>temporary Jewish writers&#44; and on Jewish literary and historical subjects. Mr.<lb/> Abarbanel&#39;s work shows care&#44; taste&#44; and Jewish zeal in its compilation. The<lb/> topics are chosen from the best known Jewish writers of Europe&#44; while occasional<lb/> extracts are given from American Jewish sermons and the Jewish Press. The<lb/> book can be heartily recommended&#44; and merits a large scale. It is to be regretted<lb/> that it was not issued under the auspices of our Union of Congregations.&#8212;<emph rend="italics">Jewish<lb/>Messenger</emph>&#44; N.Y.<lb/></p>
+                
+                <pb n="3"/>
+                <p>The <emph rend="italics">Chicago Occident</emph> speaks in the highest terms of this publication.<lb/></p>	
+                <p>The London <emph rend="italics">Jewish Chronicle</emph> and <emph rend="italics">Jewish World</emph> give an excellent account of<lb/> its importance and usefulness.<lb/></p>
+                <p>This book will serve a good purpose if it succeeds in awakening an interest in<lb/> Jewish subjects. The book will prove useful to both Jews and Christians&#44; as<lb/> therein will be found much information that will serve to strengthen the love of<lb/> the former for his religion&#44; and to remove many of the prejudices of the latter.<lb/></p>
+                <p>We have no doubt that the readers of this volume will be tempted to <sic>persue</sic><lb/> their studies farther&#44; and in so doing will accomplish the aim desired by the Com&#45;<lb/>piler.&#45;&#45;N.Y. <emph rend="italics">Jewish Advocate</emph>.<lb/>
+                    From Rev. Dr. Nathan M. Adler&#44; Chief Rabbi of the British Empire &#58; No<lb/> <emph rend="italics">Reader</emph> exists in England which  exclusively consists of information on Jewish mat&#45;<lb/>ters. Your book contains much that may be read by our young with interest and<lb/> profit.<lb/></p>
+                <p>From Sir Moses Montifiore&#44; <emph rend="italics">Bart</emph>. and Dr. L. Loewe&#58; You have rendered&#44; I<lb/> think&#44; a great service to Hebrew schools by providing them with a class&#45;book con&#45;<lb/>taining so much useful information relative to Judaism&#44; and deserve the thanks of<lb/> all those parents whose children will now derive so much benefit from the lessons<lb/> contained in your work. I placed the copy you were pleased to send me on my<lb/> drawing&#45;room table to afford visitors the opportunity of seeing it.<lb/></p>
+                <p>From F.D. Mocatta&#44; Esq.&#44; London&#58; The book you were pleased to send me<lb/> appears to be very well compiled&#44; and to be a useful contribution to our literature.<lb/></p>
+                <p>From Prof. T. Theadores&#44; Owen College&#44; Manchester&#44; England&#58; I hope your<lb/> <emph rend="italics">Reader</emph> will meet with the attention it deserves from all engaged in the education<lb/> of our children. It appears to me to satisfy a want which must have been felt by<lb/> many besides myself. If it should fall to my lot to be able to put in a word in<lb/> favor of your excellent work&#44; I shall certainly not allow the opportunity to pass<lb/> unimproved.<lb/></p>
+                    <p>Also letters of approval from Sir David Sassoon &#40;London&#41;&#44; Rev. Prof. D. Marks<lb/> London&#44; and Miss M.A. Goldsmid&#44; London&#44; etc.<lb/></p>
+                <p>A few names of subscribers in New York and other parts of the United States&#58;</p>
+                    <table rows="35" cols="3">
+                        <row>
+                            <cell>Rev. Dr. H. Baar&#44;</cell>
+                            <cell>J.S. Moore&#44; Esq.&#44;</cell>
+                            <cell>New York</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Dr. A. Huebsch&#44;</cell>
+                            <cell>Chas. Rothschild&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Dr. K. Kohler&#44;</cell>
+                            <cell>Benj. Blumenthal&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Dr. A. Wise&#44;</cell>
+                            <cell>H.M. Stadler&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Hy. Jacobs&#44;</cell>
+                            <cell>F.S.M. Blum&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>The Hon. E. Einstein&#44;</cell>
+                            <cell>L.J. Phillips&#44; Esq.</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Jacob Schiff&#44; Esq.&#44;</cell>
+                            <cell>Isaac Bernheimer&#44; Esq.</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Lewis May&#44; Esq.&#44;</cell>
+                            <cell>Sam Lavanburg&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>I. Wormser&#44; Esq.&#44;</cell>
+                            <cell>S.S. Sonneborn&#44; Esq.</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>De Witt Seligman&#44; Esq.&#44;</cell>
+                            <cell>Isaac Blum&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Joseph Seligman&#44; Esq.&#44;</cell>
+                            <cell>Jas. Reckendorf&#44; Esq.</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Jesse Seligman&#44; Esq.&#44;</cell>
+                            <cell>Jonas Heller&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>The Temple Emanuel&#44;</cell>
+                            <cell>Hyman Blum&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>The Hebrew Free School&#44;</cell>
+                            <cell>Simon Bernheimer&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>The Hebrew Orphan Asylum&#44;</cell>
+                            <cell>Hy. Morrison&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Dr. S. Hirsch&#44; Philadelphia&#44;</cell>
+                            <cell>Lewis Levanburg&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Dr. M. Jastrow&#44;      &#34;</cell>
+                            <cell>Jacob Hess&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. S. Morais               &#34;</cell>
+                            <cell>Wm. Rothschild&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Geo. Jacobs           &#34;</cell>
+                            <cell>E. Lanterbach&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Jacob Voorsanger&#44; Houston&#44; Texas&#44;</cell>
+                            <cell>S. Schafer&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Max Meyerhardt&#44; Rome&#44; Ga.&#44;</cell>
+                            <cell>Jac. Scholie&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Dr. S. Wolfenstein&#44; Cleveland&#44; O.&#44;</cell>
+                            <cell>Nath. Strauss&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Max L. Gutman&#44; Esq.&#44; Rochester&#44;</cell>
+                            <cell>Dr. Hendricks&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Dr. Lasker&#44; Boston&#44; Mass.&#44;</cell>
+                            <cell>Miss Hendricks&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>N. Freedman Bros. &#38; Co.&#44; Boston&#44; Mass.&#44;</cell>
+                            <cell>Jos. Loth&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Dr. L. Wintner&#44; Brooklyn&#44;</cell>
+                            <cell>Is. Rosenfeld&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Rev. Jas. Kranskopf&#44; Kansas City&#44; Mo.&#44;</cell>
+                            <cell>Is. Bijnr&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>L. Lewengood&#44; Esq.&#44; New York&#44;</cell>
+                            <cell>D. Dinkelspiel&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>J.M. Emanuel&#44; Esq.&#44;     &#34;     &#34;</cell>
+                            <cell>Mayer Goldsmith&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Sig. Meyer&#44; Esq.           &#34;     &#34;</cell>
+                            <cell>A. Kaufman&#44; Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Arthur Meyer&#44; Esq.&#44;      &#34;     &#34;</cell>
+                            <cell>Meyer Schutz.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Asher Meyer&#44; Esq.&#44;       &#34;     &#34;</cell>
+                            <cell>&#45;&#45;&#45; Ettinger. Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Isaac Meyer&#44; Esq.&#44;         &#34;    &#34;</cell>
+                            <cell>Chas. Allen. Esq.&#44;</cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>Alex. Meyer&#44; Esq.&#44;        &#34;     &#34;</cell>
+                            <cell></cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row>
+                        <row>
+                            <cell>And numerous others&#44; both Clergy and Laity.</cell>
+                            <cell></cell>
+                            <cell>&#34;      &#34;</cell>
+                        </row> 
+                        </table>
+        </body>
+    </text>
+</TEI>

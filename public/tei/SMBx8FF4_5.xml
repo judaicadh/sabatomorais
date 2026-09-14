@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hart, Louise B.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx8FF4_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hart, Louise B.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx8ff4_5_1r.tif"/>
+                                <graphic url="smbx8ff4_5_1v.tif"/>
+                                <graphic url="smbx8ff4_5_2r.tif"/>
+                                <graphic url="smbx8ff4_5_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>To the Rev. S. Morais.<lb/></p>
+            <p>Whilst words of burning eloquence<lb/> are inciting to patriotic warlike deeds<lb/> turn me to those teaching glory to God<lb/> and good will to one fellow&#45;man.<lb/></p>
+            <p>You permit me Rev. Sir the<lb/> privilege of a frank expression of<lb/> opinion relative to your version of<lb/> &#34;Jacobs prophetic blessing&#34; A review<lb/> would require the time and ability<lb/> that I have not&#44; I hope however to<lb/> have the benefit of your counsel for<lb/> that which I do not comprehend&#59;<lb/> your view of &#34;the <sic>discrepencies</sic>&#34;<lb/> arising from various translations is<lb/> entirely new to me&#59; the privilege<lb/> assumed by Onkelos you approve&#44;<lb/> and therefore disseminate&#59; <sic>haply</sic> in<lb/></p>
+            
+            <pb n="2"/>
+            <p>this instance it may be well&#44; but it is<lb/> so replete with consequences&#44; as perhaps<lb/> with danger that the Bomb intended<lb/> to crush an enemy might perchance de&#45;<lb/>&#45;stroy a friend.<lb/></p>
+            <p>The version relative<lb/> to Reuben and Joseph strikes me as<lb/> admirable&#44; the preference so early shown<lb/> by the Father and the subsequent filial<lb/> conduct of Joseph renders it alike natural<lb/> and proper.<lb/></p>
+            <p>Nothing can be more satisfac<lb/>&#45;tory too&#44; than that respecting Judah &#40;if<lb/> it can be borne out&#41; but of the last<lb/> sentence do I misunderstand&#44; or does<lb/> it limit &#34;the reign of Peace&#34; which we<lb/> have supposed would be unending.<lb/></p>
+            <p>Take the Paraphrase as a whole it<lb/> strikes me as consonant with all the<lb/> views and wishes of the People whose<lb/> mission it is to propagate Truth<lb/> and who hope that when fulfilled<lb/> a blessing shall go forth from Zion<lb/></p>
+            
+            <pb n="3"/>
+            <p>for so the Lord of Hosh hath<lb/> spoken.<lb/></p>
+            <p>Of your exordium of the<lb/> prayer it scarce needs to say that words<lb/> of harmony&#44; pure thought and piety<lb/> characterize them&#44; may the first<lb/> find acceptance with our brethren<lb/> so that they may seek instruction where<lb/> it can be found&#44; and of the latter<lb/> with our God so that His wrath<lb/> may indeed be stayed&#44; His mercy<lb/> granted to His People now and<lb/> evermore.<lb/></p>
+            <p>I trust we shall see the Discourse<lb/> in print&#44; so that others as well as our<lb/> own congregation may benefit by it&#44;<lb/> its very novelty will incite the scrawling<lb/> that happily our blessed tenets can bear<lb/> may you Sir be permitted to witness<lb/> happy results from your teaching is the<lb/> very sincere wish of yours with esteem<lb/> L. B. Hart<lb/></p>
+            </body>
+    </text>
+</TEI>

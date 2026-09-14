@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx13FF8</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx13ff8_1_1r.tif"/>
+                                <graphic url="smbx13ff8_1_1v.tif"/>
+                                <graphic url="smbx13ff8_1_2r.tif"/>
+                                <graphic url="smbx13ff8_1_2v.tif"/>
+                                <graphic url="smbx13ff8_1_3r.tif"/>
+                                <graphic url="smbx13ff8_1_3v.tif"/>
+                                <graphic url="smbx13ff8_1_4r.tif"/>
+                                <graphic url="smbx13ff8_1_4v.tif"/>
+                                <graphic url="smbx13ff8_1_5r.tif"/>
+                                <graphic url="smbx13ff8_1_5v.tif"/>
+                                <graphic url="smbx13ff8_1_6r.tif"/>
+                                <graphic url="smbx13ff8_1_6v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>10 pages on 4 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>180</p>
+            
+            <p>On the Kara&#239;tes<lb/></p>
+            <p>This lecture was introduced out of place in the course&#44;<lb/>
+                but as its contents show&#44; circumstances occasioned it.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Brethren.  Although the lecture&#44; which I intend to purpose<lb/> delivering this Sabbath does not come in the regular<lb/> order of my post&#45;biblical series&#44; it nevertheless properly belongs to it.<lb/>  I trust that the circumstance which suggested it to my<lb/> mind&#44; will be a sufficient apology for having misplaced<lb/> it&#44; by giving it precedence to many others.<lb/></p>
+            <p>An item appeared lately among Russian news&#44; which could not<lb/> help having arrested our serious attention.  It told the world&#44; that<lb/> &#34;An American Jew&#45;&#45;a circus rider&#45;&#45;who was recently threatened<lb/> with expulsion on account of his religion&#44; had been permitted<lb/> to remain&#44; in consequence of joining a sect&#44; the tenets of<lb/> which closely approach those of Judaism.&#34;  All of<lb/> you may not have well understood the meaning of that foreign<lb/> dispatch.  And I explain its purport with feelings of deep<lb/> mortification.  The sect alluded to in the cable telegram is that of Ca<lb/> &#34;Kara&#239;tes&#34;.  A detailed history of the its rise and conti&#45;<lb/>&#45;nuance unto this day&#44; would occupy too much time and<lb/> be perhaps wearisome.  I shall try to give those of<lb/> my hearers&#44; who are unacquainted with the subject&#44; a tolerably<lb/> clear idea of it&#44; in as condensed a form as it is possible for me<lb/> to present.<lb/></p>
+            
+            <pb n="3"/>
+            <p>C Kara&#239;tes&#44; is a name assumed by certain Israelites&#44; to signify<lb/> hostility to those who believe in the Oral Law&#44; or<lb/> in the existence of traditional verbal interpretations of the Scriptures&#44;<lb/> as received in an uninterrupted unbroken chain of tradition from father to son.<lb/>  Thus&#44; by way of illustration&#44; as the mode of ascertain&#45;<lb/>&#45;ing by an examination of the lungs&#44; whether the flesh of a slaughtered animal is fit<lb/> for our use&#44; was not explicitly told in the Pentateuch&#44;<lb/> we we necessarily rely upon ancestral traditions for that instruction.  The Kara&#239;tes<lb/> profess that only what every one can learn from the<lb/> wording of the five books&#44; and nothing else must be<lb/> complied with.  Hence they call themselves Kara&#239;tes from<lb/> Kara&#44; to read&#44; that is&#44; a people who exclusively follow<lb/> Jewish rules as they read them in the plain text.<lb/></p>
+            <p>Had I the time&#44; and you could summon the patience<lb/> to hear all my arguments&#44; I would convince you<lb/> of the untenableness of their position held by our<lb/> opponents.  Still&#44; not to dismiss the subject summarily and appear prejudiced&#44; I<lb/> must produce&#44; at least&#44; one evidence of their incon&#45;<lb/>&#45;sistency.  They do not admit  the necessity of<lb/> examining searching into the entrails of an animal&#44; before eating of its flesh&#44;<lb/> for the reason that Moses did not make any special men&#45;<lb/>&#45;tion of that practice&#59; but yet&#44; they are very careful scrupulous about the knife<lb/></p>
+            
+            <pb n="4"/>
+            <p>for with which to slaughtering an animal intended for food&#44; and about the man&#45;<lb/>&#45;ner of holding it during the operation&#44; though those rules neither has Moses<lb/> expressly taught&#44; and only the traditions of the fathers had them embodied them in the Mishna.<lb/>  The ill&#45;will existing which this diversity of religious opinions created between the adherents of settled traditions&#44; and<lb/> those who pretend to discard them altogether&#44; dates from<lb/> many centuries back&#44; but not from a period so remote&#44;<lb/> as the Cara&#239;tes themselves allege.  For&#44; according to<lb/> their notions&#44; the sessetion secession took place during<lb/> the time reign of a ruler of the Asmonean dynasty&#44; that is&#44;<lb/> over twenty centuries ago.  They relate their story so&#58; King<lb/> Janneous being angry with the Pharisees for having cast<lb/> doubts on the legitimacy of his birth&#44; killed many of the<lb/> Rabbis.  His brother in law&#44; Simeon Ben Shatach fled<lb/> escaped to Alexandria&#44; where Jews were in enjoyed a flourishing<lb/> state.  While in exile&#44; that Rabbi invented a new law&#44; which<lb/> he styled &#34;oral&#44;&#34; and on his return to Palestine&#44; forced its<lb/> acceptance upon Israel.  Some independent spirits however&#44; rebelled&#59;<lb/> they would not bow to that which did not have Mosaic<lb/> authority.  Under the lead of Judah Ben Tabba&#239;&#44; the former colleague of Ben Shatach&#44; the<lb/> Kara&#239;tes separated and formed an chosen sect&#44; that<lb/> vowed obedience solely to the written text of the scriptures.<lb/></p>
+            
+            <pb n="5"/>
+            <p>The simple fact that the name of Kara&#239;tes does not<lb/> appear occur in any writing either Jewish or Christian before the ninth or tenth cen&#45;<lb/>&#45;tury of the vulgar era&#44; proves beyond doubt that the<lb/> antiquity assumed is an unsustained groundless <sic>pretention</sic>.<lb/></p>
+            <p>The real origin of Kariasm&#44; as agreed upon by most scholars&#44;<lb/> is the following&#58; During the period time in which the<lb/> Academies of Hebrew learning existed in Persia&#45;&#45;probably about<lb/> the seventh century&#45;&#45;the Rosh Galutha&#44; or exilarch&#44; as the<lb/> chief of the Jews in Eastern Asia was called&#44; exercised great<lb/> powers.  A certain Anan&#44; or Anen&#44; ambitious of<lb/> that high position&#44; failed in his endeavours to obtain it.<lb/>  Disappointed and vexed&#44; he gathered around hi ma few&#44;<lb/> and formed a sect&#44; that ostensibly threw aside off ancestral<lb/> traditions&#44; which as these formed then the main object of research<lb/> in said Academies.  Such is the rising history of an unfortunately mutual antagonism.<lb/>  I sincerely regret however&#44; that the adherents of the Oral Law&#44; who<lb/> have always constituted the largest and most influential<lb/> body of Judaism Jews&#44; did not take some steps measures to bring back<lb/> the schismatics&#59; even by making some slight concessions.<lb/>  Unfortunately Unhappily&#44; from Saadjah Gaon to Ruble David Nieto&#44; a<lb/> period of seven hundred years&#44; most the generality majority of our authors have exhibited<lb/> an irreconcilable enmity antipathy against the Kara&#239;tes.<lb/></p>
+            
+            <pb n="6"/>
+            <p>True&#44; the latter inflamed&#44; rather than allay&#44; the ir&#45;<lb/>&#45;ritation&#44; but we &#44; the stronger&#44; might have displayed ge&#45;<lb/>&#45;nerosity&#44; and by a mild measures treatment have drawn once more to<lb/> the ancient fold&#44; those who are really of the seed of Abraham.<lb/></p>
+            <p>As a partial justification for our indisposition to act to make<lb/> advances&#44; I may say&#44; that the unfounded boasting of the<lb/> Kara&#239;tes must have been galling to our Rabbis.  Thus&#44; for<lb/> example&#44; the few books which the followers of Anan have<lb/> produced&#44; and whose style is only a close imitation of<lb/> that of our Sages&#44; teem with vainglorious descriptions<lb/> of their high origin and of the characters of their leaders&#44;<lb/> not minding occasionally even to appropriate to themselves<lb/> writers who did not share in the least their &#91;&#63;&#93; views and preferences.<lb/>  This I noticed in a book explanatory of their principles and practices.  For two about a century and a half ago&#44; a learned Christian&#44; Jacob Trigland&#44;<lb/> professor of ancient literature at Leiden&#44; in Holland&#44; anxious to become thoroughly<lb/> acquainted with the tenets and observances of the Kara&#239;tes&#44;<lb/> addressed a Hebrew letter to those who lived in Russian<lb/> Poland&#44; and propounded to them a series of questions.<lb/>  The answers were largely devoted to a <sic>disproval</sic> of the charge<lb/> that Karaism and Sadducism are alike&#45;&#45;a charge which I<lb/> freely admit to be false because the Cara&#239;tes believe in the<lb/> immortality of the soul which and believe morally&#44; while the Sadducees denied a hereafter&#44;<lb/> and were votaries of loose Grecianism.<lb/></p>
+            
+            <pb n="7"/>
+            <p>But those very answers&#44; carefully worded&#44; disclose<lb/> to a thoughtful reader&#44; the unsound basis upon which<lb/> Karaism stands.  They exhibit the disputes which a rejection<lb/> of settled traditions&#44; created occasioned from time to time in the camp of our adversaries&#44;<lb/> and the compromises entered into adopted finally resorted to&#44; when the Biblical text<lb/> did not furnish a clear understanding of the Mosaic command&#45;<lb/>&#45;ment&#44; in all its bearings.  Indeed&#44; sometime the want of<lb/> an accepted standard of oral interpretations&#44; as among<lb/> us&#44; gave rise to schisms in that sect&#44; which is too<lb/> small to afford having a division of religious practices.<lb/>  For&#44; all told&#44; the Cara&#239;tes&#44; do not number half as many<lb/> Israelites as may be found in the city of New York.<lb/>  Very few are met outside of Gallicia&#44; of Poland and<lb/> Russia.  They principally congregate in the Crimea&#44;<lb/> and I would to act unjustly if I withheld from I must award those who<lb/> dwell there a meed of praise.  They have lately done He&#45;<lb/>&#45;brew literature some valuable service.  And it is because<lb/> of that circumstance that&#44; within the last few years&#44; I<lb/> had felt drawn with all my heart towards them.  I learned in the course of my studies&#44; that the<lb/> excellent polemical work&#44; Chizzuk Emunah&#44; or &#34;Faith<lb/> Strengthened&#34; as Moses Mocatto the English translator called it&#44; issued from<lb/></p>
+            
+            <pb n="8"/>
+            <p>the pen of Isaac of Froki&#44; a zealous Kara&#239;te&#44; who aimed to save<lb/> Jews from being entrapped into nets spread out by Christian<lb/> missionaries.  I learned also that several manuscripts on<lb/> Hebrew philology and poetry&#44; emanating from Kara&#239;tes&#44; were discovered<lb/> in famous European libraries&#44; and when&#44; moreover&#44; it<lb/> became generally known moreover that Abram Firkowitz&#44; the<lb/> Kara&#239;te&#45;&#45;notwithstanding his noted aversion to Rabbinists&#45;&#45;had succeeded by dint of untiring perseverance unearthed in bringing to light a new method<lb/> of Hebrew vowel&#45;points and its application&#44; I experienced a<lb/> very strong wish that we&#44; the adherents of traditional Judaism&#44;<lb/> would m take the first initial steps towards reconciliation.  I<lb/> would gladly have overlooked past vexations&#44; the foolish<lb/> vaunting and the groundless accusations.  I would have forgiven the<lb/> wicked representations made to Peter the Great and other Czars Nicholas&#44;<lb/> by which the Kara&#239;tes obtained cordial receptions and privileges&#44;<lb/> while those who could not falsify themselves and by denying their<lb/> allegiance to the oral Law&#44; were dismissed with an im&#45;<lb/>&#45;perial scowl&#44; and refused deprived of all human rights.  All of<lb/> that and more still I would have pardoned from the re&#45;<lb/>&#45;verence I cherish for our sacred literature&#44; and for the sake<lb/> of putting an end to an unbrotherly separation.<lb/>  But I confess that recent events have created a revulsion<lb/> of feelings.  I now despise the Schismatic Kara&#239;tes.<lb/></p>
+            
+            <pb n="9"/>
+            <p>I look upon them as on the Samaritans of old those contemptible pretenders&#44; who<lb/> owned claimed the same immunities by reason of a with us by reason of a common origin&#44; with us&#44; while we prospered&#44; but<lb/> who disowned us when prosperity fled and as soon as we were exposed to suffering.<lb/></p>
+            <p>The sect which the American circus rider joined to escape<lb/> proscription&#44; has shown itself heartlessness.  It has taken<lb/> very good heed to let Russian the brutal authorities in Russia know their disavowal<lb/> of any connection with the disciples of the Rabbis.  They &#91;inserted from page 9&#58; And it has had insult to injury by sending to the adherents of tradition<lb/> an infamous letter through the public press&#44; a paragraph of which I must now read.<lb/>  &#34;Why do the many and discordant elements of Russian society&#44; which have apparently<lb/> so few interests in common&#44; hate you with such accord and unanimity&#63;  Is it only<lb/> a hatred of faith&#63;  No&#59; your love of money&#44; your insatiable greed&#44; your cupidity&#44;<lb/> your haste to become rich&#44; your frowardness&#44; your deception&#44; your trickery made<lb/> Jews despised.&#34;  The wicked schismatics&#93;<lb/> cared nothing&#44; if those who&#44; like themselves&#44; declare the<lb/> Unity of God and the truths of Mosaism are robbed and<lb/> slain&#44; or sent adrift to die with from cold and hunger&#44; or<lb/> from a dread of outrages more terrible than death.  No&#58;<lb/> those poltroons are too fond tightly fastened to their corruptible<lb/> bodies&#59; martyrdom for an idea is too lofty a conception for<lb/> their mean souls.  But &#34;so says the Lord&#58; they were not<lb/> ashamed when they did an acted abominably&#44; nay&#58; they were not at<lb/> all ashamed&#44; neither could they blush&#44; therefore they shall fall<lb/> among those that fall&#59; at the time that I visit them<lb/> they shall be cast down&#34;.  But unto those who suffer<lb/> a sun shall arise with healing on its wings&#44; and<lb/> they shall go forth and grow strong healthy and<lb/> wax strong&#44; through the help of the good and free among their brethren&#44; and the blessing of a beneficent Providence&#44;<lb/> than neither <sic>stumbers</sic> or sleeps.<lb/></p>
+            
+            <pb n="10"/>
+            <p>And it has had insult to injury by sending to the adherents of traditions<lb/> an infamous letter through the public press&#44; a paragraph of which I must now read.<lb/>  &#34;Why do the many and discordant elements of Russian society&#44; which have apparently<lb/> so few interests in common&#44; hate you with such accord and unanimity&#63;  Is it only<lb/> a hatred of faith&#63;  No&#59; your love of money&#44; your insatiable greed&#44; your cupidity&#44;<lb/> your haste to become rich&#44; your frowardness&#44; your deception&#44; your trickery made<lb/> Jews despised.&#34;  The wicked schismatics<lb/></p>
+            </body>
+    </text>
+</TEI>

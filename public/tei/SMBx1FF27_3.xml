@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Abicasis, J.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF27_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Abicasis, J.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1868-12" source="" attested="yes">5 December 1868</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff27_3_1r.tif"/>
+                                <graphic url="smbx1ff27_3_1v.tif"/>
+                                <graphic url="smbx1ff27_3_2r.tif"/>
+                                <graphic url="smbx1ff27_3_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>New York 5<hi rend="sup">th</hi> decr 1868<lb/>
+            Sunday mrg<lb/>
+            Revd S. Morais<lb/>
+            My dear sir<lb/></p>
+            <p>I must crave your pardon<lb/> for now &#38; then trespassing on your<lb/> valuable time to make a Religious<lb/> inquiry but I have no portuguese<sic></sic><lb/> authority here &#38; do not like taking<lb/> &#34;Dew&#34; of the Germans Dayanim here<lb/></p>
+            <p>You can see the fuss which has<lb/> been made about the &#34;Kursheedt&#34;<lb/> marriage.  The &#91;crossed&#45;out&#93; of &#34;Times&#34;<lb/> of to day has the article upon it<lb/> &#38; gives the approval of &#91;&#63;&#93; &#91;&#63;&#93;<lb/> of Jerusalem &#38; &#91;&#63;&#93; Dr. Arbons.<lb/>  &#91;&#63;&#93; the day after the marriage<lb/> was celebrated here lay an <hi rend="underline">obscure</hi><lb/> German Beth Amedrash man.<lb/></p>
+            <p>I think it very ill advised to bring<lb/> these matters into Christian papers<lb/> &#38; especially as M. S. is one of the<lb/> family&#44; but enough of this.<lb/></p>
+            <p>My question now concerns<lb/> &#34;Tebila&#34;  In this country where<lb/> every house possesses a Bath<lb/></p>
+            
+            <pb n="2"/>
+            <p>of running water&#44; I desire to<lb/> know&#44; if this is not all sufficient<lb/> for a Lady to use every month<lb/> instead of going to the public &#34;mikve&#34;<lb/></p>
+            <p>The only difference in the two<lb/> as I can see consists in the one<lb/> being made deep in the ground<lb/> to go down with steps.  But no<lb/> other difference.  The water used<lb/> in one House is the same &#38;<lb/> introduced in the same way<lb/> <hi rend="underline">by pipes</hi> as at the &#39;Mikve&#39; Hence<lb/> why should not the Bath at home<lb/> be as much according to Din<lb/> as the public Mikve&#63;  Provided<lb/> it is taken properly viz by entire<lb/> submersion of the whole Body<lb/> head &#38; all.<lb/></p>
+            <p>An early reply to this question<lb/> will be esteemed a great favor<lb/> as my wife is very particular<lb/> but as the distance is great<lb/> &#38; the Mikve being badly &#91;&#63;&#93;<lb/> &#40;our congregation has <hi rend="underline">none</hi>&#41; Wed like to<lb/></p>
+            
+            <pb n="3"/>
+            <p>spare her the extra trouble.<lb/></p>
+            <p><hi rend="underline">Another question</hi> is this<lb/> A Lady has sprained her finger<lb/> so she cannot get her wedding<lb/> over the joints without <hi rend="underline">cutting</hi><lb/> it off.  Is the Tebela perfect<lb/> &#38; according to Din if she keeps<lb/> on said Ring.  Provided the<lb/> water can pass between the<lb/> Ring &#38; the flesh with it on<lb/></p>
+            <p>We are having very unpleasant<lb/> weather now &#38; I suppose you are<lb/> no better off.  New Year&#39;s day<lb/> &#40;1<hi rend="sup">st</hi> January&#41; seems to be always wet<lb/> &#38; dreary.<lb/></p>
+            <p>I trust yr. good Lady &#38; family<lb/> are all well &#38; hearty.  Why do you<lb/> not come on to New York sometime<lb/> &#38; pay us a visit.  We&#39;d be delighted to<lb/> see you here.<lb/></p>
+            <p>Wishing you well over the &#91;&#63;&#93;<lb/>
+            				yours very Truly<lb/>
+            					J. Abicasis&#91;&#63;&#93;<lb/></p>
+            <p>address<lb/>
+            Box 481. P. O.<lb/>
+            New York<lb/></p>
+            
+            <pb n="4"/>
+            <p>J. Abicasis Esqre<lb/>
+            Phila January &#91;&#63;&#93; 1868<lb/>
+            My dear sir<lb/></p>
+            <p>I hasten to reply to the questions propounded in<lb/> your favor just received.  An ordinary bath&#45;tub&#44;<lb/> will not&#8212;rabinically&#45;&#45;be considered sufficient for the purpose<lb/> you need&#59; but you might have one expressly made with<lb/> the proper dimension&#44; and according to the rules laid<lb/> down in the Talmud&#44; and embodied in the &#91;Hebrew&#93; par 201.<lb/>  There is&#44; no doubt&#44; in your city some person on whose knowledge<lb/> and honesty you could depend&#44; to superintend the construction thereof&#44;<lb/> Regarding the ring&#44; that cannot be taken off&#44; by reason of an<lb/> accident to the finger&#44; we are explicitly told by the sages&#44; and Mai&#45;<lb/>monides records their words in treatise &#91;Hebrew&#93;&#44; that when the water<lb/> passes through&#44; the Tebilah <hi rend="underline">is perfect</hi>.<lb/></p>
+            <p>Like yourself&#44; I regret what has happened respecting the<lb/> &#91;Hebrew&#93; given by Mr H. and the more deeply because<lb/> it has proved a &#91;Hebrew&#93;&#44; yet&#44; if the party had only waited&#44;<lb/> till the favorable answer &#40;which I always believed it would be<lb/> received&#41; had come&#44; all the unpleasantness would have been<lb/> avoided.<lb/></p>
+            <p>Trusting that your dear ones are all in the enjoyment of<lb/> good health&#44; I remain<lb/>
+            Yours respectfully<lb/>
+            S. Morais<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

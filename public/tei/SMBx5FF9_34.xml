@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Randorf, George</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF9_34</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Randorf, George</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1890-09" source="" attested="yes">19 September 1890</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff9_34_1r.tif"/>
+                                <graphic url="smbx5ff9_34_1v.tif"/>
+                                <graphic url="smbx5ff9_34_2r.tif"/>
+                                <graphic url="smbx5ff9_34_2v.tif"/>
+                                <graphic url="smbx5ff9_34_3r.tif"/>
+                                <graphic url="smbx5ff9_34_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 4 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>LOUIS E. LEVY&#44;	CHARLES HOFFMAN&#44;	SIMON MUHR&#44;	GEORGE RANDORF&#44;<lb/>
+                PRESIDENT.		SECRETARY.			TREASURER.	AGENT.<lb/></p>
+            <p>ASSOCIATION OF JEWISH IMMIGRANTS.<lb/></p>
+            <p>Philadelphia&#44; Sep 19th 1890<lb/></p>
+            <p>&#91;Hebrew&#93;<lb/></p>
+            <p>Rev. Dr. S. Morais&#44;<lb/>	
+                Esteemed doctor&#58;<lb/></p>
+            <p>It has come to my<lb/> knowledge that the Russian Anarchists of the<lb/> down town section of this city contemplate<lb/> a ball and parade on <hi rend="underline">Yom Kipur</hi> day<lb/> and night&#44; and that serious trouble is expected.<lb/>  I went to the head men&#44; and am glad to<lb/> report that it had been decided at last<lb/> evening&#39;s meeting not only to dispense with<lb/> the parade but also with the ball.<lb/></p>
+            <p>Now there is some special reason for the<lb/> change&#44; beside the remonstrances of the more<lb/> wise among the unwise ones&#44; or &#34;cranks&#44;&#34; and<lb/> that is chiefly the approaching trials of the<lb/> two mis&#45;leaders&#44; Premier and Staller.<lb/>  They are averse of exciting public antipathy<lb/> just now&#44; and they are going to call on<lb/> me&#44; to make some corrections in the<lb/></p>
+                
+                <pb n="2"/>
+            <p>jargon from where a reporter represented<lb/> me as if mis&#45;stating the celebrated inciting<lb/> &#34;speech&#34; of Premier at one of the meetings<lb/> when I was present.  I am willing to<lb/> rectify the wrong&#44; and let the naked<lb/> truth speak for itself.<lb/></p>
+            <p>There is one thing however which re<lb/>quires some attention in connection with these<lb/> holiday orgies&#44; in which I desire to seek<lb/> your advice.  I am told that some of<lb/> the Carmelites are going to &#34;celebrate&#34;<lb/> the day of Atonement in an anarchistic<lb/> fashion&#44; and this must be stopped&#44; not so<lb/> much perhaps for the sake of the vicious<lb/> few &#40;or&#44; I would call them unfortunates&#41;&#44; as for<lb/> the name of the Russian Jew&#44; and the colony<lb/> especially.  I intend to go over there and<lb/> try to dispel their nightmare of irreligion<lb/> and indecent defiance of what is fair<lb/> in humanity&#44; and hope to dissuade them<lb/> from any demonstrations which can hurt<lb/> the chances of the wavering colony more<lb/> than anything else.  If you suggest another<lb/> plan&#44; or if you desire to admonish the people<lb/> in writing I would be only too happy to<lb/></p>
+                
+                <pb n="3"/>
+            <p>hear of it.<lb/></p>
+            <p>As to my personal matters I have no<lb/> intention to trouble you any further&#44; although<lb/> I must confess that my short acquaintance<lb/> with you has <sic>plantend</sic> seeds of love and admiration<lb/> which at present are only tempered by the<lb/> melancholy thought that your slight con<lb/>fidence in me may have suffered from<lb/> other people&#39;s impressing upon you their<lb/> doubts and suspicion as to my sincerity.<lb/>  I simply desire to assure you that while<lb/> there is of necessity much truth in what<lb/> ever my good friends speak about me&#44;<lb/> the interpretation of it is quite a<lb/> different thing.<lb/></p>
+            <p>As the day approaches on which we<lb/> are called to repent and forgive I have<lb/> a strong desire to confess to you&#44; father<lb/> minister&#44; that taking the supreme Being<lb/></p>
+                
+                <pb n="4"/>
+            <p>whom I adore and worship in prayers every<lb/> day&#44; to stand before as before the Supreme<lb/> Judge I say that I am innocent of any<lb/> crime&#44; and am as honorable in my dealings<lb/> <del>with</del> with other persons as is necessary for<lb/> an honorable man or husband to be.  I have<lb/> told you the whole truth&#44; and nothing but<lb/> the truth when I invited you to use your<lb/> blessed influence with my wife.  As to<lb/> my relations with the latter I can say that<lb/> I loved her more than the ordinary husband<lb/> can do.  I have rarely called her by name&#44;<lb/> but used the words&#58; &#34;angel&#44;&#34; &#34;love&#44;&#34; &#34;darling&#34;<lb/> etc.&#44; only her own strange conduct has really<lb/> created a strange change in me&#44; and we<lb/> could no longer live peacefully for the<lb/> last few months.  There was much to censure<lb/> in me&#44; and I would have paid dearly to<lb/> have those faults removed&#44; and my heart<lb/> restored to love&#44; and satisfactory treatment<lb/> of the mother of my child&#44; but fate has<lb/> done it&#44; and I stand convicted of rash<lb/> and rough actions toward one whom I should<lb/> have tried to pacify and otherwise comfort<lb/></p>
+            <p>My desire to reconciliation did not spring<lb/></p>
+                
+                <pb n="5"/>
+            <p>from any other but sincere motives to<lb/> restore our former relations&#44; to have the<lb/> children cared for&#44; in a measure at least&#44;<lb/> and to allay the surprise of the community<lb/> at the frequent <sic>occurences</sic> of conjugal troubles<lb/> among the Russians.<lb/></p>
+            <p>I thank you&#44; doctor&#44; for what you have<lb/> been endeavoring to do&#59; and I hope that<lb/> you at least will not condemn me on<lb/> suspicion and other people&#39;s distrust.<lb/></p>
+            <p>With my highest regards&#44; and<lb/> sincere wishes for a happy New Year&#44;<lb/> I remain&#44; dear doctor&#44;<lb/> Yours&#44; very respectfully<lb/> Geo. Randorf<lb/></p>
+            <p>P. S. I have resigned my Agency of above<lb/> Ass&#39;n&#44; and hope to find something else in its stead.<lb/></p>
+            </body>
+    </text>
+</TEI>

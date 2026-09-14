@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF6_52</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff6_52_1r.tif"/>
+                                <graphic url="smbx11ff6_52_1v.tif"/>
+                                <graphic url="smbx11ff6_52_2r.tif"/>
+                                <graphic url="smbx11ff6_52_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For a funeral<lb/></p>
+            <p>Brethren.  In the course of my teaching&#44; I often have occasion&#44;<lb/> as you may well suppose&#44; to consult the opinions of com&#45;<lb/>&#45;mentators on the Bible.  Some of the explanations with<lb/> which I meet&#44; help me considerably to make the subject<lb/> clearer to the understanding of my pupils.  But some appear<lb/> to my mind so far fetched that I do not quote them at all.<lb/>  Nevertheless I acknowledge that in many instances I find out<lb/> that I was at fault&#44; and the commentators were right.<lb/>  I had not gone deeply enough into their meaning&#44; and therefore<lb/> I judged their views as being drawn from the imagination.<lb/>  Now&#44; you will no doubt be astonished&#44; as I was at first startled&#44; to<lb/> hear this.  R. Meir&#44; coming across with the sentence in the<lb/> first chapter of Genesis which reads thus&#58; &#34;And God saw<lb/> every thing which He had done&#44; and behold it was very good&#34; tells<lb/> us that the thing very good alluded to in the text stands to<lb/> signify that God foresaw Death and declared it good very excellent.  I shall<lb/> not detain you with the linguistic analogy of &#91;Hebrew&#93; which served the<lb/> Rabbi as a faint support for to his teaching&#44; but I will show<lb/> the philosophy of contained in the idea he advanced.  After the Almighty<lb/> had prepared for man so many sources of enjoyment&#44; the<lb/> vegetable2&#44; mineral1 and animal kingdoms&#59; after He told<lb/></p>
+            
+            <pb n="2"/>
+            <p>the first pair put upon earth that they might rule the world<lb/> and subdue nature to their will&#44; the Lord must have bethought<lb/> Himself of the abuse which creatures gifted with extraordinary numerous high fa&#45;<lb/>&#45;culties might make of their powers.  What shall check<lb/> them in their growing wish for more gain and still more still gain&#63;<lb/>  What shall curb their cravings when they would wrong one another<lb/> for the sake of riches&#44; of honors or wanton pleasures&#63;  Death<lb/> would&#44; for it is an excellent monitor&#59; Death is very good<lb/> as a public Crier saying&#58; &#34;I do not take gold along&#59; silver<lb/> is too heavy to carry in my long journey&#59; beauty and a proud<lb/> bearing I leave behind me.  Religion and virtue morality are my sole<lb/> companions.&#34;  Were it not that these disturbing sounds strike<lb/> strike on our ears every now and then&#44; why&#44; there would be<lb/> no bounds to our ambition&#44; no limits to human f selfishness.<lb/>  The head would go on scheming wild plans&#44; the feet would<lb/> run fast after them&#44; the hands would put them into execution&#44;<lb/> the tongue would never cease lying for the sake of one&#39;s interests.<lb/>  Rightly has therefore R. Meir spoken.  &#91;Hebrew&#93; The thing<lb/> very good is Death.  This great <sic>leveller</sic> has a most healthful<lb/> effect.  It prevents a thorough demoralization&#59; it acts<lb/> as a safety valve against the entire breaking out of our<lb/> passions&#59; for sometime we are stopped on our way&#44; and<lb/> compelled to take a look at Death&#44; and listen to its admonition.<lb/></p>
+            
+            <pb n="3"/>
+            <p>Here it is&#44; my fellow&#45;mortals.  Here we behold it<lb/> represented in this Israelite&#59; it stares us all in the face&#59;<lb/> it gives us caution.  S. H was successful in his pursuits&#44;<lb/> but nothing will be conveyed hence to day except his body&#44;<lb/> destined to moulder in the grave.  Samuel Hunt was fortunate<lb/> in the home choice of his surroundings&#44; but terrestrial pleasures vanished apace&#44;<lb/> and nothing save the memory of those to whose welfare he<lb/> may have contributed will cling to his soul.  Happy will he feel happy<lb/> in his everlasting dwelling&#45;place&#44; if he can furnish it with a<lb/> wealth of virtues gathered in this preparatory habitation&#59; if he<lb/> can show that while strong&#44; capable and energetic and power<lb/>&#45;ful deeds&#44; he provided for a hereafter.  Unfortunately&#44; the<lb/> time for a retrospective reflection&#44; arrived too son soon.  Not<lb/> days but years were given to our brother in faith for meditating<lb/> on the instability of worldly affairs.  For it was the<lb/> unsearchable will of God to try him sorely with bodily suf&#45;<lb/>&#45;ferings&#44; and severe were indeed  those he resignedly bore towards the close<lb/> of his terrestrial career.  May they have been fruitful of<lb/> resolves&#44; which will open to him an entrance into the gates where<lb/> Righteousness enters with joy.  The Lord who chastened<lb/> our coreligionist offered him a soothing balm and withal a<lb/> goodly associate and a gentle <sic>counsellor</sic>.  So I consider the<lb/> Jewess who&#44; having vowed fidelity unto him as a wife&#44; administered<lb/></p> 
+            
+            <pb n="4"/>
+            <p>to his comfort&#44; regarmindless of her discomfort&#44; watched<lb/> over him to the last with self&#45;denying affection&#44;<lb/> and who&#44; being naturally thoughtful and kind&#44; she<lb/> must have advised her husband nobly for her own and<lb/> his spiritual gratification.  May the Lord be thanked<lb/> for that act of mercy towards His servant&#44; and may He reward<lb/> commensurately to her deserts the being who angel&#45;like<lb/> allayed pain and&#45;&#45;and as I hope&#45;&#45;guided the heart aright.  That the widow<lb/> may obtain consolation in the obedience of her instincts&#44; led on<lb/> by wisdom and urged by goodness is the wish of all who surround<lb/> this coffin at an hour a moment so distressing to the bereaved&#44; but while commending<lb/> the latter afflicted to the compassion of the Almighty&#44; to the Almighty the future welbeing of a bereaved family&#44;<lb/> let us all heed the lesson of Death the hour.  The history of our deceased<lb/> brother in its various changes from a very humbleness condition to competence&#44;<lb/> from vigour to feebleness&#44; from constant acuity to compulsory<lb/> inertness&#44; should point to us the transitions to which mortals<lb/> are liable&#44; and lead us on prompt suggest to us to work&#44; not quite so restlessly for<lb/> what is fleeting&#44; forgetful of the law of God&#44; and the true advantage<lb/> of our children&#44; but rather to work with sensible intermissions&#44;<lb/> that we may have time&#44; when in health and strength to consider our<lb/> obligations to ourselves&#44; to our neighbors&#44; to our Creator.  May it<lb/> be so&#44; and may a new light2 and a new life1 break forth for<lb/> S. H where Death dares not enter and peace show its sombre reflection&#44; but Immortality reigns supreme<lb/> and and Peace rules gloriously.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

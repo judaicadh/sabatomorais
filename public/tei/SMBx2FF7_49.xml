@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF7_49</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Brooklyn, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-07" source="" attested="yes">18 July 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff7_47_1r.tif"/>
+                                <graphic url="smbx2ff7_47_1v.tif"/>
+                                <graphic url="smbx2ff7_47_2r.tif"/>
+                                <graphic url="smbx2ff7_47_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>No 31. Cheevez Place.<lb/>
+                Brooklyn. July 18. 1879.<lb/></p>
+            <p>Rev. S. Morais<lb/>
+                My valued friend&#44;<lb/></p>
+            <p>A few days since I<lb/> wrote to dear Nina&#44; in her reply we<lb/> were pleased to learn you and all<lb/> the dear family were in the enjoy&#45;<lb/>ment of health thank God.  Esther and<lb/> I are partaking of the pleasures ob&#45;<lb/>tainable in Brooklyn and its surroun<lb/>dings.  So far we have had a very nice<lb/> time&#44; the heat during the final part of the<lb/> week has been very excessive that in<lb/> a great measure precluded us from go&#45;<lb/>ing over to New York as we anticipated<lb/> to visit some of our old friends&#44; this<lb/> morning and yesterday&#44; the thermometer<lb/> several degrees cooler&#44; splendid breezes<lb/></p>
+                
+                <pb n="2"/>
+            <p>to re&#45;invigorate the mind and body.<lb/>  I am devoting this morning to writing<lb/> a few letters&#44; please say to dear Nina<lb/> that she must consider this as a reply<lb/> also to her dear favour&#44; as Esther wrote<lb/> to her we could not acquiesce with<lb/> her kind invitation this week to spend<lb/> &#91;Hebrew&#93; with you&#44; we concluded to re&#45;<lb/>main here until Wednesday and then<lb/> we must shape our programme to<lb/> suit circumstances&#44; as I expect my<lb/> dear sister is at Cape May&#44; if she is&#44;<lb/> I must spend a day or two with her<lb/> provided she has the <sic>accomodations</sic><lb/> and must also spend a little time in<lb/> Phila. there I am amply provided for&#44;<lb/> my stay East this trip is limited&#44; as<lb/> I must be at home the early part of<lb/> August.  Our new Board of Governors or&#45;<lb/>ganizes the second Monday&#44; so I can&#45;<lb/>not make four or five months trip this<lb/> time.  I should like to prolong our stay<lb/></p>
+                
+                <pb n="3"/>
+            <p>you may depend&#44; for God only knows<lb/> when another opportunity will be af&#45;<lb/>forded me to go East and enjoy the compa&#45;<lb/>ny of my dear relatives and friends.<lb/>  From Phila. we must wend our way to<lb/> Richmond to see my dear children&#44; and<lb/> to Staunton to my dear sister Martha as<lb/> she is on a visit there&#44; so you see we<lb/> will be pretty well on the travel now all<lb/> the time.  Esther would like to stay East<lb/> longer&#44; but as I made it a sine qui non<lb/> before we left home that she is to &#34;go<lb/> and return with me.&#34; I do not wish to<lb/> deviate.<lb/></p>
+            <p>You have doubtless heard and read of<lb/> the proceedings of the Council that con&#45;<lb/>vened here&#44; I will not reiterate what<lb/> has been effected..<lb/></p>
+            <p>Esther and Mrs. Collier write with<lb/> me in kind regards to you&#44; and love<lb/> to dear Nina&#44; with all the dear ones&#44; as<lb/> ever&#44; I remain&#44; yours truly &#38;c.<lb/></p>
+            <p>Jacob Ezekiel<lb/></p>
+        </body>
+    </text>
+</TEI>

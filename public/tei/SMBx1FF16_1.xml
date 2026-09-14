@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hyneman, Adeline</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF16_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hyneman, Adeline</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Richmond, VA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1859-01" source="" attested="yes">12 January 1859</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff16_1_1r.tif"/>
+                                <graphic url="smbx1ff16_1_1v.tif"/>
+                                <graphic url="smbx1ff16_1_2r.tif"/>
+                                <graphic url="smbx1ff16_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>Richmond Jan 12 1859.<lb/>
+                My Dear Mr Morais<lb/></p>
+            <p>As I intended leaving<lb/> here on Sunday last&#44; you doubtless<lb/> thought a letter would not reach<lb/> me but the wet weather and the<lb/> fact of dear Sammie having the<lb/> Whooping Cough has necessarily detained me<lb/> and as missives from my friends are<lb/> so very welcome I do not like to be<lb/> deprived of them&#44; until we can commu&#45;<lb/>nicate personally&#44; for to use your own<lb/> expressions&#44; This life is composed of sep&#45;<lb/>arations and reunions&#44; and at this<lb/> moment I long to see my Philadelphia<lb/> friends.  The Hebrew young mens Literary<lb/> Association have reorganized the Rev<lb/> Mr Jacobs delivered a splendid address<lb/> on the occasion&#44; On the &#91;&#63;&#93;ation of<lb/> the ancients&#44; The subject for debate on<lb/> that day was&#44; which has the widest<lb/> field for eloquence the Pulpit or the Bar<lb/></p>
+                
+                <pb n="2"/>
+            <p>my nephew was in favor of the Pulpit<lb/> <del>and</del> spoke well on the subject&#44; and made<lb/> some very beautiful and touching remarks<lb/> which drew forth considerable applause<lb/> and seemed to give general satisfaction.<lb/></p>
+            <p>I regret<del>ted</del> much<lb/> that in my last I forgot to tell you of<lb/> a remedy for Claras frosted feet it is<lb/> Oil Spike&#44; my Jacob used it whilst<lb/> at boarding school&#44; and recommended<lb/> it to many of the students&#44; who were all<lb/> benefitted<sic></sic> by the application&#44; you need<lb/> only rub the parts affected&#44; every night<lb/> on going to bed.<lb/></p>
+            <p>I am happy to state that<lb/> since my last <del>writing</del> to you I have received<lb/> several letters from Mr Hyneman<lb/> differing much from his former ones.<lb/>  Perhaps my kind friend I am indebted<lb/> to you for the change&#44; without your<lb/> having committed me&#44; I admit my<lb/> folly in having exposed my husbands<lb/></p>
+                
+                <pb n="3"/>
+            <p>strange notions&#44; but you will be confidented<sic></sic><lb/> Yours and Mr Hynemans letters were<lb/> received simultaneously the latter amazed<lb/> me so much that I really do not know<lb/> the contents of my last to you&#44; for whilst<lb/> I was writing company came in&#44; and<lb/> in order to send by that mail I was<lb/> obliged to close without reading what<lb/> I had written.<lb/></p>
+            <p>You will perhaps have seen<lb/> Levy before receiving this&#44; as he left this<lb/> morning.  Mr Hyneman has a situation<lb/> for him&#44; but Levy objects&#44; because the man <del>he</del> is a<lb/> German&#44; please advise him as you<lb/> think best.<lb/></p>
+            <p>Sammie is as well as can be<lb/> expected&#44; and the doctor thinks there<lb/> will be no risk <sic>travelling</sic> in clear<lb/> weather&#44; it is therefore very probable<lb/> that I will be home by the 25th Inst<lb/> I hope however to hear from you before that<lb/> time.  Please remember me affectionately<lb/></p> 
+                
+                <pb n="4"/>
+            <p>to the families of Mrs Finsi Lobo Weil and<lb/> all enquiring friends.  My love to Clara<lb/> kiss both her and Nina for me I often<lb/> fancy I see the latter toddling around<lb/> the chairs &#38;c in her efforts to walk alone<lb/> my relatives and families all desire<lb/> kind regards to you and family.<lb/></p>
+            <p>I am as ever<lb/>
+                Yours very truly<lb/>
+                Adeline Hyneman<lb/></p>
+                
+            <p>PS Mrs Jacob&#39;s presented the Rev with<lb/> his third daughter a few days since<lb/> I am sure you will explain.  How<lb/> unfortunate to have so many daughters<lb/> A H<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Almosinia, Sarah</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF5_23</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Almosinia, Sarah</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1887-07" source="" attested="yes">8 July 1887</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff5_23_1r.tif"/>
+                                <graphic url="smbx4ff5_23_1v.tif"/>
+                                <graphic url="smbx4ff5_23_2r.tif"/>
+                                <graphic url="smbx4ff5_23_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                 
+                <pb n="1"/>
+            <p>1 Thornby Place<lb/>
+                Maina &#91;&#63;&#93;ale<lb/>
+                8 July 1887&#45;&#45;<lb/></p>
+            <p>Dear Mr Morais<lb/></p>
+            <p>Having through the medium<lb/> of The American Hebrew of<lb/> the 25<hi rend="sup">th</hi> Ultim. kindly send me<lb/> by my valued Friend Mrs Mendy<lb/> of New Port Rhode Island that<lb/> I might read in extenso the<lb/> high and deserved honor<lb/> confered<sic></sic> on you by the<lb/> University of Pennsylvania<lb/> I could not refrain in<lb/> sending you&#44; in the names<lb/> of your old English pupils<lb/> and self our united warm<lb/> congratulation on the dis&#45;<lb/>tinction confered<sic></sic> on you<lb/></p>
+                
+                <pb n="2"/>
+            <p>the which we pray you<lb/> may enjoy for very many<lb/> years the health and peace<lb/> surrounded by your loving<lb/> children&#45;&#45;whose pride in<lb/> their good Father&#39;s account<lb/> I can not imagine&#45;&#45;We<lb/> feel not a little proud to say<lb/> <hi rend="underline">we</hi> also have known and<lb/> opp&#91;&#63;&#93;ated the Rev<hi rend="sup">d</hi> S. Morais<lb/> and parted with him with<lb/> regret a regret now turned<lb/> into pleasure&#44; in hearing of<lb/> his being more fully so&#44; by<lb/> abler heads none have ever<lb/> felt more kindly disposed<lb/> towards you than did my<lb/> loved and lamented Husband&#45;&#45;<lb/> I note by the same paper&#44;<lb/> you are likely to mix the<lb/> Minhag of the <hi rend="underline">two</hi> congregations<lb/></p>
+                
+                <pb n="3"/>
+            <p>I think I remember the<lb/> time when you would have<lb/> resented the &#91;&#63;&#93;&#44; pleased<lb/> to note they write you a<lb/> conservative&#45;&#45;<hi rend="underline">Our</hi> cause<lb/> is therefore safe in your able<lb/> hands&#45;&#45;we have made the<lb/> move in having a German as<lb/> our Hakane&#45;&#45;not a Dr Artou&#45;<lb/>tent a long pleasing &#91;&#63;&#93;<lb/> and repeated &#91;&#63;&#93; the congre&#45;<lb/>gation have taken very kindly<lb/> to him.  Have neither of your<lb/> sons any curiosity to visit the<lb/> mother country or have they<lb/> some objection to a monarchal<lb/> Government as you now &#91;&#63;&#93;<lb/> &#91;&#63;&#93; of one thing I beg you<lb/> will address them that none<lb/> would be more pleased to<lb/> make the acquaintance of their<lb/> Father&#39;s children than my&#45;<lb/>&#61;self&#45;&#45;my sister&#44; and &#91;&#63;&#93;<lb/></p>
+                
+                <pb n="4"/>
+            <p>offer their kind remembrances<lb/> and good wishes for<lb/> years of happy enjoyment<lb/> of your honors.  And<lb/> with assurance of regard<lb/> remain<lb/> yrs truly<lb/> Sarah Almosinia&#91;&#63;&#93;<lb/>  Please note the address<lb/> The Revd S. Morais<lb/></p>
+            </body>
+    </text>
+</TEI>

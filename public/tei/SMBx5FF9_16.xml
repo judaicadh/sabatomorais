@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Tuck, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF9_16</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Tuck, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1890-08" source="" attested="yes">31 August 1890</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff9_16_1r.tif"/>
+                                <graphic url="smbx5ff9_16_1v.tif"/>
+                                <graphic url="smbx5ff9_16_2r.tif"/>
+                                <graphic url="smbx5ff9_16_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>1214 Master St Philadelphia August 31. 1890.<lb/>
+                Rev. S. Morais&#33;<lb/></p>
+            <p>Respected Sir&#59;<lb/></p>
+            <p>Although to wield the pen&#44; is a task&#44; yet injustice to my<lb/> feelings I make the sacrifice.  A friend handed me for perusal &#34;Disaffections against the Jews&#34;<lb/> and having lived among Non&#45;Israelites for 36 years&#44; and had contact only with Christians&#44; I can speak<lb/> by experience&#44; why there is a hatred against the Jew&#44; and forever of good&#44; incontrovertible reasons.<lb/>  1. Does the Jew act with becoming respect in attending Worship services in the Synagogue&#63;  The devout&#44;<lb/> still &#38; attentive in the House dedicated to God &#38; does his conduct harmonize with the time &#38; <sic>occassion</sic>&#63;<lb/>  I have to my sore grief seen laughter &#38; constant chatting going on during service.  The christian is<lb/> punctual &#38; decorous&#44; the Jew comes ad libitum&#44; regardless of annoyance to Audience or Divine.<lb/>  The christian goes to &#38; from Church in a quiet&#44; respectful manner&#44; how does the Jew act&#63;&#95;&#95;&#95;<lb/>  Go with me to a Summer resort&#44; and by their overbearing manner&#44; bold &#38; unrestrained conduct<lb/> they arouse the feelings of all civilized society.&#95;Whilst I had my wife &#38; daughter at Newport&#44; R. I..<lb/> two years ago&#44; I formed the acquaintance of a gentleman from St Louis&#44; a R. R. Magnate&#44; one who<lb/> has <sic>travelled</sic> a great deal &#38; observes as he goes through the world.  When he discovered my plan of go&#45;<lb/>ing to the White Mountains&#44; he warned me&#44; not to stop at &#34;Fabians&#34; as the N. Y. <hi rend="underline">Jews had charge &#38; possession</hi>.<lb/>  I met the same gentleman afterwards in Sarartoga&#44; and he passed the same remark of &#34;Congress Hall.&#34;&#95;<lb/> &#34;A good presence is a letter of recommendation.&#34;  Not arrogance&#44; vanity&#44; haughtiness&#44; <hi rend="underline">noise &#38; ill manners</hi>.&#45;<lb/>  Does the Jew like work&#44; and earn his bread by the sweat of his face&#63;  How many carpenters&#44; masons&#44; painters<lb/> laborers &#38; brick layers do you find in this grand City&#63;  Does the Jew like mechanics&#44; agriculture&#44; farming&#63;<lb/>  Are not our streets &#38; highways full of hawkers&#44; <sic>peddlars</sic>&#44; Agents&#44; drummers &#38; <sic>travelling</sic> salesmen&#63;&#95;<lb/>  How many Israelites are to be found in Baldwin&#39;s Works&#63;  Who ever saw a Jew build a house or a Barn&#63;<lb/>  I have done all kinds of hard work&#44; carted stone&#44; brick&#44; and all kinds of building materials.<lb/>  I have gathered wood&#45;ashes to put on my farm&#44; and carted manure to enrich the soil.&#95;<lb/></p>
+                
+                <pb n="2"/>
+            <p>A man in any station can do his duty&#45;&#45;and doing it&#45;&#45;can earn his own respect. . . .<lb/> Your conduct between employers &#38; employees during the last months is commendable&#44; as an<lb/> intercessor you did noble service&#44; for blessed are the peacemakers.  But has not the manager the<lb/> right &#38; privilege to get his work done&#44; where &#38; by whom it is to his advantage&#63;  Men leave their<lb/> native country&#44; to enjoy our liberty &#38; freedom.  They soon forget oppression &#38; persecution&#45;&#45;<lb/> when scarce able to speak our language&#44; they foment mischief&#44; uproar&#44; strife and commotion.<lb/>  Strikes seem to be contagious&#44; an epidemic throughout this broad&#44; beautiful land of ours&#44; unless<lb/> the employee&#39;s will be done&#44; right or wrong&#45;&#45;the first thing resorted to&#44; is to strike&#44; strike&#44; strike.<lb/>  Why don&#39;t some of the rugged young men go out in the country to help the farmer&#44; builder&#44; lumberdealer&#63;<lb/>  You see &#91;&#63;&#93; youths innumerable standing &#38; walking through our public streets&#44; trying to eke out a<lb/> subsistence in selling shoe strings&#44; eye glasses&#44; stationary&#44; <sic>confectionary</sic>&#44; toys &#38; ad infinitum&#45;&#45;they would<lb/> fare better to improve their time &#38; talent by following a trade or labor <del>giving</del> weeding opportunities<lb/> If we prepare for work&#44; and <hi rend="underline">earnestly</hi> desire to have it&#45;&#45;it will come.  As citizens of a common country&#44;<lb/> as followers of the ancient mosaic faith&#44; we should all join together in the doing of good acts&#44; &#38;<lb/> in taking an interest in the welfare&#44; and advancement of society at large.  When these things<lb/> happen&#44; and the clergy and laity join in such measures&#44; working heart to heart&#44; &#38; shoulder to shoulder<lb/> in inculcating morality&#44; industry and the well&#45;being of society&#44; <hi rend="underline">in fair dealing between man</hi>&#44;<lb/> and man&#44; in the due performance of all obligations to society then the congregation is in a <hi rend="underline">good</hi><lb/> condition.  If we want others to respect us&#44; we must deserve and merit respect&#44; in our<lb/> daily acts&#44; in the streets&#44; in the counting house&#44; <hi rend="underline">ignore deception&#44; fraud and conspiracy</hi>&#44;<lb/> conduct ourselves mannerly &#38; respectfully in the house of God&#44; at social gather&#45;<lb/>ings&#44; in the house of mourning&#44; in the graveyard&#44; wherever life&#39;s duties or pleasures<lb/> &#38; inclinations take our presence let us do our duty as humble children of God.<lb/>  That our conduct and actions may obtain for us grace&#44; favor and benevolence in the<lb/> sight of Jehovah&#44; and in the sight of all mankind.  Amen.&#45;&#45;Respectfully<lb/> Jacob Tuck<lb/></p>
+            
+            <pb n="3"/>
+            <p>&#91;...&#93;ERN SAVINGS FUND&#44;<lb/>
+                &#91;...&#93;SIT AND TRUST COMPANY&#44;<lb/>
+                PHILADELPHIA.<lb/></p>
+            <p>Rev. S. Morais L. L. D.<lb/>
+                No. 546 North 5th St<lb/>
+                Philadelphia<lb/>
+                City.<lb/></p>
+            </body>
+    </text>
+</TEI>

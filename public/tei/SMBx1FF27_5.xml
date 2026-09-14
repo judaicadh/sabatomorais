@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hackenburg, William B.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF27_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hackenburg, William B.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1868-11" source="" attested="yes">16 November 1868</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff27_5_1r.tif"/>
+                                <graphic url="smbx1ff27_5_1v.tif"/>
+                                <graphic url="smbx1ff27_5_2r.tif"/>
+                                <graphic url="smbx1ff27_5_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Aub&#44; Hackenburg &#38; Co.<lb/>
+            SILK MANUFACTURERS&#44;<lb/>
+            219 CHURCH STREET&#44; NEW YORK&#44;<lb/>
+            AND CORNER FRONT AND NEW STREETS&#44;<lb/>
+            PHILADELPHIA.<lb/>
+            Philadelphia&#44; Nov. 16 1868<lb/></p>
+            
+            <p>Rev S. Morais<lb/>
+            Dear Sir<lb/></p>
+            <p>If not troubling you<lb/> too much I would ask<lb/> a favor of you.  I am<lb/> desirous of having the<lb/> literal translation of the<lb/> words Hiram Abiff&#59; would<lb/> you at your earliest con&#45;<lb/>venience be kind enough<lb/> to favor me with it for<lb/> which I would return you<lb/> my sincere thanks.<lb/>
+            With regards<lb/></p>
+            <p>I am yours Truly<lb/>
+            Wm B Hackenburg<lb/></p>
+            
+            <pb n="2"/>
+            <p>Dear Sir<lb/></p>
+            <p>You ask me for the literal translation of &#34;Hiram Abiff&#34; Allow<lb/> me to preface it with a remark.  The expression&#44; as it stands in Chron.<lb/> IV. 16&#44; is &#34;Haram Abiv&#34; which&#44; of course&#44; you readily comprehend to signify<lb/> &#34;Hiram his father.&#34;  The first word being a personal noun&#44; and &#34;Ab&#34; meaning<lb/> &#34;father&#34; joined with &#34;Iv&#34;&#59; a masculine possessive pronoun.  That Hiram&#44; the <sic>skilful</sic><lb/> artisan whom the king of Tyre &#40;who bore the same name&#41; sent to Solomon&#44; should<lb/> <del>also</del> have also been called &#34;Hiram&#44;&#34; is not at all strange.  For&#44; the Book abounds in instances<lb/> of the same kind&#44; as <hi rend="underline">Denel</hi> &#38; <hi rend="underline">Revel</hi>&#44; Herman &#38; Herman&#44; Adad and Hadad<lb/> and many others.  Hence the choice between the two names may be optional<lb/> as to the pronoun &#34;Iv&#44;&#34; it may have been attired into &#34;iff&#44;&#34; through a practice<lb/> of our brethren born in South of Germany&#44; who pronounce thus the letter &#91;&#63;&#93; &#40;when<lb/> not quiescent&#41; at the end of words.<lb/></p>
+            <p>But that &#34;Hiram&#44;&#34; or &#34;Hiram Abiv&#34; should in the passage of Chronicles alluded<lb/> to above&#44; mean what is literal term conveys&#44; seems to my mind inconceivable<lb/> within the context.  For we read that <hi rend="underline">Hiram Abiv</hi> made various &#91;&#63;&#93;<lb/> for King Solomon to be used at the Temple services.  Now if Abiv is to be tran&#45;<lb/>&#61;slated &#34;his father&#44;&#34; then the former pronoun would refer to the last mentioned<lb/> individual&#44; namely&#59; Solomon&#44; which would be historically incorrect.<lb/></p>
+            <p>I have therefore arrived at the conclusion that <hi rend="underline">Abiv</hi> must here be<lb/> regarded as a title of honor&#44; signifying &#34;&#91;&#63;&#93;&#34; &#34;superior&#34; or &#34;master&#44;&#34; for<lb/> the term <hi rend="underline">Ab</hi> has been repeatedly employed by Holy Writ in that sense&#44; for example<lb/> in judges XVIIXIV &#34;Be to me a chief &#40;Ab&#41; and a priest&#44;&#34; &#38; likewise in many other places.<lb/>  And as the King of Tyre in speaking to the leverage of Israel about Hiram styles him &#34;Obi&#34; Chronicles II. 12.&#41;<lb/>  <hi rend="underline">my father</hi>&#44; viz&#44; my chief&#44; a &#34;overseer&#59;&#34; so did Solomon call him &#34;Abiv&#34; his chief<lb/> or superintend of the royal works.  &#34;Hiram Abiff&#34; &#40;as you have it&#41; would then<lb/> be rendered &#34;Hiram&#44; &#40;Solomon&#41;&#34; master&#8212;workman&#34; or &#34;head&#45;workman.&#34;  I do not know&#44; at<lb/> present&#44; that I am supported by any authority in this &#91;&#63;&#93; version&#44; but it<lb/> is suggested to my &#91;&#63;&#93; as that which best elucidates the sentence&#44; which<lb/> it accords with the &#91;&#63;&#93; of the Hebrew language.  Yours truly<lb/> S Morais<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

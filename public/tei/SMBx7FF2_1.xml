@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cohen, Max</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF2_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cohen, Max</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-08" source="" attested="yes">24 August 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff2_1_3r.tif"/>
+                                <graphic url="smbx7ff2_1_3v.tif"/>
+                                <graphic url="smbx7ff2_1_1r.tif"/>
+                                <graphic url="smbx7ff2_1_1v.tif"/>
+                                <graphic url="smbx7ff2_1_2r.tif"/>
+                                <graphic url="smbx7ff2_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>MAIMONIDES LIBRARY&#44;<lb/>
+                DISTRICT NO. 1&#44;<lb/>
+                INDEPENDENT ORDER BENAI BERITH&#44;<lb/>
+                THIRD AVE. AND 57TH ST.&#44; NEW YORK.<lb/></p>
+            <p>Rev Dr S. Morais<lb/>
+                <del>546 North 5 Str</del><lb/>
+                <del>Philadelphia</del><lb/>
+                Cape May	<del>Pa.</del><lb/>
+                N. J.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Jewish Theological Seminary Ass&#39;n&#44;<lb/>
+                736 LEXINGTON AVENUE.<lb/></p>
+            <p>New York&#44; August 24 1893<lb/></p>
+            <p>Dr. S Morais<lb/>
+                Dear Dr.<lb/></p>
+            <p>On Sunday last there were present at the meeting<lb/> to consider the schedule for the ensuing term&#59; Drs. Kohut&#44; Kaiser&#91;&#63;&#93;&#44;<lb/> Drachman &#38; Joffe&#44; &#38; Mr. Reeder &#38; myself.  There were several<lb/> further conferences to continue &#38; complete the work.  The result<lb/> you will find in the enclosed draft which after having received<lb/> your revision &#38; sanction&#44; will have to remain provisional for<lb/> a week or so to see how it works&#44; before we have it printed.<lb/></p>
+            <p>It was also decided to have the opening on August 27; and to<lb/> have the entrance examinations on the same day at 3 P. M.  It will<lb/> be understood however that if you cannot be present at that time that<lb/> the examinations will be postponed&#44; or held conditional upon a future<lb/> examination by you.<lb/></p>
+            <p>I enclose you also the formal application of Nathan Wolf of whom we<lb/> all think favorably here.  Shall we have him come on at once for the<lb/> regular entrance examination to take his place in his calls at once&#63;<lb/>  Or do you wish to see him first in Phila.&#44; or to correspond with Dr. Friedenwald.<lb/>  Whichever course you deem most advisable would you kindly drop him a line<lb/> to inform him of your decision.<lb/></p>
+            <p>I think you will find in your study of the new schedule that it allows<lb/></p>
+            
+            <pb n="3"/>
+            <p>faithfully to the curriculum as laid down for us.  In fact now faithfully<lb/> there hitherto&#44; except that we have laid more stress on Hebrew Composition<lb/> in accordance with your frequent suggestions to be.  It provides<lb/> for Dr. Joffe 24 hours  Senior A 30 hrs. Prep. &#34;A&#34;&#45;&#45;7 hrs.<lb/> Dr. Drachman 19 hours  &#91;Senior&#93; B 18 hrs &#91;Prep&#93; &#34;B&#34;&#45;&#45;7 &#91;hrs.&#93;<lb/> Mr. Speaker 15 hours  Junior 11 &#91;hrs.&#93;<lb/></p>
+            <p>I am of the opinion that both of the Preparatory divisions should receive<lb/> two hours additional at least.  Each has three days entirely vacant.<lb/>  I think Dr. Drachman should put in from 3&#45;4 on Thursday&#59; from<lb/> 5&#45;6 on Sunday &#38; either 3&#45;4 or 7&#45;8 on Wednesday.  On account of the<lb/> additional class both of the other instructors have been burdened with<lb/> an increase of hours and I believe that Dr Drachman should do<lb/> the same.  We cannot afford another teacher now &#38; we cannot afford<lb/> to increase salaries for the present.  The hard times will undoubtedly<lb/> have an effect on our income as they will on all communal institutions.<lb/>  Dr. D. should also consider that the following little table tells a story that<lb/> is very disagreeable to his colleagues<lb/></p>
+            <p>
+                <table rows="4" cols="3">
+                    <row>
+                        <cell></cell>
+                        <cell>hours&#47; weekly</cell>
+                        <cell>salary&#47; monthly</cell>
+                    </row>
+                    <row>
+                        <cell>Joffe</cell>
+                        <cell>24</cell>
+                        <cell>&#36;50.00</cell>
+                    </row>
+                    <row>
+                        <cell>Speaker</cell>
+                        <cell>15</cell>
+                        <cell>40</cell>
+                    </row>
+                    <row>
+                        <cell>Drachman</cell>
+                        <cell>19</cell>
+                        <cell>100</cell>
+                    </row>
+                    </table>
+            </p>
+            <p>I am usually pretty plain&#45;spoken&#44; but I cannot say these things in this<lb/> way to Dr. D.  I tried my hardest to get him to see the need for more hours<lb/> but he strove rather for less.  I am sorry to trouble you about such things.<lb/>  But&#44; I thought you ought to know at any rate&#44; particularly as I fear<lb/></p>
+            
+            <pb n="4"/>
+            <p>I will have some trouble with Speaker.  He consented to give us<lb/> three more hours without a raise with the understanding that about one<lb/> third of the fifteen hours would be in the morninf&#59; But that could not<lb/> be arranged.<lb/></p>
+            <p>In regard to Chazenoth&#44; even if we make no arrangements with the<lb/> Canter&#39;s Asso.&#44; as a body&#44; we will have little trouble in securing the aid<lb/> of one or two of the musically&#45;trained cantors to undertake this work.<lb/>  I believe the matter of speaking in the 29th Str synagogue by<lb/> Wittenburg on the holidays&#44; is off.  The feeling was expressed that they would<lb/> prefer &#34;A large man with a beard.&#34;<lb/></p>
+            <p>Of course you will notice that in a number of subjects the two<lb/> senior divisions have their hours together &#38; occasionally the<lb/> Juniors with the Senior B<lb/></p>
+            <p>I do hope that you will soon be entirely relieved of your burden of<lb/> illness &#38; restored fully to good health &#38; spirits.  Whatever we can do here<lb/> to make yours lighter in connection with the seminary&#44; to carry out your<lb/> wishes &#38; to <sic>fulfil</sic> your hopes&#44; you can be sure we are always anxious<lb/> &#38; willing to do.<lb/></p>
+            <p>My wife joins in sending the heartiest greetings &#38; thanking you for your<lb/> wishes in behalf of our dear little ones<lb/> I am yours sincerely<lb/> Max Cohen<lb/></p>
+            </body>
+    </text>
+</TEI>

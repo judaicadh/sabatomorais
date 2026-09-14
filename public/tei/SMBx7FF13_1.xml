@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Mandel, Morris; Kaplan, Bernard M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF13_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Mandel, Morris; Kaplan, Bernard M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1897-08" source="" attested="yes">22 August 1897</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff13_1_3r.tif"/>
+                                <graphic url="smbx7ff13_1_3v.tif"/>
+                                <graphic url="smbx7ff13_1_1r.tif"/>
+                                <graphic url="smbx7ff13_1_1v.tif"/>
+                                <graphic url="smbx7ff13_1_2r.tif"/>
+                                <graphic url="smbx7ff13_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>B. M. Kaplan.<lb/>
+                736 Lexington Ave<lb/>
+                New York<lb/></p>
+            <p>Rev. Dr. Sabato Morais.<lb/>
+                546 N. Fifth St.<lb/>
+                Philadelphia.<lb/>
+                Pa.<lb/></p>
+            
+            <pb n="2"/>
+            <p>736 Lexington Av.&#44;<lb/>
+                New York. Aug. 22&#44; 1897.<lb/></p>
+            <p>Rev. Dr. S. Morais&#44;<lb/>
+                President of the Faculty of<lb/> the Jewish Theological Seminary&#59;<lb/>
+                Esteemed Sir&#58;<lb/></p>
+            <p>Inasmuch as we are<lb/> college graduates and inasmuch<lb/> as the trustees&#44; thinking us capable<lb/> of assuming the functions of a<lb/> minister&#44; would be very pleased to<lb/> see us graduate from the Seminary&#44;<lb/> we&#44; the undersigned&#44; respectfully submit<lb/> to your kind and earnest consideration<lb/></p>
+            
+            <pb n="3"/>
+            <p>the following&#58;&#45; We have already<lb/> fulfilled the general requirements<lb/> laid down in the curriculum of the<lb/> Seminary&#44; but we should like to<lb/> be posted especially on the techni&#45;<lb/>calities immediately connected with<lb/> the Rabbinical office&#44; such as the<lb/> Laws of Terephoth&#44; Kiddushin&#44; etc.<lb/>  We requested Dr. Joff&#233;&#44; our instructor<lb/> in Talmud&#44; to be kind enough to<lb/> form a graduating class where<lb/> the above named subjects should<lb/> be made a special study of&#44; so<lb/> as to give us an opportunity to<lb/> prepare ourselves to pass the exam&#45;<lb/>ination for the Rabbinical degree<lb/> creditably.  Dr. Joff&#233; referred us<lb/> to you&#44; saying that if you kindly<lb/> communicate with him&#44; he will be<lb/> pleased to form a graduating class<lb/></p>
+            
+            <pb n="4"/>
+            <p>of us.<lb/></p>
+            <p>Hoping that the matter<lb/> will receive your immediate<lb/> attention&#44; and awaiting your<lb/> kind reply&#44; we remain<lb/> Yours most respectfully&#44;<lb/> Morris Mandel.<lb/> Bernard M. Kaplan.<lb/>
+                736 Lexington Av.&#44; N. Y. C.<lb/></p>
+            <p>To the Rev. Dr. Sabato Morais&#44;<lb/> 546 North Fifth St.&#44; Phil.&#44; Pa.<lb/></p>
+            </body>
+    </text>
+</TEI>

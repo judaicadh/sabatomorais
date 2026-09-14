@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF10_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1853-12" source="" attested="yes">16 December 1853</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff10_3_1r.tif"/>
+                                <graphic url="smbx1ff10_3_1v.tif"/>
+                                <graphic url="smbx1ff10_3_2r.tif"/>
+                                <graphic url="smbx1ff10_3_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>31 New St<lb/>
+                Philadelphia 16<hi rend="sup">th</hi> December 1853<lb/>
+                Dear Madam<lb/></p>
+                <p>I have been thinking over the query which<lb/> you put to me yesterday morning and as you ap<lb/>&#61;peared little satisfied with my answer&#44; which I<lb/> could not just at that moment elucidate&#44; I<lb/> referred <del>to the writing to the writings of our Rabbis<lb/> and &#91;&#63;&#93; whether they would come to my help throw some light<lb/> on the subject</del> to our authorities<lb/> to get some light on the subject&#44; and in the work of R. Isaac Arama<lb/> I met an explanation <del>as true as it is</del> which is as <del>constant</del> ingenious as it is philosophical.<lb/>  It would take me too long to repeat verbatim what<lb/> is there stated&#59; I shall therefore give you an epitome<lb/> of the same in my own simple language.<lb/></p>
+                <p>The Mishna says that by <del>uplaying</del> giving forth different com&#45;<lb/>mands for creating the world&#44; the Almighty<lb/> showed how heavy is the sin the wicked who pervert<lb/> its &#91;&#63;&#93;&#44; and how great the most of the righteous<lb/> who uphold <del>the perfection</del> the dignity of that work which <del>next were</del> &#40;humanly speaking&#41;<lb/> casts the Lord so much labour <del>to the Lord</del>.  By this a truth<lb/> on which his moral existence <del>of man</del> depend&#44; has been<lb/> conveyed of <del>his word</del> the &#91;&#63;&#93;&#45;namely&#45;his freedom of action.<lb/></p>
+                
+                <pb n="2"/>
+                <p>It was of course &#91;&#63;&#93; to the Almighty to create the world<lb/> in an instant as in the time recorded in Holy Writ but then the result<lb/> would have been that as nothing in nature could claim<lb/> precedence&#44; the laws of &#34;cause and effect&#34; as we now see<lb/> them&#44; could not exist.  All under the sun would depend<lb/> upon constant miracles and not upon those laws fixed from<lb/> the beginning.  Now&#44; if such constant miracles were <del>compressed</del> felt by<lb/> the wicked man as well as the righteous&#44; the former<lb/> might be hardened in his iniquity&#44; if they excluded him<lb/> then he would by force become good&#44; for what he expects<lb/> to receive&#44; and freedom of action would be nullified.<lb/></p>
+                <p>But as it is now <del>is</del> nature by its gradual development<lb/> through &#34;cause and effect&#34; as it is perceptible in the bible&#44;<lb/> follows the laws imposed by the Creator&#44; and though it<lb/> spreads its influence indiscriminately&#44; it does not<lb/> work incessant miracles&#44; which would either mislead<lb/> the wicked&#44; who might &#91;&#63;&#93; they were received in<lb/> his favour&#44; or compel every one to be righteous<lb/> on account of the benefits it would accrue&#44;<lb/> rendering thereby the freedom of action negatory.<lb/>  Nevertheless He who has established those laws<lb/> can invert them to punish or reward and conse<lb/>quently the wicked who do not <del>mount upwards</del> devote themselves<lb/> from that long chain of &#34;cause and effect&#34; to the<lb/> original cause&#44; and who do not perceive from<lb/> the order of creation&#44; that their temporary prosperity<lb/> is not the effect of their iniquity but of certain<lb/></p>
+                
+                <pb n="3"/>
+                <p>laws&#44; what might be used against them by<lb/> their eternal Author&#44; are in the words of the<lb/> Mishna liable to great punishment the like manner on<lb/> the other hand the righteous who by studying the<lb/> order of nature&#44; ascend with their mind to its<lb/> supreme maker&#44; and who&#44; through this might<lb/> argue that the committal of sin could not<lb/> altogether withdraw from them the benefits<lb/> <del>of the laws of nature</del> which nature bestows&#44; still for the love they<lb/> bear to God abstain from crime&#44; are deserving<lb/> of a large recompense.<lb/></p>
+                <p>I give it to you as I have found it&#44; but it<lb/> must be confessed that the question is rather<lb/> too abstruse to be easily solved.<lb/></p>
+                <p>Yours respectfully<lb/>
+                S Morais<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx10FF1_7</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx10ff1_7_1r.tif"/>
+                                <graphic url="smbx10ff1_7_1v.tif"/>
+                                <graphic url="smbx10ff1_7_2r.tif"/>
+                                <graphic url="smbx10ff1_7_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Before &#91;Hebrew&#93;<lb/></p>
+            <p>Brethren&#33;  Our solemn festivals are approaching&#44; and my<lb/> strength is waning.  I do not say this&#44; as a complaint&#59;<lb/> intimating that the labor imposed on me exceeds human<lb/> strength.  For&#44; I&#44; on the contrary&#44; often reproach myself<lb/> in the secret of my heart&#44; for not having sufficiently exercised<lb/> my energies in the discharge of my religious duties.  And<lb/> I am certain that others might be found who could bring<lb/> to the task greater activity&#59; exhibiting more readiness to<lb/> speak to their hearers with happy results.  But if I refer<lb/> just now to my weakness&#44; proceeding from bodily ailments&#44;<lb/> it is to ask of you a favor&#44; rather than to represent my&#45;<lb/>&#45;self as an individual unduly overtaxed.  I desire that<lb/> you assist me in rendering the Divine Service on the<lb/> new year&#44; and the subsequent holy days of the ensuing<lb/> month&#44; solemn&#44; imposing and edifying to those who<lb/> will come hither to worship the God of Israel.<lb/>  Many portions of the ritual for that season&#44; are pecu&#45;<lb/>&#45;liarly sublime&#44; and the chaunting wherewith they are<lb/> recited&#44; is strikingly impressive.  But to join one&#39;s<lb/> voice loudly and effectively in those portions of our<lb/> service&#44; a fluency in Hebrew reading&#44; and a well trained ear are<lb/></p>
+            
+            <pb n="2"/>
+            <p>prerequisites.  Be not offended&#44; dear Brethren&#33; if<lb/> I say&#44; that the absence of those two requirements among<lb/> some of my fellow&#45;worshippers mars at times the solem&#45;<lb/>&#45;nity of the service&#44; and adds to the labor of the Minister.<lb/>  For&#44; the latter&#44; in order to lessen the disagreeable impression<lb/> arising from many jarring voices&#44; is frequently impelled<lb/> to raise his own above all others.  Such has&#44; at all events&#44;<lb/> been my course&#44; and therefore greater exertions than would<lb/> otherwise have been necessary&#44; were its attendants.  But<lb/> now I am physically disabled from doing as heretofore&#59;<lb/> and it would pain me exceedingly if by reason of it&#44;<lb/> the reciting of prayers intended to awaken devotional<lb/> feelings&#44; should create the opposite impression.<lb/></p>
+            <p>For I need not assert what is a self&#45;evident truth&#59; namely&#44;<lb/> that external aids are indispensable to exalt the mind of<lb/> man to its Creator.  If all the surroundings at the Syna&#45;<lb/>&#45;gogue are imposing&#59; if in the sanctuary of the Lord<lb/> all speaks of His glory&#44; he who visits it will derive spi&#45;<lb/>&#45;ritual delight and instruction&#59; but if discordance of<lb/> sound and levity of manners prevail in that sacred dwelling&#44;<lb/> then even the noblest outpourings of our poets&#44; and the<lb/> most earnest exhortations of our preachers&#44; will fail to<lb/> evoke religious sentiments.  They will be regarded by as un&#45;<lb/></p>
+            
+            <pb n="3"/>
+            <p>&#45;meaning utterances.<lb/></p>
+            <p>Understand me&#58; I would under no circumstance&#44; deny the<lb/> <sic>worshippers</sic> the privilege of joining in the holy service&#59;<lb/> but the exercise of that privilege should be within the bounds<lb/> of moderation and decorum.  Surely&#44; none of you&#44; my friends&#33;<lb/> will imagine that devotion is best exhibited by loud singing&#44;<lb/> and that you have a right to be heard the last&#44; when by so doing<lb/> harmony is destroyed.  Nor can you suppose&#44; that because you<lb/> do not approve of all which is said from the pulpit&#44; you may<lb/>&#45;&#45;speaking literally&#45;&#45;turn your back on it&#44; and look<lb/> listless.  No&#44; such cannot be your thoughts&#44; and therefore I have come<lb/> in your presence with a request.  Brethren&#33;  Let your chaunting<lb/> of the ritual for the solemn occasions to which I have special<lb/> reference&#44; be soft and concordant.  It greatly depends upon<lb/> you to render it impressive.  Suffer yourselves to be led by the<lb/> Minister&#44; and do not anticipate his reading&#44; nor detain him by<lb/> an undue lengthening of your notes.  So likewise bear<lb/> with him when he addresses the whole audience.  For&#44; impro&#45;<lb/>&#45;priety of demeanour at that time&#44; would be an act of irreverence<lb/> to the house of God&#44; and a detraction from the sanctity of His<lb/> worship.  In a word&#44; my friends&#33;  Grant me your assistance&#44;<lb/> that we may jointly render the approaching season&#44; precisely<lb/> what our Rabbins have called it &#91;Hebrew&#93;.  Awe&#45;inspiring&#45;&#45;days&#59;<lb/></p>
+            
+            <pb n="4"/>
+            <p>&#91;Hebrew&#93;.  A month devoted to holiness.<lb/>  But the knowledge that we are recommended by the same Rab&#45;<lb/>&#45;bins to make &#34;charity&#34; &#91;Hebrew&#93;&#44; precede &#34;supplication&#34; &#91;Hebrew&#93;&#44; impels<lb/> me to solicit another favor.  Brethren&#33;  An epidemic that<lb/> rages in a section of this country&#44; has brought untold sor&#45;<lb/>&#45;rows on the Hebrew residents of Galveston.  Among several<lb/> cases of bereavements mentioned in a letter from that city&#44;<lb/> that of a family in needy circumstances&#44; who recently emi&#45;<lb/>&#45;grated there from Europe&#44; is particularly lamentable.<lb/></p>
+            <p>The father was seized with the infection and died&#59; his wife soon<lb/> followed him to the grave&#44; and their six orphan children&#44; remain in<lb/> a state of dependence and destitution.  For their sake and for the<lb/> sake of many others&#44; whose wants their small congregation<lb/> <del>cannot</del> is unable to supply&#44; you are appealed to.  As men of deep<lb/> sympathies&#44; you cannot refuse to mitigate the suffering<lb/> of humanity&#59; as Israelites you will not abandon to their sad<lb/> fate those who have with you community of belief and hope.<lb/>  Your representatives have already been petition on behalf of<lb/> the widows and father&#45;less&#44; and you will through them&#44;<lb/> prove your innate feelings of kindliness&#44; and show me also<lb/> favor.  Brethren&#33;  Ere you pour forth entreaties for yourselves<lb/> and dear households on the approaching festivals&#44; pour out gold to<lb/> benefit the indigent&#44; and solace the afflicted.  For&#44; &#34;He that fol&#45;<lb/>&#45;loweth charity and mercy&#44; will obtain life&#44; charity and glory&#34;<lb/> &#91;Hebrew&#93;<lb/></p>
+            </body>
+    </text>
+</TEI>

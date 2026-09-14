@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF5_34</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Blumenthal, Joseph; Felsenthal, B.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1894-03" source="" attested="yes">15 March 1894</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff5_34_1r.tif"/>
+                                <graphic url="smbx7ff5_34_1v.tif"/>
+                                <graphic url="smbx7ff5_34_2r.tif"/>
+                                <graphic url="smbx7ff5_34_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Philadelphia&#44; March 15&#44; 1894.<lb/></p>
+            <p>Honorable Joseph Blumenthal.<lb/>
+                My dear Sir&#44;<lb/></p>
+            <p>Mr. Rothschild has just told me&#44; that he mistook<lb/> Mr. Henry Jonas.  That gentleman intended the five dollars&#44; as<lb/> a yearly subscription to the Branch.  Have the kindness to let<lb/> Mr. Lederer know that such was the intention of the aforenamed.<lb/></p>
+            <p>Yours truly&#44;<lb/> S. Morais.<lb/>
+                546 N. 5th St.&#44;<lb/></p>
+            
+            <p>Philadelphia&#44; August 29&#44; 1882.<lb/></p>
+            <p>Rev. Dr. B. Felsenthal&#44;<lb/>
+                Revd. and Dear Sir.<lb/></p>
+            <p>You may have noticed that Gr&#228;ber is publishing<lb/> the Hebrew correspondence of Luzzatto.  Two volumes&#44; out of the five<lb/> which will comprise the entire work&#44; have already issued from the<lb/> press in a very beautiful form.  The price of the whole is 15 francs&#44;<lb/> or 3 Dollars and a little more.  Will you allow me to mention your<lb/> name to Gr&#228;ber as one of the subscribers&#63;<lb/></p>
+            <p>Yours very truly&#44;<lb/> S. Morais.<lb/>
+                546 N. 5th St.&#44;<lb/></p>
+            
+            <p>Rev. Dr. B. Felsenthal&#44;<lb/>
+                Dear Sir &#38; Colleague&#44;<lb/></p>
+            <p>I have lately been surprised at learning from<lb/> some of the American subscribers to Luzzatto&#39;s Hebrew correspondence&#44;<lb/> that they received only two volumes out of the five which have issued<lb/> from the press.  I informed the editor&#44; Mr. Graber&#44; of the unpleasant<lb/> circumstance&#44; so galling to me because I forwarded the money in ad&#45;<lb/>vance&#44; believing that each volume would be duly mailed as soon as it<lb/> was published.  I have not yet been answered.  I know from what<lb/></p>
+            
+            <pb n="2"/>
+            <p>Dr. Issiah Luzzalto wrote to me some months ago that the publication<lb/> was financially financially anything but a success.  I regret that<lb/> very much&#44; though I can scarcely feel surprised.<lb/>
+                But I am anxious that an enterprise in which I took an personal in&#45;<lb/>terest&#44; shall be carried out fully and honestly.<lb/></p>
+            <p>Please let me hear at your leisure&#44; whether you have<lb/> the whole correspondence&#44; containing 748 pages&#44; and an Index at the<lb/> end from Professor Dr. David Kaufmann of Pesth.<lb/></p>
+            <p>With sincere regards&#44; yours truly&#44;<lb/> S. Morais.<lb/>
+                Philadelphia&#44; April 25&#44; 1886<lb/></p>
+            </body>
+    </text>
+</TEI>

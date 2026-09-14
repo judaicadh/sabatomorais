@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Sowerby, A. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF12_36</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Sowerby, A. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Aylmer, Canada</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-09" source="" attested="yes">18 September 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff12_37_1r.tif"/>
+                                <graphic url="smbx4ff12_37_1v.tif"/>
+                                <graphic url="smbx4ff12_37_2r.tif"/>
+                                <graphic url="smbx4ff12_37_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>Aylmer. Ontario&#44; Canada<lb/>
+                Sept. 18<hi rend="sup">th</hi> 1888.<lb/></p>
+            <p>To Rabbi Morra&#239;s<lb/>
+                Dear Sir&#44;<lb/></p>
+            <p>Having heard of the favor<lb/> you hold toward all people outside your church&#44;<lb/> and the good&#45;will with which you are<lb/> held&#44; I take the liberty to propound a few<lb/> questions to you who are so well versed<lb/> in the usages and rites of the orthodox<lb/> Jewish Church&#44; and in which I take a<lb/> special interest.<lb/></p>
+            <p>&#40;1&#41; Is not the Mikva&#44; or plunge bath an<lb/> essential rite to an orthodox Jew&#44; and<lb/> can sprinkling be substituted for it in<lb/> any case or under any circumstance&#63;<lb/></p>
+            <p>&#40;2&#41; Can you substitute the Mikva for<lb/> circumcision&#63;<lb/></p>
+            <p>&#40;3&#41; Is not the circumcision which is performed on<lb/> the 8<hi rend="sup">th</hi> day&#44; really intended to alleviate<lb/></p>
+                
+                <pb n="2"/>
+            <p>2<lb/></p>
+            <p>suffering&#44; the circumcision being a<lb/> physical operation&#63;<lb/></p>
+            <p>&#40;4&#41; Is not circumcision one of the<lb/> covenants showing the interest of God<lb/> for the welfare of His people&#44; morally&#44;<lb/> physically &#38; spiritually&#63;<lb/></p>
+            <p>&#40;5&#41; Is the Mikva&#44; the baptism&#44; and<lb/> is it not the source of christian baptism&#63;<lb/></p>
+            <p>I beg you to answer these<lb/> questions&#44; as it is of very great im&#45;<lb/>portance to me&#44; especially as the answers<lb/> come from a person of authority.<lb/></p>
+            <p>Your Obedient Servant<lb/>
+                A. S. Sowerby<lb/>
+                Pastor Bap. Church<lb/>
+                Aylmer<lb/> Ontario<lb/> Canada.<lb/></p>
+                
+            <p>P. S. &#40;6&#41; Under what circumstances do you <hi rend="underline">sprinkle</hi> an individual&#63;<lb/>  &#40;7&#41; At what age is the Mikva administered&#63; &#40;I mean the earliest age&#41;.<lb/></p>
+            </body>
+    </text>
+</TEI>

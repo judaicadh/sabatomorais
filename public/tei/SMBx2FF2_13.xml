@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF2_13</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Montreal, Canada</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1875-11" source="" attested="yes">30 November 1875</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff2_13_3r.tif"/>
+                                <graphic url="smbx2ff2_13_3v.tif"/>
+                                <graphic url="smbx2ff2_13_1r.tif"/>
+                                <graphic url="smbx2ff2_13_1v.tif"/>
+                                <graphic url="smbx2ff2_13_2r.tif"/>
+                                <graphic url="smbx2ff2_13_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>JEWISH BIBLE &#38; PUBLISHING HOUSE.<lb/>
+                CENTRAL AGENCY&#58;&#45;&#45; 1102 &#38; 1104 Sansom St.&#44; PHILADELPHIA.<lb/></p>
+            <p>CANVASSERS WANTED FOR&#58;&#45;&#45;<lb/>
+                1. Jewish Family Bible. 4to. 1019 pp.<lb/>
+                With Notes and Family Record.<lb/>
+                2. Jewish Family Bible. Illustrated ed.<lb/>
+                3. Jewish School Bible. 8vo. 1259 pp.<lb/>
+                4. The Pentateuch. Hebrew &#38; English.<lb/>
+                Five vols. 8vo &#38; 12mo editions<lb/>
+                JEWISH EDUCATIONAL COURSE.<lb/>
+                1. Primary Catechism for Jewish Children.<lb/>
+                2. The Jewish Child&#39;s Catechism of Bible History.<lb/>
+                3. The Hebrew Reader.							Pa.<lb/>
+                4. The Catechism for Jewish Children. &#40;LEESER&#41;<lb/>
+                5. Instruction in the Mosaic Religion. &#40;JOHLSON&#41;<lb/>
+                From the MONTREAL Agency.<lb/></p>
+            <p>The Rev. S. Mora<lb/>
+                546 North Fif<lb/>
+                Philadelph</p>
+                
+                <pb n="2"/>
+            <p>MAY BE HAD AT<lb/>
+                THE JEWISH BIBLE &#38; PUBLISHING HOUSE&#44;<lb/>
+                Address ABRAHAM DE SOLA&#44; 73 McGill College Ave.&#44; MONTREAL&#44; Can.<lb/>
+                E. W. MILLER&#44; 1102 &#38; 1104 Sansom St.&#44; PHILAD&#39;A.<lb/>
+                AGENTS			WANTED.<lb/>
+                yers&#44; Portuguese Form. 8vo. De Sola&#39;s ed.			The Jewish Faith. by Grace Aguilar. 12 mo.<lb/>
+                Do.  &#34; Leeser&#39;s.			The Spirit of Judaism. by the Same. To which is<lb/>
+                German Form &#34;			added a collection of her Poetical Writings. 12 mo.<lb/>
+                rayer. Portuguese. De Sola&#39;s. 5 or 6 vols. 8 vo.		Meditations &#38; Prayers for the Daughters of<lb/>
+                Do. Leeser&#39;s. 6 or 7 vols. 12 mo.			Israel. By Hanna Rothschild. 12 mo.<lb/>
+                on the Jewish Religion&#44; with Lectures on			The Ancient Melodies of the Spanish Jews.<lb/>
+                ary Subjects.  By Isaac Leeser. 10 vols. 12mo.			by Rev. D. A. De Sola &#38; E. Aguilar.<lb/>
+                Sanatory Institutions of the Hebrews. By Abraham de Sola.<lb/>
+                Dias&#39; Letters on Judaism &#38; Christianity.<lb/>
+                English&#39;s Grounds of Christianity Examined.  Appended.<lb/>
+                Dr. Zipser&#39;s &#34;Sermon on the Mount.&#34; The latter also separate.<lb/>
+                The Crucifixion &#38; the Jews. by Phillipson.<lb/>
+                The Jews &#38; the Inquisition.<lb/></p>
+                
+                <pb n="3"/>
+            <p>Montreal Novr 30&#47;75.<lb/></p>
+            <p>The Rev. S. Morais<lb/>
+                Philada<lb/>
+                Dear Sir<lb/></p>
+            <p>I have been requested<lb/> by the committee of the Free School of<lb/> the Portuguese Congregation of Montreal<lb/> to write to those gentlemen I addressed<lb/> this &#91;&#63;&#93; last year with the<lb/> view of obtaining a teacher in place<lb/> of Mr. David Levi appointed pastor<lb/> to the Congregation Beth Elohim Charleston&#91;&#63;&#93;.<lb/>  I beg leave therefore to inquire whether<lb/> you can recommend one capable of<lb/> teaching Hebrew and English&#63;  A<lb/> single man is wanted&#44; and the<lb/> appointment would be for one year<lb/> probationary.  The salary is &#36;400 gold<lb/> with residence in school house if<lb/> required&#59; but board could be obtained<lb/> at about &#36;250 per annum.  He could<lb/> increase his income by private teaching<lb/></p>
+                
+                <pb n="4"/>
+            <p>and should be able to teach both<lb/> Minhagim.  The appointment will<lb/> probably be made in the early<lb/> part of January.<lb/></p>
+            <p>Trusting to be favored<lb/> with a reply at your earliest<lb/> convenience I am&#44; Dear Mr.<lb/></p>
+            <p>Yours truly<lb/>
+                Abraham de Sola<lb/></p>
+        </body>
+    </text>
+</TEI>

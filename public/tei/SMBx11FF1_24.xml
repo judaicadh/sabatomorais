@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF1_24</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff1_23_1r.tif"/>
+                                <graphic url="smbx11ff1_23_1v.tif"/>
+                                <graphic url="smbx11ff1_23_2r.tif"/>
+                                <graphic url="smbx11ff1_23_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>&#91;Hebrew&#93;<lb/></p>
+            <p>Dear Bar Mitzvah.  If you have paid attention to the<lb/> portion of the Bible which we have read out of the five<lb/> books books of Moses&#44; and to the last chapter of Isaiah&#44;<lb/> always recited on the day of the New Moon&#44; you will<lb/> have learnt two things&#44; that you ought this early to<lb/> learn.  For though you are not now but a lad&#44; you hope to grow<lb/> to be a man.  And as a son of Jews&#44; you have made us<lb/> understand this morning that you intend to remain in<lb/> the Congregation of Israel.  Well&#44; my young brother&#44; you<lb/> will have learnt to avoid ambition&#44; and hate hypocrisy.<lb/>  Korah who figures so notoriously in our Parasha may<lb/> not have been radically a bad man.  He certainly believed<lb/> in God.  He believed also that the Almighty had<lb/> saved our people from slavery to make them holy by the<lb/> practice of wholesome laws&#44; for&#44; he indirectly acknowledged<lb/> that in his speech &#91;Hebrew&#93;  But Korah had a fault which<lb/> has led many to the pit of destruction.  He was ambi&#45;<lb/>&#45;tious.  I don&#39;t mean to say that he wanted to rise in the<lb/> world by his own industry and <sic>perseverence</sic>&#44; for&#44; that is<lb/> a kind of ambition&#44; I cannot recommend to you and all<lb/> those of your age.  but he was dissatisfied with what<lb/></p>
+            
+            <pb n="2"/>
+            <p>with what he had&#44; and to gain what he<lb/> craved for&#44; he did not stop to consider the consequences.<lb/>  Korah though that his cousins had no right to be<lb/> privileged characters&#45;&#45;as he no doubt called Moses and Aaron.<lb/>  According to his ideas&#44; the one ought not to have been<lb/> chief of the nation&#44; nor the other a high&#45;priest.<lb/>  If a ruler was wanted&#44; and a minister needed why&#44; he<lb/> could answer for both offices.  He was&#44; in his eyes&#44; as<lb/> good as his two relatives.  Perhaps better.  Such being<lb/> his fancy&#44; Korah managed by his talk to win a number<lb/> of persons over to his views&#44; and he might have created<lb/> a revolution&#44; in which not only Moses and Aaron&#44; but<lb/> many more might have lost their lives.  Of course&#44; a<lb/> just God would not allow that ambition to succeed.<lb/>  An earth quake was made to open a grave for Korah and his<lb/> followers.  In that instance the intervention of the Al&#45;<lb/>&#45;mighty was clearly seen&#44; as it was so always with while<lb/> our nation remained under the government of God&#39;s chosen<lb/> servants&#59; but when your mind will be able to look<lb/> into the events which constantly happen more closely&#44;<lb/> you will find out that even now the Almighty<lb/> prevents the ambition&#44; which is hurtful to his creatures to<lb/> prosper.<lb/></p>
+            
+            <pb n="3"/>
+            <p>He does not accomplish it by what we would term a<lb/> miracle&#44; but nevertheless He does it openly enough for<lb/> those who have intelligence to understand.  Therefore I have<lb/> taken advantage of an occasion&#44; which must have a deep<lb/> impression&#44; to address you&#59; and the portion of the day sug&#45;<lb/>&#45;gested my remarks.  I warn you&#44; my brother&#44; against a<lb/> feeling the working of which instead of setting you up high&#44;<lb/> as you might hereafter imagine&#44; would surely cause<lb/> your downfall.  Labor then to the best of your abilities to<lb/> procure an honorable standing in society&#44; but never never<lb/> to try to rise upon the ruin of your fellow&#45;creatures.<lb/></p>
+            <p>But the lesson from the prophets gives you also a valuable<lb/> advice.  In the days of Isaiah Jews existed who brought<lb/> presents to the Lord&#44; just as the heathens laid gifts on the<lb/> altar of their idols.  they felt sure that by it they<lb/> received absolution&#44; and could commit all sorts of sin.  Besides&#58;<lb/> no body would credit that they did wrong&#44; since they<lb/> showed so much zeal for the Temple.  But the servant<lb/> of God&#44; angry because of such falsehood&#44; tells the people<lb/> that those who pretend to be religious by sacrificing an<lb/> ox&#44; while they stealthily strike down a man&#59; by presenting<lb/> a meat&#45;offering&#44; while they slyly eat pork&#44; shall pay<lb/></p>
+            
+            <pb n="4"/>
+            <p>for their hypocrisy with their lives.  For&#44; He<lb/> who dwells in heaven&#44; needs none of our gifts&#44; yet He<lb/> takes pleasure in such as are of an humble spirit&#44; and<lb/> who obey His word.  My Brother.  Take into consideration<lb/> also alike the second as the first teaching of the day.  Be<lb/> even now&#44; which is a solemn hour in your existence&#44; con&#45;<lb/>&#45;secrated to your faith.  It bids you keep watch over<lb/> your heart&#44; so that it may not swell with unrighteous<lb/> sentiments&#44; hurtful to mankind.  It asks you to check<lb/> your appetites that you may not break through rules<lb/> designed to supply you with a sound body in a<lb/> sound mind.  Promise then that you will be an Israelite<lb/> not in name but in practice&#44; not in the Synagogue alone&#44;<lb/> but everywhere&#44; so that through your agency also may<lb/> be verified the sentence we have perused.  Far off islands shall<lb/> see the glory of our God.  None will rejoice more than myself&#44;<lb/> who place my confidence in our guileless youths&#44; and none will<lb/> be more amply repaid than your parents who feel that a responsi&#45;<lb/>&#45;bility of the heaviest character is laid on them&#44; and that before it<lb/> be performed acceptably to our Maker&#44; times&#44; means and pleasure<lb/> must be sacrificed.  Let your recognition of their self&#45;denial be obedience to<lb/> the law.  And may your righteous intention be blessed.  &#38;c&#38;c&#38;c.<lb/>  &#40;This address was lengthened considerably in the same plain language.&#41;<lb/></p>
+            </body>
+    </text>
+</TEI>

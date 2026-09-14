@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Felsenthal, B.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF9_32</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Felsenthal, B.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Chicago, IL</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-04" source="" attested="yes">16 April 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff9_32_1r.tif"/>
+                                <graphic url="smbx4ff9_32_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+ 
+                <pb n="1"/>
+            <p>Dr. B. Felsenthal&#44;<lb/>
+                450 W. Randolph St.<lb/></p>
+            <p>CHICAGO&#44; April 16. 1888<lb/></p>
+            <p>Dr. S. Morais&#44; Philadelphia.<lb/></p>
+            <p>My dear sir&#58;&#45;<lb/>&#34;¨	Your letter of last week was duly received.<lb/>  Referring to the same&#44; I beg to send you here enclosed<lb/> a Post&#45;Office Order for the One Dollar&#44; and now please<lb/> have the kindness to transmit this amount to Eisig<lb/> Gr&#228;ber&#44; in payment of the book he recently sent me.<lb/></p>
+            <p>I hardly know at present of anything to add what<lb/> might be interesting to you&#44; and yet &#91;Hebrew&#93;<lb/> In lack of anything else&#44; permit me to come before you with a<lb/> &#91;Hebrew&#93;.  Is there a &#34;<hi rend="underline">Rabbi Patrick</hi>&#34; in the Talmud&#63;<lb/>  Yes&#44; we meet &#34;Patrick&#34; in the Babyl. Talmud&#44; in the Jerus.<lb/> Talmud&#44; in several Midrashim&#44; and a few days ago I<lb/> accosted by accident a &#34;Patrick&#34; in a &#91;Hebrew&#93; of R. Saadiah<lb/> Gaon.&#45;&#45;There is a &#91;Hebrew&#93; to be met in Babli<lb/> &#91;Hebrew&#93;&#59; &#91;Hebrew&#93;&#59; &#91;Hebrew&#93;&#59; &#38;c&#59; In the Jerushalim<lb/> the name appears as &#91;Hebrew&#93;&#45;&#45;ed. Kroto&#45;<lb/>schin 41<hi rend="sup">d</hi>.  In the same form &#91;Hebrew&#93; the name is to<lb/> be found in &#91;Hebrew&#93; ch. XII&#44; &#91;Hebrew&#93; and verse<lb/> &#91;Hebrew&#93;.  Two or three days ago I received the<lb/></p>
+                
+                <pb n="2"/>
+            <p>books published this year by the &#91;Hebrew&#93;; among<lb/> them is the concluding part of a collection of &#91;Hebrew&#93;&#44;<lb/> edited by A. Harkavy&#44; of Petersburg.  In glancing hastily<lb/> through this collection&#44; my eye was caught by a &#91;Hebrew&#93;&#44;<lb/> against whom and a woman by the name &#91;Hebrew&#93; the Gaon<lb/> R. Saadiah decided that a certain donation conveyed to<lb/> them was null and void&#44; because the donation was<lb/> <del>made</del> procured by compulsion &#40;page 263.&#41;&#45;&#45;What now I wish to remark is<lb/> that it is evident that &#91;Hebrew&#93;&#44; or &#91;Hebrew&#93;&#44; or &#91;Hebrew&#93;&#44; is<lb/> the old latin name <hi rend="underline">Patricius</hi>&#59; or the name <hi rend="underline">Patrick</hi>&#44;<lb/> now so common among the Irish people.<lb/></p>
+            <p>The forgoing may be nothing else but an unimpor&#45;<lb/>tant little curiosity.  But&#44; dear Sir&#44; if Isaac Disraeli<lb/> wrote a thick volume &#34;Curiosities of Literature&#44;&#34; why should<lb/> not one of us be permitted to bring forward such a curious<lb/> little item&#63;  And moreover&#44; nothing in history is really<lb/> unimportant.  That Jews thousand and 1500 years ago<lb/> gave their children latin&#44; greek&#44; persian&#44; and other names&#44;<lb/> has some interest for him who studies the history of<lb/> the Jewish people.<lb/></p>
+            <p>I conclude&#44; dear friend&#44; with the assurance<lb/> of my sincerest regards&#44; and remain as ever<lb/>
+                Yours<lb/> B. Felsenthal<lb/></p>
+            </body>
+    </text>
+</TEI>

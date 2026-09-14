@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx8FF13_21</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx8ff13_21_1r.tif"/>
+                                <graphic url="smbx8ff13_21_1v.tif"/>
+                                <graphic url="smbx8ff13_21_2r.tif"/>
+                                <graphic url="smbx8ff13_21_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Dear Sir.<lb/></p>
+            <p>Though I have already verbally expressed my views<lb/> touching the query which you propound to me in the last<lb/> number of the Mirror&#44; politeness demands that I shall<lb/> reply to it&#44; through the columns of the same periodical.<lb/>  I will therefore preface my remarks to the 26<hi rend="sup">th</hi> verse of the<lb/> 1<hi rend="sup">st</hi> chap of Genesis&#44; by stating&#44; that I consider&#44; the English version<lb/> as correct as it can possibly be rendered in a literal sense.<lb/>  The word &#91;Hebrew&#93; does certainly mean &#34;<hi rend="underline">let us make</hi> as the letter ב prefixed to the root renders and<lb/> not&#44; &#34;<hi rend="underline">I will create</hi>&#34;.  According to my opinion&#44; Holy Writ<lb/> prefers employing the former to the latter verb&#44; when speaking<lb/> of the formation of man&#44; because it implies the action of perfecting<lb/> what has already existence&#44; whereas the other signifies the production<lb/> of an object from nonentity.  The earth out of which Adam was<lb/> fashioned&#44; had visibly appeared on the third day&#44; ergo his corporeal form<lb/> could not be called a creation&#44; but inasmuch as man was peculiarly indued<lb/> with that which has no affinity with matter&#44; namely&#44; &#34;the<lb/> image of God&#34; therefore in alluding to that divine endowment&#44;<lb/> the Bible chooses the verb &#91;Hebrew&#93; to create &#34;And God created<lb/> man in his image&#44; in the image of God&#44; created he him&#34;<lb/> I cannot agree with you in believing that the<lb/></p>
+            
+            <pb n="2"/>
+            <p>various translators of the scriptures&#44; have copied from each<lb/> other&#44; without maturely examining the subject in question&#44;<lb/> they must&#44; on the contrary&#44; have perceived the extreme<lb/> difficulty of rendering the original more lucidly without<lb/> a paraphrasing it.  Whoever is fully conversant with the<lb/> Hebrew&#44; must be aware of its want of pliancy to interpret it in<lb/> our vernacular.  The conciseness of its diction&#44; the <sic>elipsis</sic><lb/> wherewith it abounds&#44; and the comprehensiveness which is its<lb/> characteristic&#44; are so many impediments to the achievement of<lb/> that arduous task.  But if I were called upon to illustrate<lb/> the passage under discussion&#44; I would argue from my<lb/> knowledge of the text&#44; that the English term &#34;in our image&#34;<lb/> means&#44; in the reflection of my divine essence&#44; in other words&#44;<lb/> God said <del>that</del> the being whom I shall make out of <del>the</del> earthly elements&#44;<lb/> shall possess&#44; in a minor degree&#44; all the moral and intellect&#45;<lb/>&#45;ual faculties&#44; which constitute my Being.  By them&#44; he<lb/> will be like me&#44; or &#34;according to our likeness&#44;&#34; and through this exercise<lb/> of those sublime qualifications&#44; he will become the lord of creation.<lb/></p>
+            <p>The word &#34;Elohim&#34; is not &#34;in the singular&#34; but its<lb/> plural termination stands to signify&#44; that all the powers&#44; which<lb/> the heathens ascribed to divine deities&#44; are concentrated in<lb/></p>
+            
+            <pb n="3"/>
+            <p><sic>in</sic> the Eternal alone.  Nor can&#44; the plural construction<lb/> of the 26<hi rend="sup">th</hi> verse of the 1<hi rend="sup">st</hi> chap of Genesis&#44; lead to the erroneous<lb/> notion of a plurality of Gods&#44; for&#44; the <del>following verse</del> sentence that follows it would<lb/> cogently refute any argument based upon that ground &#34;And<lb/> God created man in <hi rend="underline">his image</hi>&#44; in the image of God created<lb/> <hi rend="underline">He</hi> him&#44; etc.<lb/></p>
+            <p>You may&#44; Dear Sir&#44;<lb/> publish&#44; if you deem it proper&#44; these brief<lb/> remarks which I have traced&#44; not with the intent to open a<lb/> literary controversy&#44; but merely in acquiescence of your polite<lb/> request.<lb/>  Yours truly<lb/> S Morais<lb/></p>
+            </body>
+    </text>
+</TEI>

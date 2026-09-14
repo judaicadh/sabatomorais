@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Solomons, A. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF11_2b</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Solomons, A. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1890-12" source="" attested="yes">1 December 1890</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff11_2_2r.tif"/>
+                                <graphic url="smbx5ff11_2_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>MYER S. ISAACS&#44; PRESIDENT.	JESSE SELIGMAN&#44; TREASURER.		JACOB H. SCHIFF&#44; VICE&#45;PREST.<lb/>
+                JULIUS GOLDMAN&#44; HON. SEC&#39;Y.		A. S. SOLOMONS&#44; GENERAL AGENT.<lb/>
+                CENTRAL COMMITTEE OF THE BARON DE HIRSCH FUND.<lb/>
+                EXECUTIVE OFFICE&#44; NO. 45 BROADWAY&#44; ROOM 89&#44;<lb/>
+                NEW YORK&#44; DECEMBER 1ST. 1890.<lb/></p>
+            <p>DEAR SIR&#58;&#45;<lb/></p>
+            <p>The Central Committee of the Baron de Hirsch Fund&#44; as a guide for its work&#44; desires information<lb/> upon the following points&#58;<lb/></p>
+            <p>1. About how many Russians and Roumanian immigrant men&#44; women and children&#44; are in your<lb/> city&#44; and about what proportion of them have been in this country not over two &#40;2&#41; years&#63;<lb/></p>
+            <p>2. Have any of your organizations educated them as artisans or otherwise&#63;<lb/></p>
+            <p>3. What amount <emph rend="italics">per capita</emph> has been expended upon them for these or other purposes during the<lb/> past two years&#63;<lb/></p>
+            <p>4. Is the work being continued&#59; and if so&#44; what branches of it&#44; by whom&#44; and at what cost&#63;<lb/></p>
+            <p>5. Can you find employment for more of these immigrants&#63;  If so&#44; how many&#63;<lb/></p>
+            <p>6. Do you know of particular localities wherein ready work can be obtained for immigrants&#44; and<lb/> where they are likely to assimilate with their surroundings&#63;  If so&#44; where&#63;<lb/></p>
+            <p>For your information it is proper to state that the benefits of the Baron de Hirsch Fund are<lb/> intended to inure&#44; exclusively&#44; to such Russian and Roumanian Immigrants as have been in this country<lb/> not longer than two &#40;2&#41; years&#44; except for educational purposes.<lb/></p>
+            <p>Its work includes&#58;<lb/></p>
+            <p>&#40;a&#41; Furnishing mechanics with tools.<lb/></p>
+            <p>&#40;b&#41; Teaching them easily acquired trades&#44; or the knowledge of the use of tools&#44; so that they<lb/> may become &#34;handy men&#34; in shops.<lb/></p>
+            <p>&#40;c&#41; Paying their Entrance Fees into Trade Unions.<lb/></p>
+            <p>&#40;d&#41; Loaning them small sums&#44; in exceptional cases&#44; to help them to become self&#45;supporting.<lb/></p>
+            <p>&#40;e&#41; Establishing Day and Night Schools for both children and adults&#44; <emph rend="italics">only</emph> when the local<lb/> authorities or organizations have failed to make such provision&#44; wherein shall be taught the ele&#45;<lb/>mentary branches of English&#44; and which shall include the Constitution of the United States and<lb/> improved sanitary habits.<lb/></p>
+            <p>&#40;f&#41; Transportation to points where it is positively known there is a market for the particu&#45;<lb/>lar kind of laborers sent forward.<lb/></p>
+            <p>&#40;g&#41; <emph rend="italics">In no sense whatever to assume any part of the present duties imposed upon Jewish Congrega&#45;<lb/>tions&#44; Societies&#44; or Orders.</emph><lb/></p>
+            <p>&#40;h&#41; All moneys for the direct relief of individuals are <emph rend="italics">loans</emph>&#44; and due bills for the same&#44; pay&#45;<lb/>able in installments&#44; are to be given.  Alms&#45;giving&#44; and what is understood as &#34;charitable relief&#44;&#34;<lb/> are not to be included within the domain of the Fund.<lb/></p>
+            <p>&#40;i&#41; To Americanize and assimilate the immigrants with the masses by teaching them to<lb/> become good citizens&#44; and to prevent&#44; by all proper means&#44; their congregating in large cities.<lb/></p>
+            <p>Your kind replies to the foregoing questions will be a great aid to the Central Committee in pre&#45;<lb/>paring its plans.<lb/></p>
+            <p>I have the honor to be&#44; Yours truly&#44; A S Solomons<lb/> <emph rend="italics">General Agent.</emph><lb/></p>
+            </body>
+    </text>
+</TEI>

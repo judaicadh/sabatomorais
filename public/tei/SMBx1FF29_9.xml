@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF29_9</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Clara</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cape Island, NJ</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1870-07" source="" attested="yes">26 July 1870</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff29_9_1r.tif"/>
+                                <graphic url="smbx1ff29_9_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>LA PI&#201;RRE HOUSE<lb/>
+            CAPE ISLAND&#44; N.J.<lb/>
+            J. &#38; F. WIENER.								Cape Island July 26 1870<lb/>
+            My dear Clara<lb/></p>
+            <p>Towards evening yesterday your letter&#44; and one written<lb/> by Henry came unexpectedly but gladly to hand.  I rejoice to learn<lb/> that yourself and the dear children continue well.  My health has<lb/> improved&#44; and I enjoy the bathing greatly.  Yet&#44; these considerations<lb/> scarcely counterbalance the absence of home comforts&#44; which one<lb/> is so apt to disregard when in the full possession thereof&#44; and<lb/> the pleasure of seeing dear faces.  I had distressing dreams<lb/> last night&#44; but I am no believer in the visions that come<lb/> up to disturb our sleep.  I am firmly convinced that<lb/> Providence has you all under His protecting shield&#44; and you<lb/> are safe through that Divine guardianship.  Tell<lb/> dear Henry that what most pleased me in his letter<lb/> was his promise to be obedient during my absence&#44; a<lb/> thing which I much wish to see him carry out at<lb/> all times.  I have not the least doubt that Dear<lb/> Nina is careful not to give you cause for being dis&#45;<lb/>&#45;satisfied&#44; and offers you ever assistance.  Esther<lb/></p>
+            
+            <pb n="2"/>
+            <p>is so handy&#44; that she does not require much urging<lb/> to make her stir about and act her part.  Rebecca<lb/> is at times a little troublesome&#44; but by kindness she can<lb/> be made to behave like a lady&#44; particularly when she is<lb/> told that I ask her&#44; the whole way from 6 of May&#44; to be<lb/> a good girl.  Gentit is tractable&#44; our sweet Miriam<lb/> must be borne with&#44; on account of the sickness lately<lb/> suffered&#59; and the lovely baby&#44; of course&#44; cannot be stopped<lb/> if he chooses to hollow.<lb/></p>
+            <p>Last evening I paid a long visit to Mrs P. Hart&#44; who is im&#45;<lb/>proving in health&#44; and likewise to Mrs L. J. Levy&#44; who boards<lb/> at the same hotel.  This morning Mrs Judah Levy&#44; Mrs<lb/> De Young and her daughter called on me&#44; and requested I<lb/> would return the visit&#44; but I do not exactly remember their<lb/> respective direction&#44; so it will be difficult for me to find<lb/> them out.  In my next I will <sic>apprize</sic> you of<lb/> the time in which I purpose setting out on Friday.<lb/>  Meanwhile give my regards to brothers and sisters&#44; aunts&#44; cousins<lb/> and inquiring friends.  Kiss for me each of our seven<lb/> dear ones&#44; and receive a mutual embrace from<lb/></p>
+            <p>Your <sic>affectionat</sic> husband<lb/>
+            S. Morais<lb/></p>
+
+        </body>
+    </text>
+</TEI>

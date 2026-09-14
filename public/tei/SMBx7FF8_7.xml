@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Solis Cohen, S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF8_7</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Solis Cohen, S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1895-08" source="" attested="yes">26 August 1895</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff8_7_1r.tif"/>
+                                <graphic url="smbx7ff8_7_1v.tif"/>
+                                <graphic url="smbx7ff8_7_2r.tif"/>
+                                <graphic url="smbx7ff8_7_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>DR. S. SOLIS&#45;COHEN&#44;<lb/>
+                OFFICE HOURS&#58; 8&#45;10 A.M.<lb/> 2.30&#45;4 P.M.<lb/></p>
+            <p>219 S. Seventeenth Street.<lb/>
+                &#40;18th and Chestnut Station.&#41;<lb/>
+                Philadelphia&#44; August 26th&#44; 1895.<lb/></p>
+            <p>Dear Dr. Morais&#58;&#45;<lb/></p>
+            <p>I enclose you a letter received from Phil Cowen&#44;<lb/> which I think will explain the matter better than if I should try<lb/> to condense it.  The gist of the matter seems to be that while<lb/> the stock stands in Marcus&#39;s name on the A. H. books&#44; he has never<lb/> received the certificates&#44; which&#44; however&#44; they are ready to issue<lb/> to him at any time.  Phil has evidently kept faith&#44; but it was<lb/> necessary for legal reasons to insert the secular date as well as<lb/> the A. M. date&#44; and that he has done.  What I would like you to say<lb/> to Mr. Marcus is that your friend &#40;that is myself&#44; if you choose to<lb/> use my name&#44; or David Sulzberger&#44; who is also interested in the<lb/> matter &#38; would like to get hold of this stock in order to prevent<lb/> the A. H. at any time falling into any hands that would destroy<lb/> its usefulness for the Seminary&#44; and for the cause in general&#41;<lb/> but your friend at any rate is not responsible for&#44; and is not<lb/> aware of the business contracts or doings of the present management<lb/> of the A. H.  You may say what you choose of your friend&#39;s con&#45;<lb/>servativism&#44; etc.&#44; and your wish that he should be gratified in the<lb/> matter.  Your friend is one who will prevent Phil Cowen from<lb/> deserting the conservative standard&#44; if Phil should show any in&#45;<lb/>tention of doing so&#44; which however&#44; is not by any means to be ex&#45;<lb/>pected.<lb/></p>
+            <p>I hope to be able to run in and see you&#44; but whenever I have<lb/></p>
+            
+            <pb n="2"/>
+            <p>planned to do so some professional or other call has interfered.<lb/></p>
+            <p>My wife and children are still in the country.  I was very<lb/> glad to hear from Gerson today that you were feeling much better.<lb/>  With regards<lb/> Very truly yours&#44;<lb/> S. S. C.<lb/>
+                Remember me to Nina<lb/> when you write<lb/></p>
+            <p>To The Rev. Dr. Morais&#44;<lb/>
+                546 N 5th St<lb/>
+                <del>Germantown.</del>  Philada.<lb/></p>
+            </body>
+    </text>
+</TEI>

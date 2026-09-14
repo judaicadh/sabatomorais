@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Etting, J.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF1_29</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Etting, J.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1881-07" source="" attested="yes">17 July 1881</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff1_30_1r.tif"/>
+                                <graphic url="smbx3ff1_30_2r.tif"/>
+                                <graphic url="smbx3ff1_30_1v.tif"/>
+                                <graphic url="smbx3ff1_30_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>270. Lextn. St.<lb/>
+                Balto. July 17<hi rend="sup">th</hi>. 81.<lb/></p>
+            <p>Revd. S. Morais<lb/>
+                Phila.<lb/>
+                My Dear Pastor.<lb/></p>
+            <p>You must accept my<lb/> sincere &#38; grateful <sic>acknowlegements</sic><lb/> for your very kind note&#44; received<lb/> this morning&#44; expressing such<lb/> gratifying solicitude for my health&#44;<lb/> &#38; expressions of sympathy in my<lb/> latest &#38; deepest affliction.  Your<lb/> letter found me <hi rend="underline">still</hi> in my<lb/> &#34;old house&#34; now&#44; so very desolate.<lb/></p>
+                
+                <pb n="2"/>
+            <p>You who have experienced such<lb/> a bereavement can fully under<lb/>stand the sad void it creates in<lb/> ones heart &#38; life.  I trust I<lb/> may &#40;thro. Gods grace &#38; mercy&#41; be<lb/> supported to fulfill his dearest<lb/> wish for me&#44; a useful &#38; peaceful<lb/> <sic>existance</sic> on earth as a fitting<lb/> preparation to rejoin her in the<lb/> &#34;holy &#91;&#63;&#93; that waits a life well<lb/> spent.&#34;  My health is good&#45;&#45;<lb/>&#45;&#45;thanks&#33;  &#38; you will see me<lb/> &#40;if nothing prevents&#41; occupy my<lb/> seat in our &#34;House of Prayer&#34;<lb/> on the approaching New Year.<lb/>  I should have announced this<lb/> word to you&#8212;but neglected to<lb/> do so&#33;  Which pray forgive.<lb/></p>
+                
+                <pb n="3"/>
+            <p>Our kind Rabbi&#8212;Revd. H. Hochheimer<lb/> visited my beloved one frequently&#44; &#38; performed<lb/> the last sad services by her request&#45;&#45;&#91;&#63;&#93;<lb/>ding&#44; the prayers of each evening of &#34;the Sheva.&#34;<lb/></p>
+            <p>Ask my old schoolmate Mrs Florance&#44;<lb/> to receive my affec&#39;t sympathy&#8212;Believe me<lb/></p>
+            <p>Dear Sir  Sincerely &#38; Respty Yrs<lb/>
+                J Etting.<lb/></p>
+            <p>The Mordecais are at &#34;Chest. Hill&#34; for the summer.<lb/></p>
+        </body>
+    </text>
+</TEI>

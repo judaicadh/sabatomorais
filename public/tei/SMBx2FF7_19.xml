@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Wrissinstein, I.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF7_19</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Wrissinstein, I.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Washington, DC</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-03" source="" attested="yes">2 March 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff7_17_1r.tif"/>
+                                <graphic url="smbx2ff7_17_1v.tif"/>
+                                <graphic url="smbx2ff7_17_2r.tif"/>
+                                <graphic url="smbx2ff7_17_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Washington D. C. Mar 2<hi rend="sup">nd</hi>. 79<lb/></p>
+            <p>Friend<lb/></p>
+            <p>I have made up my mind to<lb/> no longer delay writing to you a few lines.<lb/></p>  
+            <p>When I returned to Washington&#44; I found<lb/> my conjectures in regard to Mr Hoffa et al.<lb/> just as I anticipated&#59; I was not feeling<lb/> very well&#44; but I found a temporary place<lb/> by renting a small portion of a jewelry Store<lb/> just opened&#59; and just as I was about<lb/> starting&#44; I was taken severely ill with<lb/> an attack of malaria&#44; and was in<lb/> consequence unable to attend to business.<lb/>  This was a serious blow for me just at<lb/> this moment&#44; and has kept me back<lb/>ward in my business so much that I<lb/> have not yet fully recuperated <sic>yet</sic>&#59;<lb/> and have with the utmost made my<lb/> expenses.  The expense of illness&#44; and<lb/> a forced idleness of over three months<lb/></p>
+                
+                <pb n="2"/>
+            <p>have still their traces on my<lb/> finances&#44; but I hope to build up a trade<lb/> or business if my health would continue<lb/> fair.  Since January I have rented part<lb/> of a store of a Jewish young man&#44; who<lb/> observes the Sabbath&#44; &#38;c. and consequently<lb/> both of our business is closed.  I feel better<lb/> satisfied now.<lb/></p>
+            <p>I have not heard a word from<lb/> the parties who wrote so much of my late<lb/> brother&#39;s decease&#44; but expect to unite shortly<lb/> to them&#44; I suppose you have heard nothing&#33;<lb/>  I do not feel satisfied since they have continued<lb/> so long a silence.<lb/></p>
+            <p>In regards to my sister&#44; I have heard<lb/> regularly from one of the Stewards. but the<lb/> wording has been the same&#44; that in response<lb/> I asked for more particulars&#44; the answer to which<lb/> is due now.<lb/></p>
+            <p>From Brandeis &#38; Bro&#44; whom I wrote to<lb/> shortly after my return&#44; I have not heard &#91;&#63;&#93;<lb/> suflable&#91;&#63;&#93;&#44; I have not gained any confidence in<lb/></p>
+                
+                <pb n="3"/>
+            <p>them by their silence&#44; and feel to&#45;day as<lb/> I did six months ago in regards to their<lb/> fidelity&#59; viz suspicions.<lb/></p>
+            <p>I have not had a single line<lb/> from any one since leaving Phila. and<lb/> have heard but very little&#59; the only thing<lb/> was the death of Jacob Ephraim&#44; and the<lb/> failure of Mr R. Brunswick.  According<lb/> to this evil news travels quickly.<lb/></p>
+            <p>When you see Misses Ellen or<lb/> Emily Phillips give them my kindest<lb/> regards&#44; as well as to your son Henry<lb/> and all your family.  With sincerest<lb/> wishes for your welfare&#44; and all con&#45;<lb/>nected with you&#8212;I remain<lb/></p>
+            <p>Yours Respectfully<lb/>
+                I. Wrissenstein&#91;&#63;&#93;<lb/>
+                To Rev. S. Morais.<lb/></p>
+        </body>
+    </text>
+</TEI>

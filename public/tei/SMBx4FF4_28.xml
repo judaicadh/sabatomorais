@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Blumenthal, Joseph</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF4_28</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Blumenthal, Joseph</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-04" source="" attested="yes">17 April 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff4_29_1r.tif"/>
+                                <graphic url="smbx4ff4_29_1v.tif"/>
+                                <graphic url="smbx4ff4_29_2r.tif"/>
+                                <graphic url="smbx4ff4_29_2v.tif"/>
+                                <graphic url="smbx4ff4_29_3r.tif"/>
+                                <graphic url="smbx4ff4_29_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                
+                <pb n="1"/>
+            <p>Jewish Theological Seminary<lb/>
+                736 Lexington Avenue<lb/>
+                New York April 17. 5653<lb/></p>
+            <p>To Rev Dr. Sabato Morais.<lb/></p>
+            <p>The undersigned Trustees<lb/> of the Jewish Theological Seminary Association beg here&#45;<lb/>with to tender unto you their heartfelt congratulations<lb/> upon the happy completion of that span of your life&#44;<lb/> the three score years and ten&#44; which when filled with<lb/> honor and good works as in your case&#44; denotes a ven&#45;<lb/>erable career well rounded out.&#44; To you however with<lb/> your high sense of duty it denotes no cessation of<lb/> activity&#44; and with the continuation of your physical<lb/> force&#44; we may yet hopefully look forward to the years<lb/> to come for the beneficial finits&#91;&#63;&#93; of your zeal as a<lb/> laborer in behalf of the weal of Judaism&#44; and more<lb/> especially do we hope that your eyes will be gladdened<lb/> with the sight of the fair blossoming forth into healthy&#44;<lb/> lusty manhood&#44; of this child of your old age&#44; The<lb/> Jewish Theological Seminary&#44; the fears of infancy out&#45;<lb/>grown&#44; the anxieties of youth outlived and the fond<lb/> dreams that clustered about its birth and growth be&#45;<lb/>ginning to be realized in bounteous measure and<lb/></p>
+                
+                <pb n="2"/>
+            <p>without the loss of an illusion.&#44; on this joyous but<lb/> not the less solemn occasion&#44; we of the Board of<lb/> Trustees once again pledge ourselves to render unto you aid<lb/> according to our several capacities and powers in carrying<lb/> on the sacred work which you have undertaken for the<lb/> perpetuation of that Historical Judaism of which you<lb/> are the leading exponent in this Country.  Even though<lb/> we are confident that you will appreciate the<lb/> warmth of our feelings for you&#44; the sincerity of our<lb/> wishes for your welfare and happiness&#44; we are loath<lb/> to allow this momentous event in your life to pass<lb/> without some more enduring expression of our senti&#45;<lb/>ments towards you.  It has therefore been resolved<lb/> to begin on your seventieth birthday the gathering of<lb/> means for the foundation at the seminary<lb/> of the Morais Library&#44; which we hope<lb/> will become so valuable and important<lb/> a collection of works in Hebrew Litera&#45;<lb/>ture as to comport <sic>withe</sic> the dignity of<lb/> <del>of</del> the seminary&#58; to furnish the students of the<lb/> Seminary with the material necessary to equip them<lb/> worthily for the cause they are to represent and the work they are to<lb/> do&#59; to constitute in the centre of Hebrew learning<lb/> and research in America and to indissolubly<lb/></p>
+                
+                <pb n="3"/>
+            <p>connect your name with the institution which<lb/> you have founded&#44; for time immemorial&#44;<lb/> Once again uttering our felicitations we pray<lb/> that you may be spared for many years in<lb/> the enjoyment of health&#44; peace and well being<lb/> Joseph Blumenthal<lb/> President<lb/></p>
+                
+            <p>David P Hays&#47; Secy&#47;			David M. Piza<lb/>
+                Solomon Solis Cohen			        N. Cowen<lb/>
+                Saine&#91;&#63;&#93; M. Hyneman		S. M. Reeder<lb/>
+                D. Sulzberger				        Max Cohen<lb/>
+                Jacob Meyer				            Moses Ottinger<lb/>
+                Ed. L. Rothechild&#91;&#63;&#93;	Louis Ash<lb/>
+                                                    Yonar Weil<lb/>
+                                                    A. S. Solomons<lb/>
+                                                    Nathan Hirsel<lb/>
+                                                    S. Jammelowsky<lb/>
+                                                    Saml Josephs<lb/>
+                                                    Aaron Friedenwald M. D<lb/></p>
+            </body>
+    </text>
+</TEI>

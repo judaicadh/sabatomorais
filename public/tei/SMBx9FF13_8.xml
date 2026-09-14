@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx9FF13_8</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx9ff13_8_1r.tif"/>
+                                <graphic url="smbx9ff13_8_1v.tif"/>
+                                <graphic url="smbx9ff13_8_2r.tif"/>
+                                <graphic url="smbx9ff13_8_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>a skeleton of a discourse for Parashat Itr&#242;.<lb/></p>
+            
+            <p>We read in the Medrash.  &#34;The son of a King&#44; after having recovered from<lb/> a serious illness&#44; was requested by his teacher to attend to his schooling.<lb/>  But the royal father objected.  He said My child&#39;s looks betray his<lb/> mobility to submit to a course of study.  Let him&#91;&#63;&#93; his health be recruited&#44;<lb/> during a short period&#44; by healthy &#91;&#63;&#93; means of invigorating sustenance and he will afterward then be better qualified for<lb/> the task.  In like manner did the King of the universe act respecting<lb/> His liberated children.  They might have received the divine imparting teaching<lb/> of Sinai immediately after having been made free&#44; but many among<lb/> them emerging from a state of abject servitude were unprepared for to bend the mind<lb/> to that sublime instruction.  God said.  Let them first be refreshed with<lb/> the gushing waters of a miraculous spring&#44; fed with a heavenly bread&#44;<lb/> afterward &#38; an abundant supply of flesh&#44; then they will be more apt to imbibe and retain the lessons I contem&#45;<lb/>&#45;plate to impart&#34;  Brethren&#33;  This Rabbinical allegory intends<lb/> to signify that truth&#44; which &#91;inserted above&#58; while&#93; a mind entirely uninfluenced by wrong notions&#44;<lb/> will clearly perceive&#44; remains hidden from that mind which is affected with<lb/> perverted baneful thoughts.  From the language of Ezekiel which relates how<lb/> the anger of the Lord was very nigh kindled against Israel&#44; while still<lb/> in the land of Egypt&#44; as we read &#91;Hebrew&#93; &#34;I had said&#44; that I would pour out my wrath on them&#44;<lb/> exhaust my ire against them&#44; aver in the country of Mizraim&#34;  From that prophetic sentence&#44;<lb/> we obviously infer that pernicious surroundings had<lb/> lowered the standard of morality among our forefathers.  That the<lb/></p>
+            
+            <pb n="2"/>
+            <p>principles of which the sainted patriarchs had become the exponents&#44;<lb/> were obliterated from the memory of some of their descendants&#44; and<lb/> were supplanted by ideas which the fulsome worship of their masters<lb/> was calculated to instill.  The Almighty deemed it therefore necessary<lb/> to awaken in the breasts of such&#44; feelings of gratitude for benefits<lb/> daily obtained&#59; before he communicated His celestial will.  When de&#45;<lb/>&#45;serving that they were <sic>marvellously</sic> supplied with their wants by<lb/> their Deliverer&#44; they might be willing to listen to His instruction&#44; and<lb/> having listened they might agree to accept it and abide by its consequence.<lb/>  Thus it happened that fifty days were suffered to elapse between<lb/> the time in which the shackles of a physical bondage were broken&#44;<lb/> and that wherein the fetters of a spiritual thraldom were sundered<lb/> apart.  But when that period arrived then &#34;all the people answered together and said<lb/> &#34;all the words which the Lord hath spoken we will do&#34; &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;.  They all bent their heads down to assume<lb/> the yoke of the Law&#44; that yoke so light&#44; so easy to bear unto those<lb/> who receive it in love.  That &#91;Hebrew&#93; which to the pious<lb/> is not a burden&#44; but a healthful restraint.  Our fathers on the day<lb/> of Sinai regarded it as an ornament&#44; &#38; as such they donned it.  We<lb/> their progeny are invested therewith&#44; and will never part with it.<lb/>  But let us reflect a few moments upon the object which the<lb/> imposing of that yoke was designed to effect.<lb/></p>
+            
+            <pb n="3"/>
+            <p>The inspired son of Amioz speaking in eloquent strains of Israel&#39;s glory&#44;<lb/> gave utterance to the following sentence.  &#34;I have put my word in thy<lb/> mouth&#44; I have th covered thee in the shadow of my hand&#44; to<lb/> plant the heaven&#44; and lay the foundation of the earth&#44; and to<lb/> say unto Zion that thou art my people.&#34;  &#91;Hebrew&#93;<lb/> The mission of Israel is then to plant the heaven.  To establish the king&#45;<lb/>&#45;dom of heaven amid the denziens of this nether world.  To exhibit<lb/> the close relation existing between the creature and His Creator.  Men incapa&#45;<lb/>ble of comprehending what seemed too ab far above their mental vision&#44;<lb/> towed down to objects within reach of their bemuted view narrow compass.  The lord of<lb/> nature&#44; became the slave of works of nature.  Their altars reeked<lb/> with human blood.  Crimes at which we instinctively shrink with horror<lb/> were perpetuated as an act of divine adoration.  For&#44; dread and not love<lb/> inspired man&#39;s worship.  But Israel was chosen to dethrone false<lb/> deities&#59; and point to that Being who is the sovereign Dweller of heaven.<lb/>  Israel had stood at the foot of mount Horeb&#44; of that memorable spot<lb/> &#91;Hebrew&#93;&#44; because from thence would issue forth the instru&#45;<lb/>&#45;ment wherewith to destroy the gods of heathenism&#44; to tear down the shrines<lb/> which priestly craft had dedicated to corruption.  Israel &#34;the holy nation&#34;<lb/> was chosen to plant the heaven.  To cast sow broadest among mortals the seeds of<lb/> happiness.  To offer them the enjoyment of a heaven&#45;like repose<lb/> which is the offspring of obedience to the word of the wise Legislator.<lb/></p>
+            
+            <pb n="4"/>
+            <p>To show that the Law has eternity in her right hand.  In her<lb/> left contentment and peace.  This teaching was to open before<lb/> our fellow&#45;men a heaven heretofore hidden from his sight.  And the<lb/> more it will be heeded&#44; the brighter and more serene it will grow become.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

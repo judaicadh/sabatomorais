@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Blumenthal, Joseph</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF4_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Blumenthal, Joseph</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1887-01" source="" attested="yes">6 January 1887</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff4_5_1r.tif"/>
+                                <graphic url="smbx4ff4_5_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                
+                <pb n="1"/>
+            <p>Jewish Theological Seminary Association.<lb/>
+                All Communications to be addressed to the Secretary&#44;<lb/>
+                NO. 237 Broadway&#44;<lb/></p>
+            <p>JOSEPH BLUMENTHAL&#44; President&#44;<lb/>
+                DR. A. FRIEDENWALD&#44; V. President&#44;<lb/>
+                NEWMAN COWEN&#44; Treasurer&#44;<lb/>
+                JOSEPH E. NEWBURGER&#44; Secretary.					New York&#44; Jany 6<hi rend="sup">th</hi> 1887<lb/></p>
+            <p>Rev S. Morais<lb/></p>
+            <p>My dear Sir<lb/></p>
+            <p>Your favor with Enclosures to<lb/> hand this A. M&#45;&#45;I saw Rev H. P. Mendes this afternoon<lb/> and he will call a meeting of the Advisory Board of<lb/> Ministers for next Monday at 4 o&#39;clock&#45;&#45;he promised<lb/> to write to you as to same&#45;&#45;I have not the address<lb/> of Dr Cardoza&#44; but will ascertain it&#44; and notify him<lb/> to come before your Board on Monday&#44; and to avoid<lb/> any possible delay should Rev Mendes not write to<lb/> you <hi rend="underline">at once</hi>.  I will also drop a line to Rev Drachman<lb/> &#38; Mr Engelman to appear on same day &#38;c&#45;&#45;<lb/></p>
+            <p>I have not yet been able to procure a free pass or<lb/> mileage book&#45;&#45;the party I wish to see is out of the<lb/> city&#45;I shall not neglect it&#44; but do my best to<lb/> get it&#45;&#45;The names you mention will be looked<lb/> after&#44; and their support solicited&#45;&#45;If you desire to be<lb/> present at our next Trustee Meeting&#44; which I intended<lb/> to call for Sunday the 16<hi rend="sup">th</hi>&#44; and will let me know as<lb/> to same soon &#40;or on Monday next when you come here&#44;<lb/> will do&#41;.  I will change the date to Tuesday the<lb/> 18<hi rend="sup">th</hi> in the Evening&#45;&#45;this would enable you to be<lb/></p>
+                
+                <pb n="2"/>
+            <p>present at the lesson of the Students on the afternoon<lb/> of same day&#45;&#45;We can however speak of all this<lb/> on Monday next&#44; if you shall then be here&#45;&#45;please<lb/> if convenient consult Dr Cohen as to this&#45;&#45;<lb/> Although probably you have already knowledge of same<lb/> I deem it my duty to inform you&#44; that the Advisory<lb/> Board has arranged for the classes for Tuesdays&#44; Thurs&#45;<lb/>days &#38; Sundays&#45;&#45;Deuteronomy with Grammar&#44; with Rev<lb/> Jacobs &#38; Drachman on alternate Sundays&#45;&#45;<lb/></p>
+            <p>Isai&#45;&#45;with commentary &#38; Rashi with Rev De Sola Mendes<lb/> &#38; Wise on alternate Tuesdays&#45;&#45;Rev Kohut&#44; Mishna<lb/> &#38; Rev H. P. Mendes&#44; History &#38; Literature on alternate<lb/> Thursdays&#45;&#45;This afternoon Rev Kohut was in charge<lb/> of the class&#45;&#45;Everything will no doubt gradually get<lb/> in good shape.  Especially when you shall have a<lb/> regular system governing the Seminary and the<lb/> Preceptor &#38;c&#45;&#45;If you can let me know what<lb/> time &#38; where you will arrive here on Monday&#44; I<lb/> will try to meet you &#38; we can talk over matters<lb/> before your Ministers meeting&#45;&#45;otherwise I shall<lb/> certainly and at any rate see you at meeting&#45;&#45;<lb/></p>
+            <p>very Sincerely Yours<lb/>
+                Joseph Blumenthal<lb/>
+                151 East 73<hi rend="sup">rd</hi> St<lb/>
+                or on Monday&#45;&#45;92 Liberty St<lb/></p>
+            </body>
+    </text>
+</TEI>

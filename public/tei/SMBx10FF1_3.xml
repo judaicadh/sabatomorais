@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx10FF1_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx10ff1_3_1r.tif"/>
+                                <graphic url="smbx10ff1_3_1v.tif"/>
+                                <graphic url="smbx10ff1_3_2r.tif"/>
+                                <graphic url="smbx10ff1_3_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For Rosh Hodesh Elul<lb/></p>
+            <p>Only a few words as a reminder.  It is a time&#45;honored<lb/> custom among Sephardic Congregations to prepare in Elul<lb/> for Tishri.  Believing that when the sun&#44; <del>ent</del> in its<lb/> course through the <del>heavens</del> sky&#44; enters the sign of the zodiac<lb/> <hi rend="underline">Libra</hi>&#44; a Balance&#44; our actions&#44; during the past year will<lb/> be weighed in the just balance of the Lord of <del>heaven</del> the sky&#44; the <del>fo</del> ad&#45;<lb/>&#45;herents of our ritual rise while yet night and pray.<lb/>  They pray that the good deeds they intend to perform<lb/> before the sound of the historic ram&#39;s horn announces another<lb/> year&#44; may outweigh faults which lay heavily upon<lb/> their conscience.  We are not equally impressed&#44; at all events&#44; we do not agree to that place.<lb/>  Our sleep is stronger than our religious fervor&#44; and I<lb/> can scarcely condemn others for what I myself feel un&#45;<lb/>&#45;able <del>equal</del> to perform.<lb/></p>
+            <p>In the days of my boyhood&#44; I <del>found</del> took pleasure in rising<lb/> earlier than the dawn&#44; and go to the Synagogue&#44; where<lb/> my fancy imagined to hear angelic voices recho forth the solemn<lb/> hymns sang.  There was a sort of charm&#59; something<lb/> weird in the character of those <hi rend="underline">Selichot</hi>&#44; or propitia&#45;<lb/>tary supplications recited in the dead of night<lb/></p>
+            
+            <pb n="2"/>
+            <p>Time and changes have robbed my nature of<lb/> much which partook of the <del>romantic</del> poetics.  I have grown prosaic&#59; or perhaps<lb/> years have brought on a degree of sloth<del>fulness</del> which<lb/> cannot be shaken off when nearing old age.<lb/>  As I could not stand very long the loss of rest&#44; so<lb/> I do not demand it of others.  But a divine<lb/> service at six o&#39;clock in the evening&#44; after working<lb/> hours does not entail any <del>fatigue</del> inconvenience&#44; especially when<lb/> so short as not to interfere with the third meal.<lb/>  I cannot trace the origin of that <del>polite</del> abridged Tephillah&#44;<lb/> so to call it.  The date of its institution cannot be<lb/> very ancient.  It may have been established in com&#45;<lb/>&#45;paratively late times to suit the convenience of such as<lb/> ourselves&#44; and that notwithstanding the opposition<lb/> of Rabbalists&#44; who insist upon the night&#45;selichot<lb/> as the most propitious acceptable above.  But we that do not busy<lb/> ourselves with theosophic secrets&#44; we that consi&#45;<lb/>&#45;der every hour propitious to approach the Lord<lb/> with intreaties<sic></sic>&#44; we that cannot&#44; or will not&#44; be<lb/> disturbed in our slumbers&#44; have accepted that institu&#45;<lb/>&#45;tion and followed it every year.  I wish we may<lb/> continue it as usual from to&#45;morrow evening to the<lb/></p>
+            
+            <pb n="3"/>
+            <p>eve of Kippur.  If official duties of a me&#45;<lb/>&#45;lancholy character will occasionally compel my<lb/> absence&#44; a substitute will be in attendance to supply<lb/> my place.  Mourners particularly have the op&#45;<lb/>&#45;portunity offered here to read the prayer&#44; <del>read everywhere</del> which Israelites<lb/> in their bereavements recite everywhere in the Synagogue<lb/> during eleven months.  Let those of our brethren<lb/> in faith not immediately connected with this<lb/> Synagogue be made aware of the circumstance&#44;<lb/> let them be told that they are welcome&#44; and the<lb/> prescribed number wherewith to hold public wor&#45;<lb/>&#45;ship will not be wanted.  And so may it<lb/> be.<lb/></p>   
+            </body>
+    </text>
+</TEI>

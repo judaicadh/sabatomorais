@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF5_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff5_6_1r.tif"/>
+                                <graphic url="smbx11ff5_6_1v.tif"/>
+                                <graphic url="smbx11ff5_6_2r.tif"/>
+                                <graphic url="smbx11ff5_6_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For the 1st Sabbath of the 3 weeks&#44; it being also the 4th of July<lb/></p>
+            
+            <p>When all mankind shall celebrate a day&#44; like this American<lb/> anniversary&#44; Israel will cease to weep.  When the air of freedom&#44;<lb/> which blew refreshingly on this new world&#44; shall purify every&#45;<lb/>&#45;where the atmosphere tainted by the breath of autocracy absolutism and<lb/> priest&#45;craft&#44; the three weeks of mourning for the loss<lb/> of the Jewish polity and for its accompanying sorrows subsequent horrors&#44;<lb/> will change into a period of festivity.  Religious pro&#45;<lb/>&#45;scription will then be unmeaning words&#44; and the ideal<lb/> people&#44; that people who hailed martyrdom as the<lb/> sanctification of principles&#44; will be set nationally high.<lb/>  Such is the soul&#45;sustaining belief of the worshippers<lb/> of Thy Unity&#44; O God&#33;  Therefore grateful emotions now<lb/> pervades our beings.  For&#44; on this self&#45;same day<lb/> were cast the germs of a future&#44; pregnant with hap&#45;<lb/>&#45;piness to the afflicted.  Thou&#44; O Lord&#33; didst pity<lb/> those that hungered after liberty independence&#44; and sentest forth<lb/> the great Sower of righteousness.  He invited<lb/> all in Thy name to cull of the fruits of his planting&#59; as<lb/> in later times the strong&#45;sinewed worker in the <sic>feild</sic> of<lb/> humanity&#44; was commissioned inspired by Thee to hedge it in&#44; against<lb/></p>
+            
+            <pb n="2"/>
+            <p>the incursions of <sic>savegeness</sic>.  Washington and Lincoln<lb/> predestined to level the way for the approach of sal&#45;<lb/>&#45;vation&#44; we recognize as the ministers of Thy loving&#45;<lb/>kindness to the a remnant of Judah.  Illustrious was<lb/> their existence&#44; and the influence of their immortal deeds<lb/> will reache the uttermost parts ends of the earth.<lb/></p>
+            <p>The shouting for joy&#44; which breaks forth spontaneously<lb/> upon this day of remembrance Thou hast made.  O Lord&#33;<lb/> will finally be the death&#45;knell of oppression.<lb/>  Then Zion will join her younger sisters in the march<lb/> of freedom liberty&#44; and she shall be given prominence under<lb/> the leadership of a scion of the Davidian stock.<lb/>  Speed that even O Compassionate Father&#33;  For&#44; what<lb/> to our short&#45;sighted understanding&#44; seems beyond the<lb/> range of possibilities&#44; Thou canst swiftly draw nigh<lb/> to our vision.  Less than a century has sufficed<lb/> Thee to form a royal nation&#44; to strengthen&#44; enlarge beautify and<lb/> enrich her boundaries to a degree baffling all human<lb/> calculations.  Yet&#44; eighteen centuries of wrongs unredressed&#44;<lb/> and of persecution bitter and relentless&#44; Thou hast suf&#45;<lb/>&#45;fered&#44; O God&#33; to pass over the heads of Thy faithful&#33;<lb/>  Even this month&#44; which to us&#44;&#45;&#45;the coheirs of a matchless<lb/></p>
+            
+            <pb n="3"/>
+            <p>legacy&#45;&#45;&#44; is the reminder of past and present glories&#44; awaking<lb/> in many of our brethren the sad reminiscence of the origin<lb/> of their unabated calamities sorrows.  For in it the Roman eagle<lb/> whose talons were thrust in our sides&#44; carried the exiles far<lb/> beyond away from their ancestral borders&#44; and delivered them a prey to monsters&#44;<lb/> that tore their flesh&#44; and drank their life&#45;blood.<lb/></p>
+            <p>Almighty God&#33;  Thou who hast made America the ensign<lb/> to which all tearful eyes look with hope&#44; let the device<lb/> inscribed upon its folds&#44; become the guide of the human race.<lb/>  We long for a universal festivity like that which is parti&#45;<lb/>&#45;cipated in by the millions of the natives of this land&#44; and<lb/> of the strangers.  We pray that others may enjoy that<lb/> security which fears no tyrannic molestation&#44; that progress<lb/> which is unchecked by foreign dictation&#44; that thriving<lb/> prosperity which is the effect of honored handicraft.<lb/>  Grant that country the favored republic whose birth&#45;day is now jubilantly observed&#44;<lb/> be the harbinger of the world&#39;s deliverance&#59; and as she<lb/> has proved a shield to the oppressed&#44; so may she be<lb/> the fosterer of Judah&#39;s greatness.  Then will be verified<lb/> Thy declaration of to Jeremiah rehearsed this Sabbath &#34;Thus saith the Lord&#44; I remember<lb/> unto thee the kindness of thy youth&#44; the love of thy espousals&#44;<lb/> thy going after me in the wilderness&#44; through a land<lb/></p>
+            
+            <pb n="4"/>
+            <p>that was not sown.  Israel is holiness unto the Lord&#44;<lb/> the first fruits of his increase&#44; all that devour him<lb/> shall offend&#44; evil shall come upon them&#44; saith the Lord.&#34;<lb/></p>
+            </body>
+    </text>
+</TEI>

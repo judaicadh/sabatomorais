@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF2_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">DeCasseres, David</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1882-01" source="" attested="yes">31 January 1882</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff2_5_1r.tif"/>
+                                <graphic url="smbx3ff2_5_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>David DeCasseres Esqre<lb/>
+                Dear Sir<lb/>
+                Official duties prevented my replying to<lb/> your favor of last Saturday any earlier.  I now beg leave<lb/> to say that essentially no difference exists&#44; at present&#44; in the names<lb/> &#34;Hebrew&#34;&#45;&#45;&#34;Israelite&#34;&#45;&#45;and &#34;Jew.&#34;  In their origin&#44; however&#44; they are<lb/> distinct.  I must premise a remark.  The derivation<lb/> of <del><hi rend="underline">Eber or Heber</hi></del> <hi rend="underline">Hebrew</hi> is still an open question.  While some have claimed<lb/> that it was assured as a racial appellation from &#34;Eber&#34; or &#34;Heber&#44;&#34;<lb/> son of Shelah&#44; a lineal descendant of Noah &#40;In Genesis XI. 16&#41; <del>and</del> with<lb/> whose life Rabbinical legends are connected&#44; others have intended that<lb/> it was given in Canaan to Abraham and possibly also to others<lb/> who came to that country from Syria across the Euphrates &#40;the word<lb/> Eber&#44; meaning in the language of Canaan &#34;passage over&#34;&#41; at<lb/> all wants&#44; the patriarchs were known as <hi rend="underline">Hebrews</hi>&#44; for Moses addressed<lb/> Pharaoh in the name of &#34;the God of the Hebrews.&#34;<lb/>
+                &#34;Israelite&#34; scarcely needs an explanation.  &#34;Jacob&#44;&#34; bearing <del>bering</del> an equivocal<lb/> signification &#40;see Genesis XXV.26 &#38; XXVII.36&#41; his successors preferred<lb/> that of Israel&#44; or he who struggles powerfully.  This appellation<lb/> was long retained&#44; superseding almost entirely that of &#34;Hebrew.&#34;<lb/>
+                
+                <pb n="2"/>
+                But the schism in the days of &#91;&#63;&#93; &#40;see II Kings<lb/> XII.16&#45;19 and <del>Ch</del> 2<hi rend="sup">nd</hi> Chronicles X16&#45;19&#41; gave rise to the<lb/> name <hi rend="underline">Jehudi</hi> from Jehudah since <del>For</del> the tribe of Judah&#44;<lb/>&#45;&#45;including Benjamin&#44; too small to be separately mentioned&#8212;con<lb/>tinued faithful to the house of David and invariable <del>partly</del>&#44; at least&#44; to the<lb/> cause of monotheism&#44; while the largest portion of the other ten tribes<lb/> deserted both.  At the return from the Babylonian<lb/> exile&#44; those who accompanied &#91;&#63;&#93;abel&#44; and afterwards Ezra the<lb/> priest&#44; may have mainly belonged to Judah&#59; hence&#44; the name<lb/> &#34;Judean&#34; or one inhabiting the land called <hi rend="underline">Judea</hi> after Judah was with propriety applied to the people of the ancient<lb/> faith.  <del>For a long series of ages</del> But when vulgar prejudice<lb/> began to attach an <del>opporbas</del> &#91;&#63;&#93; signification to that name&#44; the<lb/> ill&#45;&#91;&#63;&#93; over&#44; no doubt chose &#34;Israelite&#34; instead with a view to escape results.  Now the word<lb/> <hi rend="underline">Judean</hi> came to be perverted into &#34;Jew&#34; in English&#44; and J&#91;&#63;&#93; in Spanish&#44;<lb/> I <del>cann</del> am unable to say.  <del>More are</del> Nearer to <del>the Heb</del> <hi rend="underline">Jehudi</hi><lb/> is the Spanish &#34;Judis&#44;&#34; the Italian &#34;Guidio&#44;&#34; and the German<lb/> <del>Jid</del> &#34;Jude.&#34;<lb/>
+                In reality&#44; &#34;Jew&#34; as the English will have it&#8212;ought to be considered<lb/> an honorable epithet&#44; for it historically implies ad homin to the monotheistic<lb/> idea&#44; whereas <del>the</del> &#34;Israelite&#44;&#34; might recall&#44; desertion.  Still fashion is<lb/> law&#44; and few possess the moral courage to oppose it.<lb/>
+                Yours truly<lb/>
+                January 31<hi rend="sup">st</hi> 1882								S Morais<lb/></p>
+        </body>
+    </text>
+</TEI>

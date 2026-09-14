@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Belisario, Miriam</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF8_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Belisario, Miriam</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1851-12" source="" attested="yes">21 December 1851</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff8_1_3r.tif"/>
+                                <graphic url="smbx1ff8_1_3v.tif"/>
+                                <graphic url="smbx1ff8_1_1r.tif"/>
+                                <graphic url="smbx1ff8_1_1v.tif"/>
+                                <graphic url="smbx1ff8_1_2r.tif"/>
+                                <graphic url="smbx1ff8_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>S Morais Esqre<lb/>
+                South 3rd<lb/>
+                between Market &#38; Chestnut St<lb/>
+                22	Philadelphia<lb/>
+                N. America<lb/></p>
+                
+                <pb n="2"/>
+                <p>Dear Sir&#44;<lb/></p>
+                <p>I have to acknowledge<lb/> the receipt of your favor of 1<hi rend="sup">st</hi> Decr<lb/> with the order for &#163;2..8&#8211;which<lb/> has been duly honored&#44; and must<lb/> now express my sincere thanks for<lb/> your kindness in forwarding the<lb/> sale of my little work though<lb/> I regret to find you should have<lb/> misunderstood my wishes regarding<lb/> the price to be paid <hi rend="underline">to me</hi><lb/> The 2&#47;. is quite correct but I am<lb/> not entitled to receive more than<lb/></p>
+                
+                <pb n="3"/>
+                <p>1&#47;9 and I am sure you will<lb/> remember promising me on the<lb/> last evening you spent with<lb/> us&#44; that you would oblige me<lb/> by undertaking the sale of the<lb/> vocabulary on the same terms<lb/> of commission as a bookseller<lb/> otherwise I should hardly trespass<lb/> so much on a friend&#39;s interest<lb/> Should I ever forward you any<lb/> more&#44; it must indeed only be<lb/> on the condition that you deduct<lb/> what I am now indebted to you<lb/> from whatever amount you may<lb/> have to remit to me.<lb/></p>
+                <p>We regretted much to hear from<lb/> Mr. Beloses that you had been<lb/> ill and hope you are now<lb/></p>
+                
+                <pb n="4"/>
+                <p>thoroughly acclimated.  You do not<lb/> mention how you like your<lb/> new position&#44; but both Mamma &#38;<lb/> myself will always be happy to<lb/> hear of your welfare.  My Cousins<lb/> at Clapton are all well and<lb/> desire their kind remembrance<lb/> I have received a remittance<lb/> from Mr. Leeser for the books<lb/> he had of mine.  You will<lb/> I am sure regret to hear that<lb/> my Mother&#39;s ill health has<lb/> obliged me to give up teaching<lb/> altogether however I had the<lb/> pleasure of advancing my<lb/> favorite Octavius to translating<lb/> many portions of the Prophets.<lb/></p>
+                
+                <pb n="5"/>
+                <p>and last Purim he read the<lb/> Megillo extremely well.<lb/>
+                With every assurance of<lb/> respect &#38; friendship<lb/>
+                I remain Dr Sir<lb/>
+                Your obliged Pupil<lb/>
+                Miriam Belisario<lb/>
+                18 King St<lb/>
+                Finsburg Sqre<lb/>
+                21<hi rend="sup">st</hi> Dec&#47;51<lb/></p>
+                
+                <p>S. Morais Esqre<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

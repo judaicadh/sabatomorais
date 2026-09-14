@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx13FF19_12</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx13ff19_12_1r.tif"/>
+                                <graphic url="smbx13ff19_12_1v.tif"/>
+                                <graphic url="smbx13ff19_12_2r.tif"/>
+                                <graphic url="smbx13ff19_12_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For the Fair<lb/>
+                in aid of the H E S &#38; S. Schools.<lb/></p>
+            
+            <p>Ladies and Gentlemen.  Honored by the request<lb/> to address this vast assemblage&#44; I shall take good heed not to<lb/> encroach on my neighbor&#39;s privilege.  Of the two objects<lb/> which this Fair aims to attain&#44; I shall speak of that&#44;<lb/> which&#44; I have reason to think&#44; I was selected specially to plead<lb/> for.  Both objects are near to my heart have of an equal high importance.  They are in fact in&#45;<lb/>&#45;terwoven together.  You cannot separate rudimental Hebrew<lb/> from rudimental Jewish history.  To cultivate the lan&#45;<lb/>&#45;guage of the our sacred books&#44; and keep in ignorance of their<lb/> contents&#44; would be like raising four walls&#44; and passing<lb/> them off for a complete house structure.  Hebrew schools and Sun&#45;<lb/>&#45;day schools are identical in their designs and workings.<lb/>  But the claims of the former will be fittingly presented&#44;<lb/> after the few moments that I shall have engaged your<lb/> kind attention.<lb/></p>
+            <p>Our uncongregational Sunday Schools unpretentiously furnish many a<lb/> requisite for the rearing of a religious life.  Their origin<lb/> is the interpretation of a sentiment cherished by a Jewess<lb/> of the noblest type&#59; their history is the effort of her<lb/> sisters in faith to prevent practical Judaism from wearing<lb/> away by a contrast attraction with friction against hostile beliefs.<lb/></p>
+            
+            <pb n="2"/>
+            <p>From five to six hundred of our sons and<lb/> daughters&#44; some of whom in a decade of years shall<lb/> have merged formed a new generation of Jewish society&#44; carry<lb/> from thence every week useful information&#59; a learning&#44;&#45;&#45;<lb/> modest moderate indeed as it is which is calculated nevertheless to inspire love for<lb/> virtue&#44; abhorrence for vice&#44; and a wish to hold fast<lb/> to God&#39;s eternal truths.<lb/></p>
+            <p>This is not the occasion nor the hour when I should<lb/> dilate upon the plan whereby the institution you<lb/> are about to benefit strives to develop the mind<lb/> and shape the heart rightly in justice to my coreligionists who gratuitously devote their time to the goodly work&#44; but I may&#44; in passing&#44; say in passing that the law of progressive has not been disregarded.<lb/>  The almost exclusively catechism system has been<lb/> considerably superseded by verbal oral instruction&#59; by<lb/> explanations in which the deeds of Biblical characters<lb/> are set forth in their beauty or in their hideousness.<lb/>  Thus the effects of righteousness and its opposite<lb/> are early revealed to our youths.<lb/></p>
+            <p>But the Northern section of the institution&#44; which has the<lb/> larger number of attendants&#44; is exposed to inconveniences<lb/> which we have been unable to obviate.  Our charges little scholars<lb/> must meet in a room ill&#45;ventilated&#44; unequally heated&#44;<lb/></p>
+            
+            <pb n="3"/>
+            <p>having a low&#45;ceiling&#44; reverberated sounds that&#44; greatly to<lb/> our annoyance strikes back each sounds&#44; and lacking proper <sic>accomodations</sic> for seating<lb/> and reading.  These draw&#45;backs have been long expe&#45;<lb/>&#45;rienced&#59; but the institution&#44; knowing the constant incessant demands<lb/> on the Jewish public&#44; has always been loth to come for&#45;<lb/>&#45;ward as a claimant to the generosity of our brethren.<lb/>  The Hebrew Education Society&#44; feeling that the Hebrew Sunday<lb/> School has the same sacred object in view&#44; as itself it has<lb/> itself ever had allowed it&#44; promoted with a commendable spirit allowed<lb/> its the Northern section for over a quarter of a century&#44; the free use of a lower room in<lb/> the bil building endowed by the philanthropist&#44; Judah Touro&#44;<lb/> But now it has become imperatively needful to procure a<lb/> hall more adapted to our requirements&#44; more inviting to<lb/> pupils and teachers.  The memories of the past&#59; and a<lb/> sense of gratitude&#44; suggested at once the idea of repairing the<lb/> whole edifice&#44; fast decaying&#44; and preparing thereat a hall<lb/> suitable to the purpose&#44; and affording every comfort.<lb/>  This fair is the result of that idea.  And whatever<lb/> may be said of the practice&#44; so much in vogue&#44; of rai&#45;<lb/>&#45;sing material means by a Fair way&#45;&#45;and I forbear dis&#45;<lb/>&#45;cussing that point&#45;&#45;&#44; great merit is due&#44; and thanks<lb/> are to be awarded to the ladies and gentlemen various committees of the Teachers&#39; Association.<lb/></p>
+            
+            <pb n="4"/>
+            <p>They set the wheel in motion&#44; which will roll down<lb/> abundant success.  They put their shoulders under to it&#44; with<lb/> a steadfast determination that it should not stop&#44; till the<lb/> final goal is reached.<lb/></p>
+            <p>Ladies and Gentlemen.  Your crowded attendance on the night<lb/> of the 24th is a prognostic of our material gratulations on<lb/> the night of the 27th.  Open wide your purse&#45;strings&#59;<lb/> let the gold flow&#44; it will stream down into a noble<lb/> field.  Buy even if you don&#39;t need the object.  You<lb/> will find no difficulty in disposing thereof charitably.<lb/>  Let these four days and four nights create a pleasant<lb/> rivalry in doing the best and the most for the cause.<lb/>  From the fair During their continuance&#44; agreeable acquaintances may  be formed&#44;<lb/> friendship may sper spring up&#44; and when years shall<lb/> have glided away&#44; the Fair in aid of two sister in&#45;<lb/>&#45;stitutions of Philadelphia&#44; will remain linger in the mind as a gladsome<lb/> reminiscence of younger days.<lb/></p> 
+            <p>Ladies and Gentlemen.  With a full appreciation of<lb/> the liberality of our Jewish and Christian contributors&#44;<lb/> I wish you all a splendid time.<lb/></p>
+            </body>
+    </text>
+</TEI>

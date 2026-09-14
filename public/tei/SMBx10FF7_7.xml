@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx10FF7_7</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx10ff7_7_1r.tif"/>
+                                <graphic url="smbx10ff7_7_1v.tif"/>
+                                <graphic url="smbx10ff7_7_2r.tif"/>
+                                <graphic url="smbx10ff7_7_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>121</p>
+            <p>&#91;Hebrew&#93;<lb/></p>
+            <p>Life is a gift from God&#44; and we should en&#45;<lb/>&#45;deavour to enjoy it within lawful bounds&#44; not<lb/> selfishly&#44; but broadly humanely&#44; fraternally.  Cloisters&#44;<lb/> mendicant orders&#44; celibacy are institutions that<lb/> never could strike root in Judaism.  To withdraw<lb/> from the world&#44; and devote the years allotted to<lb/> us by Providence here below&#44; to self&#45;imposed privations&#44;<lb/> in the hope of that we will ascending heaven&#44; by turning our<lb/> backs upon the earth&#59; to direct our minds eyes to the<lb/> contemplation of a future that has been most wisely<lb/> been veiled from human vision&#44; is the to misunder&#45;<lb/>&#45;stand religion&#44; in its spirit and in its very letter. &#91;Hebrew&#93;<lb/>  The sect of The Essenes&#45;&#45;whom we may term Jewish monks&#45;&#45;formed a sect which at one period of<lb/> our history existed in Judea but it was an excrescence on<lb/> our body politic.  The unfortunate condition of the<lb/> time gave it origin&#44; but and it was lost&#44; or it merged<lb/> in nascent Christianity&#44; because it was un&#45;Jewish.<lb/>  Its members who separated themselves from the com&#45;<lb/>&#45;munity&#44; and some of whom vowed not to marry&#44; were<lb/> in open war with the faith&#44; which this fancied to serve&#44;<lb/></p>
+            
+            <pb n="2"/>
+            <p>and they were cut off perished from our midst because<lb/> their doctrines ill&#45;accorded with the principles underlying Mosaism.  You<lb/> have it heard your religion speak&#44; my Brethren&#44; and never has it<lb/> spoken more clearly than in connection with the<lb/> festival that Israelites greet everywhere this day.<lb/>  Let me quote once more in full the words of the archpro&#45;<lb/>&#45;phet as they occur in Deuteronomy Chap XVI. v. 14.<lb/>  &#34;Thou shalt rejoice in thy feast&#44; thou and thy son&#44; and<lb/> thy daughter and thy man&#45;servant&#44; and thy maid&#45;<lb/>servant&#44; and the Levite and the stranger and<lb/> the fatherless and the widow that are in thy<lb/> gates.&#34;  Mark it well.  In families&#44; not in<lb/> a state of voluntary and deliberate solitariness<lb/> can we enjoy the blessings of Him that makes the<lb/> soil smile with plenty.  In families&#44; which<lb/> Isaiah in his sublime outpourings&#44; calls the working<lb/> of God&#44; the very aim of the Creation &#91;Hebrew&#93;<lb/> In families&#44; which the psalmist in his splendid<lb/> effusions prayed that pictured as they might increased innumer&#45;<lb/>ably &#91;Hebrew&#93;.  But what constituted a man&#39;s<lb/> household in Israel&#44; simply those to whom he<lb/> gave material existence&#63;  O Ye that heedlessly<lb/> charge Judaism with the sin of which the world<lb/></p>
+            
+            <pb n="3"/>
+            <p>is not yet purged&#33;  Pause and bethink yourselves.<lb/>  When slavery was every where engrafted on the<lb/> codes that governed society&#44; when Rome that<lb/> gave laws to the known world declared one<lb/> born in bondage pro quadrupedibes&#45;&#45;brute&#45;like&#44; the<lb/> Hebrews possessed a legislation&#44; coeval with the<lb/> ancient empire of Egypt&#44; which commanded<lb/> that the man&#45;servant and the maid&#45;servant receive<lb/> considerate attention and be cared for like the child&#45;<lb/>&#45;ren of the family.  And here let me observe in passing&#44;<lb/> that the word &#91;Hebrew&#93;&#44;&#45;&#45;translated &#34;slaves&#44;&#34; is a term<lb/> free from any opprobrious meaning&#44; for it is ap&#45;<lb/>&#45;plied even to the highest officer in the kingdom&#44;<lb/> and &#91;Hebrew&#93;&#44; mostly used to signify a bond&#45;woman&#44;<lb/> is derived from &#91;Hebrew&#93;&#44; denoting family&#44; of which<lb/> she is a recognized member&#44; enjoying Sabbath<lb/> rest&#44; the national festivities&#44; and the same privi&#45;<lb/>&#45;leges that the Levite&#44; who did not possess an estate&#44;<lb/> could claim&#44; and the stranger who sought shelter<lb/> in Judea&#44; and whom we were enjoined to love like<lb/> ourselves&#44; and the orphan and the widow&#44; who<lb/> did not look for the alms doled out&#44; but expected bro&#45;<lb/>&#45;therly and sisterly beneficence in obedience to the Law.<lb/></p>
+            
+            <pb n="4"/>
+            <p>Oh that they who have a noble heritage would<lb/> adequately value it &#91;Hebrew&#93;.  Would that<lb/> they studied the code before whose spiritual bright&#45;<lb/>&#45;ness the statutes of the most renowned nations<lb/> pale.  Often &#38;c<lb/></p>
+            </body>
+    </text>
+</TEI>

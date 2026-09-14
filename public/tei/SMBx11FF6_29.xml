@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF6_29</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1884" source="" attested="yes">1884</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff6_29_1r.tif"/>
+                                <graphic url="smbx11ff6_29_1v.tif"/>
+                                <graphic url="smbx11ff6_29_2r.tif"/>
+                                <graphic url="smbx11ff6_29_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For a funeral<lb/></p>
+            <p>&#34;When a member of an association dies&#44; all his surviving<lb/> associates should mourn.&#34;  This Talmudical sentence has<lb/> an obvious illustration on the sad melancholy occasion which has<lb/> drawn us together.  I deplore a void suddenly created in<lb/> the body under my spiritual ministration&#59; its tem&#45;<lb/>&#45;poral directors bewail the absence of a colleague&#44; who<lb/> labored with them in the interest of the same religious<lb/> organization.  For Meyer Gans&#44; besides contributing to the<lb/> maintenance of the Congregation &#34;Mikv&#233; Israel&#34; and per&#45;<lb/>&#45;sonally increasing the numerical strength of its synago&#45;<lb/>&#45;gue <sic>worshippers</sic>&#44; served for a long period on the Board<lb/> of Adjunta&#44; or administrators.  As the position repeatedly<lb/> offered&#44; and as frequently accepted brought its occupant<lb/> no material advantage&#44; but it rather entailed exertions&#44; and at times<lb/> anxious lively concern&#44; it is natural that the absence loss of him who<lb/> held the office should be deeply felt.  Therefore myself<lb/> and those to whose guardianship the welfare of a holy<lb/> and ancient institution of Philadelphia has been com&#45;<lb/>&#45;mitted&#44; have just motives to lament.<lb/></p>
+            <p>But the sorrow regret we experienced&#44; if weighed in the balance<lb/></p>
+            
+            <pb n="2"/>
+            <p>together with that of the family of our deceased coreligionist&#44;<lb/> would be light beyond comparison.  Like one crushed stunned<lb/> by a stunning severe blow&#44; so is the wife of Meyer Gans over&#45;<lb/>&#45;powered.  She cannot realize her bereavement useful the sad transition&#44; the<lb/> quick departure&#44; of her husband and her widowhood.<lb/>  Her grief must be profound&#44; nor will the thought that<lb/> other women have suffered an equal loss and have had<lb/> less means at their command&#44; be a comfort to her in her<lb/> present distress.  For when the heart bleeds&#44; different ap&#45;<lb/>pliances than very different form the cold consideration of riches representations of heaped up gold must be<lb/> sought after.  I would not stand here in the name<lb/> of our faith&#44; if I imagined that the deepest of human<lb/> emotions&#44; proving our elevation above materialism&#44; can<lb/> be overcome by the sight of gold accumulated riches.  No&#58; our sorrows<lb/> are sanctified&#44; because they speak the language of<lb/> the soul&#44; spiritual&#44; pure&#44; ethereal.<lb/></p>
+            <p>The appliances by which to alleviate the pains of a<lb/> wife bereft of her life companion&#44; are in this<lb/> instance ready at hand.  Her Sons and daughters<lb/> must become her a soothing balm.  I am not ignorant<lb/> of the obligations&#44; which necessarily hinder some of<lb/> her children from bestowing upon their mother undivided<lb/></p>
+            
+            <pb n="3"/>
+            <p>attention&#44; but others can yet devote themselves with<lb/> singleness of mind purpose to the furtherance of her happiness.<lb/>  Their married sisters may will help to temper the bitterness<lb/> of the separation which death has occasioned&#59; they<lb/> that are single must sweeten the widow&#39;s exist&#45;<lb/>&#45;ance.  Upon them I chiefly call at this solemn hour<lb/> and them I adjure by every memory&#44; which is sacred<lb/> and by our belief which is Divine&#44; to rise equal to<lb/> their obligations duty and perform it in a manner which will<lb/> ennoble their own existence.  Whatever may have<lb/> savored heretofore of worldliness and juvenile indiscre&#45;<lb/>&#45;tion must henceforth change into seriousness and<lb/> manliness.  Such is the ordinance of Him who<lb/> has promised lasting rewards to filial devotion.  Un&#45; In accord<lb/> &#45;fortunate to &#45;ance with their age and their station must be<lb/> the endeavours of the offspring of Meyer Gans<lb/> to win for his widow &#91;&#63;&#93; enduring consolations.<lb/></p>
+            <p>My prayers are for her&#44; and for all the mourners<lb/> that they may be sustained in their affliction by<lb/> mutual affection&#44; by union and peace.  May<lb/> he who has very nigh reached the four score years<lb/> indicative of strength exceptional vigour&#44; and who is distressed at the<lb/></p>
+            
+            <pb n="4"/>
+            <p>demise of his younger brother&#44; be not enfeebled<lb/> by the trial&#44; but receive from the source of power<lb/> fresher vigour strength to bestow it on works of beneficence charity.<lb/>  May all who will miss Meyer Gans in their<lb/> domestic circles&#44; or in their communal&#44; beneficial&#44; or social companionship intercourse<lb/> be gladdened cheered by the soul rejoicing gladdening doctrine that<lb/> death holds the golden keys opening to God&#39;s creatures<lb/> the portals of a celestial Eden.  May the congrega&#45;<lb/>&#45;tion affected in its temporal and religious condition<lb/> by this demise decease&#44; and by departures unhappily occurs in quick<lb/> succession&#44; find in the survivors equivalent supporters<lb/> and strenuous upholders.  And for our dead brother<lb/> I beseech Thee O Father of mercy&#33;  Grant O Lord that<lb/> the accusations of sin may not silence the pleadings<lb/> of virtues.  Let O Lord&#33; the sentence now issuing from Thy tri&#45;<lb/>&#45;bunal be eternal deliverance&#44; and a command to an&#45;<lb/>&#45;gelic beings to convey the soul of Thy servant<lb/> into the realms of unalloyed bliss&#44; amid the<lb/> association of the righteous and the saints.  So<lb/> may it be.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

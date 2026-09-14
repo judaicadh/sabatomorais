@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hendricks, L. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF1_59</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hendricks, L. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1881-04" source="" attested="yes">17 April 1881</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff1_60_1r.tif"/>
+                                <graphic url="smbx3ff1_60_1v.tif"/>
+                                <graphic url="smbx3ff1_60_2r.tif"/>
+                                <graphic url="smbx3ff1_60_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>New York&#44; April 17<hi rend="sup">th</hi> 1881.<lb/></p>
+            <p>Revd M. S. Morais<lb/>
+                Dear Sir&#58;<lb/></p>
+            <p>I beg leave to call your attention to a<lb/> Society&#44; lately organized in this city&#44; and called the<lb/> Mount Sinai Training School for Nurses.  This in&#45;<lb/>stitution has for its object the education of nurses for<lb/> the sick.  It provides for a class of Jewish women<lb/> who hitherto have been forced to engage in less con&#45;<lb/>genial work.  The Managers are especially anxious to<lb/> have the attention of Jewesses directed to the advan<lb/>tages of the school.  The pupil nurses will be<lb/> boarded and lodged gratuitously in a private dwelling<lb/> near Mount Sinai Hospital and will receive their<lb/> training in the wards of that Hospital and from<lb/> lectures and instruction given by the Superintendent<lb/> of the Training School and by the Visiting and<lb/> Resident Physicians of the Hospital.  Before for&#45;<lb/>mally entering the School there is allowed a<lb/> month of probation.  A suitable allowance will be<lb/> given to them for their personal expenses during<lb/> the two years of the course.  The nurses will have<lb/> time each day for exercise and rest&#44; every alternate<lb/> Saturday&#44; often an afternoon of leisure in the week&#44;<lb/> and a vacation of two weeks is allowed each year.<lb/>  At the end of their course&#44; a diploma is given to<lb/></p>
+                
+                <pb n="2"/>
+            <p>them and they can then command twenty dollars<lb/> per week for their services in private cases.<lb/></p>
+            <p>As it is the desire of the Managers to enable<lb/> Jewesses to obtain this remunerative means of<lb/> livelihood&#44; it is with this view that they write to<lb/> ask you if you will be kind enough to call the<lb/> attention of your congregation to the existence of the<lb/> Society and explain its object and workings.  It<lb/> is hoped that some women of your congregation will<lb/> avail themselves of this opportunity and also that<lb/> you will make personal effort to bring the ad&#45;<lb/>vantages that this Society affords to the notice of<lb/> such persons as you think will be glad to enter<lb/> this profession&#44; and also state that applications may<lb/> be sent to Miss Rich&#44;<lb/></p>
+            <p>Superintendent &#34;Mt. Sinai Training School for Nurses&#44;&#34;<lb/>
+                153 East 45<hi rend="sup">th</hi> Street&#44;<lb/>
+                New York City&#44;<lb/>
+                N. Y.<lb/>
+                Trusting that we may obtain a speedy answer to<lb/> this appeal as the School will open on the 1<hi rend="sup">st</hi> of<lb/> May.<lb/></p>
+            <p>I am&#44;<lb/>
+                Respectfully yrs<lb/>
+                L. I. Hendricks&#44;<lb/>
+                Secty.<lb/></p>
+        </body>
+    </text>
+</TEI>

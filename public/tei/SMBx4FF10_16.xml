@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Winstock, Melvin G.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF10_16</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Winstock, Melvin G.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Morais</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-05" source="" attested="yes">7 May 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff10_16_1r.tif"/>
+                                <graphic url="smbx4ff10_16_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+                
+            <p>Melvin G. Winstock Esq<lb/></p>
+            <p>My Dear Sir<lb/></p>
+            <p>I have just received your note.  I hasten<lb/> to acknowledge it&#44; and express my sentiments with<lb/> the openness usual with me.<lb/></p>
+            <p>A short time ago Mr Oscar Teller asked that I would<lb/> state when I <del>considered</del> thought it suitable to hold a meeting<lb/> in the interest of the projected &#34;Publication Society&#34;.  I<lb/> answered that I would be on hand whenever held.<lb/>  Yesterday I read <del>in full</del> the whole lecture on &#34;the Saturday and<lb/> the Sunday Sabbath.......by Rabbi Joseph Braus&#45;<lb/>kopf DD&#34;.  The <del>grief</del> pain it caused me was profound great<lb/></p>
+            <p>It were idle to discuss its contents in a letter&#44; but to<lb/> one whole <del>whole</del> life&#45;work has been an endeavour to<lb/> strengthen Judaism as received and as suffered for&#44; trying<lb/> to awaken a sense of reverence for it in all classes of<lb/> our people&#44; without breathing a word of contempt for<lb/> fellow creatures of another creed&#44; that &#34;Sunday lecture of<lb/> April 2 AM 1888&#34;&#44; must have <del>given a shock</del> proved a source of deep regret.<lb/></p>
+            <p>I have been anxiously watched Dr Krauskopf&#39;s<lb/></p>
+                
+                <pb n="2"/>
+            <p>course from its beginning&#44; and I could not help seeing<lb/> that it was destructive of all which I hold dear.<lb/>  Still&#44; the closing sermon of the season <del>furied</del> shocked me irre&#45;<lb/>pressibly.  Among other things of which the preacher<lb/> makes public boast&#44; is the following&#58; &#34;The American<lb/> Jewish Publication Society&#44; about to be organized in<lb/> this city&#44; has emanated from the Sunday Service.&#34;<lb/>  God forbid that I shall sit in council to legislate<lb/> concerning a scheme that has so unjewish an origin.<lb/>  I will not &#34;be a member of the committee of ar&#45;<lb/>rangements&#34;.  I <del>regret lament</del> regret it&#44; because the opponents<lb/> of my religion&#45;&#45;Alas&#33; men born in it&#33;&#45;&#45;will mis&#45;<lb/>construe my declination.  Suffice <del>for me to</del> that I<lb/> know <del>that I hear no ill will against me&#44;</del> to be free from the sin of hatred&#44; and<lb/> as for jealousy&#44; I can have none.  My career is<lb/> <del>pretty well</del> nearly run.  I cannot expect at my age to<lb/> enter the lists with youths&#44; through which I am permitted<lb/> to work &#38; I trust not to out live my capacity for it&#44; I shall defend what I consider true.<lb/>  Yours friendly<lb/> S. Morais<lb/> May 7. 88<lb/></p>
+            </body>
+    </text>
+</TEI>

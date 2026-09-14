@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hays, Daniel P.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF2_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hays, Daniel P.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1891-02" source="" attested="yes">12 February 1891</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff2_1_1r.tif"/>
+                                <graphic url="smbx6ff2_1_1v.tif"/>
+                                <graphic url="smbx6ff2_1_2r.tif"/>
+                                <graphic url="smbx6ff2_1_2v.tif"/>
+                                <graphic url="smbx6ff2_1_3r.tif"/>
+                                <graphic url="smbx6ff2_1_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>TELEPHONE&#45;CORTLANDT 1093.<lb/></p>
+            <p>Law Offices of<lb/>
+                Hays &#38; Greenbaum&#44;<lb/>
+                170 Broadway&#44;<lb/></p>
+            <p>Daniel P. Hays.<lb/>
+                Samuel Greenbaum.</p>
+            <p>New York Feb 12&#39; 1891<lb/></p>
+            <p>Dear Doctor<lb/></p>
+            <p>As you will see by the<lb/> enclosed circular we expect you to be present<lb/> on Sunday next and address the meeting<lb/> which we hope will be better attended than<lb/> the last.  I took the liberty of putting<lb/> your name in the circular before inviting<lb/> you&#44; knowing that we could depend upon you<lb/> as one of the staunch friends of the Seminary<lb/> or rather its truest and best friend.<lb/></p>
+            <p>Hoping to see you there<lb/> I am very truly<lb/> Danl. P. Hays<lb/>
+                Rev. Dr. S. Morais<lb/></p>
+                
+                <pb n="2"/>
+            <p>The Jewish Theological Seminary Association.<lb/>
+                Trustees.<lb/></p>
+            <p>Hon. JOSEPH BLUMENTHAL&#44; President&#44;		151 East 73d Street&#44; New York.<lb/>
+                Dr. A. FRIEDENWALD&#44; Vice&#45;President&#44;		310 N. Eutaw Street&#44; Baltimore&#44; Md.<lb/>
+                NEWMAN COWEN&#44; Treasurer&#44;			207 Canal Street&#44; New York.<lb/>
+                DANIEL P. HAYS&#44; Secretary&#44;			170 Broadway&#44; New York.<lb/>
+                LOUIS ASH&#44;						679 Lexington Avenue&#44; New York.<lb/>
+                MAX COHEN&#44;					336 East 50th Street&#44; New York.<lb/>
+                DR. S. SOLIS&#45;COHEN&#44;				219 So. 17th Street&#44; Philadelphia.<lb/>
+                ISAAC FLES&#44;						157 E. 108th Street&#44; New York.<lb/>
+                WILLIAM H. GOLDSTEIN&#44;				481 Broadway&#44; New York.<lb/>
+                S. M. HYNEMAN&#44;					715 Drexel Building&#44; Philadelphia.<lb/>
+                S. JARMULOWSKY&#44;					54 Canal Street&#44; New York.<lb/>
+                NATHAN LEVIN&#44;					5 East Broadway&#44; New York.<lb/>
+                JOSEPH E. NEWBURGER&#44;				237 Broadway&#44; New York.<lb/>
+                MOSES OTTINGER&#44;					110 East 61st Street&#44; New York.<lb/>
+                EDGAR PHILLIPS&#44;					36 West 12th Street&#44; New York.<lb/>
+                D. M. PIZA&#44;						495 Lexington Avenue&#44; New York.<lb/>
+                EDWARD L. ROTHSCHILD&#44;			219 So. Front Street&#44; Philadelphia.<lb/>
+                JACOB SINGER&#44;					431 Chestnut Street&#44; Philadelphia.<lb/>
+                JONAS WEIL&#44;					327 East 51st Street&#44; New York.<lb/></p>
+            <p>Advisory Board of Ministers.<lb/></p>
+            <p>Rev. Dr. S. MORAIS&#44;					546 N. 5th Street&#44; Philadelphia&#44; Pa.<lb/>		
+                Rev. Dr. A. KOHUT&#44;					39 Beekman Place&#44; New York.<lb/>
+                Rev. Dr. M. JASTROW&#44;				925 N. 8th Street&#44; Philadelphia&#44; Pa.<lb/>
+                Rev. A. P. MENDES&#44;					Newport&#44; R. I.<lb/>
+                Rev. Dr. H. S. JACOBS&#44;				144 East 65th Street&#44; New York.<lb/>
+                Rev. Dr. F. deSOLA MENDES&#44;			163 West 73d Street&#44; New York.<lb/>
+                Rev. Dr. A. WISE&#44;					324 East 30th Street&#44; New York.<lb/>
+                Rev. Dr. M. MAISNER&#44;				874 Lexington Avenue&#44; New York.<lb/>
+                Rev. Dr. H. W. SCHNEEBERGER&#44;			336 East Baltimore Street&#44; Baltimore.<lb/>
+                Rev. Dr. H. P. MENDES&#44;				152 West 49th Street&#44; New York.<lb/>
+                Rev. Dr. B. DRACHMAN&#44;				329 East 51st Street&#44; New York.<lb/></p>
+            <p>President of the Faculty.<lb/>
+                Rev. S. MORAIS&#44; LL. D.<lb/>
+                Preceptors.<lb/></p>
+            <p>Rev. Dr. B. DRACHMAN&#44;				Bible&#44; Hebrew&#44; Grammar and Composition.<lb/>
+                Dr. G. LIEBERMAN&#44;					Mishna and Gemara.<lb/>
+                Dr. CYRUS ADLER&#44; of Johns Hopkins&#39; University&#44;	Lecturer on Biblical Archaeology.<lb/></p>
+            <p>SEMINARY ROOMS&#58; 31 Cooper Union&#44; New York.<lb/></p>
+            
+            <pb n="3"/>
+            <p>DEAR SIR&#58;<lb/></p>
+            <p>In obedience to the generally expressed opinion that there was urgent need for the maintenance of<lb/> a seat of Jewish learning in New York City&#44; the center of Judaism in America&#44; the Jewish Theological<lb/> Seminary Association was organized five years ago.<lb/></p>
+            <p>The need was recognized as urgent&#44; because it was felt that Rabbis and teachers trained in this<lb/> country&#44; surrounded  by the intellectual and moral influences of this land&#44; and imbued with the spirit of<lb/> American institutions&#44; can better thoroughly reach the heart of Jewish youth and enter into sympathy with<lb/> the spiritual life and thought of our time and people.<lb/></p>
+            <p>Since then the need of such a seminary has become intensified by the enormous Jewish immigration<lb/> from Russia in recent years.<lb/></p>
+            <p>The most effectual method of carrying on the necessary work of Americanization in its best and<lb/> highest sense&#44; is by sending among them religious guides who will command their respect by their Hebrew<lb/> learning and their religious fervor&#44; and who will effect the social elevation of their brethren by the culture<lb/> and refinement of their customs&#44; habits&#44; speech and demeanor.<lb/></p>
+            <p>The importance of maintaining such an educational institution should receive universal recognition.<lb/>  The Faculty and Trustees of the Jewish Theological Seminary have put forth every effort to develop the<lb/> institution in consonance with the best and most approved modern collegiate methods&#44; and in a manner<lb/> to meet the needs of the Jewish pulpit and school&#45;room in America.  Every student of the Seminary is<lb/> required to secure a thorough secular collegiate training&#44; and to evince a special aptitude for a ministerial<lb/> career or for the exercise of teaching functions&#59; and the object of the Seminary is to provide him with the<lb/> facilities for training this aptitude and developing these functions.<lb/></p>
+            <p>After five years of experience and progress&#44; the necessity confronts the trustees of enlarging the<lb/> facilities of the Seminary.  There is need for an increase in the teaching staff.  A well&#45;equipped working<lb/> library is an urgent necessity&#44; and so is the provision of a building properly fitted for the purposes of the<lb/> Seminary.<lb/></p>
+            <p>In order to meet these needs we appeal to the Jewish community for early and adequate financial<lb/> assistance.  We have hitherto refrained from making any extensive and organized appeal to the public.<lb/>  We now feel justified&#44; however&#44; in presenting our claim to the support of the Jewish community in behalf<lb/> of our educational institution&#44; which&#44; as a seat of learning&#44; should be a source of pride to our people and an<lb/> element of assurance for the future weal of Judaism in America.<lb/></p>
+            <p>The existence of two such scholarly seats of learning in our city as the General Theological Semi&#45;<lb/>nary of the Protestant Episcopal Church and the Union Theological Seminary of Presbyterian proclivities&#44;<lb/> should inspire the Jewish community to earnest efforts to place the Jewish Theological Seminary on a plane<lb/> of equal efficiency with its sister institutions.<lb/></p>
+            <p>On the basis of the recent census Dr. Billings&#44; who had charge of vital statistics&#44; estimates that of<lb/> the half a million Jews in this country fully one&#45;third are resident in this city.<lb/></p>
+            <p>This is sufficient to indicate how urgent is the need for making suitable provision for the religious<lb/> education of this vast multitude&#44; and to demonstrate how capable such a community is to adequately sup&#45;<lb/>port the Seminary&#44; which is the practical instrument for assuring the training of those who are to carry on<lb/> this task of education in America.<lb/></p>
+            <p>Our brethren in other cities&#44; especially Philadelphia and Baltimore&#44; have contributed a notable share<lb/> hitherto in supplying the money necessary for the maintenance of the Seminary.  The time has come when<lb/> our co&#45;religionists in New York City itself&#44; where it is situated&#44; should vindicate their reputation for gener&#45;<lb/>osity in all that pertains to philanthropy and education&#44; and in larger numbers and in a more liberal<lb/> manner&#44; contribute to the funds of this organization in order that its usefulness may be increased.<lb/></p>
+            <p>The pupils of the Seminary are at present divided into three classes&#44; which are held at Cooper<lb/> Union&#44; Room 22.<lb/></p>
+            <p>There are six in the preparatory class&#44; ranging in age from thirteen to fifteen years&#44; and who have<lb/> pursued their studies in the Seminary during one or two terms.  In the Junior Grade there are three<lb/></p>
+                
+            <pb n="4"/>
+            <p>pupils&#44; varying in age from fifteen to seventeen years&#44; who have been connected with the Seminary about<lb/> two years.<lb/></p>
+            <p>In the Senior Class there are four pupils&#44; aged from seventeen to twenty years&#44; who have been<lb/> engaged in the pursuit of their studies at the Seminary two and three years.<lb/></p>
+            <p>Of these students eleven are from New York and two from Philadelphia.<lb/></p>
+            <p>Five were either born in the United States&#44; or brought here in early childhood.<lb/></p>
+            <p>There are three students attending the sessions of the preparatory class who have not yet had been regu&#45;<lb/>larly admitted.<lb/></p>
+            <p>It is possible that the first fruits of the efforts of the Seminary will be made manifest to the Jewish<lb/> community by the graduation of a class in three years.<lb/></p>
+            <p>It is hoped that after reading this appeal you will be inspired with the wish to aid the Seminary by<lb/> contributing to its support.<lb/></p>
+            <p>Membership is open to every Jew and Jewess&#44; and to every Jewish congregation and kindred<lb/> association.<lb/></p>
+            <p>Patrons pay &#36;10 annually.<lb/></p>
+            <p>Subscribers pay &#36;5 annually.<lb/></p>
+            <p>Life patrons pay &#36;200.<lb/></p>
+            <p>Life subscribers pay &#36;100.<lb/></p>
+            <p>Donations of &#36;500 entitle the donor to Honorary Life Patronship.<lb/></p>
+            <p>Scholarships may be founded upon the payment of &#36;2&#44;500&#44; and Fellowships upon the payment of<lb/> &#36;5&#44;000.<lb/></p>
+            <p>If you are willing to aid the Seminary&#44; please fill out blank spaces on enclosed postal&#45;card&#44; and<lb/> forward to DANIEL P. HAYS&#44; Secretary&#44; 721 Lexington Avenue&#44; New York.<lb/></p>
+            <p>Respectfully&#44;<lb/> JOSEPH BLUMENTHAL&#44;<lb/> <emph rend="italics">President</emph>.<lb/></p>
+            <p>DANIEL P. HAYS&#44;<lb/>
+                <emph rend="italics">Secretary</emph>.<lb/></p>
+            </body>
+    </text>
+</TEI>

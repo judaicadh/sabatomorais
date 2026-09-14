@@ -41,8 +41,20 @@ src/
 ## Adding your data
 
 The whole collection lives in [`src/data/items.json`](src/data/items.json) — an
-array of item objects. The sample records there (marked `SAMPLE`) show the shape.
-Replace them with your real items. Per item, the reading view uses:
+array of item objects. It is **generated from the TEI files** in `public/tei/`:
+
+```bash
+node scripts/generateItems.mjs     # rebuilds src/data/items.json from public/tei/*.xml
+```
+
+The generator ([`scripts/generateItems.mjs`](scripts/generateItems.mjs)) reads each
+TEI header and body and derives the id, title (from the first meaningful body line),
+a description excerpt, author, addressee, place, date, language, and page extent. It
+classifies items with an addressee as `Letter`, otherwise `Manuscript`. Curated
+titles/descriptions can be pinned per id in the `OVERRIDES` map at the top of the
+script. Re-run it whenever you add or change TEI files.
+
+Per item, the reading view uses:
 
 | Field                       | Purpose                                                        |
 | --------------------------- | ------------------------------------------------------------- |

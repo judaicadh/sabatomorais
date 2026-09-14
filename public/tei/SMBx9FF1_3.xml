@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx9FF1_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx9ff1_3_3v.tif"/>
+                                <graphic url="smbx9ff1_3_1v.tif"/>
+                                <graphic url="smbx9ff1_3_2r.tif"/>
+                                <graphic url="smbx9ff1_3_2v.tif"/>
+                                <graphic url="smbx9ff1_3_3r.tif"/>
+                                <graphic url="smbx9ff1_3_4r.tif"/>
+                                <graphic url="smbx9ff1_3_1r.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>7 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>&#91;Hebrew&#93;
+                An explanatory lecture<lb/></p>
+            
+            <pb n="2"/>
+            <p>Dear Brethren&#33;  Of the twelve sections in which the book of Genesis is divided&#44; the<lb/> first&#44; called &#34;Beresheet&#34; from the word wherewith it begins&#44; has especially engaged<lb/> the attention of the learned.  To reconcile the discoveries of science&#44; with the cos&#45;<lb/>&#45;mogony of the world as described in it.  To search into the cause of the original<lb/> sin&#44; so obscurely defined in those pages&#59; to explain the extreme longevity of<lb/> the antediluvians&#44; and its effect upon their moral characters&#44; to solve queries<lb/> which startle the mind of the student in so many passages of that first section&#44;<lb/> man has allowed free scope to his intellectual faculties.  Our design&#44;<lb/> however&#44; is not to exhibit to view the knowledge elicited called forth in the discussion<lb/> of such momentous subjects.  Even a cursory notice thereof would occupy<lb/> more time than the delivery of many lengthy sermons&#59; but we purpose eluci&#45;<lb/>&#45;dating a few verses that conclude the lesson&#44; to which we have reference.<lb/>  We have selected them&#44; because they have been misconstrued as a corroboration of<lb/> the fabulous account of the fallen angels&#44; &#42; <sic>transcendently</sic> delineated by one<lb/> of the greatest poets of the English language.  Misled perhaps by the com&#45;<lb/>&#45;mon version of the phrase &#34;&#91;Hebrew&#93; the sons of God&#34;&#44; some have imagined<lb/> that the commencement of the sixth chapter of Genesis&#44; intimates that<lb/> mythological fiction&#44; and has given currency to it.  As for ourselves&#44;<lb/> we repudiate the idea as blasphemous&#44; and submit to your judgment<lb/> some brief remarks on the topic in question.  It is an hypothesis<lb/> advanced by a modern author&#44; that in the primeval ages years of the world&#44;<lb/> nature provided man with a life companion&#44; by producing a male and<lb/> female at each birth.  That hypothesis is supported by the fact that not<lb/> until Lemech&#44; grew to an age&#44; which was then regarded manhood&#44; is<lb/> either the proper name of a woman&#44; or the narrative of a marriage&#44; at<lb/> all mentioned chronicled.  This silence of Holy Write&#44; has given room to infer<lb/> that prior to that period&#44; neither was practised&#44; because unnecessary.<lb/></p>  
+            <p>Enoch&#39;s wife&#44; for instance&#44; had not a distinguishing appellation&#44; for as soon<lb/> as she saw the light of day&#44; was called after him&#44; and acknowledged his lawful<lb/> co&#45;partner.  And although by the authority of the Talmud<lb/></p>
+            
+            <pb n="3"/>
+            <p>the argument is borne out only respecting Cain and Abel&#44; still what we<lb/> have stated justifies its application even to their successors.  And verily&#44;<lb/> Lemech is the first of whom we read that &#34;he took to himself two<lb/> wives&#34;&#44; who being not as heretofore his twin&#45;born&#44; assumed a particular<lb/> name&#44; &#34;Adah and Zillah&#34;.  And it was likewise&#44; in the days of that pa&#45;<lb/>&#45;triarch&#44; that the effect of the divine imprecation&#44; by reason of Adam&#39;s disobe&#45;<lb/>&#45;dience&#44; became discernible.  God had condemned man to labour for his<lb/> subsistence.  Whereas the earth would otherwise have spontaneously yielded<lb/> the choice of fruit&#44; now it required continual tending&#44; and it sometimes<lb/> ungenerously brought forth &#34;thorns and thistles&#34;.  Hence it is recorded that<lb/> at the birth of Noah his father exclaimed &#34;May this comfort us from our work<lb/> and from the toil of our hands&#34; Not immediately&#44; but gradually human<lb/> physical strength&#44; thus taxed decreased&#44; so that what formerly was an in&#45;<lb/>&#45;variable case&#44; became in process of time an unusual occurrence.  Few<lb/> parents could boast of their not having degenerated from the original stock&#44;<lb/> for few could exhibit a succession of twin&#45;children&#44; appertaining by special<lb/> Providence to both sexes.  It being so&#44; the latter were&#44; by way of &#91;&#63;&#93; contradistinction<lb/> characterized &#91;Hebrew&#93; &#34;the sons of the mighty&#34;&#44; for&#44; no one ignores that<lb/> the term &#91;Hebrew&#93; or &#91;Hebrew&#93; its plural&#44; does not denoted simply God&#44; but<lb/> is also an epithet employed in speaking of anything either materially<lb/> or morally great.  As it is written in Ezekiel&#44; when alluding to Nebucadnezar<lb/> &#34;I have given him into the hand of the Mighty One of the nations &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;&#44; and in Exodus&#34; The Him that the judges shall <sic>condem</sic><lb/> shall pay double unto his neighbour &#91;Hebrew&#93;&#34;<lb/></p>
+            <p>Now&#44; what we have hitherto prefaced will facilitate the comprehension<lb/> of the passages on which we treat.  &#34;When mankind began to increase<lb/> upon the face of the earth&#44; daughters were born unto them&#34; Not like<lb/> in the primitive years of the world&#44; had they come to life accompan conjointly<lb/> with their predestined companions&#59; but only singly.  Our inter&#45;<lb/></p>
+            
+            <pb n="4"/>
+            <p>&#45;pretation might be objected to&#44; on the score that it lacks a clear proof from<lb/> the scriptures&#44; but it is nevertheless evident that they meant to commu&#45;<lb/>&#45;nicate a peculiar fact&#44; in the sentence just cited&#59; for&#44; surely it was<lb/> not a new feature in the annals of the human race&#44; that daughters were<lb/> born&#44;&#34; as we read the same repeatedly of Adam and his immediate children&#44; as it is<lb/> often repeated &#91;Hebrew&#93;&#44; &#34;and he beget sons &#38; daughters&#34; consequently the sense we have given to the<lb/> text&#44; claims as much consideration as any yet attached to it.  We will<lb/> then proceed&#44; &#34;The sons of the mighty&#34;&#44; or the men who should have preferred<lb/> for wives those granted to them by nature&#44; became inveigled by the senses.<lb/>  &#34;They beheld &#40;a superior&#41; beauty in the daughters of man&#44; and they abandoned<lb/> those entitled to their undivided affection&#44; &#34;to take wives among all which<lb/> they chose&#34; That action which was in itself a violation of an order<lb/> established in the primordial days of creation&#44; became the precursor of more<lb/> grievous sins.  Wantonness once aroused&#44; gave impetus to every other<lb/> passion.  Brutal force&#44; refine&#44; murder were resorted to in order to<lb/> gratify man&#39;s last&#59; just as it is recorded&#34; that the earth was full of<lb/> violence&#44; and had grown corrupted&#34;  The Lord then said &#34;let not my<lb/> spirit&#34; the intelligent and immortal soul which emanates from me&#44; and<lb/> which I have breathed into man&#44; be exposed&#34; to incessant strife&#44;&#34; but as<lb/> the &#34;cravings of the flesh wherewith it is united&#44;&#34; are striving for supremacy&#44; &#38;<lb/> will impede their entire success&#59; by gradually reducing human existence&#44; to<lb/> a term less extended than formerly.  If a long protracted life&#44; combined<lb/> with exceeding bodily vigour&#44; led the creatures to their total perdition&#44; I will<lb/> limit their years&#34; to one hundred and twenty at most.&#34;  I will moreover<lb/> sweep away this generation&#44; &#34;for the imagination of their hearts is bent<lb/> solely to evil every day.&#34;  I perceive that to subdue the impetus of the<lb/> passion&#44; the human frame must undergo a stronger shock than<lb/> that received by constant toil.  A general subversion of the elements<lb/> will work a signal change alike in man as in beasts.  I will<lb/> therefore destroy my creation&#44; and renew the face of the earth.<lb/></p>
+            
+            <pb n="5"/>
+            <p>Such is&#44; my dear Brethren&#33; according to our feeble understanding the purport<lb/> of the sentences which precede the narrative in the second section<lb/> of Genesis.  We then regard the beginning of the sixth chapter of that inspired<lb/> volume&#44; as an explanatory introduction of what follows.  In a manner excesi&#45;<lb/>&#45;vely concise&#44; is the secret of the Most High therein revealed to us.  We are<lb/> <sic>succintly</sic> told what the wise king repeated many centuries after&#44; namely&#44;<lb/> &#34;that God made men upright&#44; but they sought out many inventions&#44;&#34; that<lb/> the gifts of longevity and bodily might intended as blessings&#44; were converted by the<lb/> mortals into a curse&#44; that estrangement from natural laws was conducive<lb/> to numberless crimes&#44; and to a final extinction&#44; but that as in the economy<lb/> of the world every object executes the merciful intentions of the Creator&#44;<lb/> so would the flood prove the cure of greater evils.  The fourth verse&#44;<lb/> must however&#44; be closed in parenthesis&#44; for it merely defines what was recounted<lb/> before touching the connubial relation of &#34;the sons of the mighty&#34; &#91;Hebrew&#93;<lb/> with the women of their own selection&#59; to wit&#44; that the progeny of such<lb/> were acknowledged even in subsequent ages&#44;&#34; famous in strength and valour&#34;.<lb/>  But our elucidation would be incomplete&#44; if we did not bestow some observa<lb/>&#45;tions on that verse passage&#44; which represents the Deity as repenting and<lb/> grieving for having created the human family.  To repent&#44; in the general<lb/> acceptation of the word is&#44; to alter one&#39;s mind regarding any thing or any action.<lb/>  Now&#44; to harbour for a moment&#44; the opinion that the immutable Being<lb/> can like men&#44; be influenced by circumstances in forming his thoughts&#44; would<lb/> be irreverent in the extreme&#59; we must therefore seek a satisfactory exposition<lb/> of the phrase in the sacred pages.  Thus we find written in Jeremiah &#34;In<lb/> an instant I speak concerning a nation&#44; and concerning a kingdom&#44; to<lb/> pluck up&#44; and pull down&#44; and destroy it.  If that nation against whom<lb/> I have pronounced&#44; turn from their sin wickedness&#44; I will repent of the evil that I<lb/> thought to do unto them.  And in an instant I speak concerning a<lb/> nation and concerning a kingdom to build and to plant it.  If it do evil<lb/> in my sight&#44; that it obey not my voice&#44; then I will repent&#44; of the good<lb/></p>
+            
+            <pb n="6"/>
+            <p>wherewith I said I would benefit them.&#34;  The change then is wrought<lb/> not in God&#44; but in man.  The Providence of the Omnipotent is displayed<lb/> in behalf of all his creatures&#59; but justice which is as inseparable an attri&#45;<lb/>bute of the Most High&#44; as mercy&#44; will not suffer the rebellious who have<lb/> deliberately sold themselves to crime&#44; to benefit from it.  When they are<lb/> thus abandoned to the results of their misdeeds&#44; the scriptures figuratively<lb/> say that God has repented&#44; yet the expression is borrowed from human<lb/> language&#44; to suit human understanding.  No one would believe that the sun<lb/> has ceased to shine&#44; because the clouds have dimmed its brightness&#59; so<lb/> in like manner when the pervading Light of the whole universe hides from us<lb/> his vivifying beams&#44; it is not because he has deviated from his course&#44; but through<lb/> the earthly vapours&#44; which we ourselves have raised against it.  Beautifully<lb/> is this truth conveyed in the words of the inspired son of Amoz.&#34;  It is your<lb/> inequities that have caused a separation between you and your God&#44; your<lb/> sons have made Him conceal his countenance that he may not hear&#34;.<lb/>  But if repentance&#44; in a human sense&#44; can never be attributed unto Him<lb/> who discerns the future as obviously as the present&#44; grief or sorrow<lb/> is equally inapplicable to that Omniscient Being&#59; for&#44; &#34;fulness of joy<lb/> abides before him&#44; at his right hand are everlasting delights&#34;  Still&#44; it is<lb/> to impart a grand truth&#44; that the heavenly pages&#44; have here employed that<lb/> phrase.  It is to teach us&#44; that the chastisements inflicted by the<lb/> Parent of all are not occasioned by resentment or vengeance&#59; but by<lb/> a spirit of supreme wisdom&#59; that when He doomed a whole generation<lb/> to extirpation&#44; it was not to vindicate his glory&#44; which they had outraged&#44;<lb/> but to follow the laws of eternal justice&#44; wherewith He deals with<lb/> his creatures.  Preserve this lesson&#44; my dear friend&#44; in your hearts&#44; for<lb/> it is very consolatory.  Seek its exemplification in the book of books&#44;<lb/> and you shall find it&#59; but think not that you will comprehend the word<lb/> of your God by a cursory perusal&#44; as of a volume containing the annals of the<lb/> past&#44; for there is scarcely a sentence that does not teem with healthful<lb/> impartings&#44; therefore I recommend&#44; like the sage of Israel &#91;Hebrew&#93;<lb/></p>
+            
+            <pb n="7"/>
+            <p>&#34;Grow old in its study&#44; and never relinquish it.&#34;<lb/>
+                Sovereign Lord&#33;  Grant that seeking truth in the book of thy instruction&#44; we<lb/> may discover and impart it.  Grant that the privileged beings&#44; to whom<lb/> Thou hast entrusted thy word&#44; may cherish its study above all others&#44; and<lb/> practice its behests.  Grant that our proficiency in secular knowledge&#44;<lb/> may not estrange us from the heavenly volumes&#44; but rather aid us in tho&#45;<lb/>&#45;roughly comprehending their purport.  Preserve us O God&#33; from that spirit<lb/> of arrogance&#44; which the profession of worldly attainments often en&#45;<lb/>&#45;genders&#44; and suffer it never to uplift itself in opposition to thy<lb/> dictates&#44; for with Thee alone is the source of life&#59; in thy light we shall<lb/> walk in light.  Amen.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

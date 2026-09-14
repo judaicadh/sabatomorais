@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF8_10</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff8_10_1r.tif"/>
+                                <graphic url="smbx11ff8_10_1v.tif"/>
+                                <graphic url="smbx11ff8_10_2r.tif"/>
+                                <graphic url="smbx11ff8_10_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Funeral oration<lb/></p>
+            <p>Friends&#33;<lb/></p>
+            <p>It scarcely becomes me to speak on this mournful occasion.  The Sages of our<lb/> people&#44; who understood human nature well have said&#44; that just as the<lb/> jaundiced eyes of malevolence are apt to see in our neighbor&#39;s character ble&#45;<lb/>&#45;mishes which do not exist&#44; so will affection magnify homely qualities<lb/> into extraordinary excellencies.  She who died was near to me&#44; not by a<lb/> merely accidental relationship&#44; but by that affinity of sentiments which<lb/> binds the mortals with indissoluble ties.  She loved those for whom my<lb/> soul yearns.  Might not the words I shall utter be considered as drawn<lb/> from partiality&#44; rather man from the fountain of truth&#63;  Ought I to gratify<lb/> myself and kindred by a panegyric&#44; which you believe the subject eulogised does not<lb/> warrant&#63;  Dear hearers&#33;  If you feared that I might thrust my per&#45;<lb/>&#45;sonal feelings on your unprejudiced minds&#44; be reassured.  Nothing will I<lb/> say&#44; which any of you would not pronounce&#44; had he been expected publicly<lb/> to pay a tribute of respect to the memory of this Jewess.  Could that alle&#45;<lb/>&#45;viate&#44; in the slightest degree&#44; the anguish of an all&#45;bereft daughter&#44; the sorrow<lb/> of an only surviving sister&#44; whose hoary head bends under celestial inflictions&#44;<lb/> and the grief of devotedly attached relatives&#44; you would&#44; I am certain&#44; attend<lb/> to the words and accord them your approval.<lb/></p>
+            <p>That Clara Pesoa was <sic>filially</sic> dutiful&#44; I learnt long before circumstances<lb/> had brought me into close contact with her family.  It formed<lb/></p>
+            
+            <pb n="2"/>
+            <p>the subject theme of praise with many&#44; who remembered how the<lb/> unwearied exertions of and earnest solicit&#91;&#63;&#93; of four daughters&#44; lengthened<lb/> the days existence of the aged and much esteemed Esther Marks.  As a wife&#44; the house<lb/> of Israel may boast of many others equally faithful&#44; but no husband<lb/> was ever blessed with a help&#45;mate more concerned about his<lb/> interests&#44; more capable of securing his advantages&#44; of promoting his<lb/> comfort and his happiness&#59; more ready to counsel the observance of<lb/> religious practices and the discharge of social duties obligations than<lb/> the late David Pesoa.  Verily&#58; the life which has now become totally<lb/> extinguished&#44; began to languish upon the dismal night that the com&#45;<lb/>&#45;panion of its youthful years left the earth.  With the scriptural<lb/> sentence our widowed sister in faith friend might have exclaimed &#34;My days are past&#44;<lb/> my purposes are broken off&#44; even the cherished thoughts of my heart.&#34;<lb/>  Yet one thought sustained upheld her steps that they might not forthwith slide<lb/> into the grave.  The eager wish to labor provide for the future of her Josephine.<lb/>  How she did struggle and labor for eight years amidst discouraging untoward circumstances&#44;<lb/> is known to hundreds who saw her in the busy marts&#44; or in anxious attendance<lb/> at her store.  But what every one may have not been able to<lb/> ascertain&#44; and what I assert without fearing contradiction is that<lb/> a righteous mete&#45;yard was her measure.  None of that chicane<lb/> and suffling and prevaricating which so debases trade&#44; would<lb/> she resort to that her stock might swell.<lb/></p>
+            
+            <pb n="3"/>
+            <p>With uprightness she girded her loins&#59; industry encircled her around.<lb/>  But delightful as it must be to the survivors to contemplate a character<lb/> so spotless&#59; soothing us it the idea must needs prove to their feelings&#44;<lb/> that the dear beloved departed did not fail to do her full duty as a business<lb/> woman&#44; and that as a daughter&#44; as a wife&#44; as a mother&#44; and as<lb/> a sister she was preminently unexceptionably good&#44; nevertheless still had Clara Pesoa<lb/> offered exhibited simply the virtues to which I made allusion&#44; I might have<lb/> chosen not to have detained you with their enumeration.  For<lb/> all considered&#44; they must be dead to their natural instincts&#44; and there&#45;<lb/>&#45;fore barely deserving of the name of human beings&#44; who do not seek the<lb/> welfare of their own children&#44; and hide their eyes from the wants of<lb/> their flesh and blood&#59; while honesty of dealings may&#44; at times with some be<lb/> dictated by policy rather than by higher principles.  We<lb/> may meet with some individuals&#44; who are all&#45;tenderness in the family circle&#44; all&#45;<lb/>probity in their commercial relations intercourse&#44; yet&#44; all&#45;selfishness beyond outside of<lb/> those narrow bounds.  &#34;Charity begins at home&#44;&#34; they will answer<lb/> to your appeal for the cause of humanity and civilization.  And<lb/> with that immoral sadly misapprehended maxim on their tongue&#44; they will repel any<lb/> solicitation on behalf of that world of creatures lying beyond their<lb/> fire&#45;sides.  This dear Jewess &#34;opened her mouth with wisdom&#44;<lb/> and the law of kindness was in her tongue.&#34;  She did not<lb/> exactly possess that acquirement&#44; which people miscall wisdom&#44;<lb/></p>
+            
+            <pb n="4"/>
+            <p>that is&#44; learning&#44; but she endeavoured to apply the best means in her power<lb/> to attain the best ends&#44; which is practical wisdom.  Thus<lb/> she acted always not to benefit herself&#44; but to be unto others a help<lb/> in need.  And when her physical strength equalled no more the energy<lb/> of her will&#44; and her earnings did not keep pace with her generous<lb/> impulses&#44; she spoke gave words&#44; such words as are prized by the indigent above temporal<lb/> aid.  &#34;The law of kindness was in her tongue.&#34;  Nature did<lb/> not beguile the observer&#44; when it moulded our friend.  Her<lb/> visage was in very deed the mirror of her soul.  Those pleasing features&#44;<lb/> which in youth must have been comely&#44; betokened a disposition<lb/> overflowing with sympathy and goodness.  If in the realms<lb/> beyond our horizon there exists a division of ranks suiting the<lb/> qualities of the mind&#44; and the sentiments of the heart of the dwel&#45;<lb/>&#45;lers thereof&#44; the spirit that has just taken thither its flight&#44; will<lb/> occupy among the latter a preeminent station.  Enjoy the delights<lb/> of heaven&#44; blessed Clara and David Pesoa.  They are the fruits of thy planting.<lb/>  We in our ignorance mourn and weep.  Oh&#33; let a drop of that nectar<lb/> of which thou drinkest to the full&#44; enter our beings.  It will inspire<lb/> them with fortitude.  It is will overspread them with that a calmness&#44;<lb/> partaking of that blissful <sic>tranquillity</sic> in which thou art beatified.<lb/></p>
+            </body>
+    </text>
+</TEI>

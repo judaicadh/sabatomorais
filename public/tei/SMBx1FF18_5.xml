@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Isaacs, Myer S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF18_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Isaacs, Myer S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1861-03" source="" attested="yes">20 March 1861</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff18_5_1r.tif"/>
+                                <graphic url="smbx1ff18_5_1v.tif"/>
+                                <graphic url="smbx1ff18_5_2r.tif"/>
+                                <graphic url="smbx1ff18_5_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>Board of Delegates of American Israelites.<lb/>
+                SECRETARY&#39;S OFFICE&#44; 119 WEST HOUSTON STREET.<lb/>
+                New York&#44; March 20<hi rend="sup">th</hi> 1861.<lb/>
+                Revd &#38; Dear Sir&#44;<lb/></p>
+            <p>I have been requested<lb/> by the Executive Committee to<lb/> ask your assistance in the proper<lb/> distribution of the accompanying<lb/> blanks among the Jewish Congregations<lb/> of Pennsylvania &#38; Maryland.<lb/></p>
+            <p>Of the 25 congregations<lb/> which I called on&#44; in October&#44; only<lb/> 1&#8212;the Beth El Emeth of Philadelphia<lb/>&#45;&#45;has responded.<lb/></p>
+            <p>Will you please&#44;<lb/> if it is not imposing on you too<lb/> much troubles have the enclosed<lb/> blanks properly addressed&#44; as<lb/> indicated&#63;  There may be a number<lb/> of congregations in your state&#44; which<lb/> I have omitted to supply&#44; and you<lb/> are certainly the best qualified to<lb/> put me right in this matter.  Will<lb/> you at the same time be so kind<lb/> as to furnish me with a correct<lb/></p>
+                <pb n="2"/>
+            <p>list of the congregations in Pa.<lb/> &#38; Md. To the best of your knowledge&#63;<lb/>
+                Of course any expense<lb/> attending this will be promptly<lb/> repaid on <sic>reissuring</sic> me of the<lb/> amount I must remit to you<lb/> therefor<sic></sic>.<lb/></p>
+            <p>I am Revd &#38; dear sir&#44;<lb/>
+                Yours Very Respectfully<lb/>
+                Myer S. Isaacs<lb/>
+                Secretary<lb/></p>
+                
+                <pb n="3"/>
+            <p>I sent blanks in October to the<lb/> following congns. in Penn. &#38; Md.<lb/>
+                Mickveh Israel<lb/>
+                Rodef Shalom<lb/>
+                Beth Israel<lb/>
+                Kenesseth Israel	Phila.<lb/>
+                Bnai Israel<lb/>
+                Beth El Emeth<lb/>
+                Adath Jeshurun<lb/>
+                Honesdale			Penn.<lb/>
+                Wilkesbarre<lb/>
+                Reading<lb/>
+                Carbondale<lb/>
+                <sic>Pittsburg</sic><lb/>
+                Harrisburg<lb/>
+                Easton<lb/>
+                Danville<lb/>
+                Scranton<lb/>
+                Lancaster<lb/>
+                Williamsport<lb/>
+                York<lb/>
+                Pottsville<lb/></p>
+                
+            <p>Loyd St.<lb/>
+                Eden St.<lb/>
+                Howard St.	Baltimore	Md<lb/>
+                Har Sinai<lb/>
+                Tell&#39;s Point<lb/>
+                Frederick<lb/>
+                Cumberland<lb/>
+            </p>
+            
+        </body>
+    </text>
+</TEI>

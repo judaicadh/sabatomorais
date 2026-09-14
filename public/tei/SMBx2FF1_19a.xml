@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes"></author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF1_19a</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes"></author>
+                        <addressee editor="false" attested="yes" accepted="yes">Wiley, S. R.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>San Francisco, CA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1874-10" source="" attested="yes">28 October 1874</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff1_19_1r.tif"/>
+                                <graphic url="smbx2ff1_19_1v.tif"/>
+                                <graphic url="smbx2ff1_19_2r.tif"/>
+                                <graphic url="smbx2ff1_19_2v.tif"/>
+                                <graphic url="smbx2ff1_19_3r.tif"/>
+                                <graphic url="smbx2ff1_19_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>S.R.Wiley<lb/></p>											<p>Oct.28<hi rend="sup">th</hi> 1874.<lb/></p>
+            <p>Dear Sir&#44;<lb/></p>
+            <p>.....I perfectly agree in the opinion that the derivation of<lb/> names is not a valuable criterion&#44; and that a decision based on it regard&#45;<lb/>ing the <hi rend="underline">original language</hi>&#44; might be proved hasty and erroneous.  But I am<lb/> pleased to observe from your quotations that Le Clerc shares the views<lb/> that I have advanced.  He also thinks that the <sic>socalled</sic> Semitic languages<lb/> sprung from a common source&#44; and gradually separated.  You may have misunder&#45;<lb/>stood what I wrote or possibly I was at fault in my expressions&#44; touching<lb/> Philo.  I revere his memory because I believe him a learned and true Israel&#45;<lb/>ite&#59; nevertheless I say&#44; what men infinitely my superiors have detected&#44; that<lb/> he was not a Hebraist in the sense we Jews attach to that term.  The passage<lb/> in Genesis 10.20 may be considered a general description&#44; prefatory as it<lb/> were to the narrative of the confusion of tongues.  Respecting the latter<lb/> Julius Schaliger and Isaac Abarbanel have hit upon the same idea&#59; <sic>thoug h</sic><lb/> the context does not seem to bear it out.  I see no evidence of &#34;the Aramaic<lb/> being impregnated with Hebrew after the Exodus.&#34;  Pardon my saying that the<lb/> burden of proof rests with yourself.  I am open to conviction and always<lb/> glad to learn.  I still claim that during the Babylonish captivity the<lb/> knowledge of the sacred tongue was lost&#44; because idolatrous mothers prefer&#45;<lb/>ed to train their children in their respective languages&#44; or dialects&#44;<lb/> which though originally may have been one and the same&#44; at the period of<lb/> history we allude to&#44; were distinct.  Permit me to call your attention to<lb/> the fact that the staying of Jacob&#39;s descendants in Egypt was no more than<lb/> two centuries&#44; and as acknowledged by our commentators&#44; and by the Septuagint<lb/> the four generations spoken of in the Bible commenced with the wanderings<lb/> of the patriarchs through various lands.  Without assigning the result to<lb/> a miraculous interposition&#44; we may believe that a people&#44; inhabiting a <sic>s</sic><lb/> separate locality&#44; strongly bound together by ties of blood&#44; of faith and<lb/></p>
+            
+            <pb n="2"/>
+            <p>common suffering&#44; retained the ancestral language.  Witness the mere effect<lb/> of locality in the Pennsylvania Dutch enjoying perfect freedom <sic>civily</sic> and<lb/> religiously.  You are right of course in stating the &#34;languages are formed<lb/> from adventitious circumstances&#34; and that what is very ancient in history<lb/> an almost impenetrable darkness hides it from our vision.  Every one tries<lb/> to draw aside the veil&#44; and professes that a greater insight into matters<lb/> has been vouchsafed to him than to others&#44; but all deal in sheer speculations<lb/> Moses however wrote down his book in Hebrew&#44; and millions of his enfranchised<lb/> brethren heard it&#44; if they all could not read it.  You ask&#44; how could he write<lb/> I answer&#44; some hold that the caste of priests in Mizraim knew the art of<lb/> representing &#34;the utterance of the lips&#34; by characters.  Others again<lb/> contend that the Deity who <sic>inspiredthe</sic> arch prophet taught it to him&#44; for<lb/> <sic>we read</sic> after the battle of Amalek &#34;Write this for a memorial in a book&#44;<lb/> and put it <hi rend="underline">in the hearing</hi>&#40;ears&#41; of Joshua.&#34;  &#40;Possibly the latter could not<lb/> understand writing&#44; which circumstance necessitated the oral exposition of<lb/> the contents.&#41;  Your objection derived from the fact that the Decalogue<lb/> was tora &#34;written by the finger of God&#34; does not carry sufficient weight.<lb/>  The summary of all the laws&#44; intended to be shrined in the Holy Ark&#44; was to<lb/> have inspired all minds with reverential awe.  How fitting then that they<lb/> should be <sic>dilineated</sic> miraculously by the Supreme Intelligence.  The theory<lb/> that Solomon composed the Iliad is preposterous.  Equally absurd is it to<lb/> presume that the Greek poet drew his name from &#34;Omar&#34; the sayer or<lb/> speaker.  We know that the wildest vagaries have met with followers.  Let<lb/> everyone that chooses to adopt follies&#44; hug them&#44; I shall find no faults.<lb/>  But I believe you too sensible to admit freaks of the mind as well sub&#45;<lb/>stantiated facts.  I possess sufficient evidence of your learning&#44; and the<lb/> very communication I am discussing attests your discernment as well as<lb/> your erudition.  Yet excuse my candor&#44; &#34;<hi rend="underline">Your personal views on the subject<lb/> at issue</hi> are antagonistic to mine.  Nevertheless no other proof than the<lb/></p>
+            
+            <pb n="3"/>
+            <p>song of Moses&#44; to demonstrate that the leader and his flock understood and<lb/> spoke Hebrew&#44; I would deem that quite enough.  No&#44; it is a maxim of our sages<lb/> which I heartily endorse&#44; that the Deity does not work miracles&#44; unless<lb/> natural means are inadequate to carry out His wise purpose.  The &#34;wonders<lb/> wrought in the land of Ham&#34; those upon the sea and in Marah&#44; the glorious<lb/> revelation on the summit of Horeb&#44; and prophetic inspiration&#44; were essential&#44;<lb/> but a miraculous imparting of a language&#44; would have been useless&#44; because<lb/> the <hi rend="underline">observance of the laws</hi> and not the speaking of this tongue or of<lb/> another was to distinguish the house of Israel from the day of Sinai and<lb/> thenceforth forever.  That now during a long and far reaching dispersion<lb/> the Hebrew <hi rend="underline">is</hi> <sic>amighty</sic> link I fully grant&#44; but when a nation in Palestine&#44;<lb/> it did not subserve our present object.  The Hebrew became our fathers<lb/> vernacular tongue&#44; as a natural consequence of its having been inherited<lb/> from the 70 persons who went down to Egypt.  And if Nehemiah deprecated<lb/> its ignorance among the rising generation&#44; the just complain arose from<lb/> the fear that together with the language of pagans&#44; the worship of paganism<lb/> would be embraced.  I regret that the pen is not always the best exponent<lb/> of our sentiments.  Could we face to face exchange words we might comprehend<lb/> each other better.  Let me say however that as far as <sic>i</sic> can judge&#44; your<lb/> ideas emanate from a pious desire to magnify the dealings of the Lord<lb/> with His chosen witnesses.  As such I appreciate them highly&#44; but approving<lb/> the intention I disagree with the results of your reflections.<lb/></p>
+            <p>Respectfully<lb/></p>
+        </body>
+    </text>
+</TEI>

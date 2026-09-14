@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Brace, S. C.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF4_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Brace, S. C.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1883-01" source="" attested="yes">16 January 1883</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff4_6_1r.tif"/>
+                                <graphic url="smbx3ff4_6_1v.tif"/>
+                                <graphic url="smbx3ff4_6_2r.tif"/>
+                                <graphic url="smbx3ff4_6_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Merc. Liby. Jan. 16&#44; 1883.  Tuesday.<lb/>
+                Rev. Dr. Morais&#44;<lb/>
+                Dear Sir&#44;<lb/></p>
+            <p>I find in a pa<lb/>per this statement&#58; &#34;The Rabbis of<lb/> the Seminary at Breslau say&#58; &#39;Un&#45;<lb/>fermented <hi rend="underline">must</hi> is not regarded as<lb/> wine&#44; and would not suffice for<lb/> the <sic>fulfilment</sic> of the duty to drink<lb/> wine on the Passover Eve.&#34;  Is this<lb/> a correct statement&#63;  Would the use<lb/> of fresh grape&#45;juice be regarded<lb/> by your ministers as a departure<lb/> from the instructions of your stand&#45;<lb/>ards&#63;  Please to inform me.<lb/></p>
+                
+            <p>My &#36;25&#45;&#45; offer in the Boston<lb/> paper&#44; in regard to the language<lb/> attributed to Rev. S. M. Isaacs&#44; did<lb/> not secure any reply&#33;  The son&#44;<lb/></p>
+                
+                <pb n="2"/>
+            <p>Dr. A. S. Isaacs&#44; pronounced the<lb/> story about his father &#34;apocryphal.&#34;<lb/>  I cannot yet learn when or where<lb/> or to whom&#44; or in what publica&#45;<lb/>tion it is claimed that Mr. Isaacs<lb/> made the declaration.  I shall<lb/> trace the matter as carefully<lb/> as I can.  For myself I do not<lb/> see any probability in the story&#59;<lb/> for Mr. Isaacs must have been<lb/> conversant&#44; in London and in<lb/> New York&#44; with many people<lb/> of his own religious connection<lb/> who were bred in the wine coun<lb/>tries of Europe.<lb/></p>
+            <p>I have requested a friend of mine in New York to ask the<lb/> Nat. Temp. Soc. Editors what<lb/> was the original source of this<lb/> story.  They ought not to pub.<lb/>lish&#44; as the language of Mr. Isaacs&#44;<lb/> <hi rend="underline">that which his own son does<lb/> not believe that he ever used</hi>&#44; un&#44;<lb/></p>
+                
+                <pb n="4"/>
+            <p>less they can sustain themselves by<lb/> ample evidence.  I think it is not<lb/> unlikely that Dr. Patton heard<lb/> Mr. Isaacs say <hi rend="underline">something</hi> on the<lb/> subject&#44; and misunderstood&#44;<lb/> and so mis&#45;reported him.<lb/></p>
+                
+            <p>It would really seem as if we might know <hi rend="underline">the present</hi> so<lb/> as to have no occasion for dis<lb/>pute about it&#59; although we<lb/> may doubt about <hi rend="underline">the past</hi>&#44;<lb/> and be ignorant of <hi rend="underline">the future</hi>.<lb/></p>
+            <p>I am respectfully<lb/>
+                Yours&#44;<lb/>
+                S. C. Brace.<lb/></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Piza, David M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF7_7</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Piza, David M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Glen Ridge, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1884-06" source="" attested="yes">9 June 1884</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff7_7_1r.tif"/>
+                                <graphic url="smbx3ff7_7_1v.tif"/>
+                                <graphic url="smbx3ff7_7_2r.tif"/>
+                                <graphic url="smbx3ff7_7_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>N.Y. 9th June 1884<lb/></p>
+            <p>Dear Sir&#44;<lb/></p>
+            <p>Shall reply to your estd.<lb/> lines of yesterday&#39;s date&#44; as soon as<lb/> I can find time. Meanwhile I send<lb/> you a slip from the &#34;Times&#44;&#34; giving<lb/> what purports to be a statement of facts&#45;&#45;<lb/> at least&#44; I suppose&#44; as understood by the re&#45;<lb/>porter&#39;s informant. Please send me a copy<lb/> of the &#34;Record&#34; you refer to&#44; and oblige yrs truly.<lb/></p>
+            <p>David M. P&#239;za<lb/></p>
+            <p>Rev. S. Morais.<lb/></p>
+                
+                <pb n="2"/>
+            <p>ORTHODOX TRUSTEES ELECTED.<lb/> 
+                A BLACK EYE FOR REFORM IN THE SHEARITH<lb/> 
+                ISRAEL SYNAGOGUE.<lb/></p>
+            <p>By the election of three Trustee last<lb/> night the members of the Shearith Israel Syna&#45;<lb/>gogue&#44; in Nineteenth&#45;street&#44; felt that the future<lb/> fate of their congregation was to be decided.<lb/> The synagogue has of late been divided into two<lb/> very formidable factions representing the ortho&#45;<lb/>dox and reform parties of the Jewish religion.<lb/> At the head of the orthodox faction are the<lb/> most influential members of the congregation&#44;<lb/> families directly descended from the Marchardos&#44;<lb/> the Gomez&#44; the Peixotts&#44; and the Hendricks&#44; who<lb/> fled to this country during the time of the Span&#45;<lb/>ish Inquisition. They are in favor of  the<lb/> strict observance of the old Portuguese<lb/> Spanish ritual. At the head of the reform<lb/> party are the Allans&#44; the Blumenthals&#44; the<lb/> Nathans&#44; and the Sulzbergers&#44; who strenuously<lb/> demand that the synagogue shall be provided<lb/> with an organ&#44; and that the ladies of the congre&#45;<lb/>gation shall be seated with the gentlemen&#44; a con&#45;<lb/>dition which does not exist at present. But<lb/> these reformers do not uphold the ultra&#45;reform&#45;<lb/>er&#44; Rabbi Gottheil&#44; whose idea of changing the<lb/> Sabbath Day from Saturday to Sunday they re&#45;<lb/>gard as too radical an innovation for the pres&#45;<lb/>ent. &#34;My grandfather and my father have<lb/> never worked on Saturday&#44; and I never shall&#44;&#34;<lb/> said a member of the congregation to a TIMES<lb/> reporter last night&#44; &#34;not if all the Rabbi Gott&#45;<lb/>heils in the world introduce the measure. There<lb/> were two tickets for the election of three Trust&#45;<lb/>ees last night&#8212;the orthodox and reform tickets.<lb/></p>	
+            <p>There are in all seven Trustees of the syna&#45;<lb/>gogue&#44; and as two of the four&#44; whose term has<lb/>not yet expired&#44; are of the reform party&#44; the<lb/> election of the reform ticket would have en&#45;<lb/>tirely altered the face of the congregation&#44;and<lb/> the present ministers&#44; the Rev. H.P. Mendes and<lb/> the Rev. D. Nicta&#44; would not have been re&#45;elected<lb/> at the expiration of their term. It was the in&#45;<lb/>tention of the reform party&#44; should they succeed<lb/> in electing their Trustees&#44; to advertise for new<lb/> reform ministers.  A big fight was therefore ex&#45;<lb/>pected last night&#44; and the members of the ortho&#45;<lb/>dox party were most of them crimson with ex&#45;<lb/>citement on their arrival upon the scene of the<lb/> controversy. Everything&#44; however&#44; went as<lb/> they wished. The opposition ticket was with&#45;<lb/>drawn&#44; and Messrs. L.N. Levy&#44; Tucker David&#44;<lb/> and David M. Piza  were elected by 56 votes&#8212;the<lb/> largest vote ever known in the synagogue.<lb/></p>
+        </body>
+    </text>
+</TEI>

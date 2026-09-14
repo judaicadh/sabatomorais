@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Isaacs, A. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF9_10</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Isaacs, A. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1880-02" source="" attested="yes">10 February 1880</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff9_10_1r.tif"/>
+                                <graphic url="smbx2ff9_10_2r.tif"/>
+                                <graphic url="smbx2ff9_10_1v.tif"/>
+                                <graphic url="smbx2ff9_10_2v.tif"/>
+                                <graphic url="smbx2ff9_10_3r.tif"/>
+                                <graphic url="smbx2ff9_10_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>313 W. 45<hi rend="sup">th</hi> St.<lb/>
+                N. Y. Feb 10<hi rend="sup">th</hi> 1880.<lb/></p>
+            <p>My dear Friend&#58;<lb/></p>
+            <p>I have thought a<lb/> good deal further about the subject<lb/> to which I called your attention lately.<lb/>  When I was downtown last Sabbath<lb/> I heard some particulars about the<lb/> state of affairs at Ridley&#39;s&#44; which<lb/> made me very anxious&#44; &#38; rendered<lb/> prompt action imperative.  The number<lb/> of intermarriages which have taken place<lb/> is large&#44; <del>&#38; the morality</del> where Christian<lb/> &#38; Jewish young people are thrown<lb/> together without any restraint the<lb/> morality is <del>loss</del> questionable.  I saw<lb/> Mr. R. to&#45;day&#58; he says that he<lb/> feels it his duty&#44; even if it be<lb/> opposed to business&#44; to advance the<lb/> moral standing of his Employees&#44;<lb/> the <del>ward</del> stated further that it was<lb/> his desire that his entire force<lb/> of Jewish working people &#40;196<lb/> <del>adults</del> mostly young people &#40;15 to 30 years&#41;<lb/></p>
+                
+                <pb n="2"/>
+            <p>should attend the service &#38; he<lb/> would grant them one hour&#44; without<lb/> reduction &#40;Saturday 10.30 to 11.30&#41;.<lb/>  He told me that he discussed last<lb/> year an employee who worked on<lb/> Kippur.  His son &#40;who married a Jewess&#41;<lb/> is also strongly in favor of it.  Perhaps<lb/> <del>his is</del> the tale of Queen Esther is<lb/> being played here again&#44; &#38; we<lb/> must thank Ridley&#39;s Jewish wife<lb/> for the interest taken.  He also bid<lb/> me to infer that he might in time<lb/> make further concessions&#44; if his<lb/> employees attend regularly&#33;<lb/></p>
+            <p>I am acting cautiously&#44; however&#44;<lb/> &#38; do not wish to compound a felony.  I<lb/> told him that I only wanted his Jewish<lb/> employees to know that they were<lb/> welcome if they wished to come<lb/> that I desired only a few to attend<lb/> &#38; these the younger ones&#44; as I wished<lb/> to make no change in my present<lb/> service&#44; that my quarters were<lb/></p>
+                
+                <pb n="3"/>
+            <p>limited <del>&#38; that</del>.  He appeared satisfied &#38; will send<lb/> me tomorrow a list of the names &#38; addresses of<lb/> his Jewish employees.  <del>I shall</del> Possibly I may know<lb/> some.  Anyway Sunday I shall call on half a dozen&#44;<lb/> &#38; have simply 10 or 15 to attend for the present&#44; &#38;<lb/> trust to them to spread the affair&#44; if they like it.<lb/>  Meanwhile&#44; I have recommended to the Sabbath<lb/> Association &#40;along with other suggestions which you<lb/> will find in the Messenger&#41; the holding of lectures<lb/> on <hi rend="underline">Wednesday Evening</hi> for this very class of people.<lb/></p>
+            <p>From Ridley&#39;s tone&#44; I anticipate the<lb/> happiest results.  He deplores that the Jews violate<lb/></p>
+                
+                <pb n="4"/>
+            <p>the Sabbath&#44; &#38; hopes that in time other<lb/> Christian retailers may join in allowing<lb/> them a respite on Saturday.  I do not<lb/> see anything inconsistent in letting<lb/> them hear words of prayer on Sabbath &#38;<lb/> <del>a brief</del> the Bible&#44; &#38; a brief discourse&#44; if the<lb/> aim of the latter shall be to remind them<lb/> of their duty to keep the Sabbath holy &#38;<lb/> keep alive a little Judaism in their<lb/> hearts&#44; even if for a short time&#44; &#38; they<lb/> depart again to business.  I believe firmly<lb/> that the children&#39;s psalms &#38; hymns will<lb/> ring in their minds&#44; when they return<lb/> to work&#44; &#38; ultimately bring them to a<lb/> sense of their duty.  If I find that after<lb/> 3 months&#44; no one is induced to leave<lb/> Ridley&#39;s &#38; enter some business &#40;where&#63;&#41;<lb/> in which the Sabbath can be observed&#44;<lb/> I may then adopt a different plan.  Of course<lb/> I do not know the young people&#44; &#38; I cannot<lb/> &#91;&#63;&#93; how I may effect them&#59; but if<lb/> there is any Judaism left in their<lb/> veins&#44; I believe I can work it up<lb/> with a flame.  I feel impelled to<lb/> work in this matter.  Nobody else<lb/> seems to care.  <del>It s</del> The olden prophets<lb/></p>
+                
+                <pb n="5"/>
+            <p>would not have done otherwise&#44; whatever<lb/> the later &#91;&#63;&#93; might have thought.<lb/>  Our Judaism&#44; to live &#38; influence the<lb/> rising generation&#44; must be less<lb/> iron&#45;clad.  I feel that&#44; properly<lb/> managed &#38; supported&#44; there is<lb/> infinite hope in <del>carr</del> this plan.<lb/>  As it is&#44; unless something is done&#44; Felix<lb/> Adler may start <del>another</del> in that<lb/> very neighborhood &#38; for that class.<lb/>  He gains by our laziness&#44; he<lb/> succeeds by our neglect.<lb/></p>
+            <p>I expect an answer from you<lb/> to the effect that I am doing right.<lb/>
+                							Yours<lb/>
+                                                     A. S. Isaacs<lb/></p>
+            <p>Rev S. Morais</p>
+                
+            <p>Myer had a sad loss this week&#8212;in the<lb/> death of his eldest child&#44; a remarkably<lb/> bright girl.  Cr&#233;mieux is gone&#44; I read yesterday.<lb/>  He died not long survive his wife.<lb/></p>
+        </body>
+    </text>
+</TEI>

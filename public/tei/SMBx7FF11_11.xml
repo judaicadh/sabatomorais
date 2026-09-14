@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Wiener, Leo</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF11_11</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Wiener, Leo</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cambridge, MA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1897-04" source="" attested="yes">8 April 1897</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff11_11_1r.tif"/>
+                                <graphic url="smbx7ff11_11_1v.tif"/>
+                                <graphic url="smbx7ff11_11_2r.tif"/>
+                                <graphic url="smbx7ff11_11_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Harvard University<lb/>
+                Cambridge.<lb/></p>
+            <p>24 Leonard Ave.<lb/>
+                April 8&#44; 1897<lb/></p>
+            <p>Dear Sir&#44;<lb/></p>
+            <p>I take the liberty of handing<lb/> you a complete copy of the reprint<lb/> of my article on the Ferrara Bible.<lb/>  My occupation with Judaeo&#45;Spanish<lb/> has come to a temporary stop through<lb/> my appointment to the instructor&#45;<lb/>ship in the Slavic Languages&#44; but I<lb/> expect some day to proceed in the<lb/> investigation of the language and<lb/> literature of the Spanish Jews.<lb/></p>
+            
+            <pb n="2"/>
+            <p>I wish to consult you on the feasib&#45;<lb/>ility of approaching the Portuguese &#40;Spanish&#41;<lb/> Jews of America with a view of obtaining<lb/> a gift of money for the Harvard Univer&#45;<lb/>sity Library with which to make a<lb/> complete collection of works touching<lb/> the language&#44; literature and History<lb/> of the Spanish Jews.  This is an age<lb/> of special collections of libraries&#44; and<lb/> America&#44; through its accumulated wealth<lb/> and the public spirit of its citizens&#44;<lb/> is at present leading in this movement.<lb/>  It is only within the last decade that<lb/> Cornell has created the finest Dante<lb/> collection outside of Italy&#44; and the<lb/> finest Rumunsch Library in the world.<lb/>  Harvard has just started a Slavic collection&#44;<lb/></p>
+            
+            <pb n="3"/>
+            <p>and so forth.  I should like to see Harvard<lb/> University doing something for the important<lb/> and interesting study of the Spanish<lb/> Jews&#59; this will naturally occur when<lb/> it will possess the facilities for such<lb/> work.  This University is eminently fitted<lb/> to be the promoter of investigations in<lb/> this line&#44; both on account of the liberal<lb/> spirit of the institution&#44; and its<lb/> nearness to the Boston Public Library<lb/> which contains the largest and best<lb/> &#40;Ticknor&#39;s&#41; Spanish Library in America.<lb/>  I should&#44; therefore&#44; hail it as a piece of good<lb/> luck for the University&#44; and the Spanish<lb/> Jews of America as well&#44; if it were possible<lb/> to buy up all works mentioned in<lb/> Kayserling&#39;s Biblioteca Espa&#241;ola&#45;Portugueza&#45;<lb/></p>
+            
+            <pb n="4"/>
+            <p>Judaica&#44; and others not given there.<lb/>  I am sure there are enough public spirited<lb/> Jews in this country who would be willing<lb/> to give a sum of &#36;10.000&#44; or more<lb/> or less&#44; to perpetuate their name in<lb/> so worthy a cause.  The history and<lb/> language of their forefathers and<lb/> brothers in the diaspora has been sadly<lb/> neglected&#44; and it is time&#44; something should<lb/> be done for them.  Some wealthy New<lb/> York Jews&#44; whose name I do not just<lb/> now remember&#44; have earned a grateful<lb/> memory at Harvard for their large gifts<lb/> to the Semitic Department&#44; and I hope<lb/> the Spanish Jews may be able to do some&#45;<lb/>thing too.  Can you advise me in<lb/> the matter&#63;  Yours sincerely<lb/> Leo Wiener<lb/></p>
+            <p>Dr. S. Morais<lb/></p>
+            </body>
+    </text>
+</TEI>

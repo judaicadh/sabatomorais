@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Wise, Isaac Mayer</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF3_57</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Wise, Isaac Mayer</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cincinnati, OH</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1876-09" source="" attested="yes">15 September 1876</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff3_56_1r.tif"/>
+                                <graphic url="smbx2ff3_56_1v.tif"/>
+                                <graphic url="smbx2ff3_56_2r.tif"/>
+                                <graphic url="smbx2ff3_56_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>&#91;Hebrew&#93;<lb/></p>
+            <p>OFFICE OF THE<lb/>
+                Hebrew Union College.<lb/>
+                Cincinnati&#44; Sept. 15 1876<lb/></p>
+            <p>Rev. Mr. Morrais<lb/>
+                Dear Sir &#38; Colleague.<lb/></p>
+            <p>It was my duty and<lb/> would have been my pleasure to<lb/> answer your kind notes to me<lb/> ere this&#44; but &#91;Hebrew&#93; my time<lb/> is so parceled out&#44; that I am its<lb/> slave.  While in the East the heat so<lb/> completely reduced me&#44; that I was<lb/> forced to return home without<lb/> having seen anybody.  Since my return<lb/> I had to go over the whole ground<lb/> of this year&#39;s course in the college&#44;<lb/> viz over &#91;Hebrew&#93; in the &#91;Hebrew&#93;&#44; over<lb/> &#91;Hebrew&#93; in &#91;Hebrew&#93; and &#91;Hebrew&#93;<lb/> with the &#91;Hebrew&#93;&#44; besides the portions<lb/> in &#91;Hebrew&#93; and &#91;Hebrew&#93;&#44; which kept me<lb/></p>
+                
+                <pb n="2"/>
+            <p>steadily tied down at the books.<lb/>  This is my excuse.<lb/></p>
+            <p>Luzzatto&#39;s Aram. Grammar<lb/> has been translated in English<lb/> by Goldammer&#44; and we expect<lb/> the book every day.  What is<lb/> most needed now is a rabbinical<lb/> lexicon for students&#44; to be brief<lb/> and comprehensive.  We have<lb/> the &#91;Hebrew&#93; and &#91;Hebrew&#93; with<lb/> Buxdorf&#39;s and Landau&#39;s additions&#44;<lb/> also &#91;Hebrew&#93;&#44; Sachs&#39; and<lb/> Pereles&#39; contributions&#44; Nock&#39;s dictiona&#45;<lb/>ry&#44; and there is now appearing in<lb/> Breslau Levy&#39;s Rabbinical<lb/> Lexicon &#40;in German&#41;&#44; to take these<lb/> together with the existing Aram.<lb/> lexica&#44; and extract a brief lexicon<lb/> for students&#44; would be a meritorious<lb/> work.  Next we should have<lb/> an English translation of the &#91;Hebrew&#93;<lb/></p>
+                
+                <pb n="3"/>
+            <p>and &#91;Hebrew&#93; as introductions to<lb/> the philosophical literature.<lb/></p>
+            <p>We have now in the<lb/> college 24 students&#44; ten in the<lb/> class of this year&#44; and 14 in my<lb/> class&#44; who take Talmud &#91;Hebrew&#93;&#44;<lb/> mishnah &#91;Hebrew&#93;&#44; Bible &#91;Hebrew&#93;<lb/> and &#91;Hebrew&#93;&#44; Mam. Grammar<lb/> and history.  Later in the season<lb/> I will take &#91;Hebrew&#93;.  It keeps me<lb/> busy&#44; and yet my opponents cry<lb/> honor&#44; because I do what they<lb/> neither could nor would do.<lb/></p>
+            <p>I believe&#44; if the Philad.<lb/> congregations come into the Union&#44;<lb/> that the Maimonides College<lb/> could be re&#45;opened as a Preparatory<lb/> with four classes for four years<lb/> as the one I am at now&#44; and at<lb/> the next meeting of the Council<lb/> a committee could be appointed<lb/></p>
+                
+                <pb n="4"/>
+            <p>to carry this into effect.  In my<lb/> opinion&#44; a teacher having but two<lb/> hours a day to teach&#44; must have<lb/> no more htan 12 to 14 students.<lb/>  As the matter stands now&#44; our<lb/> Preparatory will be full in two<lb/> years.  We have but two students<lb/> from the East&#44; consequently a<lb/> Preparatory in the East&#44; i.e. In<lb/> Philadelphia might be just as<lb/> well filled in three to four<lb/> years. &#91;Hebrew&#93;.<lb/></p>
+            <p>I would have to<lb/> write you much more&#44; but must<lb/> close here with my best wishes&#44;<lb/> my assurance of highest regard<lb/> and a heartfelt &#91;Hebrew&#93;.  Yours<lb/></p>
+            <p>Isaac M Wise<lb/></p>
+        </body>
+    </text>
+</TEI>

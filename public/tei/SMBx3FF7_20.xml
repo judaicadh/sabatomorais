@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Krotowski, H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF7_20</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Krotowski, H.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1884-07" source="" attested="yes">8 July 1884</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff7_20_1r.tif"/>
+                                <graphic url="smbx3ff7_20_1v.tif"/>
+                                <graphic url="smbx3ff7_20_2r.tif"/>
+                                <graphic url="smbx3ff7_20_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>New York July 8<hi rend="sup">th</hi> 1884<lb/></p>
+                
+            <p>Rev. Sir<lb/></p>
+            <p>On my arrival here I found a letter of my<lb/> brother in San&#45;Francisco stating that having of late<lb/> sent &#36;100 to my son in Berlin&#44; and he himself<lb/> being in a critical condition he is for the<lb/> present unable to make &#91;&#94;&#93; me any <sic>farther</sic> remittance<lb/> in money and hopes I would find the means<lb/> for defraying my passage here among my<lb/> schoolmates. My brother however is greatly mistaken<lb/> I perceive that I could not do it without<lb/> running the risk of loosening the tie of friend&#45;<lb/>ship <del>that</del> holding me to them from boyhood.<lb/></p>
+            <p>I therefore <sic>preffered</sic> applying to one or<lb/> the other gentleman disposing of some funds<lb/> of the Alliance Israelite or of the <sic>russian</sic> Emigrants<lb/> and in absence of Mr. Heilprin who might<lb/> have some faint recollection of my mission<lb/> of last year I applied to judge Isaacs of the<lb/> All&#58;Isr. who is  willing to grant me the passage<lb/> fees on condition that I bring him a letter<lb/></p>
+                
+                <pb n="2"/>
+            <p>of recommendation from a trustworthy<lb/> gentleman who has any knowledge of my<lb/> mission which <del>was of</del> bore but a very private character.<lb/></p>
+            <p>Having among other things mentioned <del>of</del> <lb/>your worthy name Mr&#58; Isaacs said a few<lb/> lines <del>o</del> from you in my behalf to that effect<lb/> would serve him as a most valuable pledge<lb/> for my deserving <del>htat</del> the grant I applied<lb/> for. I again venture to take recourse<lb/> to your noble and generous feelings<lb/> and leave it entirely to your good<lb/> <sic>judgement</sic> either to direct the letter<lb/> to Mr. Isaacs 115 Broadway  <del>or to s</del><lb/> and kindly informing &#94; me of it by a separate postal<lb/> card&#44; or sending  the letter to me to the<lb/> address on the foot of this&#91;.&#93;<lb/></p>
+            <p>Begging your pardon for intruding<lb/></p>
+                
+                <pb n="3"/>
+            <p>so much on your valuable time and<lb/> for causing you so much trouble I trust<lb/> I shall be enabled to prove worthy<lb/> of the kind sympathy you bestowed<lb/> on me.</p>
+            <p>I am Rev. Sir<lb/>
+                your obedient servant<lb/>
+                H. Krotowski<lb/>
+                care of Mr&#58; A. Leszczynski<lb/>
+                112 Rivington Str<lb/>
+                New York				City<lb/></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Mudahy, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF9_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Mudahy, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1890-08" source="" attested="yes">16 August 1890</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff9_3_1r.tif"/>
+                                <graphic url="smbx5ff9_3_2v.tif"/>
+                                <graphic url="smbx5ff9_3_1v.tif"/>
+                                <graphic url="smbx5ff9_3_2r.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>CUNARD ROYAL MAIL STEAMSHIP &#34;AURANIA&#34;<lb/></p>
+            <p>Mr Jacob Mudahy<lb/> &#40;of Kingston Jamaica&#41; pre&#45;<lb/>sents his very kind regards<lb/> to the Revd Mr Morais of<lb/> Philadelphia&#44; and hopes<lb/> the Revd Gentleman is<lb/> in the perfect enjoyment<lb/> of Blessed Health.<lb/></p>
+            <p>Mr Morais will rem&#45;<lb/>ember Mr Mudahy&#44; when<lb/> he is reminded that he<lb/> kindly accompanied Mr<lb/> Mudahy in 1880 to see<lb/> Miss Simha Peixotto.<lb/> and that Mr Mudahy said<lb/></p>
+                
+                <pb n="2"/>
+            <p>the &#91;Hebrew&#93; in Mr Morais&#39;<lb/> synagogue on the Sabbath.<lb/></p>
+            <p>Mr Mudahy wife &#38;<lb/> niece also attended <del>the</del><lb/> Mr Morais&#39;s synagogue<lb/> on Kipur 1883&#44; and Mr<lb/> Morais will perhaps<lb/> remember&#44; that Mr<lb/> Mudahy mentioned at<lb/> the time to that the<lb/> synagogues in Kingston<lb/> had been burnt down&#44;<lb/> and that he &#40;Mr Mudahy&#41;<lb/> was interesting himself<lb/> in making collections<lb/> towards building up a<lb/> new Hall of worship.<lb/></p>
+                
+                <pb n="3"/>
+            <p>We have since<lb/> erected a Grand<lb/> Synagogue&#44; in the<lb/> carrying on of<lb/> which Mr Mudahy<lb/> takes a lively interest.<lb/></p>
+            <p>Mr Mudahy<lb/> is the immediate<lb/> <hi rend="underline">past</hi> President&#44; and<lb/> was Honorary Reader<lb/> to the congregation from<lb/> its foundation till<lb/> the arrival of its<lb/> minister from England.<lb/></p>
+                
+                <pb n="4"/>
+            <p>By the by the Rev Mr<lb/> Montefiore of the Port.<lb/> synagogue in the Rue<lb/> Biflault Paris&#44; asked<lb/> <del>me</del> Mr M a few weeks ago&#44; if<lb/> he knew the Rev Mr<lb/> Morais&#44; and he under&#45;<lb/>stood Mr Montefiore<lb/> to say that Mr Morais<lb/> was his first Hebrew<lb/> master in Italy.<lb/></p>
+            <p>Mr Mudahy will be<lb/> delighted to hear from Mr<lb/> Morais addressed to Care<lb/> of Revd A H Nieto 256 W<lb/> 22 New Yk till 27 August&#44;<lb/> after to&#44; Kingston Jamaica.<lb/> &#91;Hebrew&#93;<lb/> Saturday Night<lb/> Steamer Aurania 16 Aug 1890<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Mendes, H. P.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF9_67</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Mendes, H. P.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1880-11" source="" attested="yes">November 1880</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff9_67_2r.tif"/>
+                                <graphic url="smbx2ff9_67_2v.tif"/>
+                                <graphic url="smbx2ff9_67_1r.tif"/>
+                                <graphic url="smbx2ff9_67_1v.tif"/>
+                                <graphic url="smbx2ff9_67_3r.tif"/>
+                                <graphic url="smbx2ff9_67_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>246 W 52.<lb/></p>
+            <p>Rev S. Morais<lb/>
+                My dear sir<lb/></p>
+            <p>If &#36;10 would procure<lb/> the Revd. Is. and other Bible comments of Luzzato<lb/> as you state you think&#44; I shall be very glad if<lb/> you will order them for me&#44; that is&#44; if not<lb/> troubling you.  The circular on this will<lb/> interest you.  With regards<lb/></p>
+            <p>Yrs try<lb/>
+                H Mendes.<lb/></p>
+                
+                <pb n="2"/>
+            <p>Nineteenth Street Synagogue&#44;<lb/></p>
+            <p>KISLEV&#44; 5641&#44;<lb/>
+                NOVEMBER&#44; 1880.<lb/></p>
+                
+            <p>DEAR SIR&#58;<lb/></p>
+            <p>I have much pleasure in informing you&#44; that the Ladies&#39; Classes<lb/> attached to our Congregation&#44; will commence the new session on Wednesday&#44;<lb/> the 17<hi rend="sup">th</hi> inst.<lb/></p>
+            <p>The education of children by home influence&#44;&#45;&#45;the most potent educator&#44;&#45;&#45;de&#45;<lb/>pends in a very great measure upon the Ladies.  That they should be qualified<lb/> to exert this influence is a most solemn duty&#59; that they are willing to receive<lb/> the necessary instruction is evidenced by the many who have attended&#44; by the<lb/> many who have already signified their intention of joining.<lb/></p>
+            <p>I have therefore&#44; to ask your kind offices in bringing these classes to the no&#45;<lb/>tice of all&#44; and to assure them that the difficulties popularly supposed to envelop<lb/> the sacred language are removed by the method employed&#44; which renders each<lb/> lesson interesting and quickly deprives the study of its supposed dryness.<lb/></p>
+            <p>A primary class will be this year instituted.  A course of Lectures upon<lb/> LITERATURE and HISTORY&#44; will be inaugurated if practicable.<lb/></p>
+            <p>In addition to the Ladies&#39; Classes&#44; others will be established for<lb/></p>
+            <p>YOUNG MEN OF THE CONGREGATION.<lb/></p>
+            <p>There are&#44; I am confident&#44; young men in our Congregation who are far too<lb/> sensible and earnest to be content to be Hebrews&#44; and know little or nothing<lb/> of the language&#44; past history and future hopes of our nation.<lb/></p>
+            <p>The absurdity of being Jews and knowing nothing of Jewish law or lore&#44; is so<lb/> evident to any thinking man&#44; that he will spare not effort to repair his deficien&#45;<lb/>cies&#59; nor will he think it too great a sacrifice or too unmanly&#44; to devote at<lb/> least one hour a week to the study of subjects which transform the Jew by<lb/> birth&#44; into the Jew by conviction and knowledge.<lb/></p>
+            <p>A young&#45;men&#39;s class maintained through last winter&#44; is sufficient evidence<lb/> that it can be successful.  Those even who know not the letters&#44; will be able to<lb/> read and translate passages before the session is over.<lb/></p>
+            <p>I will be happy to attend a class of THREE OR MORE AT ANY RESIDENCE any<lb/> convenient evening.<lb/>
+                Additional effort will this year be made on behalf of the<lb/></p>
+            <p>CHILDREN OF MEMBERS.<lb/></p>
+            <p>If we desire the children of the Congregation to become Hebrews worthy of<lb/> the name&#44; that is&#44; with a proper knowledge of the language and sacred tradition<lb/> which together distinguish our nation&#44; we must find means to impart such<lb/> knowledge outside of the public schools.<lb/></p>
+                
+                <pb n="3"/>
+            <p>The Sunday School&#44; admirable as is its influence in this direction&#44; is not suf&#45;<lb/>ficient.  To supplement its usefulness by week&#45;day classes is the only method<lb/> to solve the problem.<lb/></p>
+            <p>There will therefore be a class for children of members of our Congregation&#44;<lb/> every Tuesday afternoon&#44; at Synagogue&#44; from 3&#58;30 to 4&#58;30 P.M.<lb/></p>
+            <p>By establishing the above classes I trust to gradually diffuse Hebrew educa&#45;<lb/>tion throughout the whole Congregation&#44; being firmly convinced that the hope<lb/> of Judaism lies in the Jewish education of those whose faith it is&#44; and that our<lb/> own community can only perform its duty in preserving historic Judaism&#44; by re&#45;<lb/>newed activity and energy in the educational department.<lb/></p>
+            <p><emph rend="italics">I am&#44; sir</emph><lb/>
+                <emph rend="italics">Yours very truly&#44;</emph><lb/>
+                H. P. MENDES&#44;<lb/>
+                <emph rend="italics">Minister&#44; K. K. S. I.</emph><lb/></p>
+                
+            <p>LIST OF CLASSES.<lb/>
+                LADIES&#39; CLASSES.<lb/>
+                WEDNESDAYS AT THE 19<hi rend="sup">th</hi> STREET SYNAGOGUE.<lb/></p>
+            <p>CLASS A. &#40;2 P.M.&#45;&#45;3 P. M.&#41; Translation of Psalms&#44; passages of Historical and Prophetic Books&#59; Heb. Grammar.<lb/></p>
+            <p>CLASS B. &#40;3 P.M.&#45;&#45;4 P.M.&#41; Translation of passages of Pentateuch&#44; Prayers&#44; easy Hebrew Grammar.<lb/></p>
+            <p>CLASS C. &#40;4 P.M.&#45;&#45;5 P.M.&#41; Primary Class. Reading and first principles of Hebrew Grammar.<lb/></p>
+            <p>YOUNG MEN&#39;S CLASSES. &#40;EVENING.&#41;<lb/></p>
+            <p>Gentlemen willing to devote an hour a week&#44; or more&#44; to Hebrew&#44; are requested to communicate with me at<lb/> No. 244 West 52d Street.<lb/></p>
+            <p>POST GRADUATE CLASS &#40;EVENING.&#41;<lb/></p>
+            <p>Meets now.  Originally designed for certificated graduates of the Sunday School&#44; it is open to all desirous of<lb/> joining.<lb/></p>
+            <p>CLASSES FOR CHILDREN OF MEMBERS.<lb/></p>
+            <p>One is already established&#59; another will meet at Synagogue&#44; Tuesdays&#44; 3&#58;30&#8212;4&#58;30 P.M.<lb/></p>
+            <p>GENERAL WEEK&#45;DAY CLASSES.<lb/></p>
+            <p>Graded Classes&#44; Thursdays&#44; at Synagogue&#44; 3&#58;30 P.M.  Address at 4&#58;15 P.M.<lb/></p>
+                
+            <p>&#40;<emph rend="italics">Further Particulars of all the above Classes upon application.</emph>&#41;<lb/></p>
+            
+            <pb n="4"/>
+            <p>Rev S. Morais<lb/>
+                546 North 5th<lb/>
+                Phila.<lb/>
+                Pa.<lb/></p>
+        </body>
+    </text>
+</TEI>

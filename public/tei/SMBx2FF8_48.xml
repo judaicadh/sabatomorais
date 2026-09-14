@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF8_48</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Houston, TX</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-12" source="" attested="yes">11 December 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff8_48_1r.tif"/>
+                                <graphic url="smbx2ff8_48_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>JACOB VOORSANGER&#44;<lb/>
+                HOUSTON&#44;<lb/>
+                TEXAS.<lb/></p>
+            <p>Dec. 11 1879<lb/></p>
+            <p>Rev &#38; Dr Sir<lb/></p>
+            <p>Though engaged in finishing my<lb/> Sermon for this evening I cannot bear to leave<lb/> your kind answer to my first unanswered any<lb/> longer.  I was right when I expressed my confidence<lb/> that spite of my long neglect you would write<lb/> to me as if you had seen me but yesterday.  Thank<lb/> you with all my heart.<lb/></p>
+            <p>Your words of advice have comforted me very<lb/> much&#44; I am in so far unlike a good many of<lb/> my age &#38; ability&#44; that&#44; whilst possessing a goodly<lb/> portion of confidence in myself I am not suf<lb/>ficiently vain or conceited to consider myself<lb/> infallible.  At times I doubt my own ability to<lb/> carry on my great work.  But such words as yours<lb/> are like a prop under my arms&#44; and you don&#39;t<lb/> know how I appreciate it.  With respect to the<lb/> doctrine of eternity of matter&#44; I am glad that I may<lb/> entertain its believe without violating the principles of<lb/> our holy religion.  It is a great relief to me&#44; to be able<lb/> to think without doing offense to my religion.  In reading<lb/> the above on the subject I find a disquisition on the<lb/> &#91;Hebrew&#93; the perpetual or eternal force.  Ulendel&#44;<lb/>ssohn&#91;&#63;&#93; who as you are aware wrote a &#91;Hebrew&#93;<lb/></p>
+                
+                <pb n="2"/>
+            <p>to the &#91;&#63;&#93; has much to say on the subject but<lb/> concludes that any mixture of the Platonic &#38; Aristotelian<lb/> theories with Judaism is dangerous to the individual<lb/> thinker.  I am inclined to think he is right.  It avails<lb/> nothing&#8212;the pondering upon abstract matters&#44; though<lb/> it develops the mental faculties.  I envy you&#44; who<lb/> can act &#38; live with simply &#91;Hebrew&#93;.<lb/>  No doubt my time of trial &#38; reflection will come&#44;<lb/> &#38; I shall be thankful that they will restore me my<lb/> former childlike faith.  In fact I feel that I could be doubly<lb/> grateful for affliction if it would tend to restore<lb/> to me <del>my</del> certainty &#38; remove doubt.  Believing as I<lb/> do firmly &#38; unwaveringly in one&#44; &#91;&#63;&#93; God&#44; as the<lb/> &#91;&#63;&#93; of my people &#38; the divine revelation to man<lb/> I am sadly swayed between conflicting opinions<lb/> upon minor matters.  And in such a state it affords<lb/> one great consolation to hear from lips as yours that our<lb/> blessed religion allows <del>affords</del> the very widest scope of private<lb/> interpretation.  Had Moses ever doubted <del>but</del> that those who<lb/> really &#38; earnestly seek God would be sure to find him<lb/> he would have &#34;hedged&#34; even more than the Rabbis did<lb/> Nothing new for the present.  The weather here is glori<lb/>ously in unison with the warm feelings stirred up<lb/> by reading the memorable feats of the Maccabes.<lb/>  May the friendly winter sun bring you as pleasant<lb/> Chanuka thoughts as they have brought to<lb/></p>
+            <p>yours&#44; faithfully<lb/>
+                	Jacob Voorsanger<lb/></p>
+            <p>324 Congress Str.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Jacobs, Henry S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF11_13</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Jacobs, Henry S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1885-05" source="" attested="yes">5 May 1885</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff11_12_1r.tif"/>
+                                <graphic url="smbx3ff11_12_1v.tif"/>
+                                <graphic url="smbx3ff11_12_2r.tif"/>
+                                <graphic url="smbx3ff11_12_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>New York 5<hi rend="sup">th</hi> May &#39;85<lb/>
+                144 E. 65<hi rend="sup">th</hi> St.<lb/></p>
+            <p>Revd S. Morais<lb/>
+                Phila<lb/>
+                My dear Sr<lb/></p>
+            <p>Your letter of yesterday&#39;s<lb/> date duly reached me this morning&#44; and<lb/> as its contents were interesting to our local Board<lb/> of Ministers I placed it before them during<lb/> our today&#39;s session.<lb/></p>
+            <p>I regret the probable failure<lb/> of the endeavor to unify our &#94; American work for the<lb/> Alliance&#44; but we have done the next best<lb/> thing in arranging for a consolidation of<lb/> New York societies into one branch. The 19th<lb/> Congn may not immediately come into this<lb/> project&#44; but there is room for hopes&#44; that it<lb/> will eventually do so. In order to meet the<lb/> difficulties which beset the chances of Union<lb/> in this matter&#44; we have resolved on the<lb/> following plan. Each member is to seek to<lb/></p>
+                
+                <pb n="2"/>
+            <p>enlist cooperation and procure members<lb/> within his own Congn&#44; then forming an<lb/> <sic>&#34;auxilliary&#34;</sic>   Asscn.  But a Central<lb/>  Body will be formed here&#44; who are to act<lb/> as intermediaries&#44; and thro whom all<lb/> Coms. are to pass&#44; and all remittances made.<lb/> As to the latter&#44; the names of donors&#44; and by whom<lb/> obtained are to be specifically mentioned&#44; thus<lb/> crediting the individual Congrs.<lb/></p>
+            <p>The Central Body &#40;or Committee&#41; to be<lb/> located in this city and to act for New York  and<lb/> any other place that may voluntarily make<lb/> them the channel of Com with &#94; the Paris parent<lb/> Society&#44; will  be composed of Messr M.S. Isaacs&#44;<lb/> L T Brush&#44; William  Strauss&#44; Rev Dr H P. Mendes<lb/> severally representing 44<hi rend="sup">th</hi> St.&#44; my Congn&#44; Beth El&#44; &#38; 19<hi rend="sup">th</hi> St.<lb/> Dr Gottheil &#94;is  to select a member from Temple Emanu El.<lb/> A meeting to organize will be called for next<lb/> Monday Evening.  So now&#44; Union so far&#44; and<lb/> I trust&#44; more extended in a few months will<lb/> very probably be reached. This was the only<lb/> method of solving a somewhat difficult question.<lb/></p>
+                
+                <pb n="3"/>
+            <p>Reciprocating your kind<lb/> regards and with assurances of esteem&#44;<lb/>
+                Believe me<lb/>
+                Yours truly<lb/>
+                Henry S. Jacobs<lb/></p>
+        </body>
+    </text>
+</TEI>

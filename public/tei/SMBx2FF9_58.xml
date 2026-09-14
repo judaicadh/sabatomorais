@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Rosenberg, G. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF9_58</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Rosenberg, G. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Waterloo, IN</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1880-09" source="" attested="yes">2 September 1880</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff9_58_1r.tif"/>
+                                <graphic url="smbx2ff9_58_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>OFFICE OF<lb/></p>
+            <p>BUTT&#39;S HOTEL&#44;<lb/>
+                JOHN BUTT&#44; Proprietor.<lb/></p>
+            <p>Waterloo&#44; Ind.&#44; Sept 2d 1880<lb/></p>
+            <p>Rev. S. Morais<lb/>
+                Phida<lb/></p>
+            <p>Revd respected Sir&#33;<lb/></p>
+            <p>I am not go&#45;<lb/>ing through a mere form&#44; but am<lb/> but satisfying the demands of my<lb/> heart&#44; when I take the opportuni<lb/>ty to tender you my kind wishes<lb/> for the New Year.  Indeed I should<lb/> be doing no &#91;&#63;&#93; to my feelings<lb/>&#45;&#45;which are those of reverence&#44; gra&#45;<lb/>titude and personal regards for<lb/> my teacher&#8212;were I to refrain<lb/> from joining all those that know<lb/> you&#44; in prayers and wishes for your<lb/> continued health and prosperity.<lb/>  May it please God to yet spare<lb/> you for a long time both to your<lb/> family and to your congregation&#44;<lb/> that other larger family which needs<lb/> you as badly as your own dear<lb/> ones and are but little behind them<lb/> in their love for God&#59; and may the<lb/> blessing of your life which you are<lb/> slowly approaching be full of<lb/></p>
+                
+                <pb n="2"/>
+            <p>that Peace and calm joy&#8212;full of<lb/> the rich fruits that long years of toil<lb/> in the &#91;&#63;&#93; of the Lord and<lb/> earnest devotion to &#91;&#63;&#93; en&#45;<lb/>&#91;&#63;&#93; you to.<lb/></p>
+            <p>Mr Morais&#44; the foregoing are<lb/> not the empty and studied phra<lb/>ses of a flatterer.  They are but a<lb/> feeble attempt to express the sen<lb/>timents of one in whom your simple<lb/> eloquence and dignified discharge<lb/> of ministerial duties have aroused<lb/> a religious zeal and strength of<lb/> religious convictions&#44; to which he<lb/> would otherwise have been a em<lb/>parative stranger.  In this spi<lb/>rit&#44; both of respect and grati&#45;<lb/>tude&#44; I send you this New Year<lb/> greeting from afar and extend<lb/> to you a hearty&#44; g&#91;&#63;&#93; &#34;Good<lb/> Yom Tob&#34;.<lb/></p>
+            <p>I am glad of this opportu<lb/>nity to assure you of my high<lb/> esteem &#38; regard with which I<lb/> am<lb/></p>
+            <p>Sincerely Yours<lb/>
+                G. S. Rosenberg<lb/></p>
+        </body>
+    </text>
+</TEI>

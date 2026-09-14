@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF8_7</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Huebsch, A.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-08" source="" attested="yes">31 August 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff8_7_1r.tif"/>
+                                <graphic url="smbx2ff8_7_1v.tif"/>
+                                <graphic url="smbx2ff8_7_2r.tif"/>
+                                <graphic url="smbx2ff8_7_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>546 Nth 5<hi rend="sup">th</hi> st.<lb/></p>
+            <p>Dr A. Huebsch<lb/>
+                Revd and dear Sir<lb/></p>
+            <p>Possibly&#44; you may not have<lb/> seen the <hi rend="underline">Jewish Record</hi> of last Friday.  In<lb/> a communication by Mr I. Rubenstein&#44; you have<lb/> been chosen umpire to decide whether Maimonide&#39;s<lb/> &#91;Hebrew&#93; is a defence of his belief in a bodily<lb/> resurrection&#44; or a denial of that article of faith.<lb/></p>
+            <p>I maintain that the author endeavours throughout to<lb/> show that he does not confound &#91;Hebrew&#93; with &#91;Hebrew&#93;&#44; and<lb/> that though dwelling at large on the subject of the<lb/> former&#44; because agreeable to reason&#44; he unequivocally<lb/> accepts the doctrine of a resuscitation after death&#44; or<lb/> &#91;Hebrew&#93;&#44; as within the scope of God&#39;s illimitable<lb/> powers.  Mr Rubenstein&#44; on the contrary&#44;<lb/> maintains that Maimonides declares the doctrine<lb/> of the resurrection absurd.  He further represents<lb/> &#91;Hebrew&#93; as denying the authenticity of the book of<lb/> Daniel&#44; and I maintain that Maimonides uses it<lb/> as a support to the aforenamed doctrine.<lb/></p>
+                
+                <pb n="2"/>
+            <p>Mr Rubenstein intimates that Maimonides<lb/> ridicules the idea that the prayers <del>embodying</del> containing the<lb/> acknowledgment of a bodily resurrection were composed<lb/> by the ancient Sages&#44; or &#91;Hebrew&#93;; I hold that<lb/> &#91;Hebrew&#93; wishes to prove the universal acceptance of the<lb/> doctrine by pointing to those very prayers.<lb/></p>
+            <p>In the event of your consenting to act in the capacity<lb/> of umpire&#44; it will be necessary for you to know<lb/> that I base my convictions upon the translation of<lb/> the <hi rend="underline">Maamar</hi> by Samuel Ibn Tibon&#44; as published<lb/> in 5410 at Amsterdam by Joseph Attias.<lb/></p>
+            <p>Yours respectfully<lb/>
+                S. Morais<lb/></p>
+            <p>Philadelphia August 31<hi rend="sup">st</hi> 1879<lb/></p>
+                
+            <p>PS. Your answer will be inserted in the <hi rend="underline">Jewish Record</hi>&#44;<lb/> the office of which is 614 Chestnut st.<lb/></p>
+        </body>
+    </text>
+</TEI>

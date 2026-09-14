@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Funian, L.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF29_17</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Buniand, L.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Cohen, Miss</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1870-12" source="" attested="yes">7 December 1870</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff29_19_1r.tif"/>
+                                <graphic url="smbx1ff29_19_1v.tif"/>
+                                <graphic url="smbx1ff29_19_2r.tif"/>
+                                <graphic url="smbx1ff29_19_2v.tif"/>
+                                <graphic url="smbx1ff29_18_1r.tif"/>
+                                <graphic url="smbx1ff29_18_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Burial of Moses.<lb/></p>
+            
+            <p>By Nebo&#39;s lonely mountain&#44;<lb/>
+            On this side of Jordan&#39;s wave&#44;<lb/>
+            In a vale in the land of Moab&#44;<lb/>
+            There lieth a lonely grave&#59;<lb/>
+            And no man dug that sepulchre&#44;<lb/>
+            And no man saw it e&#39;er&#44;<lb/>
+            For the angels of God upturned the sud<lb/>
+            And laid the dead man there.<lb/></p>
+            
+            <p>This was the grandest funeral<lb/>
+            That ever passed on earth&#44;<lb/>
+            But no man heard the tramping&#44;<lb/>
+            Or saw the train go forth&#44;<lb/>
+            Silently as the day light<lb/>
+            Comes when the night is done&#44;<lb/>
+            And the crimson streak on ocean&#39;s cheek<lb/>
+            Glows into the great red sun.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Silently as the spring time<lb/>
+            Its crowd of verdure weaves&#44;<lb/>
+            And all the trees on all the hills<lb/>
+            Open their thousand leaves.<lb/>
+            So&#44; without sound of music&#44;<lb/>
+            Or voice of him that wept&#44;<lb/>
+            Silently down from the mountain&#39;s crown&#44;<lb/>
+            The great procession swept.<lb/></p>
+            
+            <p>Perchance the bald old eagle&#44;<lb/>
+            On dark Bethbeor&#39;s height&#44;<lb/>
+            Down from his rocky eyrie&#44;<lb/>
+            Looked in the wondrous sight&#58;<lb/>
+            Perchance on the lion stalking<lb/>
+            Avoids the sacred spot&#45;&#45;<lb/>
+            For beast and bird have seen and heard<lb/>
+            That which man knoweth not.<lb/></p>
+            
+            <pb n="3"/>
+            <p>Amid the noblest of the land<lb/>
+            Men lay the sage to rest&#44;<lb/>
+            And give the bard an honest place<lb/>
+            With costly marbles dressed&#58;<lb/>
+            In the great minster transept&#58;<lb/>
+            Where lights like glories fall&#44;<lb/>
+            And the sweet choir sings and the organ rings<lb/>
+            Along the emblazoned wall.<lb/></p>
+            
+            <p>This was the bravest warrior<lb/>
+            That ever buckled sword&#45;&#45;<lb/>
+            This was the most gifted poet<lb/>
+            That ever breathed a word&#58;<lb/>
+            And never earth&#39;s philosopher<lb/>
+            Traced with his good pen&#44;<lb/>
+            On the deathless page&#44; truth half so sage<lb/>
+            As he wrote down for men.<lb/></p>
+            
+            <pb n="4"/>
+            <p>And had he not high honor&#44;<lb/>
+            The hill side for his pall&#44;<lb/>
+            To lie in state&#44; whilst angels wait&#44;<lb/>
+            With stars for taper&#39;s talb&#45;&#45;<lb/>
+            And the dark rock pines like the tossing plumes<lb/>
+            Over his bier to wave&#44;<lb/>
+            And God&#39;s own hand in that lonely land<lb/>
+            To lay him in the grave&#33;<lb/></p>
+            
+            <p>Oh&#33; lonely tomb in Moab&#39;s land&#44;<lb/>
+            Oh&#33; dark Bethbeor&#39;s hill&#44;<lb/>
+            Speak to those curious hearts of ours<lb/>
+            And teach them to be still.<lb/>
+            God hath his mysteries of grace&#44;<lb/>
+            Thoughts that we cannot tell&#44;<lb/>
+            And he hides them deep&#44; like the secret sleep.<lb/>
+            Of Him he loved so well.<lb/></p>
+            <p>Copied for Miss Cohen<lb/>
+            by L Buniand<lb/>
+                December 7<hi rend="sup">th</hi> 1870<lb/></p>
+            
+                <pb n="5"/>
+            <p>Rev. S. Morais<lb/>
+                546. No. 5<hi rend="sup">th</hi> St.<lb/>
+                Philadelphia.<lb/></p>
+
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF9_20</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff9_20_1r.tif"/>
+                                <graphic url="smbx11ff9_20_1v.tif"/>
+                                <graphic url="smbx11ff9_20_2r.tif"/>
+                                <graphic url="smbx11ff9_20_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Funeral oration<lb/></p>
+            <p>Brethren&#33;  The wish to hear the praises of our departed relatives&#44; rises spon&#45;<lb/>&#45;taneously in the human breast.  Death seems to possess a twofold<lb/> power.  That invisible hand&#44; which cuts the thread of life&#44; erases<lb/> also from the tablet of memory the foibles of those we have held dear.<lb/>  The causes of discordance on momentary irritation&#44; sink from our mental<lb/> vision&#44; to bring out into bold relief the thousands of occasions&#44; which fastened<lb/> the chords of our affection round the hearts that have ceased to throb.<lb/>  Sweet are therefore the words which recall the excellencies of our beloved ones.<lb/>  A public acknowledgment of their worth&#44; relieves soothes the poignancy of our grief.<lb/>  But feelings so natural to the bereaved&#44; are not always sympathised<lb/> with by strangers.  The world may perhaps be harsh in its judg&#45;<lb/>&#45;ment.  It do no doubt is so in many instances&#59; but unless the<lb/> qualities of those who have died obviously showed some claim to commend&#45;<lb/>&#45;ation&#44; the world which cannot investigate all our deeds&#44; will look<lb/> upon the obsequies performed as an unbecoming exhibition.  The<lb/> officiating minister may well specially expect to meet with censure&#44; when<lb/> the unenviable epithets of time&#45;sowing and obsequies will be<lb/> unsparingly applied.  I rejoice&#44; my Brethren&#33; to know<lb/> that you will not so consider me this day.  Whatever I shall say<lb/> of Judah Levy&#44; reechoes your sentiments&#44; and represents as true<lb/></p>
+            
+            <pb n="2"/>
+            <p>in all its bearings that which a desolate wife and sorrow&#45;<lb/>stricken relatives believe.  He was a good man&#59; that is&#58; he<lb/> endeavoured to follow right&#44; as God had given him a mind to under&#45;<lb/>&#45;stand the right.  He conceived that time was a creation of the<lb/> Most High&#44; and that to appropriate to oneself that portion thereof which<lb/> belongs not unto man&#44; is a sacrilege.  Hence&#44; he determined to employ<lb/> the seventh day&#44; as his Bible dictated &#91;Hebrew&#93; a Sabbath unto the Lord.  Few have become as zealous<lb/> in personally supporting the religious worship.  None more hearty in upraising<lb/> a voice&#45;&#45;ever melodious&#45;&#45;to enhance the service tendered to the<lb/> Almighty.  And our lamented friend could boast that the richest did<lb/> not&#44; comparatively&#44; exceed his liberal offerings.<lb/></p>
+            <p>Brethren&#33;  As often as the old adage that &#34;the voice of the people is the voice<lb/> of God&#34; is misapprehended&#44; I think that in the present instance<lb/> it cannot be regarded as wrongly applied&#59; when an entirely impartial community<lb/> of Israelites attests to the merits of Judah Levy&#39;s conduct in life.  Had our<lb/> deceased friend proved them simply in the Synagogue&#44; I myself and our my<lb/> coreligionists attached thereto&#44; might possibly be anxious impelled to accord to him a<lb/> meed of praise.  Had his fidelity&#44; fond attachment&#44; and<lb/> yielding temperament towards his wife of his bosom been his principal<lb/> characteristic.  Or had he merely as a son behaved dutifully and reverently&#44;<lb/> and as a brother affectionately and considerately&#44; those alone<lb/> of his household would be now wail and weep.  But when<lb/></p>
+            
+            <pb n="3"/>
+            <p>we hear on all sides an expression of sorrow at his untimely<lb/> death&#44; we are led forcibly to conclude that our brother possessed<lb/> more than ordinary qualities.  Yes&#58; in his social as well as in his<lb/> domestic and denominational relations he Judah Levy manifested a disposition<lb/> which won for him great respect.  He strove to be just&#44; while being<lb/> generous.  I shall never agree with the maxim set forth<lb/> in the books of our gentiles neighbors&#44; that &#34;charity will cover the<lb/> multitude of sins.&#34;  A virtue it is indeed&#44; and of the highest order&#59;<lb/> but when I am told that an Israelite faithless to his God&#44; dis&#45;<lb/>&#45;honest with his fellow&#45;man&#44; must elicit general esteem&#44; be&#45;<lb/>&#45;cause he gives freely to the poor&#44; I bl blush and hung down my<lb/> head.  Such is not the Jewish code&#44; and such nor was that not the<lb/> moral standard of our deceased brother friend.  To vast commercial<lb/> schemes he preferred small undertakings&#44; that he might not<lb/> overstep trespass the bounds of probity.  Yet&#44; he found always more<lb/> than a sufficiency to attend to the demands of humanity.<lb/>  He did stretched forth a helping hand to that his brother the needy fall<lb/> not by the rugged road he must cross&#59; but he remembered also likewise<lb/> that justice is runs the shining&#45;light which would guide his own steps<lb/> upwards.  &#34;The2 path of the just is brilliancy itself&#44; brightening<lb/> on unto the perfect day&#34; &#91;Hebrew&#93;1<lb/> and that he steadily endeavoured to follow.<lb/></p>
+            
+            <pb n="4"/>
+            <p>Restrain then your grief&#44; my bereaved friends.  Let your agitation be<lb/> calmed.  He whom you loved is nearing the goal&#44; when<lb/> that perfect day dawns.  He proceeds unobstructed by<lb/> the impediments that unrighteousness interposes.  He speeds<lb/> on with gigantic strides&#44; for his spiritual stature has heightened&#44;<lb/> since he became purified by patient suffering.  Acts of<lb/> devotion&#44; kindness&#44; justice and charity have atoned for<lb/> the trespasses of his youth.  The angels of peace greet his approach&#44;<lb/> and a voice above the Cherubim calls forth &#34;Judah shall ascend&#34;<lb/> &#91;Hebrew&#93;<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Almosnino, Sarah</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF9_33</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Almosnino, Sarah</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>London, England</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1880-05" source="" attested="yes">30 May 1880</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff9_33_1r.tif"/>
+                                <graphic url="smbx2ff9_33_1v.tif"/>
+                                <graphic url="smbx2ff9_33_2r.tif"/>
+                                <graphic url="smbx2ff9_33_2v.tif"/>
+                                <graphic url="smbx2ff9_33_3r.tif"/>
+                                <graphic url="smbx2ff9_33_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>19 St Mary&#39;s Terrace<lb/></p>
+            <p>Paddington<lb/>	
+                London<lb/>
+                30th May 1880<lb/></p>
+            <p>Dear Mr Morais<lb/></p>
+                
+            <p>From the above address<lb/> you will note that 11 Bevis Marks<lb/> is a direction of the past&#44; as I<lb/> was obliged a few months&#44; after<lb/> the demises of my lamented<lb/> Husband&#44; to vacate the official<lb/> residence&#44; in favor of his successor&#44;<lb/> and sought a residence &#91;&#63;&#93;<lb/> near our Branch Synagogue.<lb/>  Your ni&#91;&#63;&#93; heart will readily<lb/> believe I did not leave the<lb/> house of my married life&#44; with<lb/> all tis associations&#44; without<lb/> a severe pang and the dear<lb/> &#91;&#63;&#93; Syangogue&#44; in which for<lb/> so many years&#44; I had prayed&#44; prayed<lb/></p>
+                
+                <pb n="2"/>
+            <p>with so many loved ones&#44; but<lb/> such are the sad changes&#44; that<lb/> we must all submit to&#44; I am<lb/> here surrounded by all my old<lb/> Friends who kindly endeavor<lb/> to win me from myself&#8212;but altho<lb/> 2 years and four months have<lb/> elapsed since my loss the wound<lb/> is not healed but I endeavor to<lb/> follow in his footsteps by as far<lb/> as is my power to do my duty and<lb/> have resumed my attendance<lb/> at our schools&#44; to which as of<lb/> old I am much attached.  We<lb/> hold a distribution of pr&#91;&#63;&#93; on<lb/> the 13th June&#44; being the first since<lb/> the demise of our much lamented<lb/> Haham a memorial ode has<lb/> been written for the occasion by<lb/> our talented coreligionist Mr Henry<lb/> for the occasion&#44; and as I think you<lb/> still feel an interest in the old<lb/></p> 
+                
+                <pb n="3"/>
+            <p>congregation&#44; enclose you a copy<lb/> I have written thus much without<lb/> referring to the cause which has<lb/> drawn this forth&#44; but be assured<lb/> I do not the less value your very<lb/> kind thought&#44; and fully appreciate<lb/> the very pleasing remembrance<lb/> you must entertain towards<lb/> your first English riends by<lb/> making me the recipient of one<lb/> of your son&#39;s early production<lb/> the compilation of which&#44; reflects<lb/> much credit&#44; on the writer&#44; of<lb/> the various Biographies of Our<lb/> eminent men and women.  I<lb/> have already perused the greater<lb/> part of the work altho for the<lb/> reason above named I only<lb/> received the book on the 26th Inst<lb/> assure your son of the deep<lb/> interest I feel for his future<lb/> success as a Jewish writer but<lb/> added to that also <sic>also</sic> I must add<lb/></p>
+                
+                <pb n="4"/>
+            <p>that as your son my interest is<lb/> greater most sincerely do I wish<lb/> him&#44; and your other children<lb/> every success in life and may<lb/> you dear sir be spared to witness<lb/> the fulfillment of your hearts<lb/> desire towards them the fine<lb/> blessing denied me my &#91;&#63;&#93;<lb/> Husband would have echoed<lb/> my sentiments.  Should any of<lb/> your children ever visit the old<lb/> country whilst I am living I am<lb/> now an old &#40;woman&#41; I hope<lb/> they would not fail to seek me.<lb/>  I need not assure you&#44; that<lb/> my news&#44; your old pupils&#44; have<lb/> felt pleasure in perusing your<lb/> son&#39;s work and beg me to assure<lb/> you of their respectful regard<lb/> and good wishes.  All in life<lb/> passes as in a dream.<lb/></p>
+            <p>With <sic>reteriated</sic> thanks&#44; and good<lb/> wishes I remain with sentiments<lb/> of esteem&#8212;Yours truly<lb/></p>
+            <p>Sarah Almosnino<lb/></p>
+                
+                <pb n="5"/>
+            <p>MEMORIAL ODE.<lb/>
+                Rev. Dr. B. ARTOM.<lb/></p>
+                
+            <p>Our Chief is dead&#8212;sound long the funeral hymn&#44;<lb/>
+                The Years in passing bring their own relief&#44;<lb/>
+                Yet never shall his memory grow more dim&#44;<lb/>
+                And time shall soften&#8212;not efface&#8212;our grief.<lb/>
+                As on that day when fast the tidings spread<lb/>
+                With saddened hearts we mourn&#8212;our Chief is dead.<lb/></p>
+                
+            <p>Life&#39;s cares and pleasures lay aside awhile&#44;<lb/>
+                And think of him whose name we all revere&#59;<lb/>
+                A thousand hopes and fears the hours beguile&#44;<lb/>
+                And leave us scarce the time to drop a tear&#44;<lb/>
+                But on this spot where once he loved to tread&#44;<lb/>
+                Oh let us pause and think&#8212;our Chief is dead.<lb/></p>
+                
+            <p>Dead&#33; in his zenith of his life and fame&#44;<lb/>
+                Before one power was turning to decay&#44;<lb/>
+                Veiled&#44; unexpected the Destroyer came&#44;<lb/>
+                And only left for earth the lifeless clay&#59;<lb/>
+                But from our hearts his image ne&#39;er has fled&#44;<lb/>
+                It lives&#8212;then wherefore do we say he&#39;s dead&#63;<lb/></p>
+                
+            <p>Our Chief doth live&#8212;his virtues shall not die&#44;<lb/>
+                His teachings and his influence still are felt&#44;<lb/>
+                Here&#8212;where he drew our every thought on high&#44;<lb/>
+                Now&#8212;while our hearts with sweet remembrance melt&#44;<lb/>
+                The Gates of Hope their consolation give&#44;<lb/>
+                Here he could never die&#8212;our Chief doth live.<lb/></p>
+                
+            <p>FARMER &#38; SONS&#44; TYP.&#93;<lb/></p>
+        </body>
+    </text>
+</TEI>

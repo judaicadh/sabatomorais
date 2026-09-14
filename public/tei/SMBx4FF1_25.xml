@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF1_25</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Houston, TX</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1886-04" source="" attested="yes">19 April 1886</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff1_25_1r.tif"/>
+                                <graphic url="smbx4ff1_25_1v.tif"/>
+                                <graphic url="smbx4ff1_25_2r.tif"/>
+                                <graphic url="smbx4ff1_25_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>The Sabbath Visitor&#44;<lb/>
+                Cincinnati&#44; Ohio.<lb/>
+                Jacob Voorsanger&#44; Editor.<lb/></p>
+            <p>&#91;Hebrew&#93;<lb/>
+                Houston&#44; Texas&#44; April 19&#91;&#44;&#93; 1886<lb/></p>
+            <p>Rev S Morais<lb/>
+                My dear Sir<lb/></p>
+            <p>I have your valued favor since the 12<hi rend="sup">th</hi>&#44;but<lb/> want of time&#44; considering the approaching festival&#44; must be my only apology<lb/> for my want of promptness and the brevity of this reply. Let me say&#44; briefly&#44;<lb/>that your words have&#44; as usual&#44; not failed to set me thinking&#44; though you may<lb/> rest&#45;assured I am nor as black as they have painted me. I shall write you<lb/> at length on next Thursday&#44; which will be a leisure day to me&#44; for all my<lb/> work for the week is&#44; thank Heaven&#44; done. I write this only so as not to <lb/>appear negligent&#44; and also to request you to dispose of the enclosed dollar&#44;<lb/> which upon request of our good friend Gracber I send to you for trans&#45;<lb/>mission to his address. The good gentleman has sent me the last two parts<lb/> of the Rappaport letters with a postal card written in the florid oriental<lb/> style&#44; and I could not help being amused at his being &#91;Hebrew&#93;<lb/> as he expresses it. I have written him back in my prosaic western<lb/> style that I  hope he will find many more precious gems to stimulate<lb/> a love of the Thora and Rabb. literature&#44; and that he can count on<lb/> me at all times&#44; not alone for <del>contr</del> subscriptions but if need be for<lb/> a material contribution to assist his labors. I repeat&#44; I will write<lb/> on Thursday; meanwhile God bless you and grant you a full<lb/> measure of &#91;Hebrew&#93;.</p>
+            <p>Faithfully yours<lb/>
+                Jacob Voorsanger<lb/></p>  
+                
+            <pb n="2"/>
+            <p>Jacob Voorsanger&#44;<lb/>
+                Houston&#44; Texas.<lb/></p>
+            <p>Rev S. Morais<lb/>
+                546 North Fifth Street<lb/>
+                <hi rend="underline">Philadelphia</hi><lb/>
+                <hi rend="underline">Pa</hi><lb/></p>
+            </body>
+    </text>
+</TEI>

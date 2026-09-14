@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Jacobs, Henry S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF2_30</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Jacobs, Henry S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1886-08" source="" attested="yes">27 August 1886</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff2_30_1r.tif"/>
+                                <graphic url="smbx4ff2_30_1v.tif"/>
+                                <graphic url="smbx4ff2_30_2r.tif"/>
+                                <graphic url="smbx4ff2_30_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="en">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>New York 27<hi rend="sup">th</hi> Augt. &#39;86<lb/>
+                144 E. 65<hi rend="sup">th</hi> St<lb/></p>
+            <p>Rev<hi rend="sup">d</hi> S. Morais<lb/>
+                Phil<hi rend="sup">a</hi><lb/></p>
+            <p>Dear Sir &#38; Colleague<lb/></p>
+            <p>I have just read<lb/> your article in the Am&#58; Heb&#58; under the<lb/> caption of &#34;An Old Ritual.&#34;  It is both<lb/> interesting and suggestive.  In this connection<lb/> I wish to mention that I recently bought here<lb/> an old Sephardic P Book fr. &#91;Hebrew&#93; what I<lb/> have not been able to examine carefully; but I<lb/> notice a variation in the hymn &#91;Hebrew&#93; which has<lb/> two additional lines.  After &#91;Hebrew&#93; comes this&#58;<lb/> &#91;Hebrew&#93;<lb/> after &#91;Hebrew&#93; comes&#58; &#91;Hebrew&#93;<lb/> In &#91;Hebrew&#93;&#44; instead of &#91;Hebrew&#93; as we use&#44; I find &#91;Hebrew&#93;<lb/> In &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;.  In &#91;Hebrew&#93;&#44; a few verbal trans&#45;<lb/>&#61;positions.  In &#91;Hebrew&#93;&#58; &#91;Hebrew&#93;<lb/></p> 
+            <p>The Book is evidently of Amsterdam<lb/> imprint&#44; judging by the types &#38; general form&#44; tho<lb/></p>
+                
+                <pb n="2"/>
+            <p>the title page is missing.  On the blank leafes<sic></sic><lb/> I find the name of the owner viz&#58; &#34;Abm Cohen&#44;<lb/> Philadelphia Oct 14<hi rend="sup">th</hi> 1785&#95;&#34; and also &#34;Lyon Moses<lb/> 1783.&#34; elsewhere.<lb/></p>
+            <p>When I was in Venice some<lb/> 5 years ago&#44; I saw a Prayer Book in the<lb/> Portuguese Synagogue what had the body of<lb/> &#91;Hebrew&#93; in two columns; one with our<lb/> usual form&#44; the other&#44; much different&#44; to<lb/> the extent indeed&#44; if my memory is correct&#44;<lb/> of the entire omission of reference to the &#91;Hebrew&#93;.<lb/></p>
+            <p>I believe you have touched<lb/> on a useful subject&#44; which I beg you will<lb/> pursue in future articles.  The good results<lb/> may be more far&#45;reaching than may be at<lb/> present perceptible.  I&#44; for one&#44; will be very glad<lb/> to read more from your pen on this topic&#44; &#38;<lb/> perhaps it may draw me other information.<lb/></p>
+            <p>Let me thank you for your kind and<lb/> appreciated words of sympathy at the real&#91;&#63;&#93; loss<lb/> which has fallen on my wife and myself.  It<lb/> has been a great trial for both of us&#44; and the<lb/> wound still bleeds.  God help us&#33;<lb/></p>
+                
+                <pb n="3"/>
+            <p>With kind regards<lb/> yours truly<lb/> Henry S. Jacobs<lb/></p>
+                
+            <p>In another &#34;Portuguese&#34; PB&#44; I find various<lb/> Pizmonim for &#91;Hebrew&#93;&#44; before &#91;Hebrew&#93; before &#91;Hebrew&#93;&#44; before<lb/> taking out the &#91;Hebrew&#93; &#38;c; the &#91;Hebrew&#93; &#38; &#91;Hebrew&#93;<lb/> of the Ashkenazic ritual&#44; and the claling up of the<lb/> &#91;Hebrew&#93; with the similar phrases used therein.  On &#91;Hebrew&#93;<lb/> a great many added Pizmonim.  In Yigdal &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;&#44; and &#91;Hebrew&#93; &#38;c.  In &#91;Hebrew&#93;&#58; &#91;Hebrew&#93;<lb/></p>
+            </body>
+    </text>
+</TEI>

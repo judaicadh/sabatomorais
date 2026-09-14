@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Solis Cohen, David</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF5_41</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Solis Cohen, David</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Portland, OR</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1894-04" source="" attested="yes">20 April 1894</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff5_41_1r.tif"/>
+                                <graphic url="smbx7ff5_41_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Cohen&#44; Davis &#38; Co.&#44;<lb/>
+                IMPORTERS.<lb/>
+                &#34;GOLDEN RULE BAZAAR&#44;&#34;<lb/>
+                Third and Morrison Streets.<lb/>
+                New York Office&#44; 43 Leonard St.<lb/></p>
+            <p>Portland&#44; Or. April 20&#47;94<lb/></p>
+            <p>Rev. Dr. S. Morais<lb/>
+            Philadelphia<lb/>
+            My dear sir &#38; friend<lb/></p>
+            <p>Permit me to thank you for<lb/> your kind words concerning my marriage<lb/> and to convey to you the deep respect<lb/> entertained for you by the wife whom you do<lb/> not now know but who I trust some day<lb/> may have the gratification of being presented<lb/> to you.  Your remark concerning the ministry<lb/> touches a very sacred spot.  It would have<lb/> been the consummation of my desire to fill<lb/> a Jewish pulpit but consciousness&#44; both of my<lb/> ideal and my feelings&#44; like a warning &#91;&#63;&#93;<lb/> heed me back&#44; telling me that I could never<lb/> be contented with myself&#44;&#45;&#45;therefore have I better<lb/> contented myself with such service and<lb/> ministration as has come naturally within my<lb/> scope&#59; and with God&#39;s help&#44; whatever my<lb/> surrounding&#39;s may be&#44; Judaism as I have learned<lb/> it will ever have an earnest supporter &#38; upholder<lb/></p>
+            
+            <pb n="2"/>
+            <p>&#45;&#45;some little good I may accomplish&#44; among<lb/> our neighbors if not among my own people.<lb/>  I have a request to present you.  It would<lb/> please me very much to have your picture<lb/> with your autograph&#44; to place with some I<lb/> highly cherish in my own little room in my<lb/> new home&#44; among my books and peculiar household<lb/> treasures.  I have a beautiful picture of Sir Moses<lb/> Montefiore presented to me by the J. M. H. A. of this<lb/> city and the other company will be equally<lb/> pleasing to you.  I mean of course such a portrait<lb/> as you may have at hand.  To night&#44; my wife&#39;s<lb/> first preparations of the &#39;Heagadoh&#44; we shall<lb/> have twenty at table&#59; quite a test for a<lb/> novice&#44; but she is equal to it.  I trust<lb/> that your holydays may be peaceful<lb/> &#38; pleasant.  With remembrance and regards<lb/> to the members of your family<lb/></p>
+            <p>Very sincerely yours<lb/>
+                David Solis Cohen<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Gottheil, G.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF12_17</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Gottheil, G.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1885-10" source="" attested="yes">19 October 1885</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff12_16_1r.tif"/>
+                                <graphic url="smbx3ff12_16_1v.tif"/>
+                                <graphic url="smbx3ff12_16_2r.tif"/>
+                                <graphic url="smbx3ff12_16_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>681 Madison Ave.<lb/>
+                N.Y. October 19&#44; 1885.<lb/></p>
+            <p>The Rev. S. Morais&#44;<lb/></p>
+                
+            <p>My dear Sir&#44;<lb/></p>
+                
+            <p>Dr Mendes showed me your letter to<lb/> him which I take to be virtually a letter<lb/> of resignation from the Conference. It was<lb/> painful reading to me&#44; because it sounded<lb/> like a death knell to our young organization.<lb/> Dr. Kohler has become our adversary because<lb/> we are not radical enough &#38; you&#44; dear Sir&#44;<lb/> will stay away&#44; because we are too radical.<lb/> And as some of our more prominent members<lb/> cannot attend for reasons beyond their<lb/> control&#44; we are seriously threatened with<lb/> a failure which cannot but be very damaging<lb/> to our position as Ministers &#38; the cause<lb/> which we have all at heart. Besides&#44; the<lb/> Baltimore Brethren have made great<lb/> Efforts to give us a cordial and dignified<lb/></p>
+                
+                <pb n="2"/>
+            <p>reception&#59; aught we not all to try to recognize<lb/> their zeal  by coming in respectable numbers&#63;<lb/> Your absence would be particularly noted&#44;<lb/> because you live so near &#38; because you are<lb/> the leader of the conservative side of the<lb/> Conference. I will not enter now into any discus&#45;<lb/>sion of your reasons for staying away&#59; I respect<lb/> them&#44; because I know them to be honestly<lb/> held by you&#59; but I would beg of you&#44; as President<lb/> of the Society and&#44; more so&#44; as a brother laborer<lb/> with you&#44; to let them remain in abeyance<lb/> till after the next Meeting. We have never come<lb/> nearer each other&#59; why&#63; I cannot tell&#59; but<lb/> I will try to do so at Baltimore  and should your<lb/> objections prove insurmountable&#8212;why&#44; then<lb/> we may jointly devise means&#44; to let this my<lb/> attempt at unifying the brethren&#44; die a decent<lb/> death&#44; so as to prevent the disgrace which would<lb/> otherwise result from it for our religion.<lb/> You must have felt both&#44; at New York &#38; your<lb/> own city that all members&#44; whether agreeing<lb/> with you or not&#44; look upon you with sincere<lb/> respect and are glad to meet you and to listen<lb/> to you. Pray&#44; do not push us aside&#59; do not<lb/> reject the hand of fellowship held out to you<lb/> in all sincerity&#59; you can do a great deal of<lb/></p>
+                
+                <pb n="3"/> 
+            <p>good to our younger members&#44; who are<lb/> scattered over the land without any <sic>salatary&#91;&#63;&#93;</sic><lb/> influence upon them by which they might<lb/> be prevented from rash and injudicious<lb/> steps. Make one more attempt with us &#38;<lb/> see whether your efforts must really remain<lb/> so barren of results as you anticipate.<lb/> Help us to avert a &#91;Hebrew&#93;; do not our sages make<lb/> the bold assertion that it would have been<lb/> better for the tribe of Judah to suffer their<lb/> northern brethren to serve their idols than<lb/> to cause the fatal disruption of the state&#63;<lb/></p>
+            <p>Pardon me if I ventured to advise you&#59;<lb/> I am not far from the point when age may<lb/> be pleaded as an excuse &#38; I can assure you <lb/> &#91;Hebrew&#93;.<lb/></p>
+            <p>Let me hear a word of cheer &#38; comfort from<lb/> you &#38; believe me&#44;<lb/></p>
+            <p>with sincere regard &#38; brotherly<lb/> sentiment yours<lb/>
+                G. Gottheil<lb/></p>
+            </body>
+    </text>
+</TEI>

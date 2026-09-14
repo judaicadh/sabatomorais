@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Levante, A. D.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF27_12</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Levante, A. D.</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1868-04" source="" attested="yes">15 April 1868</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff27_12_1r.tif"/>
+                                <graphic url="smbx1ff27_12_1v.tif"/>
+                                <graphic url="smbx1ff27_12_2r.tif"/>
+                                <graphic url="smbx1ff27_12_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>New York <del>March</del> April 15&#47;1868<lb/>
+            My Dear Sir&#44;<lb/></p>
+            <p>I have at length suc<lb/>ceeded in getting the picture<lb/> to which you have subscribed<lb/> palced in the hands of Eng lith&#45;<lb/>ographic Co. I expect that it<lb/> will be completed next week.<lb/>  My dear Mr. Morais you can&#45;<lb/>not form the slightest idea<lb/> of the troubles I have had to<lb/> endure since last we met&#44;<lb/> with no prospect of an opening<lb/> for an employment.  I have<lb/> been very kindly dealt with<lb/> by the Portuguese Synagogue<lb/> here&#44; as well as &#91;Hebrew&#93; Isaacs&#44;<lb/> Pardon me for troubling you<lb/> but knowing your kind hearted&#45;<lb/>ness I am assured when I dis&#45;<lb/>close to you my real position<lb/></p>
+            
+            <pb n="2"/>
+            <p>you will not hide your face<lb/> from the tale of&#91;&#63;&#93; which I re&#45;<lb/>late to you&#59; but with your in&#45;<lb/>terest &#38; influence endeavor as<lb/> early as possible to alleviate<lb/> my wants by an intercession<lb/> in my behalf with the Trustees<lb/> of your congregation.<lb/></p>
+            <p>My little boy &#38; myself for<lb/> the want of means to pay rent<lb/> have had all our clothes detained<lb/> leaving us with but the bare<lb/> suit on our backs many a day<lb/> we have to live on a loaf of<lb/> bread&#44; and many a night we know<lb/> not where to rest our heads.<lb/>  I may say &#91;Hebrew&#93;<lb/> To redeem my clothes would take<lb/> thirty dollars&#44; if I could possibly<lb/> realize as much I may expect<lb/> that in a couple of weeks when<lb/> the pictures are completed I may<lb/></p>
+            
+            <pb n="3"/>
+            <p>realize&#44; if event but a scanty&#45;<lb/>living for the present so as to<lb/> be independent&#44; as a past &#91;Hebrew&#93;<lb/> you might perhaps be induced<lb/> to do your best for a poor<lb/> benighted stranger in a strange<lb/> land&#44; crowded with distresses<lb/> &#38; misfortunes&#44; who once held a<lb/> high position&#44; it <sic>harrasses</sic> my<lb/> mind almost to despair.  I<lb/> am truly in need&#44; and if you<lb/> could only with your interces&#45;<lb/>sion &#38; influence come to my<lb/> aid in this hour of affliction.<lb/> &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;<lb/></p>
+            <p>Awaiting your early reply &#38; closing<lb/> with my best regards to yourself<lb/> and family<lb/>
+            Believe me to be<lb/>
+            Yours faithfully<lb/>
+            A D Levante<lb/>
+            30 Bowery N. Y.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

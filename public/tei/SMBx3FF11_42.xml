@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF11_42</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Houston, TX</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1885-08" source="" attested="yes">14 August 1885</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff11_41_1r.tif"/>
+                                <graphic url="smbx3ff11_41_1v.tif"/>
+                                <graphic url="smbx3ff11_42_1r.tif"/>
+                                <graphic url="smbx3ff11_42_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>JACOB VOORSANGER.<lb/>
+                BOX 191.<lb/></p>
+            <p>Houston&#44; Texas&#44; August 14 &#91;Hebrew&#93; 1885<lb/></p>
+            <p>Rev S. Morais<lb/>
+                My dear Sir<lb/></p>
+            <p>I am just in the receipt of your welcome and esteemed<lb/> favor of the 8<hi rend="sup">th</hi> and read the same with a great deal of interest and attention.<lb/> Next week I must begin to prepare for the laborious work of the &#91;Hebrew&#93; and lest I may<lb/> not have the time before &#91;Hebrew&#93; to reply&#44; I prefer doing so at once&#44; whilst your excel&#45;<lb/>lent words are still fresh in my mind. Permit me &#91;Hebrew&#93;<lb/></p> 
+            <p>Pardon me for saying that I do not altogether agree with you in your comparison<lb/> between the Talmudists of the Spanish Italian School and those of the German&#45;Po&#45;<lb/>lish. If that comparison could be entertained it would be the key to the idiosyn&#45;<lb/>crasies of reform. You are right in contending that the Talmudists of your school<lb/> did not despise profane learning&#44; but the statement needs qualification. Joseph<lb/> Kolen and Juda Mentz&#91;&#63;&#93; belonged to the Italian school&#59; their bitterness to any<lb/> and the slightest innovation exceeds the rigor of the Polish school. Kabbalism&#44;<lb/> which I still abhor&#44; originated in Spain and was protected and nourished<lb/> in Italy before it ever touched Poland&#59; Zabbatai Zebi was recommended by<lb/> Italians to the congregations of the  north and west&#44; and the worst act of<lb/> intolerance on record&#44; the &#91;Hebrew&#93; against Ben Uziel and Spinoza is Sephardic.<lb/> In spite of all this&#44; I have been forcibly struck with your remarks&#44; which<lb/> has set me thinking&#44; and I do concede&#44; that the  profane knowledge of<lb/> your school protects the fences of conservatism&#44; whilst the ignorance of<lb/> its Polish Lamdonim&#44; if once corrected&#44; leads to Kohlerism&#44; to tilulate&#91;&#63;&#93; the<lb/> opinions of my otherwise dear and excellent friend. And&#44; on the other hand&#44;<lb/> your comparison proves that you are not in line with the Polish<lb/></p>
+                
+                <pb n="2"/>
+            <p>German orthodox. I can agree with you&#8212;but I cannot argue with them.<lb/></p>
+            <p>I am glad you commend my article. It was written as a sort of compro&#45;<lb/> mise. I had intended a series of ten articles entitled &#34;Between <del></del> the&#93; two fires&#44;&#34;<lb/> in which I intended to prove that neither Kohler&#39;s or Kohut&#39;s position were<lb/> tenable in America&#44; or in other words&#44; that both &#34;German reform&#34; and &#34;Mos&#45;<lb/>aic&#45;Talmudical Judaism&#34; were a failure so far as this country is<lb/> concerned. I underlined my title &#34; a plea for <del></del> as&#91;&#63;&#93;&#93; an intelligent conser&#45;<lb/>vatism&#34; and I smiled when&#44; after seeing you use the same term&#44; I thought<lb/> how I had hit the nail on the head. That term &#34;intelligent conservatism&#34;<lb/> is going to be the watchword of American Jews and &#91;Hebrew&#93; you will<lb/> live to see the revolution take place&#44;only you must help along&#59; and<lb/> you can do it. Pardon me&#44; if I am to be frank&#44; but I speak from the very<lb/> depths of &#91;&#94;&#93; my heart&#44; every pulsation of which beats for the honor and the<lb/> integrity of our holy religion&#8212;Your uncompromising position hampers<lb/> us younger men&#44; though we understand and appreciate it. You can be<lb/> of such vast advantage in aiding us to remodel out convictions&#44;<lb/> and just now is the time. We cannot follow Kohut&#44; because he does<lb/> not know the people and the country. But we could follow you&#44; or to<lb/> say&#44; what would please you better&#44; you could indicate the way to<lb/> conciliate &#34;intelligent conservatism&#34; with the opinions of most young<lb/> Rabbis in the United States. Years ago&#44; when you wrote your excellent<lb/> and admirable articles on &#34;essentials&#34; in the Record&#44; Rev Mr. Isaacs<lb/> &#91;Hebrew&#93;  feel enthused to call a meeting of conservatives&#8212;you were then<lb/> reluctant. Now&#8212;as I indicate in that series of articles&#44; which will<lb/> yet be published&#8212;the way to begin thinking of a reconciliation<lb/> is to compare opinions. It is strange that so many people think<lb/> ritual and &#91;Hebrew&#93; the only differences. The first thing would really<lb/> be a discussion on doctrines.  Liberals have eliminated &#91;Hebrew&#93; and<lb/> &#91;Hebrew&#93; from their prayerbooks&#44; which indicates that they discard<lb/> these fundamentals. Now&#44; one believes in &#91;Hebrew&#93;&#44; the other in &#91;Hebrew&#93;<lb/> <del></del> I&#93; one believes in a &#91;Hebrew&#93; the other in &#91;Hebrew&#93; or even in &#91;Hebrew&#93;.<lb/> One accepts the &#91;Hebrew&#93; to which even Kohut does no more sub&#45;<lb/></p>
+                
+                <pb n="3"/>
+            <p>scribe&#44; the other takes Albo as a guide and so forth. Do you not think<lb/> that <hi rend="underline">these</hi> differences have to be reconciled&#63; As far as the &#91;Hebrew&#93; or<lb/> &#91;Hebrew&#93; is concerned&#44; it is needless to point out that&#44; when a reconci&#45;<lb/>liation can be effected these person or things will be attended to&#44; and at<lb/> any rate too much prominence is given to these matters. We always have<lb/> had &#91;Hebrew&#93; in that direction. As to the Sabbath&#8212;it is a problem&#44; as much<lb/> to conservatives as to liberals. But don&#39;t think that a union of the<lb/> factions might accomplish something in that direction also&#63;<lb/></p> 
+            <p>I am&#44; indeed&#44; dreaming of an &#34; intelligent conservatism&#34; for I have rea&#45;<lb/>lized that German reform is a complete failure. But <hi rend="underline">you</hi> must concede<lb/> that Mosaic&#45;Talmudism is not to be thought of. We cannot go against<lb/> &#91;Hebrew&#93; not against what would be  unreasonable in our times.<lb/> I was telling an old orthodox Pole in New York of my day dreams&#44;<lb/> and I told Dr. Kohler the same&#8212;they actually agreed&#33; I am<lb/> dreaming that some day we will be able to reconstruct Judaism<lb/> upon a basis&#44; like this for instance&#58;<lb/></p>
+            <p>1.A uniform ritual&#44; agreeable to orthodox and reform alike&#44; containing<lb/> the historical prayers in Hebrew&#44; and additions in English.<lb/></p>
+            <p>2. A Hymnbook&#8212;English&#45;&#45;setting forth the doctrines of Israel&#44;<lb/> the singing to be done&#8212;as in the good old Sephardic congrega&#45;<lb/>tion in Amsterdam&#8212;by the entire congregation.<lb/></p>
+            <p>3. A revival of the individual consciousness&#44; stimulated in the<lb/> Synagogue by reinstituting the &#91;Hebrew&#93;&#44; the notification of<lb/> births&#44; marriages&#44; deaths etc.<lb/></p>
+                
+                <pb n="4"/>
+            <p>I have had long and earnest conversations with Kohler on these<lb/> subjects and he agrees with me. His last &#34;splurt&#34; is no criterion. Our<lb/> good Doctor is an idealist&#44; easily moved&#44; and at that critical mo&#45;<lb/>ment he had to defend the fame of his late father&#45;in&#45;law Dr.<lb/> Einhorn&#44; but Kohler is a conservative at the bottom of his heart<lb/> and can easily be won for the cause. You will easily perceive from<lb/> what I have written that my inclinations are in your direction.<lb/> We <hi rend="underline">must</hi> have a &#91;Hebrew&#93; and reform does not offer it. But<lb/> on the other hand the Talmud offers  no consolation in our<lb/> present trials. We have to fix our doctrines and to remodel our<lb/> minhagim. I concede that both can be done best and safest<lb/> from a Jewish historical standpoint&#44; but it must be limited<lb/> to what our times actually require and what our reason<lb/> can accept. Is such a thing appropriate&#63;<lb/></p>
+            <p>I hope I have not tried you with my crude remarks. I could do as<lb/> the balance&#44; draw my salary and smoke my cigar without<lb/> care for the future. But thank God I have an earnest heart<lb/> and I am willing to learn&#44; and I want to do my share towards<lb/> preserving the Thora. I know that my publication of the articles<lb/> mentioned will jeopardize my chance of Temple Emanuel&#44; but<lb/> that will not deter me&#44;&#45;&#45; only&#44; it would not be a prudent to fight<lb/> a new cause single handed. If what I have written may induce<lb/> you to&#44; at least&#44; begin an investigation&#44; whether for the sake<lb/> of many young ministers who think of you with respect and<lb/> reverence&#44; whether you can consistently with your opinions upon<lb/> the subject of &#34;intelligent conservatism&#34; secede from your present<lb/> exclusive and uncompromising standpoint&#44; there is hope that<lb/> the revival may come sooner than you expect. Let us&#44; if possible<lb/> work together to ascertain a <hi rend="underline">basis of common belief</hi>&#44; in that<lb/> event the question of Minhagim and &#91;Hebrew&#93; will most likely<lb/> be easily adjusted.<lb/></p>
+            <p>Permit me to cordially reciprocate your good wishes for the new year.<lb/> May God spare you &#91;Hebrew&#93;&#44; and keep you in good health and<lb/> spirits to continue your work&#44; Awaiting reply<lb/></p>
+            <p>faithfully yours<lb/>
+                Jacob Voorsanger<lb/></p>
+            </body>
+    </text>
+</TEI>

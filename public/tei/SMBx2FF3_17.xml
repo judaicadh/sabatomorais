@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Etting, Josephine</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF3_17</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Etting, Josephine</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1876-07" source="" attested="yes">25 July 1876</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff3_17_1r.tif"/>
+                                <graphic url="smbx2ff3_17_1v.tif"/>
+                                <graphic url="smbx2ff3_17_2r.tif"/>
+                                <graphic url="smbx2ff3_17_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Balto.<lb/>
+                <hi rend="underline">270. Lexington St</hi><lb/>
+                July 25<hi rend="sup">th</hi> &#39;76.<lb/></p>
+            <p>My Dear Pastor.<lb/></p>
+            <p>Your kind heart will<lb/> sympathise with me for I<lb/> am in great distress&#33;<lb/>  The intense heat we have<lb/> recently experienced&#44; has so<lb/> seriously exhausted my loved<lb/> Aunt&#39;s strength&#44; that I see it<lb/> declines daily&#45;&#45;&#38; she is nearly<lb/> 84 years of age&#33;<lb/></p>
+            
+            <pb n="2"/>
+            <p>She may linger for weeks &#38;<lb/> she may die any hour.<lb/></p>
+            <p>21. yrs ago you buried my<lb/> Mother&#33;  14. yrs since you<lb/> were kind to me&#44; when I<lb/> became Fatherless&#33;  Now&#44; I<lb/> ask you to come when<lb/> I need you&#44; &#38; perform the<lb/> last services for the last one<lb/> very near to me&#63;  I will<lb/> of course defray your expenses<lb/> &#38; telegraph you &#40;in case of<lb/> her death&#41; the time of her<lb/> funeral.<lb/></p>
+            
+            <pb n="3"/>
+            <p>Will you obtain Mr Hart&#39;s<lb/> sanction to this&#63;  &#38; <hi rend="underline">write me<lb/> if I may depend upon it</hi>&#63;<lb/>  You would not be absent<lb/> but <hi rend="underline">one</hi> day&#8212;leave P. at<lb/> night reach here in the morn<lb/>&#45;ing <hi rend="underline">&#38; return</hi> home <hi rend="underline">that</hi> evg.<lb/>  I hope all your family are<lb/> quite well&#44; &#38; that I may&#44; as<lb/> usual&#44; attend our synagogue<lb/> on our Fall Festivals.<lb/>  Pray&#44; that I may meet this<lb/> latest &#38; great trial&#44; with fortitude.<lb/></p>
+            <p>Yrs&#44; Very Resptly<lb/>
+            Josephine Etting.<lb/>
+                <hi rend="underline"></hi>over<lb/></p>
+            
+            <pb n="4"/>
+            <p><hi rend="underline">Would</hi> you object to send<lb/> &#40;in Engh&#41; two Psalms I<lb/> have selected &#38; a short<lb/> prayer&#8212;<hi rend="underline">her</hi> favorite one&#45;&#45;<lb/> at the house&#63;&#63;  <hi rend="underline">Ans</hi>&#63;<lb/></p>
+            
+            <p>Some one will meet<lb/> you at Depot here<lb/> <hi rend="underline">when</hi> I send a<lb/></p>
+        </body>
+    </text>
+</TEI>

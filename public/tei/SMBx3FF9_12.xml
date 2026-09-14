@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Marcus, Alfred A.; Clark, George W.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF9_12</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Marcus, Alfred A.; Clark, George W.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Boston, MA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1883-11" source="" attested="yes">11 November 1883</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff9_12_1r.tif"/>
+                                <graphic url="smbx3ff9_12_1v.tif"/>
+                                <graphic url="smbx3ff9_12_2r.tif"/>
+                                <graphic url="smbx3ff9_12_2v.tif"/>
+                                <graphic url="smbx3ff9_12_3r.tif"/>
+                                <graphic url="smbx3ff9_12_3v.tif"/>
+                                <graphic url="smbx3ff9_12_4r.tif"/>
+                                <graphic url="smbx3ff9_12_4v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>6 pages on 4 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>&#34;Jerusalem &#40;Holy City&#41; the Glory of all Lands.&#34;
+                ALFRED A. MARCUS&#44;<lb/>
+                Diamond Merchant and Importer&#44;<lb/>
+                Purchaser of Real Estate&#44; &#40;Landed Property.&#41;<lb/>
+                Residence&#44; 127 Dartmouth Street.<lb/>
+                No business will be transacted or interviews had on the Jewish Sabbath&#44; from one hour before sunset on<lb/> Friday until one hour after sunset on Saturday&#44; or on the Jewish Festivals&#44; and no letters will be opened on<lb/> those days.<lb/></p>
+            <p>Boston&#44;  Heshran 11.5644<lb/></p>
+
+            <p>Rev<hi rend="sup">d</hi> S. Morais<lb/>
+                My dear Sir<lb/></p>
+            <p>I am in receipt of your favor &#38; with<lb/> regard to the articles in the record I am quite<lb/> satisfied whatever alterations &#38; changes you<lb/> make &#40;perhaps it would be as well to leave out<lb/> that portion regarding the Queen which Sir Moses<lb/> requested me to state. I should also be glad if<lb/> you would send an acct to the <hi rend="underline">American Hebrew</hi><lb/> the Boston Local papers altho they were anxious to<lb/> insert the a&#47;c were crowded out by Political<lb/>Matter&#41; I doubt if in any City of the Union<lb/> or any place except Ramsgate&#41; the Anniversary<lb/> was more beautifully observed in addition to<lb/> the services on the Sabbath previous&#41; last<lb/>Thursday&#44; of the Even&#91;in&#93;g <sic>proceding</sic> at both Shules<lb/> from Friday Ev&#91;enin&#93;g to Saturday Ev&#91;enin&#93;g. And from Wedne&#91;s&#93;d&#91;a&#93;y<lb/> Ev&#91;enin&#93;g to Thursd&#91;a&#93;y Ev&#91;enin&#93;g we kept  nine nine &#40;99&#41;<lb/></p>
+                
+                <pb n="2"/>
+            <p>lights burng&#91;&#63;&#93;&#44; there was a large attendance&#44; on<lb/> Wednesd&#91;a&#93;y Eve&#91;nin&#93;g. we read portions of the psalms<lb/> from the commencement of his each letter with his<lb/> name&#44; we then made the Blessing over some<lb/> Jerusalem wine in the Cup Sir Moses sent<lb/> &#38; each person present drank twice once for<lb/>Sir Moses &#38; once for themselves&#91;.&#93; Everybody was<lb/> Happy &#38; Joyful. I then again addressed<lb/>&#38; explained the honor which had been<lb/> conferred upon the name of Jew &#38;c.<lb/> The press has generally stated that I read<lb/> letters from distinguished persons. &#40;I only did<lb/> so of a few specially addressed me&#41; one from<lb/> Sargeant D<hi rend="sup">r</hi> Hamilton at Washington&#44; Att<hi rend="sup">y</hi> Genl  Bruston&#91;&#63;&#93;<lb/> &#38; D<hi rend="sup">r</hi>. Holmes who is a personal friend and<lb/> always writes me so <sic>humirously</sic>&#41; he<lb/> sent the Autocrat at the Breakfast<lb/> &#38; his poems to Sir Moses as a birthday<lb/> present. &#40;I  have rec<hi rend="sup">d</hi> &#38; forwarded S&#91;&#63;&#93; <lb/> but hope to make it ninety nine letters<lb/> before the Mail on Tuesday from the<lb/> most prominent men in the United<lb/>States from President Arthur &#38;<lb/> Presidents of Yale College Historical Society<lb/></p>
+                
+                <pb n="3"/>
+            <p>Admirals&#44; Commodores&#44; Senators<lb/> Governors&#44; throughout the whole U&#91;nited&#93; States<lb/> Judges. Merchants Millionaire &#38;c<lb/> I doubt if for purity of sentiment  &#38;<lb/> composition can be <sic>equalled</sic>  &#38; if<lb/> ever they are published by Sir Moses<lb/> will make what I sent from Boston<lb/> alone&#44; an interesting remembrance of <lb/>this great event. &#40;I am sending<lb/> Sir Moses conjointly with my family<lb/> a most perfect  &#38; complete model<lb/> of a Fire Engine ever made. I send<lb/> him this as the oldest president<lb/> of a Life Fire Insurance Comp&#91;an&#93;y<lb/> for to be deposited in Guildhall<lb/> <del>in</del> in gratitude for the noble <del>great &#91;&#63;&#93;</del><lb/> exertions of the Mayor of London<lb/> during the <hi rend="underline">recent oppressions of</hi> our<lb/> <hi rend="underline">race</hi> &#38; Sir Moses Ninety ninth <lb/> anniversary&#91;.&#93; Many years ago the<lb/> venerable old man presented the<lb/> City with a stained window as a<lb/> remembrance of his very High<lb/></p>
+                
+                <pb n="4"/>
+            <p>Sheriff before when Victoria was<lb/> a maiden.&#41; I am astonished at<lb/> the Reformers do they ever forget<lb/> how bitter Sir Moses was against<lb/> reform many years ago when poor<lb/> D<hi rend="sup">r</hi>. Raphael &#40;I mean D<hi rend="sup">r</hi>. Hershell<lb/> may his soul rest in peace was alive&#41;<lb/> why even in this very city many many<lb/> years ago when they first wanted<lb/> Reform I said if Sir Moses would<lb/> countenance it I should not  &#38; they <lb/> all laughed me to scorn. Altho I had<lb/> done so much for them &#40;Today they make<lb/> a great celebration it  is the 25<hi rend="sup">th</hi> Anvers<hi rend="sup">y</hi>.<lb/> of <hi rend="underline">D<hi rend="sup">r</hi>. Lasker&#91;&#63;&#93; marriage &#40;another great</hi> fraud&#41;<lb/> I am happy to state I have the honor with<lb/> my son to have 3 sittings at Circumci&#91;sio&#93;ns this<lb/> week one on Monday &#40;&#38; 2 on Thursday the<lb/> same day as Sir Moses&#41; they were both<lb/> born on his birthday&#41; Any <sic>expence</sic> you<lb/> may be at I will most gladly pay. Mrs.<lb/> Marcus has not yet been able to leave the<lb/> house but is improving slowly. God Bless<lb/> you&#44; Mrs. Marcus &#38; children unite in<lb/> Kind regards &#38; remain Yours truly<lb/></p>
+            <p>Alfred a. Marcus<lb/></p>
+                
+                <pb n="5"/>
+            <p>Copy<lb/></p>
+            <p>Boston&#44; Nov 8  1883.<lb/></p>
+            <p>Mr. A.A. Marcus.<lb/>
+                Dear Sir.&#45;&#45;<lb/></p>
+            <p>The model of an Engine<lb/> which you considered so appropriately <sic>suted</sic> for a<lb/> gift to the venerable Sir Moses. I am happy to say<lb/> is near completion. I hope within two or three weeks<lb/> to have the same ready for shipment. You desire<lb/> me to give a description which is a model of Steam<lb/> Fire Engine made by George William Clark<lb/> formerly apprenticed to Messrs Lambert &#38; Son<lb/> London. Residing in Boston 16 years&#44; it took<lb/> seven months to make it from a model Salem St.<lb/> Steamer No. 8. The boiler is copper works&#44; parts are<lb/> steel&#44; the bulk in brass&#44; nickel plate&#44; the height to<lb/> the top is 18 inches&#44; length abou 20 inches&#44; with 16th<lb/> hole in the <sic>nozle</sic> pipe. It will throw twenty&#45;seven<lb/> feet stream. It has double active pumps&#44; steam<lb/> whistle&#44; safety valve and can be attached to any<lb/> steam boiler&#44; it has a fluted boiler&#91;.&#93; Although I am<lb/> maker of the model I doubt if any other Mechanic<lb/></p>
+                
+                <pb n="6"/>
+            <p>can equal or if there is patience enough in the brain<lb/> of any other mechanic to duplicate it&#44; the price you<lb/> paid I will give as a bonus to any other fellow<lb/> craftsman who will undertake to make so perfect<lb/> a model in one year&#44; you think probably that seven<lb/> months is a long time to perfect it. The designs<lb/> were first made of wood.<lb/></p>
+            <p>Yours truly&#44;<lb/>
+                George W. Clark.<lb/></p>
+        </body>
+    </text>
+</TEI>

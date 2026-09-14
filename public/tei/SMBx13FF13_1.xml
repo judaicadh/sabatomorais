@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx13FF13_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx13ff13_1_1r.tif"/>
+                                <graphic url="smbx13ff13_1_1v.tif"/>
+                                <graphic url="smbx13ff13_1_2r.tif"/>
+                                <graphic url="smbx13ff13_1_2v.tif"/>
+                                <graphic url="smbx13ff13_1_3r.tif"/>
+                                <graphic url="smbx13ff13_1_3v.tif"/>
+                                <graphic url="smbx13ff13_1_4r.tif"/>
+                                <graphic url="smbx13ff13_1_4v.tif"/>
+                                <graphic url="smbx13ff13_1_5r.tif"/>
+                                <graphic url="smbx13ff13_1_5v.tif"/>
+                                <graphic url="smbx13ff13_1_6r.tif"/>
+                                <graphic url="smbx13ff13_1_6v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>10 pages on 4 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>1st lecture on Immortality.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Brethren.  A friend&#44; now deceased&#44; to whom I sug&#45;<lb/>&#45;gested the Phaedon of Moses Mendelsshon&#44; as a writing<lb/> calculated to comfort the heart in the hour of bereave&#45;<lb/>&#45;ment&#44; advanced an objection.  The My friend was a Jewess of<lb/> more than ordinary intelligence&#44; but withal very pious.<lb/>  The volume she had read at my instance appeals to<lb/> Reason for a belief in the Immortality&#44; but it is silent<lb/> with regard to the teachings of the olden faith.  It does<lb/> not in any part&#44; point to our Scriptures as the source<lb/> whence a soul&#45;supporting sustaining doctrine may be drawn.  This<lb/> circumstance my friend considered an omission&#44; which<lb/> must lessen the value of a writing emanating from an<lb/> Israelite&#44; in the sight of his coreligionists.  I argued<lb/> that Mendelsshon could not have put on the scene Socrates<lb/> about to be legally judicially poisoned by the hemlock&#44; and made the<lb/> Greek speak in Biblical language.  I tried to showed that<lb/> in an imaginary dialogue between an ancient Athenian philosopher<lb/> and his disciples&#44; quotations from Holy Writ would have<lb/> made cut a strange figure&#44; that they would have sounded inap&#45;<lb/>&#45;propriate to the believer as to the incredulous.<lb/></p>
+            
+            <pb n="3"/>
+            <p>The Jewess I thus addressed&#44; who seldom was<lb/> at a loss for a rejoinder&#44; contended that the Sage of<lb/> Dessau might nevertheless have contrived to drop in<lb/> phrases and sayings from the books of inspiration&#44;<lb/> allusive to a life hereafter.  That he might have so<lb/> ingeniously introduced them as to appear consonant with<lb/> the discussion.  In fact&#44; some of the Rabbis in<lb/> the Middle ages did not hesitate following&#44; to a certain<lb/> degree extent&#44; a similar course&#44; when reproducing in Hebrew&#44;<lb/> works comprised in a foreign language.  I may&#44; as an<lb/> illustration&#44; cite a famous book entitled &#34;just balances.&#34;<lb/>  The author is an Arab named Al&#45;Gazali&#44; who wrote<lb/> extensively upon philosophy.  Naturally he sup&#45;<lb/>&#45;ported his arguments with quotations from the Koran<lb/> and various books held in reverence by his people.<lb/>  The translator&#44; Rabbi Abraham Aben Chasda&#239; of Barcelona&#44;<lb/> cleverly substituted for each quotation in the ori&#45;<lb/>&#45;ginal&#44; another from our Bible or from the our Sages.<lb/>  Mendelsshon&#39;s Phaedon&#44; however&#44; which is not a translation<lb/> as some have imagined&#44; has a single object in view.  I<lb/> think conceive that the great writer intended it solely and ex&#45;<lb/>&#45;clusively as a tribute to human Reason.<lb/></p>
+            
+            <pb n="4"/>
+            <p>He aimed to set the belief in Immortality upon a rock<lb/> against which the storm of materialism might spend<lb/> itself in vain.  Truly&#44; if our Moses <sic>benefitted</sic> his own<lb/> b race by his comments and version of Scriptural volumes&#44;<lb/> and vindicated his own religion by his &#34;Jerusalem&#34; and by<lb/> his correspondence&#44; he <sic>benefitted</sic> the whole human race by<lb/> his Phaedon&#44; and every religion by his metaphysical pro&#45;<lb/>&#45;ductions.  The Hebrew Bible&#44; loath to deal in<lb/> abstractions&#44; could not at all have furnished scope for<lb/> a treatise on the doctrine of an existence beyond corporeal death.<lb/>  The Sinaic revelation and prophetism have not left even a<lb/> single command&#44; undirectly or indirectly touching that<lb/> difficult abstruse subject.  I am sure it would be super&#45;<lb/>&#45;fluous to say to those who have heard me preach so long&#44;<lb/> that Judaism does not impose any dogma&#44; that actions leading<lb/> to the welfare of individuals&#44; &#38; families&#44; of communities &#38; and nations are alone<lb/> urged and recommended by it.  This verity&#44; none compre&#45;<lb/>&#45;hended better than Mendelsshon&#44; but he&#44; a deep thinker<lb/> and a thorough Israelite&#44; understood also well the causes<lb/> which had influenced our Legislator and induced him to remain silent&#44; and the ways by which<lb/> the Mosaic code would still keept alive the belief in Immortality.<lb/></p>
+            
+            <pb n="5"/>
+            <p>Designedly has the Pentateuch abstained<lb/> from speaking of the world of Spirits&#44; and dwelt upon<lb/> the duties to be performed while we walk in flesh.<lb/>  Most consistently have our Seers forborne laying down<lb/> as a cardinal creed the indestructibility of the soul.<lb/>  This belief existed in the remotest ages.  It existed among<lb/> the Egyptians&#44; and the very practice of embalming the<lb/> dead is said to have originated with the horrid idea that<lb/> the soul must undergo numerous changes in the animal&#44;<lb/> or the vegetable or the mineral kingdom&#44; according to the<lb/> degree of its sins&#44; and finally return to its primitive body.<lb/>  It existed among the <sic>Hindoos</sic>&#44; and one needs only read<lb/> the history of Brahmanism2 and Buddhism1 to form a notion<lb/> of the revolting errors to which it gave rise.  Our<lb/> moderns who ecstatically describe the teachings of Gauta&#45;<lb/>&#45;ma&#44; the Moses fosooth&#33; of India&#44; ought to show where he the<lb/> excellencies of the doctrine of transmigration or metapsychosis&#44;<lb/> forcing the soul into bodies of newly created beings most ab&#45;<lb/>&#45;ject and shocking as penalty for power trespasses.  Four<lb/> hundred and seventy millions of the human race hold it&#44; and<lb/> to the more terrible sequence&#44; that is&#44; contempt for life&#44; and a<lb/> craving for annihilation in Nervana&#44; as the highest of aspirations.<lb/></p>
+            
+            <pb n="6"/>
+            <p>Yet&#44; Edwin Arnold the philosopher&#45;poet grew enthusiastic on the<lb/> moral laws of the <sic>Hindoos</sic>&#44; who cling to such a faith&#44; who<lb/> worship idols and are divided into castes&#44; and as the off&#45;<lb/>&#45;spring of his sentiments the gifted Englishman has presented us with his charm&#45;<lb/>&#45;ing poem &#34;the light of Asia.&#34;<lb/></p>
+            <p>Let us now turn a look to the Moses of the desert of Sinai.<lb/>  Every A casual reader must notice that without utter&#45;<lb/>&#45;ing a word in a future state&#45;&#45;which will always battle<lb/> the power of description and occasion perplexities&#45;&#45;the inspired lawgiver invites us<lb/> to see why the soul is not a part of our physical<lb/> organism&#44; why it is distinct and ethereal and hence<lb/> immortal.  The all&#45;creating God breathed it into man<lb/> after his body had already been formed.  So likewise<lb/> the cessation of our earthly existence is expressed in<lb/> the Divine code by a phrase which pointeding to eternity.<lb/>  &#34;He expired and was gathered to his fathers or to his people.&#34;<lb/>  It would be illogical to interpret that phrase as mean&#45;<lb/>ing that the deceased received a burial in the family<lb/> ground&#44; because Aaron&#44; for instance&#44; was told that he must<lb/> would prepare to be gathered to his people&#44; and when he died<lb/> his <sic>sepulture</sic> was neither in Egypt where the bones of his<lb/> parents and ancestors lay&#44; nor in Canaan where the patriarchs<lb/> had been interred&#44; but in mount Hor&#44; on the border of Idumea.<lb/></p>
+            
+            <pb n="7"/>
+            <p>That it doe snot merely signify the act of burying is ap&#45;<lb/>&#45;parent from the circumstance that Jacob was gathered to<lb/> his people&#44; and when but for several months his body was<lb/> not consigned to the grave.  Clearly then&#44; the expression<lb/> is a direct reference to a reunion&#44; a gathering&#44; as properly<lb/> termed&#44; with the spirits of the departed.  No&#58; the belief<lb/> in a hereafter was not necessary to be imparted&#44; but the<lb/> evil results of that belief must had to be guarded against.<lb/>  Therefore the five sacred books denounce in unmeasured terms<lb/> the seeking of the dead to inquire about the future.  They<lb/> emphatically condemn as a mortal sin the consulting of<lb/> familiar spirits&#44; because such practices unman the creatures<lb/> whom the Almighty endowed with life and intellect&#44; for their<lb/> terrestrial happiness&#59; whereas those heathen usages will per&#45;<lb/>&#45;vert the mind&#44; and unfit it for the exercise of duties&#44; in our<lb/> social and domestic relations.<lb/></p>
+            <p>But this belief which was never dogmatically taught&#44; is<lb/> met in inspired writings posterior to the Pentateuch in<lb/> language more definite&#44; more explicit than was employed<lb/> by the Giver of the five holy volumes.<lb/></p>
+            
+            <pb n="8"/>
+            <p>Without adverting to the well known saying of Eccle&#45;<lb/>&#45;siastes from which we imply that when what that which<lb/> is perishable turns to its primitive elements&#44; &#34;the spirit<lb/> shall return unto God who gave it&#34;; without launching into<lb/> a dissertation as to the real author of that passage&#44; and to<lb/> the age in which it was written&#44; I unclasp a book<lb/> which affords me comfort&#44;&#45;&#45;our Psalter&#44; and there I find<lb/> lessons2 abundant1 upon the dogma of Immortality.  But none&#44; in<lb/> my opinion&#44; has presented them so forcibly and in a diction<lb/> admitting of no doubt as to its antiquity&#44; as like Asaph.<lb/>  I lay a strip on this point&#44; because among the inventions<lb/> of &#34;a conscientious biblical research&#34; is the theory that our fore&#45;<lb/>&#45;fathers were materialists&#44; and that only after the Baby&#45;<lb/>&#45;lonian captivity brought them in contact with the Persians<lb/> they imbibed the idea of a spiritual life in eternity.<lb/>  Asaph was a contemporary of David&#44; a poet and a player<lb/> at Solomon&#39;s Temple.  In the 73 Psalm&#44; he discloses<lb/> the inmost sentiments of his heart before the world.  He<lb/> acknowledges that notwithstanding the promises of God<lb/> to those who are true and pure&#44; he had envied the wicked.<lb/>  Their seeming prosperity had warped his judgment.  He<lb/> had looked with carnal eyes&#44; and beheld people mount<lb/></p>
+            
+            <pb n="9"/>
+            <p>the height of success&#44; whom he had deemed deserving of a<lb/> gradual sinking into decay&#44; men proud and overbearing&#44;<lb/> men who stalked abroad in a manner&#44; as if the were the<lb/> Sovereign Masters of humanity.  Then the Psalmist fancied<lb/> he heard voices of lament.  They cried &#34;Does God Know.  Has the<lb/> Most High intelligence&#63;  If the impious are thus to acquire<lb/> power&#44; vain it is to wash oneself in innocence&#59; vain<lb/> to bear bear with the hardships attending a life of right&#45;<lb/>&#45;eousness&#34;.  But at once a new scene opens before the bard&#39;s<lb/> vision.  He is translated upwards.  He stands in God&#39;s dwelling<lb/> place.  How n striking the change&#33;  They who now were had been<lb/> stationed loftily descend precipitously&#44; terrors press them<lb/> down.  Like a dream which had disturbed the mind&#44; vanishes<lb/> when the eyes are open to the light of day&#44; so do they the perverse iniquitous dis&#45;<lb/>&#45;sappear and are no more.  Then the Psalmist confesses that<lb/> his ignorance had led him astray.  He vows to cling to God&#44;<lb/> certain to be upheld&#44; certain to be taken up to glory.<lb/>  What&#44; if his flesh and heart moulder in the grave&#44; God&#44; the<lb/> source of life&#44; will reinstate him to a brighter existence.<lb/>  The approach of his Maker is happiness&#44; the rehearsing of<lb/> his Maker&#39;s praise is unalloyed felicity.<lb/></p>
+            
+            <pb n="10"/>
+            <p>Brethren.  If but that Psalm had been left to<lb/> posterity&#44; the charge of materialism brought against<lb/> our ancient faith&#44; would be disproved&#44; and the accusers<lb/>  be hushed into unbroken silence.<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF31_16</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Montreal, Canada</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1872-04" source="" attested="yes">8 April 1872</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff31_8_1r.tif"/>
+                                <graphic url="smbx1ff31_8_1v.tif"/>
+                                <graphic url="smbx1ff31_8_2r.tif"/>
+                                <graphic url="smbx1ff31_8_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Montreal April 8<hi rend="sup">th</hi> 1872.<lb/>
+            My dear Friend&#44;<lb/></p>
+            <p>I have only just seen<lb/> in the Jewish papers the sad<lb/> intelligence of your great and<lb/> irreparable loss.  I can truly say that<lb/> when I read it &#91;Hebrew&#93;&#44; for the<lb/> shock was intensified by its<lb/> unexpectedness &#91;Hebrew&#93;.  For you&#44;<lb/> for your children is there great<lb/> cause for grief&#59; not for the &#91;Hebrew&#93;<lb/> whose purified soul now shares the<lb/> bliss of the &#91;Hebrew&#93;.<lb/>  I knew and heard quite enough of<lb/> this true &#91;Hebrew&#93; to be <del>appl</del> able to<lb/> fully appreciate the extent of your<lb/> loss and the depth of your grief<lb/> and of your bereaved children.<lb/>  But I am sure you will be<lb/></p>
+            
+            <pb n="2"/>
+            <p>sustained in this your dark<lb/> hour of trouble&#44; dear friend&#44;<lb/> by the strength of your piety<lb/> and your heartfelt conviction<lb/> that He who has inflicted<lb/> the blow is &#91;Hebrew&#93;<lb/> and I am equally certain that<lb/> your children have also been<lb/> taught to <sic>recognise</sic> the wisdom<lb/> and justice of God in the<lb/> darkest hour of adversity as in<lb/> the brightest moments of happiness.<lb/>  I have not the pleasure of<lb/> being very intimately acquainted<lb/> with your daughters but I<lb/> am sure that in them you will<lb/> find &#91;Hebrew&#93;&#44; your chief and<lb/> best consolation.  You will<lb/> also have been but too frequently<lb/> reminded during your ministry<lb/></p>
+            
+            <pb n="3"/>
+            <p>of &#91;Hebrew&#93; not to feel<lb/> ever how fragile are all earthly ties.<lb/></p>
+            <p>Mrs. De Sola who has not<lb/> yet had the pleasure of making the<lb/> personal acquaintance of any of your<lb/> family desires to unite nevertheless<lb/> in warmest sympathy with all of<lb/> you&#44; and begs to be kindly remembered<lb/> with myself to Mr &#38; Mrs Weil.<lb/></p>
+            <p>Farewell&#44; dear friend&#44; may<lb/> you find comfort and support from<lb/> its only true source the &#91;Hebrew&#93;&#44;<lb/> prays	Yours ever truly<lb/></p>
+            <p>Abraham de Sola<lb/></p>
+            
+            <p>The Rev. S. Morais.<lb/></p>
+
+        </body>
+    </text>
+</TEI>

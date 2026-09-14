@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Bloom, Solomon</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF4_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Bloom, Solomon</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Boston, MA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1883-01" source="" attested="yes">21 January 1883</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff4_4_1r.tif"/>
+                                <graphic url="smbx3ff4_4_1v.tif"/>
+                                <graphic url="smbx3ff4_4_2r.tif"/>
+                                <graphic url="smbx3ff4_4_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Boston Jan 21&#47;83<lb/></p>
+            <p>Rev. S. Morais.<lb/>
+                Respected Sir.<lb/></p>
+            <p>Your postal<lb/> and contents to hand and in reply<lb/> I would say <sic>That</sic> some time<lb/> ago I wrote a letter to the secre&#45;<lb/>tary of the United Hebrew<lb/> Benevolent society of Philadel&#45;<lb/>phia upon a matter which I<lb/> shall herein relate and<lb/> received no reply. I was advised<lb/> by Mr. A. Marcus of this city to<lb/> address you in the matter and<lb/> do so with the hope that any<lb/> trouble it will occasion&#44; will be<lb/> considered by you as for the good<lb/> of Judaism.<lb/></p>
+            <p>About two years ago&#44; the wife<lb/> of Samuel Harris was on her<lb/></p>
+                
+                <pb n="2"/>
+            <p>voyage from London to New York<lb/> and died on the passage she<lb/> had with her 4 children.  On<lb/> their arrival the fathre took<lb/> charge of the children and<lb/> placed 2 in the Orphan<lb/> Asylum in New York taking<lb/> 2 with him in Philadelphia.<lb/>  Shortly after the affair occurred<lb/> he got married and treated his<lb/> family very badly at one time<lb/> being arrested for the same.<lb/>  By his cruelty he drove his<lb/> eldest daughter aged 14 from the house.<lb/></p>                 <p>Being driven from home his<lb/> daughter Sarah was taken into<lb/> the House of Industry&#44; and<lb/> from there taken by a Catholic<lb/> family to West Philadelphia<lb/> where she is to stay until she<lb/> reaches the age of 21 years.<lb/></p>
+            <p>If she should remain with<lb/></p>
+                
+                <pb n="3"/>
+            <p>the Christians for that length of<lb/> time she would naturally lose<lb/> all faith in our belief&#44; having<lb/> continually before her eyes the<lb/> example of her Christian protectors.<lb/></p>
+            <p>I am by marriage the brother<lb/> in law of Mrs Harris&#44; besides<lb/> the grandmother being here&#44; we<lb/> desire to obtain custody of the<lb/> child so that we may bring<lb/> her up as our own and so that<lb/> she may not stray or be forced<lb/> from the fold of Judaism.  Though<lb/> but a poor man and having a<lb/> large family I would endeavor<lb/> to give her all the comforts my<lb/> own children possess and provide<lb/> for her as for them as a father.<lb/></p>
+            <p>To this end I write to you&#44;<lb/> trusting that you will do all<lb/> you can to comply with our<lb/> wishes&#44; were I pecuniarily able<lb/></p>
+                
+                <pb n="4"/>
+            <p>I would go on to Philadelphia<lb/> myself but my circumstances<lb/> will not allow of it.<lb/></p>
+            <p>Hoping you will meet with<lb/> success in procuring for me<lb/> custody of the child I remain<lb/></p>
+            <p>Yours Very Respectfully<lb/>
+                Solomon Bloom.<lb/>
+                31 Pilestone St.<lb/></p>
+            <p>P. S. Should any references be<lb/> required I can furnish them.<lb/>  Please answer and inform me<lb/> what you can do in the matter.<lb/></p>
+        </body>
+    </text>
+</TEI>

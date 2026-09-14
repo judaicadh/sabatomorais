@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Ensel, G. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF7_9</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Ensel, G. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Springfield, IL</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-01" source="" attested="yes">31 January 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff7_9_2r.tif"/>
+                                <graphic url="smbx2ff7_9_2v.tif"/>
+                                <graphic url="smbx2ff7_9_1r.tif"/>
+                                <graphic url="smbx2ff7_9_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>G. S. Ensel &#38; Co.<lb/>
+                Fine Boots and Shoes&#44;<lb/>
+                111 West Side Square.<lb/></p>
+            <p>Springfield&#44; Ill. January 31 1879.<lb/></p>
+            <p>Revd. S. Morais<lb/>
+                Philadelphia Pa.<lb/></p>
+            <p>My dear Sir&#33;  The postal card&#44; which you were kind enough<lb/> to send me the other day&#44; has caused me more pleasure&#44;<lb/> than you are perhaps aware of&#44; for it has been a<lb/> token of your great kindness and the interest&#44; you<lb/> take in my endeavor to collect the &#34;Songs of Israel.&#34;<lb/>  Would that all the Rabbis of our country might<lb/> feel the same pious regard for the preservation<lb/> of the sacred times of our ancestors&#44; there&#44; and<lb/> only then could we hope&#44; that our musical service<lb/> would rid itself from much&#44; that is unjewish<lb/> and foreign to its character.  I do not belong to<lb/> that class of Israelites&#44; who would rigidly<lb/> exclude from the Synagogue <hi rend="underline">all</hi> kinds of modern<lb/> music&#44; for the simple reason&#44; that not all our<lb/> so called Jewish Melodies are worth preserving&#44;<lb/> but I am entirely opposed to the cultivation<lb/> of such pieces&#44; whose texts are so ultimately<lb/></p>
+                
+                <pb n="2"/>
+            <p>interwoven with popular texts <del>that</del> of the<lb/> Christian denominations&#44; that you cannot<lb/> well <sic>seperate</sic> one from the other.  Take for<lb/> example the beautiful and truly edifying<lb/> Church Melody&#44; known as &#34;old Hundred.&#34;<lb/></p>
+            <p>Musically there can be not the least objection<lb/> to introduce the tune into our Temples.<lb/>  <sic>but</sic>&#44; whenever you hear its popular strains&#44;<lb/> it suggests to the mind the text&#44; which is a<lb/> glorification of the Trinity&#44; hence&#8212;not even<lb/> the Melody is recommendable in our Synagogues.<lb/></p>
+            <p>Take another composition&#44; which enjoys a<lb/> worldwide reputation for grandeur of conception&#44;<lb/> the &#34;Kyrie&#34; of Mozart&#39;s 12<hi rend="sup">th</hi> mass.  You hear that<lb/> very often in Jewish places of worship&#44; of course<lb/> with a mild and water text&#44; that is&#44; with words&#44;<lb/> which suit everybody and&#8212;nobody.<lb/></p>
+            <p>Grant as this class of melodies be&#44;<lb/> we need not adopt them for our religious&#44; musical<lb/> service&#44; since a <sic>concientious</sic> compiler could<lb/> find among the stores of ancient traditional<lb/> musical a great many&#44; which&#44; adapted to modern<lb/> English texts&#44; would give the Jewish Worship its own<lb/> characteristic&#44; which it once possessed.<lb/></p>
+                
+                <pb n="3"/>
+            <p>G. S. Ensel &#38; Co.<lb/>
+                Fine Boots and Shoes&#44;<lb/>
+                111 West Side Square.<lb/>
+                Springfield&#44; Ill.	1878.<lb/></p>
+            <p>I have always wondered&#44; why none of the compilers<lb/> of &#34;S&#91;&#63;&#93;oth Israel&#34; from Sulzer down to the<lb/> latest&#44; have never introduced the <sic>Sefardic</sic><lb/> ancient tunes.  I know but very few of them&#44; but<lb/> the little I do know&#44; is so much better&#44; than the<lb/> Polish Chasoneth of the old German Synagogue&#44;<lb/> that I am sometimes apt to compare their<lb/> unknown composer with a Spanish Grander<lb/> and a &#95;&#95;&#95;&#95; &#34;Pollak.&#34;  The &#34;Ashkenath&#34; Liturgy could<lb/> very well afford to adopt some of them&#44; even<lb/> if the original <sic>sefardic</sic> texts do not suit the<lb/> texts of our&#8212;alas&#8212;too many new<lb/> Prayer and Hymn Books.<lb/></p>
+            <p>I do not remember&#44; whether I informed you in<lb/> my first letter&#44; that I had received from Paris the score of<lb/> 30 &#91;crossed&#45;out&#93; <sic>hebrew</sic> compositions by your countryman Salomo<lb/> di Rossi&#44; a celebrated composer of the latter part of the<lb/> 16<hi rend="sup">th</hi> century.  These long lost hebrew pieces were<lb/> found 2 or 8 years ago by Cavaliere Marco Mortara of<lb/></p>
+                
+                <pb n="4"/>
+            <p>Manua and re&#45;published by Naumburg of Paris.<lb/></p>
+            <p>They are of great beauty&#44; but I doubt&#44; whether<lb/> they will ever become popular among modern<lb/> Israelites&#44; on account of their often quaint<lb/> <sic>mediaeval</sic> harmony&#44; which is like that of<lb/> Rossi&#39;s contemporary Palestine&#8212;and also<lb/> on a&#47;c of their being written in the style of the<lb/> 16<hi rend="sup">th</hi> century for 4&#44; 5.6.7.8 voices&#44; <del>our</del> which<lb/> would make their execution <sic>immensly</sic> difficult&#44;<lb/> unless somebody would arrange them for<lb/> quartette<sic></sic>&#44; an undertaking&#44; involving great<lb/> cost <del>and</del> with a very indifferent public to buy<lb/> them.  I beg your pardon for intruding into your valuable<lb/> time&#44; but your kind remembrance of my object in view<lb/> has encouraged me to say a few words about our<lb/> Jewish Music as it is&#44; and as it ought to be.  I have<lb/> very little hope &#40;speranza&#41; that the near future will<lb/> bring improvements&#59; for as long as we have indifferent<lb/> Rabbis and uneducated Chasonim&#44; we may very<lb/> properly&#34;&#34;and certainly not sacrilegiously&#8212;apply the<lb/> words of your great countryman to the musical worship of<lb/> modern Israel&#61; Lasciate ogni speranza<lb/> Voi di&#39; entrate.<lb/>  My sincerest regards to you and thanks for your interest&#44;<lb/></p>
+            <p>Yours truly<lb/>
+                G S Ensel.<lb/></p>
+        </body>
+    </text>
+</TEI>

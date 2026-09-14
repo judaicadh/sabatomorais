@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF9_12</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff9_12_1r.tif"/>
+                                <graphic url="smbx11ff9_12_1v.tif"/>
+                                <graphic url="smbx11ff9_12_2r.tif"/>
+                                <graphic url="smbx11ff9_12_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For a funeral<lb/></p>
+            <p>&#34;From a man&#39;s funeral&#44; one may judge of his merits&#44;&#34; that is&#44; of the high stand<lb/>&#45;ing which the departed had enjoyed occupied in society and<lb/> which entitles him to a reward hereafter.<lb/>  This maxim of the Rabbis&#44; which may have had<lb/> a right application in ancient days&#44; cannot be<lb/> declared entirely correct in modern times.  It is<lb/> not true&#44; at all events&#44; as far as it concerns our&#45;<lb/>&#45;selves&#44; the Hebrews of America.  Our people once<lb/> so guileless so unsophisticated in their habits practices&#44; so plain and unosten&#45;<lb/>&#45;tatious in their habits have learnt to ire with each of their in the art of varnishing their sentiments<lb/> disguising their feelings weaknesses.  Even at a funerals which<lb/> ought to be the simplest and most expressive of<lb/> Jewish rites&#45;&#45;they display what is supposed to be<lb/> tokens of respect to the dead&#44; but which in reality<lb/> means serves only to ratify the vanity of the living.  The<lb/> spontaneously flowing tears&#44; and the sincere lament honest just tribute<lb/> of the speaker&#44; have made room for floral offerings&#44;<lb/> silver mountings&#44; studied elegies&#44; and the rounds and marching around<lb/> circuits and bows of of associations and orders.  It has become with their badges The Rabbis would find it difficult<lb/> to distinguish the virtuous from the vicious&#44; the con&#45;<lb/>sistently religious from the impious by the outward demonstrations<lb/></p>
+            
+            <pb n="2"/>
+            <p>at the obsequies.  according to the sentence of the unsophisticated<lb/> Rabbis But though it is so among us in most too many instances&#44;<lb/> on the present melancholy occasions&#44; the signs of<lb/> grief shown represent reveal in reality what is truth the sentiments felt in<lb/> the deep recesses of the heart.  It is Now a community<lb/> conscious aware of a loss almost irreparable that sorrows laments<lb/> over the death of Dr Phillip De Young.  Very<lb/> much larger than the number of sincere mourners<lb/> gathered round the coffin&#44; is that of men&#44; women<lb/> and children who mentally accompany<lb/> this Israelite to his grave final home with a blessing.<lb/>  For notwithstanding feelings&#44; which I may call<lb/> constitutional&#44; despite a new observance of precepts<lb/> partly caused by training and vocation&#44; my<lb/> brother in faith possessed rare excellencies which<lb/> have deservedly endeared him to the people among<lb/> whom he was born&#44; and ot the inhabitants of<lb/> Philadelphia of every denomination.  How my greatly will the<lb/> poor will miss their medical adviser&#44; who<lb/> was withal their personal&#44; ever sympathising and helping<lb/> friend.  The eccentric manners of the physician<lb/> will be forgotten&#44; when the familiar voice of<lb/></p>
+            
+            <pb n="3"/>
+            <p>the good man in the hovel of distress and<lb/> anguish&#44; soothing calming the agitated mind and relieving the<lb/> quivering body will linger in the memory of this generation.<lb/>  I speak of the services which Dr De Young rendered<lb/> the community in the merciful and disinterested<lb/> exercise of his profession&#44; because my own calling<lb/> has enabled me to witness and appreciate his actions<lb/> I speak of his sterling worth as a benefactor to<lb/> suffering humanity because I believe I stand un&#45;<lb/>&#45;contradicted in what I have learnt from personal<lb/> experience&#44; and from the testimony of individuals<lb/> belonging to all classes of society.  But I<lb/> cannot so speak as knowingly of the services also dwell with a full knowledge of the subject on the benefits<lb/> which the rendered lamented Israelite bestowed upon his immediate family.<lb/>  Though it has been my painful duty to bury his<lb/> father and his sisters&#44; to officiate and offer prayers at the loss demise of his wife&#44;<lb/> of and his children&#44; and sisters&#44; I never enjoyed that<lb/> degree of intimacy qualifying me to say that<lb/> he was in his intimate domestic circle what he proved<lb/> himself in a wider sphere.  You his surviving sons can<lb/> tell what your father parent was in his own home&#44;<lb/> and towards his own offspring.  If it is<lb/></p>
+            
+            <pb n="4"/>
+            <p>a fact&#44; as reported&#44; that the tender&#45;hearted and<lb/> most considerate physician to the needy&#44; was<lb/> likewise indulgent and devotedly attached to<lb/> his children&#44; you ought to evidence it in your<lb/> conduct&#44; not by mere sighs and tears which poignant<lb/> sorrow may drown while at the trying hour&#44; when the body so active is about<lb/> to be laid in the silent grave&#44; but by reverencing the memory<lb/> of your benefactor&#44; with deeds of charity truthfulness and good&#45;<lb/>&#45;ness.  Each of you pursuing a career of honor&#44;<lb/> that may <sic>yeild</sic> an honest livelihood&#44; will honor hallow<lb/> the memory of the departed and show forth his excellencies by copying the<lb/> principles of broad humanity which guided his steps.  It will be a<lb/> consolation to the immortal spirit of my friend deceased coreligionist to feel that the<lb/> good name he has left&#44; was perpetuated by his dear<lb/> ones&#44; through a life of industry usefulness&#44; free from<lb/> weakness and foibles foibles to which he at times yeilded succumbed&#44; and rich in social and<lb/> domestic virtues which he abundantly possessed.  Thou O forgiving God&#44; who<lb/> hast called to the bar of Thy justice Phillip De Young<lb/> at this solemn season of the Jewish year&#44; forgive wipe away his<lb/> sins&#44; and let his excellencies high merits win for him his soul joys unalloyed<lb/> and everlasting.<lb/></p>
+            </body>
+    </text>
+</TEI>

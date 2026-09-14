@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Sebag, Solomon</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF10_15</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Sebag, Solomon</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>London, England</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet when="1853-01" source="" attested="yes">6 January 1853</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff10_15_2r.tif"/>
+                                <graphic url="smbx1ff10_15_2v.tif"/>
+                                <graphic url="smbx1ff10_15_3r.tif"/>
+                                <graphic url="smbx1ff10_15_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>London<lb/>
+                January 6th&#47;53<lb/>
+                Revnd. S. Morais<lb/>
+                Dear Sir<lb/></p>
+            <p>My object in addressing you is two&#45;fold.<lb/>  Firstly to acknowledge the receipt of a letter which<lb/> you sent me some time since&#44; and secondly concern&#45;<lb/>ing a communication received from you through<lb/> the means of Mr. Picciotti.  Respecting the former<lb/> I must indeed thank you for your kind letter<lb/> and likewise for the purchase of the six Books<lb/> which I sent you&#44; and for which I received<lb/> the money.  In your letter I was happy to<lb/> find that you were in the Enjoyment of good<lb/> health&#44; and for the delay in the reply I trust<lb/> you will excuse me.  Now regarding the latter&#58;<lb/> the more important subject.  In accordance<lb/> with your wishes expressed in your letter Mr Piccioti<lb/> last week sent for me and informed me that there<lb/> was a situation vacant in Philadelphia<lb/> for a Hebrew master at a rate of 400 doll p annum<lb/> and requiring five hours a day service<lb/></p>
+                <pb n="2"/>
+            <p>This undoubtedly sir&#44; is a good opening for me&#44;<lb/> so there is not much chance of Promotion in this<lb/> country&#44; and one which I would accept&#44;<lb/> but but there is one great drawback&#44; and one which<lb/> will at the present moment debar me from seek&#45;<lb/>ing after any situation abroad&#58; I will ex<lb/>plain the drawback to you.  Some time<lb/> since I lost a sister of the age of 25 years<lb/> she was the only child with my mother who<lb/> is rather ailing such being the case my<lb/> mother is left very dull and solitary&#44; and<lb/> particularly looks to me to give her some assist<lb/>ance&#44; and afford her a little pleasure in so<lb/> lamentable a condition&#44; and you will agree<lb/> with me when I say it is my duty to &#91;&#63;&#93;.<lb/></p>
+            <p>This it is sir that prevents me from seeking<lb/> after a situation which no doubt would eventu&#45;<lb/>ally be very lucrative and to occupy such&#44;<lb/> that I should be the object of your consideration<lb/> I must sincerely thank you and be grate<lb/>ful to yours for your interest in me&#44; and<lb/> at any time that I&#44; in London should be able<lb/> to do any <del>thin</del> favor I shall be most willing<lb/></p>
+                
+                <pb n="3"/>
+            <p>to do so.  If you will not think it a liberty<lb/> I will address you again in a short time<lb/> and then I will inform you all particu<lb/>lars concerning the affairs of the Portuguese<lb/> nation&#44; but at present I must think of<lb/> concluding.  Mr Nands desires me to<lb/> beg that you will excuse his short&#45;<lb/>comings in not writing to you&#44; he is aware<lb/> that he is indebted to you a very long<lb/> letter&#44; which he will shortly pay you.<lb/>  Trusting that you may receive this letter<lb/> in the enjoyment of good health.<lb/></p>
+            <p>I beg<lb/>
+                to remain<lb/>
+                yours most sincerely<lb/>
+                S. Sebag<lb/>
+                13 Bevi Marks.<lb/></p>
+                
+                <pb n="4"/>
+            <p>Revnd. S. Morais<lb/>
+                Reader of the Portuguese Synagogue<lb/>
+                Philadelphia<lb/>
+                America<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

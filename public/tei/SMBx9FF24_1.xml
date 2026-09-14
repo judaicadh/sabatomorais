@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx9FF24_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx9ff24_1_1r.tif"/>
+                                <graphic url="smbx9ff24_1_1v.tif"/>
+                                <graphic url="smbx9ff24_1_2r.tif"/>
+                                <graphic url="smbx9ff24_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>For Sabbath Emor<lb/></p>
+            
+            <p>Our Lord and Lawgiver.&#33;  Full of solemn warning is the event&#44;<lb/> with the narrative of which the lesson of this Sabbath concludes.<lb/>  It is even a Divine admonition to mothers in Israel.  For the<lb/> pages of Thy heavenly volume which record the punishment<lb/> meted out to a blasphemer&#44; connect with his crime the name of<lb/> the woman&#44; who gave him birth.  Shelomith shamed her<lb/> race by contracting a matrimonial alliance with an Egyptian<lb/> idolater&#44; and Thou didst consign her memory to the Dishonored<lb/> mention of all future generations.  Yet&#44; because Thou art<lb/> abundant in mercy&#44; Thou mightest have suffered the<lb/> offender to atone for her misdeed.  She might have contracted<lb/> the ill&#45;effects of her early error&#44; by watching with constancy<lb/> over the training of her child.  She might have prevented the<lb/> evil example of a heathen father from becoming rooted in the<lb/> heart of her son&#44; and by leading the latter in the way of godliness&#44;<lb/> have found favor in Thy sight.  But that she did not<lb/> so beneficially exercise her national powers&#44; Thou hast caused<lb/> us to understand by the ignominious death of her offspring&#44; which<lb/> gave her also an eternity of disgrace.  Oh&#33; may they<lb/> for whom Thou didst mainly design the heavenly lesson&#44;<lb/></p>
+            
+            <pb n="2"/>
+            <p>ponder seriously thereon.  In an age&#44; when woman is<lb/> almost forcibly driven beyond her legitimate sphere&#44; Grant that<lb/> the daughters of Thy people comprehend may know and appreciate the field<lb/> Thou hast assigned for their labor.  May the healthful reductions<lb/> properly belonging to their sex&#44; may be never cast aside.<lb/>  For verily O Lord&#33; disastrous to our household would prove such<lb/> an occurrence.  Let our mothers understand that not by <sic>rivalling</sic> man in all his multifarious pursuits&#44; can they purify society&#44;<lb/> but rather by their guarding their own homes against pollutions&#59;<lb/> by supplying the human race with beings of high character&#44; remark&#45;<lb/>&#45;able for their piety and uprightness.  May they upon whom<lb/> chiefly devolves the duty of shaping rightly the heart of the<lb/> community&#44; be imbued with a sense of their great responsibility.<lb/>  Grant that the women of Israel may never copy the example<lb/> of the mother of the blasphemer&#44; who according to the exposition<lb/> of our Sages&#44; sought to attract by her address and manners&#44;<lb/> but imitate the model beautifully depicted in the book of<lb/> proverbs by the ancient moralist.  Like her let them glory in<lb/> being the gentle <sic>counsellors</sic> of their copartners&#44; the bright light<lb/> of their children&#39;s earthly path&#44; then will their progeny rise<lb/> and call them happy&#44; even their husbands at the gate&#44;<lb/> and bestow on them a well&#45;merited &#91;&#63;&#93; of praise.  Amen.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

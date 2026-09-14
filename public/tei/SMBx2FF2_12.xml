@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF2_12</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Wise, Isaac Mayer</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1875-08" source="" attested="yes">17 August 1875</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff2_12_1r.tif"/>
+                                <graphic url="smbx2ff2_12_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>To the Revd Dr I M Wise&#44; Editor of the American Israelite<lb/>
+            Dear Sir<lb/></p>
+            <p><sic>Your</sic> shocked my feelings.  I had been warmly led up to the heights your mind ascended up.<lb/>  Lively were the surroundings&#44; and the view presented &#91;&#63;&#93; a kindly &#91;&#63;&#93;.  Why did you<lb/> force me thence into a slough&#63;  Pardon&#44; when I say that your description of &#34;a storm in a glass of<lb/> water&#34; following immediately the teaching inculcated in the dedication&#45;sermon at Pottsville Pa&#44; must jar<lb/> on&#47;<del>against</del> <sic>on</sic> one&#39;s sensibilities.  Can he who has just stood &#91;&#63;&#93; as the exponent of the purest principles of religion &#38; &#91;&#63;&#93;<lb/> have fallen back to gather mere bespatter with it those he deems his opponents&#63;  Alas&#33; that the &#91;Hebrew&#93;<lb/> you pointed to hideously in the colors borrowed from the Talmud&#44; took revenge by seizing upon your hurt<lb/> unawares.  But however startled I may have been at the hidden transition from a theoretical lesson<lb/> of human goodness&#44; to a practice of an opposite nature&#44; I would not have let my voice be heard&#44; had<lb/> you not added confusion to my chagrin.  May I ask that you will explain what I am unable to<lb/> understand &#91;Hebrew&#93; &#91;Inserted&#58; Torah hec velimod ani tzurich&#93;.  What you term a &#91;Hebrew&#93; &#91;Inserted&#58; &#34;Minhag Kashut&#34;&#93; means&#44; I suppose&#44; a usage<lb/> universally adopted &#91;Hebrew&#93; &#91;Inserted&#58; Minhag shemittsashat bechod Israel&#93;&#44; and when&#44; according to Rabinnical dicta becomes a law.<lb/>  Can the introduction of an organ&#44; of a mixed  choir&#44; and of family pews in <hi rend="underline">the synagogue</hi>&#44; be&#44;<lb/> in all truth&#44; regarded as such&#63;  Conceding to you and the Jewish Ministers of the school you<lb/> represent&#44; the right assumed to labor for the establishing of customs entirely novel in Judaism.  Please&#44;<lb/> correct me if I am at fault&#44; but the limited knowledge I have of our history and theology induces to so to<lb/> style what you advocate.  Conceding that you really were&#44; as you claim&#44; the first Sages in this country&#44;<lb/> the Rab and Shemuel&#91;&#63;&#93; of America&#45;&#45;&#44; and that by virtue of the authority received&#44; you could effect a<lb/> remodelling of our ancient Autonomy&#44; does not the undisguised opposition you met&#44; and still meet from a<lb/> very large number of your brethren&#44; deprive your institutions of the title you demand for them &#91;Hebrew&#93; &#91;inserted&#58; &#34;Minkyim Peshatim&#34;&#91;&#63;&#93;&#93;.<lb/>  I will be silent respecting the high value you set on the changes admitted within the last quarter of a<lb/> century&#44; though I have ever failed to discover their &#91;&#63;&#93;ging influence&#44; and others&#44; like myself&#44; honestly believe<lb/> them a compromise with habits of gentile origin&#44; and derogatory to our character.  I will even offer you thanks<lb/> for proving &#34;so tolerant and patient&#34; towards your coreligionists&#44; who think they can worship without the swelling&#91;&#63;&#93;<lb/> keys of a wind instrument&#44; and who still consider the separation of the sexes <hi rend="underline">the</hi> &#91;Hebrew&#93; as a wholesome provision.<lb/>  &#91;Hebrew&#93; &#91;inserted&#58; Geder Ervah&#93; I will grant that only you &#34;reformers&#34; represent intellect&#44; liberation&#44; progress&#44; but I ask in the name of<lb/> the faith we all &#91;&#63;&#93;&#44; in the name of p&#91;&#63;&#93;&#44; which you say to be the badge of your piety&#44; I ask of you Dr. Wise to &#91;&#63;&#93;<lb/> your feelings&#44; and nothing but your feelings&#44; and answer if &#91;&#63;&#93; into a measure clashing with a <hi rend="underline">bona fide</hi> argument&#44;<lb/> was not deserving of condemnation rather than &#91;&#63;&#93;sternal <sic>defence</sic>&#63;  None more than my humble self can regret the<lb/> applying to secular courts &#91;Hebrew&#93; &#91;inserted&#58; Erckaot shet goyim&#93; for righting congregational wrongs&#59; but what redress is there left to conscientious<lb/> Israelites&#44; <del>who are</del> forcibly cast out of the house of prayer&#44; to which they are fondly attached&#44; and which their means<lb/> and exertions helped to set up&#63;  Must they &#91;&#63;&#93; yield&#44; because &#91;Hebrew&#93; &#91;inserted&#58; Man dealim gebar&#93; Might <hi rend="underline">is</hi> right&#63;<lb/></p>
+            <p>And when some simple&#45;hearted&#44; ingeniously proper a remedy to existing evils in the form of an advisory Board&#44;<lb/> to whom &#91;&#63;&#93;tical questions may be submitted&#44; and by whose &#91;&#63;&#93; judgment and conciliatory counsel<lb/> what we both lament&#44; namely &#91;Hebrew&#93;&#44; might be averted&#44; you hold the idea to public contempt as savory<lb/> of the inquisition.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Not an ecclesiastical court that cannot take root in these states but a convention<lb/> of learned and God&#45;fearing men ought indeed to bring order out of chaos.  We&#44; Denominationally&#44;<lb/> present a pitiful sight.  Yet&#44; by the honesty and wisdom of men&#44; who should not be wanting<lb/> among the myriads of American Jews&#8212;what is now &#91;&#63;&#93; small fragments might be<lb/> made to coalesce into a compact body.  I conceive it to be the duty of Hebrew journalists to<lb/> encourage the slightest effort towards the accomplishing of that end.  For glory will it be to the<lb/> heavenly Preserver of our liberties&#44; when we&#44; specially favored&#44; shall unite in a worship characteristic of<lb/> our descent&#44; a worship &#91;&#63;&#93; our history&#44; our high mission and with it our indissoluble<lb/> conviction with <del>all</del> the dispersed of Judah&#44; wherever their lot may have been cast.<lb/></p>
+            <p>&#91;&#63;&#93;<lb/>
+            Yours<lb/>
+            S Morais<lb/></p>
+            <p>August 17<hi rend="sup">th</hi> 1875</p>
+        </body>
+    </text>
+</TEI>

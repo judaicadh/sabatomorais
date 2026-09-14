@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF1_15</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff1_14_1r.tif"/>
+                                <graphic url="smbx11ff1_14_1v.tif"/>
+                                <graphic url="smbx11ff1_14_2r.tif"/>
+                                <graphic url="smbx11ff1_14_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For Cakat about a Bar Mitzvah<lb/></p>
+            
+            <p>Those who have paid attention to the portion of<lb/> the Pentateuch read by our Bar Mitzvah lad&#44; must<lb/> have remarked a singular expression.  Its peculiarity<lb/> is the more noticeable&#44; because it emanated from one<lb/> whom the scriptures represent as the meekest of men.<lb/>  Moses&#44; who&#44; during many years&#44; had borne with the<lb/> people under the severest provocations&#44; on approa&#45;<lb/>&#45;ching the end of his career suddenly gave vent to<lb/> a burst of anger.  Why&#63;  It was not the first ac&#45;<lb/>&#45;cusation&#44; that he had <sic>wilfully</sic> led Israel to destruct&#45;<lb/>&#45;ion.  Whenever the fear of water famine specially<lb/> troubled the mind of multitudes&#44; the cruel charge was<lb/> repeated.  But cruelty grows in intensity&#44; in<lb/> proportion as it betrays ingratitude for services re&#45;<lb/>&#45;ceived&#59; a want of feelings for age and for virtue.<lb/>  The psalmist understood it well&#44; when he wrote<lb/> &#91;Hebrew&#93;<lb/> &#34;they occasioned indignation in the waters of Merebah&#44; and<lb/> it went ill with Moses for their sake&#44; because they<lb/> angered his spirit&#44; and he spoke inadvisedly with<lb/> his lips&#34;.  The imputation did wound to the<lb/></p>
+            
+            <pb n="2"/>
+            <p>core&#59; the threatening looks which sought<lb/> to intimidate&#44; and which made the face lower down<lb/> in sorrow&#44; were offensive.  But he that works for<lb/> God&#44; must learn never to flinch&#59; let him stand<lb/> contumely and bow to reproach.  It is a painful<lb/> duty&#44; still it is his duty.  Words full<lb/> of wrath were those of Moses.  &#34;Hear now ye rebels&#44;<lb/> must we fetch you water out of this well&#63;&#34;  It was<lb/> not the Divine message he delivered.  &#34;See&#44;&#34; he<lb/> should have said&#58; &#34;See how nature responds to the will<lb/> of her Maker.  I bid yonder rock&#44; in the name of<lb/> God&#44; to quench your thirst&#44; and water will flow<lb/> in abundance.  Lose not your faith in the Omnipotent.&#34;<lb/>  But the message was forgotten&#44; while listening to<lb/> a sense of resentment.  The anguish which<lb/> the punishment decreed on high brought to Moses&#44;<lb/> is mirrored in his soul touching supplication&#44; recorded<lb/> in Deuteronomy.  &#34;O Lord God&#44; Thou hast begun to show<lb/> Thy servant Thy greatness and Thy mighty hand.......<lb/>  Let me go over&#44; I pray Thee&#44; and behold the good land<lb/> which is beyond the Jordan&#44; that goodly mountain<lb/> and the Lebanon.&#34;  But Israel&#39;s God is not<lb/></p>
+            
+            <pb n="3"/>
+            <p>a respecter of persons&#44; nay&#59; from the most<lb/> righteous&#44; He requires the most unswerving obedience.<lb/>  &#91;Hebrew&#93;<lb/></p>
+            <p>You&#44; my young brother&#44; have reminded us of this truth.<lb/>  Take it therefore to heart&#44; and begin at once to act<lb/> accordingly.  Gather in virtues as you proceed in<lb/> life&#59; such virtues as will distinguish you at home<lb/> for a reverential demeanour to parents&#59; in school<lb/> for a diligence dictated by a strong love for labor.<lb/>  I was glad to read that a growing ingenuity has<lb/> facilitated your admission into an institution for ma&#45;<lb/>&#45;nual training.  That disposition is the voice of<lb/> your Creator.  It tells you that to handle the chi&#45;<lb/>&#45;sel and the hammer accords with your nature.<lb/>  Let not a feeling of false pride intrude and insinuate<lb/> that the counting&#45;house or the professional office<lb/> is nobler than the work shop.  Every day&#39;s re&#45;<lb/>velations caution youths against vocations for which<lb/> they are not fitted&#44; and strongly are they warned<lb/> against the temptations of speculative commerce.<lb/>  Labor may not hold out the seductive promises<lb/> of quickly&#45;gained riches&#44; but it will always<lb/></p>
+            
+            <pb n="4"/>
+            <p>ensure the <sic>skilful</sic> and the assiduous a decent livelihood.<lb/>  Besides&#44; we owe it to our religion to remove from it<lb/> the stigma that those who profess it add nothing<lb/> to the arts&#44; whose cultivation has made America<lb/> deservedly famous.  I wish that some of my brethren<lb/> become noted for their inventive genius in mechanism.<lb/>  Their rising will be our honor&#44; so long as their actions will<lb/> illustrate their descent.  I would neglect what<lb/> the occasion imperatively demands&#44; were I not to empha&#45;<lb/>&#45;size this point.  You will shed lustre upon our people&#44;<lb/> while you remain with us and follow virtue&#44; but the<lb/> moment you depart from our midst&#44; your very attain&#45;<lb/>&#45;ments will be thorns in our sides.  Be true to us&#44;<lb/> and we shall boast of your achievements.  Remember this<lb/> day on which you have taught us that God is not a<lb/> respecter of persons&#44; and let the future which you<lb/> will lay out for yourself&#44; benefit the living&#44; glorify<lb/> the dead&#44; and exemplify the principle that you have<lb/> enunciated.  The Law of Sinai is the Law of<lb/> Truth&#44; within which a life of eternity is implanted.<lb/>  May such be your reward.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

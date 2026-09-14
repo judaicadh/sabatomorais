@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Henry</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF5_7</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Henry</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1883-08" source="" attested="yes">15 August 1883</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff5_7_1r.tif"/>
+                                <graphic url="smbx3ff5_7_2r.tif"/>
+                                <graphic url="smbx3ff5_7_1v.tif"/>
+                                <graphic url="smbx3ff5_7_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>546 N. 5<hi rend="sup">th</hi> St.<lb/>
+                Phila.&#44; Wednesday&#44; Aug. 15<hi rend="sup">th</hi>&#44; 1883.<lb/></p>
+            <p>My Dear Father&#58;<lb/></p>
+            <p>We received your postal from<lb/> Albany this morning&#44; and were glad to hear that<lb/> you were all right&#44; despite the inconveniences of<lb/> travel.  We are all doing well&#44; and expect to get<lb/> along nicely.  I enclose you two letters&#45;&#45;one<lb/> arrived the same day you left&#44; and is&#44; doubtless&#44;<lb/> from Pareare&#59; the other I received from Mr. Polano<lb/> last evening&#44; when at his house to make arrangements<lb/> about the Synagogue services.  I will read the<lb/> Friday Evening &#38; <hi rend="underline">Mussaf</hi> services &#38; perhaps&#44; the prayer<lb/> for the government&#59; he&#44; the rest.<lb/></p>
+            <p>Mr. Joseph Mendes of 149 N. 6<hi rend="sup">th</hi> St.&#44;<lb/>&#45;&#45;one of our Friday evening <hi rend="underline">tenors</hi>&#45;&#45;wishes you<lb/> to write a letter&#44; or certificate&#44; addressed to the<lb/> <hi rend="underline">Parnassim</hi> of the Spanish &#38; Portuguese Congregation<lb/> of Amsterdam&#44; Holland&#44; stating that he &#40;Mendes&#41;<lb/> is alive &#38; resides at the above address in this city&#44;<lb/> is married to Sarah Gabrielle Perevia Mendoza&#44;<lb/></p>
+                
+                <pb n="2"/>
+            <p>by whom he has two &#40;2&#41; children.  His<lb/> object is &#40;so he states&#41; to receive a certain<lb/> sum allotted half yearly&#44; on his wife&#39;s ac&#45;<lb/>&#45;count&#59; she <del>was an</del> being an orphan has a<lb/> claim thereto.  this is&#44; as far as I can<lb/> understand.  Please write the certificate as<lb/> soon as possible&#44; &#38; send it to me.  It must<lb/> arrive in Amsterdam&#44; one month prior to<lb/> <hi rend="underline">Rosh Hashana</hi>.<lb/></p>
+            <p>I saw Jones this &#40;Wednesday&#41; mor&#45;<lb/>&#45;ning.  I will&#44; most likely&#44; spend next week<lb/> from Sunday to Friday at his cottage in Atlantic<lb/> City.  I suppose Cousin Josephine &#40;who returns<lb/> tomorrow &#40;Thursday&#41;&#41; will stay with the children<lb/> meanwhile.<lb/></p>
+            <p>That fellow&#44; Stein of Wilkesbarre&#44;<lb/> has been poking fun &#91;&#63;&#93; at those who observe the<lb/> Feast of Ab.  Some rigamarole of his appeared<lb/> in one of his city dailies.  Jones will have something<lb/> to say about him this week.<lb/></p>
+            <p>I think I have told you about all.<lb/>  Inquiring friends send their kind regards.<lb/></p>
+                
+                <pb n="3"/>
+            <p>With love from all.<lb/>  Your son&#44;<lb/> Henry.<lb/></p>
+            <p>To the<lb/> Rev. S. Morais.<lb/></p>
+            <p>P. S.&#45;&#45;I send by this mail Tuesday&#39;s &#38; Wednesday&#39;s <hi rend="underline">Ledger</hi>&#44; &#38;<lb/> I will mail other papers&#44; as desired.  Brace sent you his &#34;time&#34;<lb/> article in the daily <hi rend="underline">Record</hi>.  I put it&#44; together&#44; with 2 <hi rend="underline">Archives Israelites</hi>&#44; in<lb/> your desk.  Have heard nothing yet from Sonneschein.  Will wait until<lb/> Friday&#44; as he may be induced to write owing to his not having received<lb/> the regular monthly letter from me to the <hi rend="underline">Jewish Tribune</hi>.<lb/></p>
+        </body>
+    </text>
+</TEI>

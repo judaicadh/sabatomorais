@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Allens, M. M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF7_35</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Allens, M. M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Hannover, Unknown</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-05" source="" attested="yes">25 May 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff7_33_1r.tif"/>
+                                <graphic url="smbx2ff7_33_1v.tif"/>
+                                <graphic url="smbx2ff7_33_2r.tif"/>
+                                <graphic url="smbx2ff7_33_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Hannover May 25&#47;79.<lb/></p>
+            <p>Rev. S. Morais.<lb/></p>
+            <p>A sight of my face on paper&#44;<lb/> and a few lines from me&#44; may surprise<lb/> you my good and respected friend&#44; but<lb/> it will show you that I have not<lb/> forgotten one who has ever by his kind<lb/> acts endeared himself to me and to my<lb/> family&#44; and as I do not know your<lb/> exact address&#44; I enclose this in a letter<lb/> to my sister Miriam.  I did expect to<lb/> have visited this season the land of my<lb/> Birth&#44; and those there so dear to me&#44;<lb/> but I am afraid I shall have to defer<lb/> such a visit and such a pleasure God willing<lb/> to some future period.  My dear wife<lb/> and children are Thank God all well&#44; and<lb/> we seem to have fallen into the ways and<lb/> customs of this country and its people.<lb/>  We live happily&#44; in the midst of a pleasant<lb/></p>
+                
+                <pb n="2"/>
+            <p>and large Jewish community&#44; and<lb/> altho the Minhag is much different from<lb/> that in which I have been reared&#44; still<lb/> I have managed to accustom myself to it.<lb/>  You can well imagine that it is a<lb/> great pleasure to me that here&#44; the<lb/> congregation are strictly orthodox and<lb/> mostly observant Jews.  The majority<lb/> observe the Sabbath&#44; closing their places<lb/> of business and living in conformity with<lb/> our ancient Laws.  The Synagogue is<lb/> open twice daily throughout the entire<lb/> year&#44; and we have a Hazan&#44; whose<lb/> fine voice accompanied by a choir of<lb/> male voices&#44; renders the service very<lb/> agreeable and impressive.  Our Land Rabbiner<lb/> Dr Meyer&#44; a Brother of my mother&#45;in&#45;Law&#44;<lb/> is a man much respected all over Germany&#44;<lb/> and particularly beloved by his flock in this<lb/> city&#44; and the synagogue is large and handsome.<lb/></p>
+                
+                <pb n="3"/>
+            <p>The schools in Hannover are celebrated&#44;<lb/> thereby enabling our children to receive<lb/> a very good education.  The Hebrew and<lb/> Religion school directed by Dr Mayer&#44; and<lb/> with a corp of Teachers headed by Dr Pr&#228;ger<lb/> formerly of Breslau is also very good&#44; and<lb/> the children receive a thorough education<lb/> in Hebrew and their religious duties.<lb/>  I trust the description I have given you<lb/> of our surroundings here&#44; will not be<lb/> uninteresting to you.  I often think of you<lb/> and of our old timed Friendship&#44; and trust<lb/> with God&#39;s help it goes well with you and<lb/> yours.  It seems to me like a dream<lb/> that I have been so long away from<lb/> my native land and its familiar scenes&#44;<lb/> and seeing my dear children growing up<lb/> around me&#44; I can see how time passes.<lb/>  My dear mother writes to me weekly&#44; and<lb/> as at present I cannot see her face&#44; I<lb/> hail her letters as one of my great pleasures.<lb/>  I was indeed pained to hear from her<lb/> of the misfortunes in the family of my<lb/></p>
+                
+                <pb n="4"/>
+            <p>old friend and relative Mr A Hart.<lb/>  It is indeed a said trial for them&#44;<lb/> and may the One above solace them<lb/> in their afflictions.  Please be so kind as<lb/> to remember me kindly to them when<lb/> opportunity offers&#44; also to my old friends<lb/> Misses Peixotto &#38; Bomeisler.  You will also<lb/> accept from me and my dear wife<lb/> our best regards and wish for yourself<lb/> and children&#44; and I trust when you<lb/> have time&#44; you will let me hear from<lb/> you of the welfare of yourself and family&#44;<lb/> and I remain your very sincere friend<lb/></p>
+            <p>M. M. Allens<lb/></p>
+            <p>Do you ever think of making a visit<lb/> to your native land&#63;  <sic>if</sic> so we should<lb/> be very glad to welcome you if you would<lb/> stop and pay us a visit.<lb/></p>
+        </body>
+    </text>
+</TEI>

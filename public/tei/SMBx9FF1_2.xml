@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx9FF1_2</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx9ff1_2_1r.tif"/>
+                                <graphic url="smbx9ff1_2_1v1.tif"/>
+                                <graphic url="smbx9ff1_2_1v.tif"/>
+                                <graphic url="smbx9ff1_2_2v.tif"/>
+                                <graphic url="smbx9ff1_2_2r.tif"/>
+                                <graphic url="smbx9ff1_2_3v.tif"/>
+                                <graphic url="smbx9ff1_2_3r.tif"/>
+                                <graphic url="smbx9ff1_2_4v.tif"/>
+                                <graphic url="smbx9ff1_2_4r.tif"/>
+                                <graphic url="smbx9ff1_2_5v.tif"/>
+                                <graphic url="smbx9ff1_2_5r.tif"/>
+                                <graphic url="smbx9ff1_2_6r.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>10 pages on 4 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>For Sabbath Beresheet<lb/> on the Fatherhood of God and the brotherhood<lb/> of Man.<lb/></p>
+            
+            <pb n="2"/>
+            <p>One universal Parent&#44; and one common origin to man.<lb/>  This is the philosophy imparted in the venerated vo&#45;<lb/>lume we began afresh today.  This is the science&#44;<lb/> given for our culture&#44; &#38; which is still progressing&#44; but<lb/> it is far from being completely <sic>developped</sic>.  Do you<lb/> now wish to learn from whence an ancient Rabbi derived the<lb/> knowledge of that philosophy and of that science in Holy<lb/> Writ&#63;  Listen&#58; &#34;This is the account of the genealogy of man&#59;<lb/> in the day that God created man&#44; in the image of God created<lb/> He him.  Male and female created He them&#44; and He blessed<lb/> them&#44; and called their name Adam &#40;Mankind&#41; in the day<lb/> that they were created&#34;.  The son of Azza&#239;&#44; an authority<lb/> among Talmudical writers&#44; declares that such a statement<lb/> in the oldest of ol all books&#44; is the broad principle<lb/> on which Religion must stand.  Religion&#44; my dear<lb/> Brethren&#44; has&#44; at all times and among all people been con&#45;<lb/>&#45;sidered the foundation of society.  But ignorance&#44; and<lb/> our inherent weaknesses&#44; often uprooted that foundation&#44;<lb/> and morality which is the pith of religion&#44; and without which<lb/> religion is an illusion&#44; a thing unreal&#44; morality&#44; vanished from view.<lb/></p>
+            
+            <pb n="3"/>
+            <p>Worship&#44; so called&#44; took its place&#59; but the history of the<lb/> most renowned nations of antiquity&#44; the history of<lb/> Egypt&#44; Assyria&#44; Greece&#44; Rome&#44; shows how worship<lb/> can be prostituted&#44; it shows how a service tendered to<lb/> falsehood&#44; and social depravity follow close upon each<lb/> other.  Who can recall the sacrifices made of honor and<lb/> of chastity on the altar of debauching deities&#44; and not see<lb/> there the cause of general corruption&#63;  Who can think of<lb/> the rivalry said to have existed among gods&#44; to whom altars<lb/> were raised&#44; who can think of the war between the Titans and<lb/> Jupiter&#44; and not perceive the effect thereof in the deeds<lb/> of ferocity&#44; practiced by the ancients even in their public<lb/> games and national festivities&#63;  It was the mission<lb/> of a religion&#44; which proclaimed from the beginning&#44; the<lb/> Fatherhood of God and the brotherhood of man to cast<lb/> down and to build up.  To pull out one by one every stone<lb/> of an edifice in whose atmosphere the mind became<lb/> dazzled and the heart petrified&#44; and to rear on its<lb/> &#91;&#63;&#93;&#44; a structure from every point of which a steady<lb/> light broke forth&#44; and in the exhilarating air of which<lb/> the feelings became softened and refined.  The religion<lb/> of Moses&#44; where Morality occupies the highest stand.<lb/>  It would be unjust to assert&#44; that the knowledge of what<lb/></p>
+            
+            <pb n="4"/>
+            <p>is right&#44; was altogether hidden from the ancients.  No&#58;<lb/> In the books of some philosophers of olden times&#44; sublime<lb/> ideas&#44; lessons of great import may be met&#44; but without<lb/> crediting the report that the individuals who enunciated<lb/> those sentiments&#44; failed to carry them out in their pri&#45;<lb/>&#45;vate conduct&#44; we may admit that a teachings scat&#45;<lb/>&#45;tered in a few volumes&#44; unknown to the majority&#44; can<lb/> be of little value to society.  Not so with the morality<lb/> inculcated in the Mosaic code.  It is made public&#44; and is accessible to every<lb/> mind.  The high&#45;cultured and the reflecting can discover therein<lb/> the wisdom with which it is replete&#44; and admire it&#59; while<lb/> even the illiterate can comprehend it in its unvarnished sim&#45;<lb/>&#45;plicity.  A morality it is stamped with the signet of<lb/> God&#44; and such as can be chosen as an infallible guide.<lb/>  The son of Azza&#239; saw it in that sentence which tells that<lb/> the One Creator made the first parents of the human race&#44;<lb/> in his image and blessed them.  He blessed them&#44; that as<lb/> children of a common Father&#44; provided for liberally&#44; they<lb/> might thank together the Author of their existence&#59; He<lb/> blessed them&#44; that as brothers&#44; emanating from the same<lb/></p>
+            
+            <pb n="5"/>
+            <p>stock and feeding at the same &#91;&#63;&#93; table&#44; they might abide together in harmony.<lb/>  The Some Sages of antiquity stood at the <sic>threshhold</sic> of this Sanctuary&#44;<lb/> we alone&#44; the descendants of the great believer&#44; were permitted<lb/> to penetrate into its recesses.<lb/></p>
+            <p>True&#58; ages after the proclaiming of the Hebrew legislation&#44;<lb/> new creeds arose&#44; which&#44; spreading through the gentile<lb/> world&#44; dealt a severe blow at heathenism.  But all<lb/> they are a bare reproduction of what had already <sic>yeilded</sic><lb/> the choice first&#45;fruits.  All which an intelligent Israelite<lb/> can pronounce in them perfectly correct&#44; is a borrowed<lb/> knowledge of from what our fathers had long before learnt.  Not<lb/> a little is there which has not its parallel in our books.<lb/>  Not an iota which the thoroughly educated cannot trace<lb/> in some of our writings.  That those creeds should<lb/> have commanded the reverence of a vast portion of the<lb/> human family&#44; cannot surprise the thinking&#44; for they<lb/> posses enough that speaks to the heart&#44; while they<lb/> forcibly appeal to the senses.  That they should rally<lb/> round the standards they unfurled&#44; even this day&#44; millions<lb/> of intelligent beings&#44; is not a cause of wonder to him<lb/> that deeply reflects.  A religion purely <sic>metaphisical</sic>&#44;<lb/> as Judaism is in its ground leading features&#44; cannot be<lb/> grasped by the minds of multitudes.  The idea<lb/></p>
+            
+            <pb n="6"/>
+            <p>of a Being filling all space&#44; and incorporeal&#44; all&#45;seeing and<lb/> invisible is too abstract for the bulk of mankind&#44; and<lb/> we know from a sad historical experience&#44; how often those<lb/> who were commissioned from on high to treasure up that idea&#44;<lb/> loosened their hold thereof.  Still&#44; in proportion as the human<lb/> family grows from youth to manhood&#44; that same idea will<lb/> be the rallying point for all into whom God has breathed an<lb/> immortal spirit.  And we have been predestined to bring<lb/> that era to pass.  We have read it this morning in the chapter<lb/> from the prophets.  &#34;Thus says the Lord God&#44; who created<lb/> the heavens and stretched them out&#44; who spread out the earth<lb/> and what it brings forth&#44; who gives breath to the people<lb/> who are upon it&#44; and a spirit to those who walk therein&#44;<lb/> I&#44; the Lord&#44; have called thee in righteousness&#44; and I hold thee<lb/> by the hand&#44; I will preserve thee&#44; and make thee a cove&#45;<lb/>&#45;nant&#45;people&#44; a light of nations&#44;&#34; aye&#58; a light of nation.<lb/>  How any born in Israel should be led to believe that only<lb/> since these new doctrines were disseminated&#44; the world began<lb/> to be humanized and civilized&#44; is a cause of sorrow and of<lb/> astonishment to a faithful Israelite.  How What enun&#45;<lb/>&#45;ciation can be more emphatic of the brotherhood of man&#44; than<lb/> the sentence I have taken as my text&#63;  What more than it breathes<lb/> a spirit of universal love and universal charity&#63;<lb/></p>
+            
+            <pb n="7"/>
+            <p>God created man in His image&#44; therefore says our martyred sage&#44;<lb/> Rabbi Akibah&#44; I shall not revile my neighbor because I<lb/> was treated lightly&#44; I shall not curse my neighbor because some<lb/> have hurled imprecations at me&#44; for were I to do so&#44; I would<lb/> revile and curse the image of God that is in every man.<lb/>  Oh&#33; that we would studied our books more&#33;  Oh that we pondered<lb/> on the writings of our Rabbis teachers&#44; we would not then see<lb/> perfection where only a copy of the prototype originality in a copy&#44; and treat the archetype with contempt.<lb/>  We would convince ourselves&#44; and convince others that Judaism<lb/> has sown the seeds of that fraternization which must sooner or later be effected<lb/> sooner or later&#59; that Judaism inculcates love and an charity<lb/> in the most unrestricted sense.  I say unrestricted sense&#44;<lb/> because it is our religion doctrines that has made linked pure morality indispo&#45;<lb/>&#45;sably with religion&#44; even&#44; One God and One common cry extraction to man&#44; it is at that has joined heaven to earth&#44; or to<lb/> speak more correctly has brought heaven upon earth.  For<lb/> what could have stirred up that Being who abides eternally<lb/> to bring into existence this <sic>marvellous</sic> world but love&#63;<lb/>  What could have incited Him to breathe into man His<lb/> spout but Charity&#63;  Have we not read to day&#44; that when<lb/> God saw All He had done&#44; and he found that it was very good&#63;<lb/></p>
+            
+            <pb n="8"/>
+            <p>It was good&#44; because calculated to promote the happiness<lb/> of all His creatures&#44; it was good because&#44; man could by<lb/> his mental faculties and spiritual power strength rise stupendously.<lb/>  Love and charity were the motive&#45;powers of the creator&#44; and<lb/> these virtues ought we to exercise toward one another.<lb/>  Alas&#33; that it is their absence which has brought religion into<lb/> discredit&#33;  It is because we fail to exercise them that religion<lb/> has become a byword&#44; not simply with the depraved and the<lb/> worldly&#44; but also with the <sic>uncorrupt</sic> and the large&#45;hearted.<lb/>  It is for the absence of it&#44; that we religion has ceased to become <sic>synonimous</sic> with<lb/> good will &#38; peace&#44; but and is interpreted as the formenter of hatred<lb/> and war.  It is for its absence that pe tranquil homes have been<lb/> advanced to be turned into reeking ruins&#44; and flourishing cities into charnel&#45;<lb/>houses.  Aye&#58; it is because people have not yet learnt the<lb/> first page of our Bible that we are shocked with the report&#44;<lb/> that a class of men&#44; have been whose sin consists in differing in the color<lb/> of their skin from others&#44; have been massacred in cold&#45;blood.<lb/>  It is through that it that we are often so unrelenting&#44; so<lb/> prone to exhibit to view the moral deformities of our neighbor&#44;<lb/> rather than cover them under the broad folds of the mantle<lb/> of Charity&#59; it is because of it&#44; that we would and sting&#44;<lb/> caring nothing of for the pain we <sic>inflinct</sic>.  It is by reason<lb/> of our lack of charity&#44; that we stop to inquire&#44; &#34;who is<lb/></p>
+            
+            <pb n="9"/>
+            <p>he&#44; where does he come from&#44; what language does he speak&#63;&#34;<lb/>  instead of saying &#34;Come brother&#44; thou art in trouble&#44; thou<lb/> hast suffered much&#44; how can I relieve thee&#63;&#34;....&#95;&#95;<lb/></p>
+            <p>But he is not of the seed of Abraham who so acts&#59; for<lb/> of the founder of our people it is written&#58; &#34;I have set him<lb/> apart&#44; in order that he might command his children and his<lb/> household after him&#44; and they will keep the way of the Lord&#44;<lb/> namely&#44; do charity and cha justice.&#34;  Not because<lb/> we have received a bright light&#44; ought we to despise those<lb/> whom that light has not yet penetrated&#44; but we should<lb/> rather act work and pray that the veil may be torn aside&#44; and<lb/> all may see the One Father and recognize the one human<lb/> descent.  Not because we have been called the first&#45;born&#44;<lb/> must we the junior portion of the family&#44; be discarded.<lb/>  We have been assigned the guardianship of our Father&#39;s<lb/> treasure&#44; but not for that must we look with disdain<lb/> upon those to whom it must be dispensed.  No we must<lb/> prove our &#91;&#63;&#93; to the privileges obtained&#44; by a godly life&#44;<lb/> by the exercise of those virtues&#44; that which will persuade the<lb/> world that Judaism is the pith of morality&#59; the purest&#44; the<lb/></p>
+            
+            <pb n="10"/>
+            <p>the holiest code.  Then will we be deemed the<lb/> educator of the human race&#44; the forerunners of sal&#45;<lb/>&#45;vation.  People who now misapprehend the Jew&#44;<lb/> and vilify his laws&#44; because unacquainted with<lb/> the former&#44; and ignorant of the latter&#44; will acknowledge<lb/> themselves at fault&#44; and we shall have hastened the<lb/> period foreseen by Zechariah&#44; when &#34;ten men of all<lb/> the languages of nations shall lay hold of the skirt of him<lb/> that is a Jew&#44; saying &#34;let us go with you&#44; for we have<lb/> heard that God is with you&#34;.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

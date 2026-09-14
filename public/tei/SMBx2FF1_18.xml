@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Wiley, S. R.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF1_18</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Wiley, S. R.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>San Francisco, CA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1874-11" source="" attested="yes">6 November 1874</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff1_18_1r.tif"/>
+                                <graphic url="smbx2ff1_18_1v.tif"/>
+                                <graphic url="smbx2ff1_18_2r.tif"/>
+                                <graphic url="smbx2ff1_18_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>San Francisco<lb/>
+                6<hi rend="sup">th</hi> <del>Octr</del> &#40;must be Nov.&#41; 1874<lb/></p>
+            <p>Revd. S. Morais<lb/>
+            Dear Sir<lb/></p>
+            <p>I am in receipt this morning<lb/> of your interesting respects of 28<hi rend="sup">th</hi> ulto.<lb/></p>
+            <p>I will re&#45;read your letter&#44; and at an<lb/> early time will write more fully&#44; as I<lb/> must take exceptions&#44; to one or two of<lb/> your positions.  I do not suppose&#44; I<lb/> can convert you to my views&#44; and thus<lb/> far you have failed to convert me to yours&#44;<lb/> and perhaps our controversy may be in a<lb/> manner profitless&#59; nevertheless&#44; it may<lb/> be&#44; that an interchange of ideas on the<lb/> subject may not be entirely time thr&#91;&#63;&#93;<lb/> away.  Many persons read on the same<lb/> subject various and different authors&#44; and<lb/> in consequence imbibe various views&#44; and<lb/> entertain different original opinions&#59; and<lb/> an interchange may lead both parties to<lb/></p>
+            
+            <pb n="2"/>
+            <p>modify their opinions if not radically<lb/> change their views.  &#34;In multitude<lb/> there is counsel&#34; and I presume we have<lb/> each read quite a multitude of authors<lb/> treating one way or another of this sub&#45;<lb/>ject either directly or incidentally.<lb/></p>
+            <p>My object in the first place in writing<lb/> to you&#44; was to seek <hi rend="underline">information</hi>.  I had of<lb/> course read authors&#44; who treated this matter<lb/> as you did&#44; but you were the first gent&#91;&#63;&#93;<lb/>man I had found who so did&#8212;and as I<lb/> said they conflicted with my views&#44; I de&#45;<lb/>termined to write and seek for you proofs.<lb/></p>
+            <p>Thanking you for the time bestowed on<lb/> my inquiries&#44; from your arduous and mul&#45;<lb/>tifarious duties&#44; I remain<lb/></p>
+            <p>Yours Respectfully<lb/>
+            S. R. Wiley<lb/>
+            730 Montgomery St.<lb/></p>
+            
+            <pb n="3"/>
+            <p>Rev. S Morais<lb/>
+                Revd. S. Morais<lb/>
+                No 546 North Fifth St<lb/>
+                Philadelphia<lb/>
+                Pen.<lb/></p>
+        </body>
+    </text>
+</TEI>

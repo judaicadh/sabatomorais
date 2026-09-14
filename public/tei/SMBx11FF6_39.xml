@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF6_39</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff6_39_1r.tif"/>
+                                <graphic url="smbx11ff6_39_1v.tif"/>
+                                <graphic url="smbx11ff6_39_2r.tif"/>
+                                <graphic url="smbx11ff6_39_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>S. MORAIS&#44;<lb/>
+                546 N. Fifth St.<lb/></p>
+            <p>Philadelphia&#44;<lb/></p>
+            
+            <pb n="2"/>
+            <p>Partly remodelled from an old funeral address of mine.<lb/></p>
+            
+            <p>The living&#44; my brethren&#44; the living need deep&#45;felt human<lb/> sympathy&#59; the living need well&#45;meant fraternal counsels&#44;<lb/> they need friendly monitions.  The dead are no longer<lb/> under necessity of our an active human fraternal kindness. and consideration.<lb/> Up on the heights where eternity abides&#44; they lie<lb/> secure beyond the reach of our fraternal human consideration.  Our praises cannot enhance their happiness&#44;<lb/> if they have earned it by practical righteousness&#44; nor can our<lb/> disparagement aspersions influence the sentence of the merciful wisest<lb/> judge&#44; if they have met with His displeasure.  There&#45;<lb/>&#45;fore I do am not stand here therefore to weave garlands and lay<lb/> them over the coffin of a Hebrew&#44; because he is a son<lb/> of our people the Hebrew race&#44; I neither have I  not acceded to the wish that<lb/> I would prayfully accompany what is mortal of M. M. R.<lb/> to its final destination&#44; with the view reprehensible intention of drawing presenting<lb/> a picture of a brother&#39;s shortcomings.  Not so&#44; but full of<lb/> irrepressible compassion inexpressibly great for an the aged father&#44; to<lb/> whose bodily affliction&#44; has been added the keen sor&#45;<lb/>&#45;row of so untimely a bereavement&#59; led nigh drawn with<lb/> my every heart&#39;s throbbings to the gentle wife&#44; widowed<lb/></p>
+            
+            <pb n="2"/>
+            <p>in almost the days of almost her girlhood and beseeching God for their consolation spiritual comfort&#44; but I obey never&#45;<lb/>&#45;theless the an inspiration that bids me speak words<lb/> that rise upon spontaneously on my lips&#44; words of exhortation to the living&#44; flow&#45;<lb/>&#45;ing from above to the living&#44; to the living&#44; still untried in health and in mind.  &#34;Men&#33; stand in awe and sin not&#34;<lb/> &#91;Hebrew&#93; Know yet not that life is but a<lb/> span&#63;  To This day is yours&#44; the morrow may see you no more&#44; and that<lb/> boundless future to which you preferred a fleet&#45;<lb/>&#45;ing present&#44; will open and compel your undimmed vision to<lb/> be remain <sic>rivetted</sic> thereon.&#34;  So&#44; my dear companions<lb/> in this terrestrial journey&#44; of life&#44; religion addresses us all&#59; not<lb/> to terrify us our minds into a degrading inactivity&#44;<lb/> but to urge us on to deeds becoming creatures&#44; whom<lb/> God has endowed with noble faculties for noble<lb/> purposes.  The thought of our instability upon<lb/> earth&#44; will warn us against the indulgence into<lb/> passions and appetites which eat upon into our vitals&#44; and will<lb/>  cast around us a mighty shield impenetrable<lb/> to the strokes of consuming maladies.  But more than<lb/> a safeguard upon to our existence&#44; that thought<lb/> will prove a wholesome restraint upon evil tendencies of<lb/> a moral character.  I will not strive to<lb/> overreach my neighbor by chicanery and deception&#44;<lb/></p>
+            
+            <pb n="3"/>
+            <p>when I consider that I may soon leave behind&#44;<lb/> what all that I have gained by irregular means.  I<lb/> will bear in mind the advice of the psalmist<lb/> that when probably substance increases&#44; I must not set my<lb/> heart upon it&#44; for it has been authoritatively told me more than<lb/> once that enduring power does not proceed from<lb/> riches&#44; but from God the source of all power&#45;God. &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;  Then the jealousy&#44; the enmity<lb/> the &#91;&#63;&#93; which I have allowed to lodge with me over night&#44; will<lb/> have been chased away by me as impurity before the morning dawn.  I will<lb/> strive endeavour to attain a wealth of virtues&#44; a name imperish&#45;<lb/>&#45;able for goodness to my equals&#44; for charity to the<lb/> un less fortunates than myself&#44; for magnanimity towards offenders.<lb/>  Then when the summons came hour approaches for the departure&#44;<lb/> the memories of the fond love of those to whom I<lb/> have bequeathed an inheritance more precious than<lb/> houses and fields&#44; will im be a foretaste of paradise&#59; my soul&#44; the<lb/> gratitude of those whom I have <sic>benefitted</sic> will<lb/> follow me with blessings to the repose of the upright.<lb/>  Let then Come ye all come then&#44; who&#44; younger than our deceased<lb/> coreligionist&#44; or his coevals&#44; have cast out away the<lb/> thought of our common mortality&#44; and<lb/></p> 
+            
+            <pb n="4"/>
+            <p>preferred chosen to dwell on the fleeting pleasures&#44; which<lb/> leave behind lasting regrets&#59; come all&#44; who&#44; in the<lb/> language of as the moralist of yore anticipatively described fancy that<lb/> their substance young property is the citadel of their an unassailable<lb/> strength &#91;Hebrew&#93;; let them all come<lb/> and contemplate a melancholy scene&#44; melancholy<lb/> because of its surroundings&#44; melancholy by reason of the premature demise of a brother in Israel&#44;<lb/> who&#44; measuring time by our own faulty line&#44; may<lb/> have anticipated looked hoped for a long and prosperous existence<lb/> on this side of the grave.  Let us pray that May he M. M. R obtain beyond<lb/> its bounds obtain the endurable &#91;&#63;&#93; felicity allotted to the spirit&#44;<lb/> in compensation of a short lived happiness&#44; while clothed<lb/> in flesh.  But Oh&#33; let us all learn to stand in awe<lb/> and sin not&#44; for life is but a walking shadow<lb/> &#91;Hebrew&#93; in vain vain we keep in constant agitation&#44; we treasure up and know not we will gather.  And Thou O Compassionate Lord&#33;<lb/>  Bestow Thy consolations upon all who mourn&#44; teach<lb/> them a fortitude resting on piety&#44; a resignation<lb/> upheld by peace&#44; and grant to the dead for<lb/> whom they mourn weep forgiveness of misdeeds&#44; rewards<lb/> for deeds of integrity and of generosity which he<lb/> may have practised in the various walks of life&#44; here below&#44;<lb/> and the joys of heavens above to which we all aspire above.<lb/></p>
+            </body>
+    </text>
+</TEI>

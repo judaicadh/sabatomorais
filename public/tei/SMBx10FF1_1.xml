@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx10FF1_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx10ff1_1_1r.tif"/>
+                                <graphic url="smbx10ff1_1_1v.tif"/>
+                                <graphic url="smbx10ff1_1_2r.tif"/>
+                                <graphic url="smbx10ff1_1_2v.tif"/>
+                                <graphic url="smbx10ff1_1_3r.tif"/>
+                                <graphic url="smbx10ff1_1_3v.tif"/>
+                                <graphic url="smbx10ff1_1_4r.tif"/>
+                                <graphic url="smbx10ff1_1_4v.tif"/>
+                                <graphic url="smbx10ff1_1_5r.tif"/>
+                                <graphic url="smbx10ff1_1_5v.tif"/>
+                                <graphic url="smbx10ff1_1_6r.tif"/>
+                                <graphic url="smbx10ff1_1_6v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>9 pages on 4 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For the sabbath before Elul.<lb/></p>
+                
+                <pb n="2"/>
+                <p>Friends&#33;  To miss any of my brethren&#44; who are wont to<lb/> worship in this minor sanctuary&#44; gives me pain&#59; therefore<lb/> when they reappear&#44; who have for a period been absent&#44; I<lb/> am of joyful spirits.  The number legally<lb/> required to hold divine service in public&#44; is comparatively<lb/> small.  It may be easily secured.  And thanks<lb/> <del>be</del> to the Lord&#44; only once during the intensely hot season<lb/> experienced&#44; we failed to obtain it.  But....&#91;Hebrew&#93;<lb/> &#91;Hebrew&#93; &#34;In the multitude of people&#44; is a King&#39;s honor&#59;&#34;<lb/> says Solomon in his proverbs.  I verily believe that<lb/> the Sovereign of the universe&#44; whose eyes are ever open<lb/> toward this house&#44; which we have built to His name&#44; looks<lb/> down graciously upon us&#44; when we throng its courts to<lb/> do Him reverence.<lb/>
+                    We employ none of the fictitious means&#44; which others<lb/> have deemed needful to attract Israelites to the Synagogue.<lb/>  The prayers we recite&#44; are those composed in ancient days.<lb/>  Simplicity of manners characterizes our devotional<lb/> exercises.  Hence&#44; it can only be the desire<lb/> of pleasing God&#44; that prompts you&#44; dear brethren&#33; to<lb/> join in the orisons and supplications&#44; which I pour forth<lb/></p>
+                
+                <pb n="3"/>
+            <p>in this sacred spot.  Oh&#33; may it be so<lb/> continually in your heart&#44; to love the Creator and Protector<lb/> of your life&#44; and evince the sincerity of your feelings<lb/> by hastening unto His divine presence&#44; solely to re&#45;<lb/>&#45;count His <sic>marvellous</sic> acts.  To offer thanksgivings for<lb/> the past&#44; and implore assistance for the future.<lb/>  I do not disguise the fear I occasionally entertain.<lb/>  In your daily walks you are apt to meet with some&#44;<lb/> who deride our mode of <sic>worshipping</sic> as antiquated.<lb/>  They would fain shame you into the adoption<lb/> of forms&#44; which they hold to be eminently pro&#45;<lb/>&#45;gressive.  But I that deplore the<lb/> estrangement of any of among you from the fold&#44; whereat<lb/> I have long kept watch&#44; feel ill&#45;at&#45;ease&#44; when<lb/> I behold those seats vacant&#44; which were formerly<lb/> occupied on each returning Sabbath.<lb/></p>
+                <p>Am I personally interested&#63;  Aye&#44; most assuredly so&#59;<lb/> but not any more than you yourselves should be&#44; my<lb/> friends&#33;  For&#44; rely on it&#59; the day that this<lb/> Hebrew congregation&#44; noted among all others in<lb/> our city&#44; for its seniority&#59; and the standing of its<lb/> members&#44; shall make a common cause with<lb/></p>
+                    
+                    <pb n="4"/>
+                    <p>those that have overreached the bounds set by the<lb/> ancients&#44; Judaism now on the decline&#44; will be sped on<lb/> to the verge of ruin.  Our children to whom<lb/> we should leave a legacy of piety&#44; will be unable to<lb/> distinguish between the law of God&#44; and the false<lb/> teachings of man.  For&#44; I do not hesitate to<lb/> say it.  The newly introduced changes in the wor&#45;<lb/>&#45;ship are simply a cover.  Their ulterior design is<lb/> to gather strength&#44; wherewith to break down the<lb/> bridge which connects us with the past.  A<lb/> multitude must needs be raised to do that work of<lb/> destruction&#59; and they who are bent on completing it&#44;<lb/> know how to lure into their service the heedless<lb/> and the unwary.  Siren songs and multifluous<lb/> speeches are resorted to.  Their efficacy tells<lb/> already but too sadly on the cause of religion.<lb/>  You heard&#44; my brethren&#33; in the section of the Pentateuch<lb/> we have just perused&#44; that among the tokens which<lb/> must distinguish Israel as the people set apart<lb/> by the Divinity for a holy purpose&#44; is their abstaining<lb/> from certain viands.  Yet&#44; a few days<lb/></p>
+                    
+                    <pb n="5"/>
+                    <p>ago I was ingeniously asked by a youthful individual<lb/> of our race&#44; whether I did not think that a differ&#45;<lb/>&#45;ence should no longer be made between a fish which<lb/> the Bible designates as fit for our use&#44; and that which<lb/> lacks the requisites specified therein&#33;  Such is<lb/> the legitimate result of the lessons taught in places&#44;<lb/> ostensibly opened to promote the cause of Judaism&#44;<lb/> but in reality for the purpose of waging war against<lb/> its enactments.  When notwithstanding the<lb/> unequivocal prohibition twice written down by the<lb/> inspired son of Amram&#44; a teacher in Israel enforces<lb/> by his word and example a violation of all the dietary<lb/> laws&#44; can we wonder if Holy Writ is looked upon<lb/> by the rising generation as a sheer myth&#44; and<lb/> he who expounds it acceptably to their appetites and<lb/> tastes&#44; as the true prophet of his age&#63;  The populace<lb/> either too much engrossed in worldly pursuits&#44; or&#44;<lb/> too ignorant&#44; do not weigh <del>upon</del> in the scales of mature<lb/> judgment&#44; what is proclaimed from the pulpit.<lb/>  Enough&#44; that some one who enjoys the reputation of<lb/> learned explains away every law to which obedience<lb/> had been paid hitherto.  The course he points out<lb/></p> 
+                    
+                    <pb n="6"/>
+                    <p>is congenial with human feelings.  It allows mun&#45;<lb/>&#45;dane wishes a free scope&#59; whereas to conform to<lb/> the olden rules is to endure privations.  Therefore<lb/> is impiety set on high&#44; and the revealed will of our<lb/> Legislator set at naught.<lb/></p>
+            <p>Now&#44; my beloved friends&#33;  I have no reason to flatter<lb/> myself that all who are attached to my congregation&#44;<lb/> adhere to the divine prescriptions&#44; to which I have made<lb/> special allusion.  I am aware that the reverse<lb/> is a fact&#44; and I would be guilty of a glaring falsehood<lb/> if I denied any knowledge thereof.  It would be<lb/> consummate hypocrisy on my part&#44; to seek the favor<lb/> of some&#44; by a palliation of sin.  Its commission may<lb/> not be with the expressed design of opposing the biblical<lb/> command&#44; still it is very general.  Would that<lb/> I could further extenuate it&#59; but I cannot do so&#44; by<lb/> accepting as correct the idea entertained by some of my<lb/> brethren&#59; namely&#44; that provided they do not partake<lb/> of the flesh of an animal forbid in the law&#44; they may&#44;<lb/> when absent from home&#44; enjoy other meats set before them.<lb/>  I cannot&#44; because that portion in to&#45;day&#39;s Parash&#225;&#44; that<lb/> contains all the dietary <del>prescriptions</del> ordinances&#44; ends as follows&#58;<lb/></p>
+                    
+                    <pb n="7"/>
+                    <p>&#91;Hebrew&#93;.  &#34;Ye shall not eat any thing that dies<lb/> of itself&#44;&#34; which sentence clearly implies the necessity<lb/> of ascertaining by an examination of the entrails&#44; the<lb/> healthy condition of the animal&#44; set apart for our<lb/> food.  I cannot&#44; because this same section we<lb/> have read&#44; solemnly warns us against eating any blood&#59;<lb/> which implies again the obligation of slaughtering the<lb/> animal in a manner that precludes the total absorption<lb/> of the blood into the flesh.  But despite the<lb/> recklessness exhibited by my congregation in that respect&#44;<lb/> I feel that I may nevertheless&#44; be&#44; under Providence&#44; <del>be</del><lb/> instrumental in accomplishing some good.  My<lb/> earnest words may awaken my hearers to a sense of their<lb/> shortcomings&#59; or&#44; they may confirm my conscientious<lb/> brother in his ideas of a consistent Jewish life.<lb/></p>
+            <p>I may&#44; at the least&#44; check the progress of <sic>wilful</sic><lb/> sin&#59; prevent the full success of sanctioned impiety.<lb/>  Such is the cause wherein I am deeply interested&#44; and<lb/> in which I long to enlist your sympathies.<lb/></p>
+                    <p>Could you but use superior to the incitement of the<lb/> appetites&#59; could you stand proof against the<lb/></p>
+                    
+                    <pb n="8"/>
+                    <p>jeers of the scoffers and the attacks of the miscre&#45;<lb/>&#45;ants&#44; you would see the flame of religion now<lb/> flickering without a light&#44; burn steadily and brightly<lb/> in many a breast.  Your goodly example would ac&#45;<lb/>&#45;complish it.  Then would I rejoice&#44; and Abra&#45;<lb/>&#45;ham&#39;s God be sanctified in our midst&#44; but yours would<lb/> be the glory and the everlasting reward&#44; ever&#44; the heavenly<lb/> blessing promised to those who will obey the commandments<lb/> of the Omnipotent Lord&#44; and He bid our fathers &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;.  Therefore<lb/> have I spoken this Sabbath&#44; that preceded the month&#44;<lb/> on which&#44; we hope and pray&#44; may be the forerunner of a<lb/> year of happiness to our households &#91;Hebrew&#93;.  Be<lb/> early prepared to meet the God of Israel&#44; by confessions&#44;<lb/> and wise reform.  May I anticipate the sight<lb/>&#45;&#45;to me always gratifying <del>sight</del> of a numerous attendance<lb/> at the divine service which will be daily performed<lb/> in our synagogue&#44; from the ensuing week unto the<lb/> great day of atonement&#63;  I would specially<lb/> call upon my young brother&#45;&#45;the Bar Mitzvah&#45;&#45;<lb/> and his coevals&#44; to thus betimes acquire the merit<lb/> of promoting public worship.  I crave for<lb/></p>
+                    
+                    <pb n="9"/>
+                    <p>their presence&#44; at the time we offer propitiators<lb/> supplications to our God&#44; and urge the parents to aid<lb/> me by their authoritative counsel.  For verily&#59;<lb/> &#34;a King is honored by a multitude of people&#34; &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;.  And&#44; as our Rabbins express it.<lb/>  &#34;Joyful is the Monarch whose subjects sing his praises<lb/> in his royal dwelling&#44;&#34; &#91;Hebrew&#93;<lb/></p>
+            </body>
+    </text>
+</TEI>

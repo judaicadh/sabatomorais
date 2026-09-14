@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Robertson, Mrs. L.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF6_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Robertson, Mrs. L.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1884-04" source="" attested="yes">April 1884</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff6_4_1r.tif"/>
+                                <graphic url="smbx3ff6_4_1v.tif"/>
+                                <graphic url="smbx3ff6_4_2r.tif"/>
+                                <graphic url="smbx3ff6_4_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>In the Rev. Mr. Morais&#39; reply to  Yours&#91;&#63;&#93;&#45;&#45;<lb/></p>
+            <p>he says there is no mention made in the<lb/> Bible of Prayers for the dead&#44;  but that is<lb/> found in the book of Maccabees&#44; we do not<lb/> believe that the Apochryphia is inspired&#91;.&#93;<lb/> Consequently it is not part of our Bible<lb/> nor is it bound up in it&#44; however I got a<lb/> Roman Catholic Bible and found<lb/> what Mr. Morais eludes to&#91;.&#93; we con&#45;<lb/>sider that when the Lord takes<lb/> our dear ones to  himself&#44; they no longer<lb/> require our prayers&#44; &#34;as the tree falls so shall<lb/>lie&#34;&#45;&#45; we of course do not believe as the<lb/> Romanists do that there is an intermediate<lb/> state. Regarding the shedding of <lb/> blood for the remission of sins&#44; Mr. <sic>Marais</sic><lb/> says it never was a dogma in the Jewish<lb/> Church&#44; that the blood of Animals was<lb/>  intended as an atonement for sins.<lb/> This astonishes me very much&#44; for who<lb/> can read the 16<hi rend="sup">th</hi> &#38; 17<hi rend="sup">th</hi> Chapters of<lb/></p>
+                
+                <pb n="2"/>
+            <p>Leviticus  &#38; not believe that these animals<lb/> were offered as an atonement The 6<hi rend="sup">th</hi> &#38;16<lb/> verses of the 16<hi rend="sup">th</hi> Ch&#91;apter&#93;. For instance&#44; then the<lb/> 11<hi rend="sup">th</hi> ver. of the 17<hi rend="sup">th</hi> Ch. says&#44; for the life<lb/> of the flesh is in the blood&#44; &#38; I have given <lb/> it to you as your Altar to make an<lb/> atone<hi rend="underline">m</hi>ent <hi rend="underline">for</hi> <hi rend="underline">your</hi> <hi rend="underline">souls</hi>. For it is the<lb/> <hi rend="underline">blood</hi> that makes an <hi rend="underline">atonement</hi> <hi rend="underline">for</hi><lb/> the <hi rend="underline">soul</hi>&#44; what can be more comprehensive<lb/> The reason why you do not eat the blood<lb/> in your meat&#58; is&#44; because it <hi rend="underline">was</hi> <hi rend="underline">used</hi> for<lb/> an atonement for your souls&#44; now&#44; since<lb/> you no longer use the  blood as an atonement<lb/> why not let the blood remain in the meat&#45;&#45;<lb/> it seems to me if the one is given up&#44; why<lb/> not the other&#44; the one was as strictly<lb/>commanded as the other.<lb/></p>
+            <p>The quotation from Hosea&#44; I do not<lb/> quite understand. &#34;One may pay for<lb/> <hi rend="underline">Steers</hi>&#91;&#63;&#93; by the utterance of our lips&#34;<lb/> Now his quotation from Hosea Ch. 1&#91;overwritten&#58;5&#93;4<lb/></p>
+                
+                <pb n="3"/>
+            <p>&#38; 2<hi rend="sup">nd</hi> Ver. reads thus &#34;say unto the &#91;&#63;&#93;<lb/> take away all iniquity and receive<lb/> us graciously so will we render the<lb/> calves of our lips.&#34; &#38; Scott. one of<lb/> the best Commentators <sic>interperates</sic><lb/> the verse thus&#44; Israel is here exhorted to<lb/> return to the Lord &#38; they might expect<lb/> all blessings promised their Fathers&#45;&#45;<lb/> &#34;Then with their lips they would proclaim<lb/> his praise&#44; rendering him sacrifices<lb/> of Thanksgiving&#44; far more acceptable<lb/> than the blood of the calves of the stall&#34;<lb/> Another question I would like to ask.<lb/> <hi rend="underline">When</hi> &#38; <hi rend="underline">How</hi> is the Messiah the Savior<lb/> to come&#45;&#45; as is promised in The Old<lb/> Testament. how about the 53<hi rend="sup">rd</hi> ch. of  Isaiah&#45;&#45;<lb/></p>
+                
+                <pb n="4"/>
+            <p>From Mrs. L. Robertson<lb/>
+                to<lb/>
+                Rev. Mr. S. Morais.<lb/>
+                New York April 1884.<lb/></p>
+        </body>
+    </text>
+</TEI>

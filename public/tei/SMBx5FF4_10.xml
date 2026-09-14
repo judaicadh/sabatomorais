@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Loeb, Isidor</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF4_10</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Loeb, Isidor</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Paris, France</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1889-08" source="" attested="yes">28 August 1889</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff4_10_3r.tif"/>
+                                <graphic url="smbx5ff4_10_4r.tif"/>
+                                <graphic url="smbx5ff4_10_5r.tif"/>
+                                <graphic url="smbx5ff4_10_6r.tif"/>
+                                <graphic url="smbx5ff4_10_1r.tif"/>
+                                <graphic url="smbx5ff4_10_2r.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">French</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>Rue de Tr&#233;vise&#44; 35.<lb/></p>
+            <p>ALLIANCE ISRA&#201;LITE UNIVERSELLE<lb/>
+               Paris&#44; le 28 Ao&#251;t 1889<lb/></p>
+            <p>No 5182<lb/>	
+                R&#201;PONSE AUX<lb/>
+                NOS<lb/></p>
+                
+            <p>Cher Monsieur Morais&#44;<lb/> M. le Baron de Hirsch m&#39;a com&#45;<lb/>muniqu&#233; le rapport que vous lui<lb/> avez adress&#233; le 30 mai sur l&#39;emploi<lb/> des 5000 dollars qu&#39;il avait mis a<lb/> votre disposition pour la colonie<lb/> Carmel.  M. le Baron de Hirsch<lb/> vous remercie de l&#39;envoi de cette<lb/> pi&#232;ce qui est tr&#232;s int&#233;ressante&#44;<lb/> et il me charge de vous dire<lb/> que lorsque les colons vous feront<lb/> les remboursements dont vous<lb/> parlez&#44; il vous prie de vouloir bien<lb/> les verser aux mains der tr&#233;sorier<lb/> du Comit&#233; de l&#39;Alliance &#225;<lb/> Philadelphie.  Je serai tr&#232;s recon&#45;<lb/>naissant de recevoir chaque fois<lb/> avis de ces versements&#44; et le<lb/></p>
+                
+            <p>Monsieur le Rev. S. Morais&#44;<lb/>
+                546 North 5<hi rend="sup">th</hi> Str&#44;    Philadelphie.<lb/></p>
+                
+                <pb n="2"/>
+            <p>Comit&#233; de Philadelphie pourra<lb/> ensuite nous faire des propositions<lb/> sur l&#39;emploi des sommes rem&#45;<lb/>bours&#233;es.  Ces propositions seront<lb/> soumises par nous a M. le<lb/> Baron de Hirsch.  Je n&#39;&#233;cris<lb/> pas de lettre sp&#233;ciale sur ce<lb/> sujet au Comit&#233; de l&#39;Alliance<lb/> a Philadelphie&#44; je vous serai<lb/> bien oblig&#233; de lin cominuniquer<lb/> cette lettre ci.  Je vous serai &#233;ga&#45;<lb/>lement tres oblig&#233; de m&#39;envoyer<lb/> un mot de reponse.<lb/></p>
+            <p>Agr&#233;ez&#44; cher Monsieur Morais&#44;<lb/> l&#39;assurance de mes meilleurs<lb/> sentiments.<lb/> Isidore Loeb<lb/></p>
+                
+                <pb n="3"/>
+            <p>August 28 1889.<lb/>
+                <sic>Pparis</sic><lb/></p>
+            <p>..In receipt of the <sic>rport</sic> of May 30 on the use of the<lb/> &#36;5000 put at your disposal for the Carmel colony..when<lb/> the money is repaid to you you may turn it over to the<lb/> Philadelphia branch of the Alliance.  I would be glad to<lb/> be notified of these payments and the Philadelphia<lb/> branch will then make their proposals for the use of<lb/> this money..<lb/> Isidor Loeb<lb/></p>
+            </body>
+    </text>
+</TEI>

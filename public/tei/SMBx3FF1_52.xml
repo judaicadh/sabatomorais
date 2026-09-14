@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Solomons, A. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF1_52</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Solomons, A. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, H. S.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Washington, DC</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1881-10" source="" attested="yes">24 October 1881</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff1_53_1r.tif"/>
+                                <graphic url="smbx3ff1_53_1v.tif"/>
+                                <graphic url="smbx3ff1_53_2r.tif"/>
+                                <graphic url="smbx3ff1_53_2v.tif"/>
+                                <graphic url="smbx3ff1_53_3r.tif"/>
+                                <graphic url="smbx3ff1_53_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>&#40;2&#41;<lb/>
+                Office of the National Garfield Memorial Hospital&#44;<lb/>
+                1324 F Street Northwest&#44;<lb/></p>
+            <p><emph rend="italics">Washington</emph>&#44; D. C.&#44; October 24&#44; 1881.<lb/></p>
+            <p>The Executive Committee charged with the work of establishing&#44; at the Capital of the<lb/> United States&#44; a NATIONAL GARFIELD MEMORIAL HOSPITAL as being the most enduring and<lb/> beneficent monument to the memory of our late President whose life was so sadly and tragically<lb/> ended&#44; assured that the various religious organizations throughout the country will be desirous<lb/> of contributing to such a memorial&#44; do therefore appeal to all pastors&#44; and suggest that Saturday<lb/> and Sunday&#44; November 5<hi rend="sup">th</hi> and 6<hi rend="sup">th</hi>&#44; or the nearest available days&#44; be set apart for discourses<lb/> and collections in all their places of worship throughout the land&#44; in aid of this fund&#44; and that<lb/> all contributions be forwarded to the Hon. JAMES GILFILLAN&#44; Treasurer of the United States&#44;<lb/> who is the Treasurer of the Fund.<lb/></p>
+            <p>GEN. W. T. SHERMAN&#44; <emph rend="italics">Chairman</emph>.<lb/></p>
+            <p>HENRY WISE GARNETT&#44;<lb/>
+                BENJAMIN G. LOVEJOY&#44;	<emph rend="italics">Corresponding Secretaries</emph>.<lb/></p>
+            <p>We&#44; the undersigned pastors of the various denominations having places of worship in the<lb/> District of Columbia&#44; do most heartily join in the above appeal and recommend it to the favor&#45;<lb/>able action of all religious bodies of this nation&#58;<lb/></p>
+            <p>Rev. FREDERICK D. POWER&#44; Christian Church.<lb/>
+                Rev. JOHN R. PAXTON&#44; Presbyterian Church.<lb/>
+                Rev. WILLIAM PARET&#44; Protestant Episcopal Chruch..<lb/>
+                Rev. Father FRANCIS E. BOYLE&#44; Catholic Church.<lb/>
+                Rev. J. H. CUTHBERT&#44; Baptist Church.<lb/>
+                Rev. B. PEYTON BROWN&#44; Methodist Church.<lb/>
+                Rev. J. SAMUELS&#44; Hebrew &#40;Orthodox&#41; Church.<lb/>
+                Rev. J. GEORGE BUTLER&#44; Lutheran Church.<lb/>
+                Rev. RUSH R. SHIPPEN&#44; Unitarian Church.<lb/>
+                Rev. J. E. RANKIN&#44; Congregational Church.<lb/>
+                Rt. Rev. DANL. A. PAYNE&#44; African M. E. Church.<lb/>
+                Rev. JABEZ FOX&#44; New Jerusalem Church.<lb/>
+                Rev. ALEXANDER KENT&#44; Universalist Church.<lb/>
+                Rev. LOUIS STERN&#44; Hebrew &#40;Reformed&#41; Church.<lb/>
+                Rev. PHILIP T. HALL&#44; Methodist Protestant Church.<lb/>
+                Rev. A. W. PITZER&#44; Presbyterian &#40;South&#41; Church.<lb/>
+                Rev. W. P. HARRISON&#44; Methodist &#40;South&#41; Church.<lb/>
+                Rev. ARTHUR FOSTER&#44; Reformed Episcopal Church.<lb/></p>
+            <p>Rev. S. Morais<lb/></p>
+            <p>Dr. Friend<lb/></p>
+            <p>Permit me to personally call<lb/> your attention to the above &#38; ask your compliance<lb/> and oblige&#44; with respects yours try A S Solomons<lb/></p>
+                
+                <pb n="2"/>
+            <p>&#40;3&#41;<lb/>
+                OFFICE OF THE EXECUTIVE COMMITTEE<lb/>
+                Of the National Garfield Memorial Hospital&#44;<lb/>
+                No. 1324 F Street&#44;<lb/></p>
+            <p><emph rend="italics">Washington</emph>&#44; D. C.&#44; <emph rend="italics">October</emph>&#44; 1881.<lb/></p>
+            <p>REVEREND AND DEAR SIR&#58;<lb/></p>
+            <p>You have doubtless seen in the public prints the appeal for aid<lb/> made by the Executive Committee charged with the duty of founding a National Garfield<lb/> Memorial Hospital&#44; in the City of Washington&#44; as a most fitting monument to the memory<lb/> of our late President.<lb/></p>
+            <p>In furtherance of this purpose we beg to call your attention&#44; in a special manner&#44; to the<lb/> enclosed appeal referred to&#44; and to the accompanying recommendation of the Executive Com&#45;<lb/>mittee&#44; which has been endorsed by a pastor of each religious denomination in this City&#44; nam&#45;<lb/>ing November 5<hi rend="sup">th</hi> or 6<hi rend="sup">th</hi>&#44; or a day as near thereto as practicable&#44; be fixed for discourses<lb/> and collections in the usual places of worship&#44; by all the ministers and religious bodies through&#45;<lb/>out the United States.<lb/></p>
+            <p>Believing that the measure will meet with your approval&#44; and hoping it may receive your<lb/> hearty co&#45;operation&#44; the appeal is made personal to you and your congregation.<lb/></p>
+            <p>The names and character of most of the Executive Committee are known to the whole coun&#45;<lb/>try&#44; and will give assurance to the public that whatever funds may be contributed will be faith&#45;<lb/>fully and judicially applied&#44; and that they will at a proper time&#44; select a suitable and command&#45;<lb/>ing site for the nation&#39;s Garfield Memorial Hospital.  They may also be trusted with the<lb/> charge of seeing that the Institution in its architecture&#44; its construction&#44; and all its appoint&#45;<lb/>ments&#44; shall be equal to the best of its kind&#44; and commensurate in its dimensions and manage&#45;<lb/>ment with the generous contributions and the humane purposes of a patriotic people wishing to<lb/> erect an enduring and beneficent memorial to the late President GARFIELD&#44; and to <sic>empahsise</sic><lb/> their adherence to the principle of respecting persons in rightful authority&#44; and their abhor<lb/>ance of the crime of assassination.<lb/></p>
+            <p>Contributions&#44; whether from individuals or by organized bodies&#44; should be sent to the Hon.<lb/> JAMES GILFILLAN&#44; Treasurer of the United States&#44; who is Treasurer of the Fund&#44; and by whom<lb/> they will be duly acknowledged.<lb/></p>
+            <p><emph rend="italics">Should you deliver a discourse upon the theme and for the purpose suggested&#44; which may in whole<lb/> or in part be published&#44; be so good as to mail a copy to the Secretary of this Committee for its use.<lb/></emph></p>
+            <p>Information bearing upon the founding of the national Garfield Memorial Hospital&#44; not<lb/> embraced in the enclosed appeal and recommendation&#44; will be cheerfully given when requested.<lb/></p>
+            <p>With sentiments of the highest regard&#44; we remain yours very truly&#44;<lb/></p>
+            <p>A. S. SOLOMONS&#44;<lb/>
+                <emph rend="italics">Chairman Committee Ways and Means</emph>.<lb/></p>
+            <p>HENRY WISE GARNETT&#44;<lb/>
+                <emph rend="italics">Secretary</emph>.<lb/></p>
+                
+                <pb n="3"/>
+            <p>&#40;1&#41;<lb/>
+                APPEAL.<lb/>
+                OFFICE OF THE EXECUTIVE COMMITTEE OF THE<lb/>
+                NATIONAL GARFIELD MEMORIAL HOSPITAL&#44;<lb/>
+                1324 <emph rend="italics">F Street&#44; Washington&#44; D. C.&#44; October&#44;</emph> 1881.<lb/></p>
+            <p>The Hon. JAMES G. BLAINE&#44; as Chairman of a Special Committee&#44; submitted the following<lb/> appeal&#44; which was unanimously adopted&#58;<lb/></p>
+            <p>The citizens of Washington and officials having residences here&#44; have united in a move&#45;<lb/>ment to do marked and enduring honor to the name of the late President&#44; whose great life was<lb/> so sadly and so tragically ended.<lb/></p>
+            <p>His reputation as a statesman&#44; legislator and Executive was acquired in this Capital.  Be&#45;<lb/>yond his claims to admiration and gratitude&#44; he was personally beloved by all classes of citizens<lb/> throughout the whole country in a degree that rarely falls to the lot of any public man.<lb/></p>
+            <p>Reflecting his own wishes so far as they may be inferred from his career and his charac&#45;<lb/>ter&#44; the memorial designed&#44; that of a National Hospital&#44; to be located in the District of Colum&#45;<lb/>bia&#44; to be known forever by his name&#44; is most suitable and appropriate.<lb/></p>
+            <p>It will be a provision for the relief of human suffering&#44; from the cup of which he drank the<lb/> bitterest dregs&#44; and in the breadth of its human charity it will fitly typify the noble nature and<lb/> exalted aims of the hero and martyr.  The hospital is designed to be as wide in its scope of benef&#45;<lb/>icence as was the kindly heart of the dead President in its outstretch of human sympathies.  It<lb/> will be open to those needing its aid and ministrations without regard to class&#44; caste&#44; creed or<lb/> color.  To be a sufferer in need of help will be the only passport required to enter its doors and<lb/> secure its aid.  Such an institution&#44; founded in the cause of charity and bearing the name of<lb/> &#34;Garfield&#44;&#34; appeals to the generosity of every one&#44; and to every one the appeal is made.<lb/></p>
+            <p>Contributions&#44; small and great&#44; are solicited&#44; and may be safely remitted to the Hon. JAMES<lb/> GILFILLAN&#44; Treasurer of the United States&#44; who has consented to act as Treasurer of the fund.<lb/></p>
+            <p>He gives twice who gives quickly.  Let the response be prompt&#44; generous and universal.<lb/></p>
+            <p>Very respectfully&#44;<lb/>
+                General W. T. SHERMAN&#44; <emph rend="italics">Chairman</emph>.<lb/></p>
+            <p>EXECUTIVE COMMITTEE&#44;<lb/></p>
+            <p>Gen. W. T. SHERMAN&#44; <emph rend="italics">Chairman</emph>.	Justice ARTHUR MACARTHUR.	Dr. J. M. TONER.<lb/>
+                Hon. JAMES G. BLAINE.		JOHN W. THOMPSON.	Dr. E. SMITH TOWNSEND.<lb/>
+                Hon. WILLIAM WINDOM.		LEWIS J. DAVIS.		Dr. F. A. ASHFORD.<lb/>
+                Gen. D. G. SWAIM.			HENRY A. WILLARD.	Dr. S. C. BUSEY.<lb/>
+                Hon. JAMES GILFILLAN&#44; <emph rend="italics">Treasurer</emph>.	REGINALD FENDALL.	Dr. J. FORD THOMPSON.<lb/>
+                A. S. SOLOMONS.			E. FRANK RIGGS.		Dr. W. G. PALMER.<lb/>
+                JAMES H. SAVILLE&#44;		W. G. METZEROTT.		Hon. JOSIAH DENT.<lb/>
+                H. M. HUTCHINSON.<lb/></p>
+            <p>JOHN A. BAKER&#44; <emph rend="italics">Recording Secretary</emph>.<lb/>
+                BENJ. G. LOVEJOY&#44; <emph rend="italics">Corresponding Secretary</emph>.<lb/>
+                HENRY WISE GARNETT&#44; &#34; &#34;<lb/></p>
+        </body>
+    </text>
+</TEI>

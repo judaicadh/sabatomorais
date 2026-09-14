@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF6_55</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cincinnati, OH</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1878-08" source="" attested="yes">14 August 1878</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff6_56_1r.tif"/>
+                                <graphic url="smbx2ff6_56_1v.tif"/>
+                                <graphic url="smbx2ff6_56_2r.tif"/>
+                                <graphic url="smbx2ff6_56_2v.tif"/>
+                                <graphic url="smbx2ff6_56_3r.tif"/>
+                                <graphic url="smbx2ff6_56_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Cincinnati Aug. 14<hi rend="sup">th</hi> 1878.<lb/></p>
+            <p>Rev S. Morais<lb/>
+                My dear sir.<lb/></p>
+            <p>Your last favour was<lb/> duly recd. was pleased to learn all were<lb/> well with you.  With us only tolerable<lb/> dear Esther does not enjoy good health<lb/> by no means.  I have considerable head<lb/> ache to day.  Mrs E. is at Richmond&#44;<lb/> enjoying herself with our family there&#44;<lb/> I note your remarks about our<lb/> Union and College affairs with much in&#45;<lb/>terest&#44; and regret very much that Philadel&#45;<lb/>phia could not manage to have the Eastern<lb/> Preparatory School there.  You know that<lb/> it has been my ardent desire from the<lb/> commencement to have it there&#58; but&#44;<lb/> at Milwaukee&#44; when Dr Gottheil stated<lb/> that he had a child (meaning his school&#41;<lb/> that he would put under the protection<lb/> of the union&#44; and denied a committee of<lb/> examiners to be appointed &#38;c &#38;c&#44; we had to<lb/> adopt his child&#44; but that is all right.<lb/>  I know very well that there is no fear<lb/> of them ever establishing another college<lb/></p>
+                
+                <pb n="2"/>
+            <p>East.  They will have the preparatory&#44; no doubt<lb/> in many cities&#44; for you will find that after<lb/> a boy spends about four years in a<lb/> preparatory school&#44; and learns as much as<lb/> is taught there&#44; that unless he wishes to study<lb/> for the ministry&#44; or to be a professional man&#44;<lb/> that he will not desire to go into the college<lb/> proper&#58; Another thing&#44; when we shall have<lb/> built a college&#44; and established a faculty<lb/> that will be the best that can be had for<lb/> money&#44; we will not fear for another college&#44;<lb/> in New York or any where else&#58; New York<lb/> and every other city has as much and more<lb/> than they can well attend to&#44; in their cong&#45;<lb/>regational matters&#44; I <del>underst</del> understand<lb/> that notwithstanding the immense wealth<lb/> and income reputed to Temple Emmanuel&#44; it<lb/> has just as much as they can do to make<lb/> both ends meet&#44; that many of their mem&#45;<lb/>bers who contributed largely have had to<lb/> <sic>succomb</sic> to the pressure of the times&#44; which<lb/> has produced a great stringency in that as<lb/> well as other congregations there.  Whilst<lb/> the congregation of Temple Emanuel is very<lb/> large&#44; still but very few are really active<lb/> members and take any great interest&#44; except<lb/> paying their dues &#38;c &#38;c.  You know how it is.<lb/></p>
+                
+                <pb n="3"/>
+            <p>Therefore I have no fear whatever from<lb/> that quarter even at a remote period.<lb/>  Why I see an opposition already to the<lb/> Temple Emanuel&#39;s preparatory School&#44; by the<lb/> Two orthodox congregations&#44; how foolish<lb/> it is not.  I presume they teach as we<lb/> do here.  Nothing but orthodoxy&#44; what else<lb/> can be taught&#63;<lb/></p>
+            <p>I <sic>recieved</sic> a letter from Mr Binswan<lb/>ger about a week ago concerning a<lb/> boy from the <del>the</del> Foster Home&#44; in which he<lb/> states that the boy is in the High School<lb/> Studies&#44; and in the Hebrew that you had ex&#45;<lb/>amined him &#38;c &#38;c.  I hope that he is duly<lb/> qualified for to enter the D. Grade in both<lb/> the college and High School&#44; so that there<lb/> will be no difficulty&#44; an average of 70&#37;<lb/> in the studies of D. Grade High School will<lb/> admit him there&#44; which will not be difficult<lb/> if he knows any thing of History&#44; Eng. Grammar<lb/> and Arithmetic&#44; you may depend I will use<lb/> my efforts to make his stay here pleasant&#59;<lb/> all the boys of the college will be placed at<lb/> one House to be cared for&#44; Mr &#38; Mrs Aufrecht&#91;&#63;&#93;<lb/> who had been in charge of the Orphans Asy&#45;<lb/>lum at Cleveland for Eight or Nine years&#44; will<lb/> take charge of them&#44; and see to their moral and<lb/></p>
+                
+                <pb n="4"/>
+            <p>religious culture&#44; if he is a good boy and at&#45;<lb/>tentive to his studies&#44; we will make a good<lb/> man of him if he lives&#44; in regard to at&#45;<lb/>tending worship&#44; I am sure from what you<lb/> have seen of Cincinnati orthodoxy you can<lb/> have no special wish for him to attend that<lb/> Synagogue.  Whilst in the Temple he can<lb/> <sic>recieve</sic> good instruction&#44; see order and<lb/> decorum&#44; we had a meeting of the<lb/> Board of Governors Sunday night to organ&#45;<lb/>ize&#44; you will see the proceedings in the<lb/> Israelite.<lb/></p>
+            <p>I hope this may meet you in health<lb/> with all your dear ones&#44; tell dear Nina<lb/> she must not retaliate in <hi rend="underline">one</hi> letter score&#44;<lb/> give our love to one and all of your<lb/> dear ones.  Say to dear Nina&#44; I want<lb/> her to congratulate her <hi rend="underline">dear dear</hi> friend<lb/> on her engagement&#44; to be <sic>consumated</sic> at the<lb/> bridal altar.  You may depend we will all<lb/> be pleased to greet her at the great Queen<lb/> city of the west&#44; could I only anticipate our<lb/> dear Nina in the same category&#44; to <sic>recieve</sic> my<lb/> good wishes on such happy tidings.  Well my<lb/> pages are full&#44; and with what&#63;<lb/></p>
+            <p>With best wishes&#44; ever truly&#44; yours &#38;c<lb/>
+                Jacob Ezekiel<lb/></p>
+            
+            <pb n="5"/>
+            <p>LOUIS ROSIN &#38; CO.&#44;<lb/>
+                Nos. 19 and 21 W. Pearl St.&#44;<lb/>
+                CINCINNATI&#44; O.<lb/></p>
+            <p>Rev S. Morais<lb/>
+                No 546 N. 5<hi rend="sup">th</hi> St<lb/>
+                <hi rend="underline">Philadelphia</hi><lb/>
+                Pa<lb/></p>
+        </body>
+    </text>
+</TEI>

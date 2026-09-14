@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Costa, M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF23_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Costa, M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1864-06" source="" attested="yes">17 June 1864</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff23_5_1r.tif"/>
+                                <graphic url="smbx1ff23_5_1v.tif"/>
+                                <graphic url="smbx1ff23_5_2r.tif"/>
+                                <graphic url="smbx1ff23_5_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>New York June 17<hi rend="sup">th</hi>&#47;64<lb/>
+                Revd. S. Morais<lb/>
+                Dear Sir<lb/></p>
+            <p>At a meeting<lb/> held on Wednesday last<lb/> we formed ourselves into a<lb/> Hebra. or Congregation&#44; exclu&#45;<lb/>sively for the Spanish and<lb/> <sic>Portuguse</sic> Jews&#44; called Abbdat<lb/> Akodesh.  Now&#44; we appeal<lb/> to you&#44; being the only Portuguese<lb/> Hazan&#44; that we are acquainted<lb/> with&#44; that could do us a kind act.<lb/>  We are about purchasing a Spher<lb/> Torah&#44; and we wish to make a<lb/> Henuch&#44; we ask of you a favour&#44;<lb/> to give us some form or guide<lb/> in Hebrew writing&#44; for a choir<lb/> to sing on that day&#44; and for<lb/> parts the reader has to say&#44;<lb/> and by so doing&#44; you will confer<lb/></p>
+                
+                <pb n="2"/>
+            <p>a great favor upon us&#44; you<lb/> will no doubt ask the reason why<lb/> we did not go to Hazan Lyons.<lb/>  We know very well&#44; he would<lb/> not do it for us.<lb/></p>
+            <p>The object of forming ourselves<lb/> into a Hebra&#44; is that the Portu&#45;<lb/>&#45;guese Synagogue is situated too<lb/> far up town&#44; and those residing<lb/> down town cannot very well<lb/> attend&#44; and we Say the same of<lb/> the school&#44; we cannot give our<lb/> children hebrew education&#44; because<lb/> its too far&#44; for them to go&#44; unless<lb/> they learn the German Minhag<lb/> now <sic>their</sic> is about 40 families<lb/> joined us in this Hebra&#44; we have<lb/> done nothing opposition to them<lb/> the distance being <sic>to</sic> far&#44; for<lb/> us to go.  We are all respect&#45;<lb/>&#45;able men&#44; and keep our Sabbath<lb/> we ask of you once more<lb/></p>
+                
+                <pb n="3"/>
+            <p>to solicit your favor&#44; and<lb/> to comply with our request.<lb/>
+                Respectfully<lb/>
+                Your&#39;s<lb/>
+                The Gentn. of the Hebra.<lb/>
+                M. Costa.<lb/>
+                Secty. pro. tem.<lb/></p>
+                
+            <p>P. S.<lb/>
+                Please direct for<lb/>
+                M. Costa<lb/>
+                Clothier.<lb/>
+                99 Chatham St.<lb/></p>
+                
+                <pb n="4"/>
+            <p>Dear Sir.<lb/>
+                This letter was <sic>wrote</sic><lb/> by me&#44; named M. Costa&#44; a<lb/> youth.  You remember well&#44;<lb/> in London some years ago&#44;<lb/> I was then in the Orphan<lb/> Society.  I hope Dear Sir&#44;<lb/> you will confer this great<lb/> favor upon me&#44; and that<lb/> we may receive the same<lb/> from you.<lb/></p>
+            <p>M. Costa<lb/></p>
+                <p>An answer soon if you<lb/> please&#44; will Oblige.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

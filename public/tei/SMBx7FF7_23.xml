@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF7_23</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Cohen, Nina</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1895-05" source="" attested="yes">25 May 1895</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff7_23_4r.tif"/>
+                                <graphic url="smbx7ff7_23_4v.tif"/>
+                                <graphic url="smbx7ff7_23_1r.tif"/>
+                                <graphic url="smbx7ff7_23_1v.tif"/>
+                                <graphic url="smbx7ff7_23_2r.tif"/>
+                                <graphic url="smbx7ff7_23_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>S. MORAIS&#44;<lb/>
+                546 N. FIFTH STREET&#44;<lb/>
+                PHILADELPHIA&#44; PA.<lb/></p>
+            <p>May 25&#44; 1896<lb/>
+                Instructions concerning<lb/>
+                Burial&#44; Stone&#44; writings.<lb/></p>
+            <p>Emanuel Cohen Esq<lb/>
+                313 Nicollet Avenue<lb/>
+                Minneapolis<lb/>
+                Minnesota<lb/></p>
+            
+            <pb n="2"/>
+            <p>S. MORAIS&#44;<lb/>
+                546 N. FIFTH STREET.<lb/>
+                PHILADELPHIA&#44; May 25th 1896<lb/>
+                My Dear Nina<lb/></p>
+            <p>The instructions which I sent<lb/> you about the disposition of my body<lb/> after its death&#44; were prepared years ago.<lb/>  I now repeat some&#59; the others having<lb/> lost their importance by reason of changes<lb/> that time brought on.  I think that<lb/> the will now in care of Emanuel&#44; who&#44;<lb/> with you&#44; will act as executor&#44; provides<lb/> for everything else.<lb/></p>
+            <p>I dislike a hurried burial&#44; and the<lb/> exposing of the body.  Unless I die<lb/> of a contagious disease&#44; let my corpse<lb/> remain unburied until signs of putrefaction<lb/> are visible.  Then&#44; dispense with the<lb/> usual washing&#44; as practised by our people&#44;<lb/> but let me be wrapped&#44; with the clothes<lb/> which I happen to have on&#44; in a sheet.<lb/>  Let quick&#45;lime be put in the grave&#44; in<lb/> which I shall lay&#44; without a coffin&#44;<lb/></p>
+            
+            <pb n="3"/>
+            <p>and another layer of quick&#45;lime on the f top<lb/> of me&#44; so that the flesh be speedily con&#45;<lb/>sumed.<lb/></p>
+            <p>I will not have any oration&#44; obituaries&#44; me&#45;<lb/>morial services&#44; nor any kind of praise indulged<lb/> in to do me honor.  If my children<lb/> wish to keep the 7 days of mourning&#44; let<lb/> my sons do so morning and evening in the<lb/> synagogue&#44; and my daughters in their homes.<lb/>  No title whatever must be attached to<lb/> my name.  On the tomb stone &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93; <hi rend="underline">Sabato Morais</hi> and the date<lb/> of death shall suffice.<lb/></p>
+            <p>Regarding my writings&#44; you and Emanuel<lb/> are capable of judging whether there are any<lb/> worth publishing.  Henry may let his feelings<lb/> run against discretion.<lb/></p>
+            <p>What I mostly wish is that my children<lb/> may honor my memory by mutual loving<lb/> kindness and forbearance<lb/> with much love<lb/> S Morais<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes"></author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF8_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes"></author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Paris, France</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-08" source="" attested="yes">14 August 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff8_6_1r.tif"/>
+                                <graphic url="smbx2ff8_6_1v.tif"/>
+                                <graphic url="smbx2ff8_6_2r.tif"/>
+                                <graphic url="smbx2ff8_6_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">French</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>COMIT&#201; CENTRAL						
+                Rue de Tr&#233;vise&#44; 37							
+                No 9285<lb/></p>
+                <p>ALLIANCE ISRA&#201;LITE UNIVERSELLE<lb/>
+                    Paris&#44; le 15 ao&#251;t 1879.<lb/></p>
+                <p>Monsieur&#44;<lb/></p>
+            <p>Vous avons l&#39;honneur de vous infor&#45;<lb/>mer que M. Ch. Netter &#233;tant de retour de la<lb/> Palestine on il &#233;tait accompagn&#233; de notre<lb/> coll&#232;que&#44; M. Erlanger&#44; rous croyons que la com&#45;<lb/>mission internationale de l&#39;oeuvre de la Palestine&#44;<lb/> dont vous faites partie&#44; pourra maintenant<lb/> se r&#233;nnu er s&#39;organiser de facon a commen a<lb/> son oeuvre.  Duns celle r&#233;union elle nommera<lb/> son bi&#91;&#63;&#93;&#44; disignera la ville o&#249; sera son<lb/> si&#233;ge on centre d&#39;action&#44; et prendra ensuite<lb/> toutes les mesuresguille jugera convenable.<lb/>  Nous avons par consignent l&#39;honneur de<lb/> vous prier de vontoir bien nous r&#233;spondre<lb/> sin les deux questions suivantes.<lb/></p>
+            <p>1<hi rend="sup">st</hi> O&#249; devra avoir lieu&#45;cette premi&#232;re r&#233;union&#63;<lb/>
+                2<hi rend="sup">nd</hi> Quelle date proposez&#45;vous pom cette r&#233;union&#63;<lb/>
+                Dans en mois&#44; &#195;  partir de ce jour&#44; le Comit&#233;<lb/></p>
+                
+                <pb n="2"/>
+            <p>Central pourra avoir toutes les r&#233;penses&#44; neme<lb/> celles a&#39;Am&#233;rigne et il demande la permission<lb/> de prendre alors une socle de moyenne entre<lb/> les diverses dates les divers liense qui lui<lb/> seront indiqu&#233;s&#44; a fin de faire imm&#233;diate<lb/> ment la c&#244;nvocation et de procider sans<lb/> retard &#195;  l&#39;org&#195; nisation d&#39;une oeuvre d&#39;une<lb/> si haute importance et d&#39;un si grand int&#232;r&#234;t.<lb/></p>
+                
+            <p>Agr&#233;ez&#44; Monsieur&#44; l&#39;asurance de nos<lb/> &#91;&#63;&#93; sentimento.<lb/>
+                Pour le Comit&#233; Central<lb/>
+                			Le Pr&#233;sident&#44;<lb/>
+                				Ad. &#91;&#63;&#93;<lb/></p>
+            <p>Le Secr&#233;taire&#44;<lb/>
+                &#91;&#63;&#93;<lb/></p>
+        </body>
+    </text>
+</TEI>

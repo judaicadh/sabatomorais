@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Isaac, Abraham</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF8_9</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Isaac, Abraham</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-08" source="" attested="yes">22 August 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff8_8_2r.tif"/>
+                                <graphic url="smbx2ff8_8_2v.tif"/>
+                                <graphic url="smbx2ff8_8_3r.tif"/>
+                                <graphic url="smbx2ff8_8_3v.tif"/>
+                                <graphic url="smbx2ff8_8_1v.tif"/>
+                                <graphic url="smbx2ff8_8_1r.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>313 W 45th St.<lb/>
+                N.Y. Aug 22d 1879.<lb/></p>
+            <p>My dear Mr. Morais&#58;<lb/></p>
+            <p>I enclose you<lb/> Rubenstein&#39;s latest.  He has<lb/> taken the idea of a Cincinnati<lb/> edition of the &#91;Hebrew&#93; in earnest&#44;<lb/> this quibble about &#91;Hebrew&#93; is<lb/> laughable.  I did not publish<lb/> it&#44; so I replied to him by<lb/> note&#44; because it dealt with<lb/> the editor&#44; rather than the<lb/> accuracy of the translation.<lb/></p>
+            <p>I feel very much<lb/> inclined to print parallel<lb/> passages of the 2 translations&#45;&#45;<lb/> the length of yours is 12 columns<lb/> &#38; his 3.  Only I don&#39;t want<lb/> to engage in a lengthy<lb/></p>
+                
+                <pb n="2"/>
+            <p>controversy&#8212;of no interest to<lb/> our readers.  I know Wise<lb/> is behind the whole affair&#58;<lb/> You may recollect<lb/> Raphall&#39;s answer to<lb/> W&#39;s views on the same subject.<lb/></p>
+            <p>I have not seen this<lb/> week&#39;s <hi rend="underline">Record</hi>&#44; possibly<lb/> we have handled him<lb/> there.  He has turned his<lb/> Talmud training to good account.<lb/>  America will be a Garden<lb/> of Eden in five years&#33;&#33;<lb/></p>
+            <p>Yours&#44;<lb/>
+                Abr Isaac<lb/>
+                Rev. S. Morais.<lb/></p>
+                
+                <pb n="3"/>
+            <p>The Resurrection.<lb/></p>
+            <p>&#34;A few weeks ago&#44; there appeared in the<lb/> ISRAELITE an avowed translation of Mai&#45;<lb/>monides&#39; &#34;Treatise on the Resurrection of<lb/> the Dead&#34; from the pen of Mr. Rubenstein&#44;<lb/> student at the Hebrew Union College&#44; who<lb/> received his Talmudic training in Europe.<lb/>  In 1859 Rev. S. Morais contributed to trans&#45;<lb/>lation of the same treatise to the <emph rend="italics">Messenger</emph>.<lb/>  On comparison we find Mr. Rubenstein&#39;s<lb/> &#34;rendering&#44;&#34; so widely different from Rev.<lb/> Mr. Morais&#39; as to give exactly Maimon&#45;<lb/>ides never wrote.  Assuredly some explana&#45;<lb/>tion is needed&#44; or we shall feel tempted to<lb/> class Mr. r. with Mr. Goldammer&#44; whose<lb/> &#34;translation&#34; of Luzzatto&#39;s Chaldaic Gram&#45;<lb/>mar was duly commented upon two years<lb/> ago in our columns.  Possibly Mr. Ruben&#45;<lb/>stein has a Cincinnati edition of the &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93; and this may account for variations be&#45;<lb/>tween Morais&#39; version and his perversion.&#34;<lb/></p>
+            <p>&#45;&#45;<emph rend="italics">Jewish Messenger Aug</emph>. 15<lb/></p>
+            <p>The following card in answer to the above<lb/> editorial will appear in the next edition of<lb/> that journal&#58;<lb/></p>
+            <p>A CARD.<lb/></p>
+            <p>To the editor of the &#34;Jewish Messenger.&#34;<lb/></p>
+            <p>It was with mingled feelings of pleasure<lb/> and pain that I read an article in the last<lb/> number of your <emph rend="italics">Messenger</emph> concerning me<lb/> and my translation of Maimonides&#39; Resur&#45;<lb/>rection.  Pleasure to know that you had de&#45;<lb/>voted time to the reaning of it&#59; pain to think<lb/> that so wise &#91;&#63;&#93; a man should denounce it as<lb/> a perversion before examining the original.<lb/>  Have you any authoritative translation upon<lb/> which you base so valuable &#91;&#63;&#93; a criticism&#63;<lb/>  I would call your attention to &#34;the transla&#45;<lb/>tor&#39;s reply&#44;&#34; and an editorial which ap&#45;<lb/>peared in the ISRAELITE of August 15.  I am<lb/> of the opinion that these articles&#44; although<lb/> originally not intended for you&#44; fit you<lb/> exactly&#44; and by examining the references<lb/> there noted&#44; you may be induced to retract<lb/> your able &#91;&#63;&#93; remarks upon my translation.<lb/></p>
+            <p>Possibly by giving you credit for that criti&#45;<lb/>cism I may be doing you injustice&#44; for the<lb/> <emph rend="italics">Record</emph> of the <emph rend="italics">previous</emph> week contains sub&#45;<lb/>stantially the same.<lb/></p>
+            <p>You refer to a Cincinnati edition of &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;.  I may as well inform you that there is<lb/> not only no Cincinnati edition&#44; but no such<lb/> work in existence.  Would it not be more<lb/> useful and beneficial did you devote the<lb/> time required in classifying me with Rev.<lb/> Goldammer&#44; to a review of your Hebrew as<lb/> well as your criticisms.  For charity&#39;s sake&#44;<lb/> let me instruct you that the correct name of<lb/> the work you wish to refer to is<lb/></p>
+            <p>&#91;Hebrew&#93;<lb/></p>
+            <p>If you can translate the original I will<lb/> with pleasure loan you one of the oldest and<lb/> most authentic copies extant.<lb/></p>
+            <p>ISAAC RUBENSTEIN.<lb/></p>
+            <p>NOTE&#8212;The copy of the epistle in question<lb/> is published with AZEROTH THEMAN&#44; by<lb/> Basang&#44; 1725.<lb/></p>
+        </body>
+    </text>
+</TEI>

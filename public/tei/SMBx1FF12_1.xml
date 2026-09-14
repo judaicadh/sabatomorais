@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hart, Sara J.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF12_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hart, Sara J.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Clara</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>London, England</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1855-03" source="" attested="yes">23 March 1855</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff12_1_1r.tif"/>
+                                <graphic url="smbx1ff12_1_1v.tif"/>
+                                <graphic url="smbx1ff12_1_2r.tif"/>
+                                <graphic url="smbx1ff12_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>London March 23<hi rend="sup">rd</hi> 1855<lb/>
+                Dear Clara&#44;<lb/></p>
+            <p>Words cannot convey to you<lb/> the gratification and pleasure I felt<lb/> in learning from the letters I receiv&#45;<lb/>&#45;ed on my arrival here&#44; of your engage&#45;<lb/>&#45;ment to our reverend and respected<lb/> friend Mr Morais&#44; I will not bring<lb/> myself to the level of mere acquain&#45;<lb/>&#45;tanceship by writing commonplace<lb/> congratulations and compliments&#59;<lb/> our friendship is too old and our<lb/> affection too strong for that&#44; suffice<lb/> it to say that I <hi rend="underline">know</hi> Mr Morais<lb/> has been most fortunate in securing<lb/> your affection&#44; and I <hi rend="underline">believe</hi> as sin&#45;<lb/>&#45;cerely as I hope that you Dear Clara<lb/> have been equally fortunate in your<lb/></p>
+                
+                <pb n="2"/>
+            <p>choice&#44; he has shown most undenia&#45;<lb/>&#45;ble good sense in selecting you&#44; not<lb/> to say anything of his good taste&#44; but<lb/> I have become so matter&#45;of&#45;fact dear<lb/> friend&#44; that I consider the former<lb/> the most complimentary&#59; by this<lb/> time&#44; I have no doubt you are<lb/> married&#44; for the letters announcing<lb/> your engagement are of almost<lb/> ancient dates&#44; I regret very much<lb/> not having been able to witness the<lb/> <sic>consumation</sic> of your happiness&#44;<lb/> but dear Henri and I have con&#45;<lb/>&#45;soled ourselves&#44; endeavoring to<lb/> out&#45;vie each other in good wishes<lb/> to&#45;wards you and Mr Morais.<lb/>  I will find many changes when<lb/> I get home&#44; for one thing I expect<lb/></p>
+                
+                <pb n="3"/>
+            <p>our Sunday afternoon mathematical<lb/> re&#45;unions will be broken up&#44; I<lb/> do not think they can ever be for&#45;<lb/>&#45;gotten&#59; however we must endeavor<lb/> to find some thing equally amusing<lb/> though more dignified&#44; though<lb/> far be it from me to speak slight&#45;<lb/>&#45;ingly of our old scientific amuse&#45;<lb/>&#45;ment.<lb/></p>
+            <p>It is scarcely a Twelve month since<lb/> we left London&#44; and we have<lb/> already returned&#44; having sailed<lb/> around the world and spent six<lb/> months in Australia&#44; I like this<lb/> great city much better than I<lb/> did when I was here before&#44; as it<lb/> contrasts much more favorably with<lb/> Melbourne&#44; than it did with<lb/> Phila.&#44; but after a sea voyage of<lb/></p>
+                
+                <pb n="4"/>
+            <p>nearly ten weeks any spot of earth<lb/> seems beautiful&#44; although I have<lb/> become an excellent sailor and<lb/> feel quite at home on board ship&#59;<lb/> in another few months please God<lb/> we intend to trust ourselves again<lb/> on the mighty ocean&#44; but how <sic>plea&#45;<lb/>sent</sic> that voyage will be when<lb/> I will know every hour is shorten&#45;<lb/>ing the distance between me and my<lb/> dear home&#44; which I love and long<lb/> for as none but a wanderer can&#59; to<lb/> say nothing of the joy I anticipate in<lb/> presenting to my beloved parents ano&#45;<lb/>&#45;ther claimant for their love my<lb/> own sweet babe.<lb/></p>
+            <p>Dear Henri unites with me in love<lb/> to you dear Clara and kindest regards<lb/> to Mr Morais&#44; who I hope will not<lb/> object to the message as Henri is<lb/> an old and married friend.  Please<lb/> present our respects to your Mother<lb/> sister&#44; brothers&#44; cousins&#44; and Aunts.  I<lb/> remain your loving friend<lb/> Sara J. Hart.<lb/></p>
+                
+            <p>I shall expect a long letter from you very soon<lb/> acquainting me with all the interesting details of<lb/> your engagement and marriage<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

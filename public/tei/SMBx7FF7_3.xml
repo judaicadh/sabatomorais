@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Wiener, Leo</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF7_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Wiener, Leo</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Columbia, MO</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1895-03" source="" attested="yes">21 March 1895</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff7_3_3r.tif"/>
+                                <graphic url="smbx7ff7_3_3v.tif"/>
+                                <graphic url="smbx7ff7_3_1r.tif"/>
+                                <graphic url="smbx7ff7_3_1v.tif"/>
+                                <graphic url="smbx7ff7_3_2r.tif"/>
+                                <graphic url="smbx7ff7_3_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Rev. Dr. S. Morais<lb/>
+                546 N. 5th Str.<lb/>
+                Philadelphia&#44;<lb/>
+                Pa.<lb/></p>
+            
+            <pb n="2"/>
+            <p>MISSOURI STATE UNIVERSITY&#44;<lb/>
+                COLUMBIA&#44; MO.<lb/></p>
+            <p>March 21&#44; 95<lb/></p>
+            <p>Dear Sir&#58;<lb/></p>
+            <p>I return to you the &#34;order&#34; with many thanks.  My request for<lb/> Judaeo Spanish books which I made of many persons has been without<lb/> avail and I have been compelled to order a number of them from<lb/> Germany.  If my means permit me I expect to make as <del>a</del> complete<lb/> a collection as can be made of all that has appeared in the<lb/> language for the purpose of writing a catalogue raisonne&#39; &#34;to<lb/> gether with the grammar on which I am writing.<lb/></p>
+            <p>Very truly yours<lb/> Leo Wiener<lb/>
+                Dr. S. Morais<lb/></p>
+            
+            <pb n="3"/>
+            <p>THE FERRARA BIBLE. I.<lb/></p>
+            
+            <p>THE FERRARA BIBLE.&#42;<lb/>
+                I<lb/></p>
+            <p>THE study of Ladino or Judaeo&#45;Spanish must<lb/> begin with the Ferrara Bible&#44; for being printed<lb/> out of Spain and primarily for Jews&#44; it must to<lb/> some extent represent the deviating forms of<lb/> the language in the diaspora.  So far&#44; the Lad&#45;<lb/>ino has been sadly neglected&#44; although its im&#45;<lb/>portance for the investigation of Old Spanish<lb/> was pointed out by B&#246;hmer.  Of the two es&#45;<lb/>says mentioned in Gr&#246;ber&#39;s <emph rend="italics">Grundriss der<lb/> romanischen Philologie</emph> i. 691&#44; only Gr&#252;nwald&#39;s<lb/> <emph rend="italics">Ueber den J&#252;dischspanischen Dialekt als Bei&#45;<lb/>trag zur Aufhellung der Aussprache im Alt&#45;<lb/>spanischen</emph> has been accessible to me&#58; it con&#45;<lb/>tains an ill&#45;digested heap of facts and betrays<lb/> the dilettante.  A much better article is that<lb/> by R. Foulch&#233;&#45;Delbosc&#58; <emph rend="italics">La Transcription<lb/> Hispano&#45;h&#233;bra&#239;que</emph>&#45;&#45;in the <emph rend="italics">Revue Hispanique</emph><lb/> for 1894 &#40;Num&#233;ro I&#44; p. 22&#45;34&#41;; it does what it<lb/> promises&#58; &#34;c&#39;est pour faciliter l&#39;&#233;tude de ce<lb/> rameau du castillan qu&#39;a &#233;t&#233; compos&#233; le pr&#233;&#45;<lb/>sent travail.&#34;<lb/></p>
+            <p>Considering the fact that the Ferrara Bible<lb/> was simultaneously struck off for the use of<lb/> Christians&#44; its importance for the study of six&#45;<lb/>teenth century Spanish becomes at once evi&#45;<lb/>dent.  The bible was again reprinted with Roman characters in 1631&#44; and from time to<lb/> time there have issued from the Judaeo&#45;Span&#45;<lb/>ish Press in Vienna and Constantinople mod&#45;<lb/>ernisations of the same in Hebrew type. The<lb/> prayers of the Spanish Jews are mainly ex&#45;<lb/>tracts from different passages of the Bible&#44;<lb/> and as long as they are printed in Spanish<lb/> they adhere closely to the letter of the first<lb/> source.  The present essay is based entirely<lb/> on one of these prayerbooks&#44; kindly loaned<lb/> me by Rev. Dr. S. Morais of Philadelphia.<lb/>  Its title is&#58; Orden de las Oraciones Cotidianas<lb/> Por estilo seguido y corriente&#44; Con las de<lb/> Hanucah&#44; Purim y Ayuno del Solo.  Como<lb/> tambien las tres Pascuas de Pesah&#44; Sebuoth&#44; y<lb/> Sucoth&#44; y con las Parasioth&#44; y Aftar&#243;t.  Neuv&#45;<lb/>amente corregido&#44; y &#224; su costa Impresso en<lb/> Amsterdam&#44; por David Fernandes &#38; David<lb/> De Elisa Pereyra.  A&#241;o 5488. &#224; la Criacion.<lb/> &#40;A. D. 1727&#41;.<lb/></p>
+            
+            <p>&#42; Deprinted from MOD. LANG. NOTES&#44; vol. x&#44; NO. 2.<lb/></p>
+            
+            <p>The title page of the Bible claims for it that<lb/> it is <emph rend="italics">palabra por palabra traduzida de la ver&#45;<lb/>dad Hebrayca</emph>&#44; and in the following introduc&#45;<lb/>tion its barbarous and strange translation<lb/> &#40;<emph rend="italics">lenguaje barbaro y estra&#241;o&#44; y muy diferente<lb/> de pulido que en neustros timepos se usa</emph>&#41; is<lb/> explained by the desire to follow closely the<lb/> original Hebrew.  Thus the present participle<lb/> is frequently used without the copula for the<lb/> present tense&#58; <emph rend="italics">no por nuestras justedades nos<lb/> echantes nuestra rogativa delante ti</emph>&#59; or the<lb/> copula may be added&#58; <emph rend="italics">seamos conocientes tu<lb/> nombre y aprendientes tu Ley</emph>.  The copula is<lb/> frequently omitted&#58; <emph rend="italics">todo tiempo que la alma<lb/> entre mi&#59; quiera que el&#45;hijo de fermamiento</emph>.<lb/>  The adjective is often placed after the noun&#58;<lb/> <emph rend="italics">el Dio en el mundo esse&#59; porque hiziste &#224; la<lb/> cosa esta&#59; de ojo malo y de tengua la mala</emph>.<lb/>  The possessive pronoun before a participle<lb/> may have an objective meaning&#58; <emph rend="italics">nuestros abor&#45;<lb/>recientes&#59; mis vencientes</emph>.  A plural verb with<lb/> a collective noun as subject and a singular<lb/> predicate when preceding a plural subject are<lb/> due to Hebrew influence&#58; <emph rend="italics">tu compa&#241;a estavan<lb/> en ella&#59; no sea &#224; ti dioses otros delante mi</emph>.<lb/>  Nouns are sometimes put in the plural as in<lb/> Hebrew&#58; <emph rend="italics">alce A. sus fazes &#224; ti</emph>.  These few<lb/> deviations and the occasional misuse of the<lb/> article is all that can be directly ascribed to<lb/> the influence of the Hebrew original.  Yet<lb/> they suffice to turn at times the text into a puz&#45;<lb/>zle&#44; especially when a Talmudical passage is<lb/> translated.<lb/></p>
+            <p>Baist says &#40;Gr&#246;ber&#44; <emph rend="italics">Grundriss</emph> i&#44; 702&#41; that <emph rend="italics">b</emph><lb/> and <emph rend="italics">v</emph> are identical in every position and that<lb/> in the Middle Ages they were used indiscrim&#45;<lb/>inately&#44; while now they are misused &#40;schul&#45;<lb/>m&#228;ssig ungenau&#41;.  But the Ladino distin&#45;<lb/>guishes between the spirant and the explosive<lb/> both in writing and pronouncing&#44; and even<lb/> in the Ferrara Bible we find a consistent sepa&#45;<lb/>ration of the two consonants.  Invariably we<lb/> have <emph rend="italics">b</emph>&#43;cons&#44; but cons. &#43;<emph rend="italics">v</emph> &#40;except <emph rend="italics">mb</emph>&#41;&#58; <emph rend="italics">sobre<lb/> nombre hablar cobdicia dubda brosladura&#59;<lb/> salvo encorvar resvalar envoluntar barvez</emph>&#44; but<lb/> <emph rend="italics">combite</emph>.  Latin intervocalic <emph rend="italics">p</emph> always gives <emph rend="italics">b</emph>&#44;<lb/> otherwise <emph rend="italics">b</emph> within the word changes to <emph rend="italics">v</emph>&#58;<lb/> <emph rend="italics">recebir arriba cabeca</emph> but <emph rend="italics">escrevir governar<lb/> maravilla</emph>&#59; hence we find regularly <emph rend="italics">ava</emph> in the<lb/> imperfect of verbs in <emph rend="italics">ar</emph>.  In <emph rend="italics">v</emph> voc. <emph rend="italics">v</emph> the first<lb/> <emph rend="italics">v</emph> dissimulates to <emph rend="italics">b</emph>&#58; <emph rend="italics">bivo bolver bever</emph> &#40;but<lb/></p>
+            
+            <pb n="4"/>
+            <p>THE FARRARA BIBLE. I.<lb/></p>
+            <p><emph rend="italics">bebraje</emph>&#41;; <emph rend="italics">bivora</emph> for <emph rend="italics">vibora</emph> is to be explained<lb/> through the intermediate form <emph rend="italics">vivora</emph>.  Initial&#45;<lb/>ly original <emph rend="italics">b</emph> is always preserved&#44; and so is<lb/> generally <emph rend="italics">v</emph>&#44; but in a few cases&#59; as&#44; <emph rend="italics">abolar bola&#45;<lb/>tilla&#44; v</emph>  passes to <emph rend="italics">b</emph>.  A <emph rend="italics">g</emph> has been developed be&#45;<lb/>fore initial <emph rend="italics">ue</emph> and <emph rend="italics">hue</emph>&#58; <emph rend="italics">guesso guerfano guer&#45;<lb/>to</emph> and also <emph rend="italics">aguelo</emph>&#59; this <emph rend="italics">g</emph> was probably pro&#45;<lb/>nounced&#44; for it is sounded in Ladino.<lb/></p>
+            <p>Intervocalic&#44; <emph rend="italics">d</emph> remains in the verbal end&#45;<lb/>ings &#45;<emph rend="italics">ades</emph>&#44; &#45;<emph rend="italics">edes</emph>&#44; &#45;<emph rend="italics">ides</emph>&#44; but the forms &#45;<emph rend="italics">ais</emph>&#44; &#45;<emph rend="italics">eis</emph>&#44;<lb/> also occur&#59; it remains after the accent&#44; hence<lb/> the preterit of <emph rend="italics">ver</emph> is <emph rend="italics">vide</emph> by the side of <emph rend="italics">vistes</emph>&#44;<lb/> hence the correct form <emph rend="italics">fiuzia</emph> for <emph rend="italics">fiducia</emph>.  Dl<lb/> changes to <emph rend="italics">ld&#58; cercalda</emph> for <emph rend="italics">cercadla</emph>&#59; <emph rend="italics">tr</emph> be&#45;<lb/>comes <emph rend="italics">dr</emph> in <emph rend="italics">cidron</emph>.<lb/></p>
+            <p>Between <emph rend="italics">g</emph> and <emph rend="italics">a</emph>&#44; <emph rend="italics">u</emph> is always inserted&#58;<lb/> <emph rend="italics">gualardon quatregua</emph>.<lb/></p>
+            <p><emph rend="italics">M</emph> assimilates a preceding <emph rend="italics">n</emph>&#58; <emph rend="italics">emmalecer<lb/> commigo</emph> and has slipped into <emph rend="italics">trompieco</emph>.  <emph rend="italics">N</emph><lb/> changes to <emph rend="italics">&#241;</emph> before i in <emph rend="italics">a&#241;idar</emph>&#44; and similarly<lb/> in <emph rend="italics">li&#241;a</emph> for <emph rend="italics">linea</emph>.  <emph rend="italics">Bufano</emph> stands for <emph rend="italics">bufalo&#59;<lb/> tembrar</emph> frequently occurs for <emph rend="italics">temblar</emph>.<lb/></p>
+            <p><emph rend="italics">S</emph> is written <emph rend="italics">ss</emph> for etymological reasons in<lb/> <emph rend="italics">passo fuesse criasse appressurar&#44; fuessa po&#45;<lb/>cession</emph>&#44; etc.; similarly in <emph rend="italics">assi assituar assos&#45;<lb/>seguado</emph>.  Intervocalic s may have been a<lb/> sonant&#44; since <emph rend="italics">visitar</emph> stands by the side of<lb/> <emph rend="italics">vezitar&#44; lazo</emph> for <emph rend="italics">laso</emph>&#59; so too before <emph rend="italics">n</emph> as we<lb/> find <emph rend="italics">alezna</emph> for <emph rend="italics">lesna</emph>.<lb/></p>
+            <p><emph rend="italics">F</emph> is probably under literary influence in<lb/> <emph rend="italics">flama</emph>&#44; and <emph rend="italics">ff</emph> is etymological in <emph rend="italics">afflarse&#44; afflito.<lb/>  H</emph> frequently takes the place of <emph rend="italics">f&#58; conhorte<lb/> hulano horo &#40;fuero&#41;</emph>&#44; but it was certainly not<lb/> sounded&#44; as can be seen from <emph rend="italics">elada enchir<lb/> ombro</emph> and <emph rend="italics">hechar.  Alharroba&#61;algarroba</emph>.<lb/></p>
+            <p><emph rend="italics">X</emph> occurs only where its etymology demands<lb/> it and doubtless was sounded <emph rend="italics">&#349;</emph> in popular and<lb/> <emph rend="italics">cs</emph> in learned words as it still is in Ladino&#58;<lb/> <emph rend="italics">dixo alexar dexar execucion.  G</emph> before <emph rend="italics">e</emph><lb/> and <emph rend="italics">i</emph> and <emph rend="italics">j</emph> coincide in sound and are used at<lb/> times indiscriminately&#58; <emph rend="italics">linage bebraje</emph>&#44; but<lb/> always <emph rend="italics">gentio muger</emph>.  In <emph rend="italics">agora&#44; g</emph> stands for<lb/> <emph rend="italics">h</emph>.<lb/></p>
+            <p><emph rend="italics">C</emph> before <emph rend="italics">e</emph> and <emph rend="italics">i</emph>&#59; <emph rend="italics">&#231;</emph> before <emph rend="italics">a o u</emph> has only an<lb/> etymological signification and coincides in<lb/> sound with <emph rend="italics">s</emph>&#44; as is to be seen from <emph rend="italics">aciento</emph> for<lb/> <emph rend="italics">assiento&#44; pocession&#44;</emph> etc.  <emph rend="italics">S</emph> before <emph rend="italics">m</emph> and <emph rend="italics">n</emph><lb/> and Latin <emph rend="italics">ci ce</emph> become <emph rend="italics">z&#58; hazer vezino dezir<lb/> paz diezmo alezna&#59; juyzio</emph> is probably to be<lb/> explained from <emph rend="italics">juez</emph>&#44; since generally <emph rend="italics">cy dy</emph><lb/> becomes voiceless <emph rend="italics">&#231;&#58; verguen&#231;a al&#231;ar tercero<lb/> bra&#231;o.  Sc</emph> remains or becomes <emph rend="italics">c&#58; conoscer<lb/> aparecer</emph>.  Initial <emph rend="italics">ci</emph> remains.  Wherever <emph rend="italics">&#231;</emph><lb/> appears for <emph rend="italics">z</emph>&#44; a learned form may be sus&#45;<lb/>pected&#59; some irregularities occur here&#44; but to<lb/> judge from Ladino they are only graphical.  In<lb/> <emph rend="italics">cc</emph> the first <emph rend="italics">c</emph> generally disappears&#58; <emph rend="italics">licion &#40;lec&#45;<lb/>cion&#41; aflicion aperficionar</emph>.  The <emph rend="italics">c</emph> has also<lb/> disappeared in <emph rend="italics">perfeto afflito</emph>.<lb/></p>
+            <p>Pretonic <emph rend="italics">e</emph> varies with <emph rend="italics">i&#58; heziste hiziste&#44; vesitar<lb/> visitar&#44; escrevir&#44; bendizir&#233; bendezir&#233;</emph> and <emph rend="italics">i</emph> with<lb/> <emph rend="italics">a</emph> in <emph rend="italics">alabimiento</emph>&#59; pretonic <emph rend="italics">o</emph> may become <emph rend="italics">u&#58; pus&#45;<lb/>sible</emph>.  Post&#45;tonic <emph rend="italics">e</emph> becomes <emph rend="italics">o</emph> in <emph rend="italics">bispora&#59;</emph> post&#45;<lb/>tonic <emph rend="italics">i</emph> disappears in <emph rend="italics">estan&#231;a.  Esquadri&#241;ar</emph><lb/> for <emph rend="italics">escudri&#241;ar</emph> is probably due to analogy.<lb/></p>
+            <p><emph rend="italics">Dio espirito</emph> stand regularly for <emph rend="italics">dios espir&#45;<lb/>itu&#44;</emph> but the plural of the first is <emph rend="italics">dioses</emph>.  Change<lb/> of declension takes place in animalia apetite<lb/> culebro generancio oida.  Abstract nouns are<lb/> freely formed in <emph rend="italics">&#45;acion&#44; &#45;miento&#44; &#45;an&#231;a&#44; &#45;ura&#58;<lb/> adere&#231;amiento alabacion perdonan&#231;a amaril&#45;<lb/>lura secura</emph>.  Their frequent use is due to the<lb/> many verbal cognate nouns in Hebrew.<lb/>  Strange is the use of the feminine past parti&#45;<lb/>ciple as a noun in <emph rend="italics">occulta hecha</emph>.  Before<lb/> feminine nouns with accented <emph rend="italics">a</emph> we find both<lb/> <emph rend="italics">el</emph> and <emph rend="italics">la</emph>.  The preposition <emph rend="italics">&#225;</emph> is used in the<lb/> direct object even before inanimate objects.<lb/></p>
+            <p><emph rend="italics">Nos vos</emph> are generally used instead of <emph rend="italics">noso&#45;<lb/>tros vosotros</emph>.  The pronoun <emph rend="italics">&#233;l</emph> with <emph rend="italics">de</emph> gives<lb/> <emph rend="italics">ael</emph>.  The personal pronoun is inserted be&#45;<lb/>tween the infinitive and the future ending&#58;<lb/> <emph rend="italics">aarlos&#225;</emph>.<lb/></p>
+            <p>The present participle ends in <emph rend="italics">&#45;&#225;n &#45;ien&#44;</emph> in<lb/> the plural in <emph rend="italics">&#45;antes &#45;ientes&#59;</emph> besides&#44; the ger&#45;<lb/>und in <emph rend="italics">&#45;ando &#45;iendo</emph> occurs.  The third person<lb/> plural perfect of <emph rend="italics">dezir</emph> is <emph rend="italics">dixieron</emph>.  In the<lb/> second person plural of the future subjunctive<lb/> <emph rend="italics">e</emph> in <emph rend="italics">&#45;edes</emph> disappears&#58; <emph rend="italics">guardardes oyerdes</emph>.<lb/>  The imperfect of <emph rend="italics">hazer</emph> is <emph rend="italics">haz</emph> and <emph rend="italics">haze</emph>&#44; of<lb/> <emph rend="italics">poner&#45;pon</emph> and <emph rend="italics">pone</emph>.  The following verbs in<lb/> <emph rend="italics">guar</emph> &#40;&#61;Lat. <emph rend="italics">ficare</emph>&#41; occur&#58; <emph rend="italics">aboniguar abivi&#45;<lb/>guar fermosiguar fruchiguar</emph> &#40;learned <emph rend="italics">fructi&#45;<lb/>ficar</emph>&#41; <emph rend="italics">muchiguar testiguar</emph>.  A large number<lb/> of words&#44; generally active verbs&#44; are formed<lb/> with a prosthetic <emph rend="italics">a&#58; alevantar apresentar<lb/> arrepudiar arrodear asufrencia</emph>&#44; etc.<lb/>  L. WIENER.<lb/>  <emph rend="italics">Missouri State University</emph>.<lb/></p>
+            </body>
+    </text>
+</TEI>

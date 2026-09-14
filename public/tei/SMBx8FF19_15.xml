@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Schwartz, Arthur</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx8FF19_15</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Schwartz, Arthur</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Trenton, NJ</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx8ff19_15_1r.tif"/>
+                                <graphic url="smbx8ff19_15_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Office of<lb/></p>
+            <p>ARTHUR SCHWARTZ&#44;<lb/>
+                SUCCESSOR TO J. B. DANIEL&#44;<lb/>
+                DRUGGSIT AND APOTHECARY<lb/>
+                &#45;&#45;AND DEALER IN&#45;&#45;<lb/>
+                PAINTS&#44; OILS&#44; GLASS&#44; PUTTY&#44; FLAVORING EXTRACTS AND ESSENCES&#44;<lb/>
+                DRUGGISTS&#39; FANCY GOODS&#44; ETC.<lb/>
+                ALSO&#44; MANUFACTURERS OF<lb/>
+                AMERICAN SPECIFIC&#44; ELYSIAN LUNG ELIXER AND BROMO COMPOUND.<lb/>
+                S. E. Corner Centre and Bridge Streets&#44;<lb/></p>
+            <p>Trenton&#44; N. J.&#95;&#95;&#95;&#95;&#95;&#95;188<lb/></p>
+            <p>Rev&#58; S Morais<lb/></p>
+            <p>My Dear Sir.<lb/></p>
+            <p>I take the privilege by addressing<lb/> to you a few lines&#44; which I hope<lb/> will be available to your kind<lb/> consideration.  Looking <sic>ove</sic> The<lb/> &#34;Philad<hi rend="sup">a</hi> Times&#34; of this mornings issue<lb/> I was once more surprised with the tidings of our<lb/> race from <sic>Roumenia</sic>&#44; it is simply a<lb/> calamity which needs no repetition&#44; as<lb/> we have known the <sic>evel</sic> in years gone<lb/> by.  The <sic>evel</sic> is an existing monster<lb/> which cannot be evaded by our govern&#45;<lb/>ment&#44; or monarchical interferences&#44; it<lb/> has been lived and most signally failed&#44;<lb/> and now it is more than a cloud in the<lb/></p>
+            
+            <pb n="2"/>
+            <p>eyes of our race&#44; or at least in the<lb/> eyes of those who have a drop of the<lb/> Israelite blood&#44; or the least&#45;claim of brotherhood&#44;<lb/> it remains for us to share our sympathy&#44;<lb/> to encourage and concentrate our<lb/> people to direct a momentous<lb/> attention in their behalf before<lb/> it is too late&#44; the emigration is not at<lb/> all impossible&#44; and we should re&#45;<lb/>ceive the sufferers with more than<lb/> ordinary attention.  The far west is a vast<lb/> &#38; beautiful country&#44; &#38; I believe our<lb/> <sic>Amerikan</sic> people will receive them with <del>as<lb/> much&#44;</del> equal protection.  I am very much<lb/> interested &#38; have been during the Russo&#45;Turkish<lb/> complication in their behalf.  I openly<lb/> boast that our people in the City of Trenton<lb/> will be amongst the first who will <sic>annswer</sic><lb/> to their cause.  Let not thy exertion rest&#44;<lb/> but let thy future be crowned with charity.<lb/></p>
+            <p>I remain Yours fraternally<lb/> A. Schwartz<lb/></p>
+            </body>
+    </text>
+</TEI>

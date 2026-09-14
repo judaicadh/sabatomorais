@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Jacobs, Henry S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF16_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Jacobs, Henry S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Charleston, SC</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1859-04" source="" attested="yes">11 April 1859</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff16_4_1r.tif"/>
+                                <graphic url="smbx1ff16_4_1v.tif"/>
+                                <graphic url="smbx1ff16_4_2r.tif"/>
+                                <graphic url="smbx1ff16_4_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>Charleston S. C. 11<hi rend="sup">th</hi> April 5619.<lb/>
+                Revd S. Morais<lb/>
+                Philadelphia<lb/>
+                My dear sir&#44;<lb/></p>
+            <p>I know that it needs no apology for<lb/> trespassing on your time in seeking information on certain points<lb/> connected with the &#34;Foster Home&#34; of your city&#44; for your aid has<lb/> always been accorded in everything that could subserve the sacred<lb/> cause of Charity.  We purpose establishing here&#44; a Hebrew Orphan<lb/> Asylum&#44; or more correctly&#44; applying the means and resources of<lb/> our old Heb Orphan Society more in consonance with the<lb/> demands of the times.  Under the old regime&#44; an income of<lb/> some &#36;2000 pr annum&#44; irrespective of spacious premises owned<lb/> by the society&#8212;has done no more good &#40;&#63;&#41; than giving a kind<lb/> of irregular Hebrew instruction to a few children sent occasionedly<sic></sic>&#44;<lb/> giving an annual Dinner&#44; paying a keeper of the Hall &#38;c&#44; and<lb/> bestowing a bounty of &#36;30 a year on some 12 or 15 children nominally<lb/> for clothing&#44; the parents of a majority of whom were&#44; and are&#44; in<lb/> pretty fair circumstances.  The constitution has recently been remodeled&#44;<lb/> and a limited number of Hebrew Orphans will be taken from the<lb/> streets&#44; and rescued&#44; under God&#39;s favor&#44; from vice&#44; contamination&#44;<lb/> and ruin.  They will be entirely domiciled under our auspices&#44; and be<lb/> there supported &#38; instructed.  In many respects&#44; our renovated<lb/> Institution will approximate to the &#34;Foster Home.&#34;  You would<lb/> do us a service&#44; by supplying us with information connected with<lb/> the working of your society&#44; the number of recipients&#44; male &#38; female&#44;<lb/></p>
+                
+                <pb n="2"/>
+            <p>a detail of the cost under different heats of its internal economy&#44;<lb/> the nature of the benefits conferred&#44; and such other points as<lb/> you may deem useful.  Please mail me likewise a copy of the<lb/> Constitution.  Our greatest difficulty appears to be the<lb/> obtainment of a competent and reliable Matron&#44; and as our<lb/> climate offers obstacles to persons coming from the North&#44; we can<lb/> hardly expect to receive applications from that quarter.  However<lb/> &#91;Hebrew&#93; must be our watchword.  Thus strengthened&#44; we must<lb/> press forward hopefully&#44; in the face of the many obstacles which<lb/> beset the path to success.<lb/></p>
+            <p>Congregational affairs here&#44; you will be<lb/> pleased to learn&#44; p&#91;&#63;&#93; tranquilly and prosperously.  We have<lb/> had several new members added to our roll during the last<lb/> 18 months&#44; over 25&#44; some from the &#91;Hebrew&#93; congr included.<lb/>  It will always afford me much pleasure to hear of your<lb/> well&#45;being&#44; which I trust will continue uninterruptedly.<lb/></p>
+            <p>Please present my best respects to Mrs. Morais<lb/> and believe me<lb/>
+                Yours faithfully<lb/>
+                Henry S. Jacobs<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

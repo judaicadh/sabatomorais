@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Schneeberger, H. W.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF13_21</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Schneeberger, H. W.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1886-02" source="" attested="yes">9 February 1886</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff13_22_1r.tif"/>
+                                <graphic url="smbx3ff13_22_1v.tif"/>
+                                <graphic url="smbx3ff13_22_2r.tif"/>
+                                <graphic url="smbx3ff13_22_2v.tif"/>
+                                <graphic url="smbx3ff13_22_3r.tif"/>
+                                <graphic url="smbx3ff13_22_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Balto Feb 9th<lb/></p>
+            <p>Rev S Morais&#44;<lb/>
+                My dear friend&#44;<lb/></p>
+            <p>Your letter of yesterday I received to&#45;day<lb/> and after consulting the authorities of my<lb/> congregation&#44; I hasten to reply.<lb/></p>
+            <p>We shall most cheerfully accept your<lb/>services to address us next Sunday on<lb/> the Seminary question. I shall invite<lb/> the orthodox congregations in particular<lb/> and through the medium of the press the<lb/> public in general&#44; so that your efforts<lb/> will be rewarded at least by a large<lb/> and appreciative audience.<lb/></p>
+            <p>In consulting a time table in my possess&#45;<lb/>ion&#44; I find of the trains that leave Sunday<lb/> but one that would suit you&#44; since you <lb/> are desirous of reaching home that<lb/> day&#44; however much I would like to have<lb/></p>
+                
+                <pb n="2"/>
+            <p>you remain a long time. If my guide be<lb/> correct&#44; and I would advise you to consult<lb/> the schedule in Phila to find out if it tallies&#44;<lb/> the only suitable train I see is the train<lb/> leaving Phila at 9.10 A.M. this would bring<lb/> you to Balto at 12&#44;25 &#38; you can arrange the<lb/> lecture for 3 P.M. &#38; if you choose to leave<lb/> on that day you can get the 5.25 train that<lb/> will bring you home at 8.12 P.M. &#40;Another<lb/> Sunday train leaves Phila at&#41;&#45;&#45;In fact&#44; this is the<lb/> only train on Sunday&#44; besides the 7.20 A.M. train.<lb/> You will then be kind enough and inform me<lb/> in time to notify the public that you will be<lb/> here at 12&#44; 25&#44; and you can expect me at<lb/> the depot and to take care of you during your<lb/> stay with us.<lb/></p> 
+            <p>Awaiting your early reply&#44; I leave the<lb/> discussion&#44; on other matters til we meet &#91;&#63;&#93;<lb/> I remain with kindest regards<lb/></p>
+            <p>fraternally yours<lb/>
+                HW Schneeberger<lb/>
+                Thus far I did &#91;y&#93; <hi rend="underline">not</hi> yet<lb/> receive the paper you mentioned.<lb/></p>
+                
+                <pb n="3"/>
+            <p>Rev S. Morais<lb/>
+                No 546 North 5<hi rend="sup">th</hi> St<lb/>
+                Philadelphia<lb/></p>
+            
+            <p>Return to 202 E. Balto St Balto if not<lb/> deliv in 3 days<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx12FF2_9a</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx12ff2_9_1r.tif"/>
+                                <graphic url="smbx12ff2_9_1v.tif"/>
+                                <graphic url="smbx12ff2_9_2r.tif"/>
+                                <graphic url="smbx12ff2_9_2v.tif"/>
+                                <graphic url="smbx12ff2_9_3r.tif"/>
+                                <graphic url="smbx12ff2_9_3v.tif"/>
+                                <graphic url="smbx12ff2_9_4r.tif"/>
+                                <graphic url="smbx12ff2_9_4v.tif"/>
+                                <graphic url="smbx12ff2_9_5r.tif"/>
+                                <graphic url="smbx12ff2_9_5v.tif"/>
+                                <graphic url="smbx12ff2_9_6r.tif"/>
+                                <graphic url="smbx12ff2_9_6v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>8 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>3</p>
+            
+            <p>An explanatory lecture<lb/></p>
+            
+            <pb n="2"/>
+            <p>My Brethren&#33;  With the portion of the law designated for this Sabbath&#44;<lb/> begins the fourth division of the Pentateuch.  I presume&#44; it is familiarly<lb/> known to all of you&#44; that the names by which the five books of<lb/> Moses are distinguished in the vernacular&#44; originated with the Greek<lb/> translators of the Bible&#44; and that they are not headed in the Hebrew&#44;<lb/> by an equally corresponding term.  For&#44; with the exception of the fifth<lb/> volume&#44; which is sometimes called &#91;Hebrew&#93; &#34;the repetition of the law&#44;<lb/> that is&#44; Deuteronomy&#44; the others draw their appellation from a<lb/> word which occurs in the opening sentence of each book&#44; but which<lb/> has no reference whatever to its contents.  Thus&#44; the present division<lb/> is styled &#91;Hebrew&#93; &#34;In the wilderness&#34; not because the circumstances<lb/> narrated therein happened in deserts&#44; but simply to distinguish it from<lb/> the others by means of a phrase which is met in the first verse thereof.<lb/>  However&#44; this book&#44; like the precedent&#44; affords us&#44; at the very<lb/> commencement&#44; an important information&#44; namely&#59; how the will<lb/> of God was revealed unto Moses.  We have been taught that before<lb/> the Tabernacle had been erected&#44; the inspired son of Amram communed<lb/> with the Omnipotent upon the mountain consecrated by his Divinity&#59;<lb/> but when a superb structure was reared in the midst of Israel&#39;s camp&#44;<lb/> and by universal assent was dedicated to the heavenly Deliverer&#44;<lb/> then&#44; the same edifice became the medium&#44; whereby the faithful<lb/> servant of the Lord obtained inspiration.  He presented himself<lb/> within the veil that separated the ark&#45;&#45;in which the Decalogue<lb/> was deposited&#45;&#45;from the rest of the building&#44; and as he approached<lb/></p>
+            
+            <pb n="3"/>
+            <p>the centre of the mercy&#45;seat between the Cherubim&#44; the divine<lb/> afflatus descended on him.  This instruction&#44; my friends&#33; is<lb/> conveyed by the expression &#91;Hebrew&#93; &#34;And the Lord<lb/> spoke unto Moses in the wilderness of Sinai&#44; in the Tabernacle of<lb/> the Congregation.&#34;  It tells us that in accordance with the promise<lb/> made ere the Sanctuary had been constructed&#45;&#45;as we read in Exodus&#44;<lb/> &#91;Hebrew&#93; &#34;And I will meet thee there&#34;&#45;&#45;God vouchsafed to<lb/> manifest his will to Moses in the place where his glory was<lb/> <sic>worshipped</sic>.  It must however be acknowledged that the<lb/> English rendering of the words &#91;Hebrew&#93;&#44; does not clearly define the<lb/> sense attached to them.  It is too general&#44; to be applied solely<lb/> to the holy of holies&#44; so that rather than &#34;tabernacle of the congre&#45;<lb/>&#45;gation&#34; the &#34;Shrine of divine commission&#34; would be a more expressive&#44;<lb/> though not so literal a translation.  For&#44; it was exclusively at<lb/> that sacred spot&#44; say our Rabbins&#44; that revelation was obtained&#44;<lb/> &#91;Hebrew&#93; &#34;There the voice ceased&#44; and it was not<lb/> heard beyond its precincts&#34;.<lb/></p>
+            <p>Our section then continues to relate that when a year had fully been<lb/> spent at Sinai in preparing the Sanctuary with all its appurtenances&#44;<lb/> and in attending to the heavenly tuition continued in the foregoing<lb/> volumes&#44; a census was taken of the twelve tribes&#44; from among the<lb/> males able to carry arms&#44; in order that their leader might become<lb/> acquainted with the material strength under his charge.  For&#44; hu&#45;<lb/>&#45;manly speaking&#44; it was the design and wish of Providence<lb/></p>
+            
+            <pb n="4"/>
+            <p>that Israel should march onward without further delay to the<lb/> conquest of the land of promise.  But the mutinous<lb/> deportment subsequently exhibited at Paran&#44; elicited the grievous<lb/> judgment that doomed an entire generation to perish in the wild&#45;<lb/>&#45;erness.  However&#44; in the anticipation of a forward movement&#44;<lb/> directions were given as to the manner in which the hosts of the<lb/> Lord should proceed.  Judah as the most numerous and<lb/> powerful led the van.  And under the folds of his standard were<lb/> covered his brothers Issachar and Zebulun&#44; the youngest children of<lb/> his mother Leah.  At his right&#45;hand followed Reuben&#44; as second<lb/> in rank&#44; though first in birth&#45;&#45;for&#44; his trespass had deprived him<lb/> of the right of primogeniture.  His ensign represented also Simeon&#44;<lb/> and because Levy was exempt from military duties&#44; therefore Gad<lb/> the first&#45;born of his mother&#39;s handmaid occupied his position.<lb/>  Protected in front by so formidable an array of warriors&#44; the<lb/> sanctuary was conveyed in the train by the officiating Levites&#44; the<lb/> descendants of Kohath.  Then Ephraim&#44; the younger son of<lb/> Joseph&#44; but whom Jacob had given preeminence over the senior brother&#44;<lb/> set forth westwardly&#44; and both Menasseh and Benjamin inti&#45;<lb/>&#45;mately allied by the ties of consanguinity&#44; were marshalled beneath<lb/> the same flag.  The rear <sic>rereguard</sic>&#44; however&#44; was formed by<lb/> Dan&#44; the first born of Rachel&#39;s handmaid&#44; in conjunction with the<lb/> two brothers&#44; who claimed a similar extraction.<lb/></p>
+            <p>It is thus perceived by the above description&#44; that the twelve tribes<lb/></p>
+            
+            <pb n="5"/>
+            <p>of Israel&#44; while marching in perfect order&#44; under the folds of<lb/> four distinct banners&#44; surrounded the ark of the covenant&#44; and<lb/> guarded it on all sides from inimical assault.  That sacred<lb/> oracle was the heart&#44; as it were&#44; which sent life and vigour through<lb/> the body of the Hebrew nation.  Its capture denoted certain defeat&#44;<lb/> and burning disgrace&#59; wherefore was a mighty panoply cast<lb/> around it.  History records an incident&#44; when it fell into the<lb/> power of the Philistines&#44; and its sorrowful results&#59; and in the<lb/> book we have commenced this Sabbath it is narrated&#44; that the<lb/> inspired leader of our ancestors&#44; would not suffer it to accompany<lb/> the refractory people&#44; who swayed by unmanly fear&#44; refused to<lb/> face the Canaanites&#44; but who threatened with a punishment&#44; imagined<lb/> to avert it by rashly falling on their foes &#91;Hebrew&#93;<lb/> &#34;But neither the ark of the covenant of the Lord&#44; nor Moses<lb/> departed from the camp.&#34;  Now&#44; my Brethren&#33;<lb/> touching the character of the banners that floated in these air<lb/> over the myriads of Israel&#44; we must rely altogether upon<lb/> Rabbinical tradition&#44; for nothing can we gather from Holy<lb/> Writ that will shed light on the subject.  Our sages<lb/> have written&#44; that the natural colours of the twelve precious<lb/> stones borne by the high&#45;priest on the breast&#45;plate were severally<lb/> reproduced on the ensigns round which our fathers rallied&#59;<lb/> so that by such means every individual knew the station assigned<lb/> to him and order was preserved.<lb/></p>
+            
+            <pb n="6"/>
+            <p>But in addition to this statement&#44; they assert that on the<lb/> standard of Judah was emblazoned a lion&#44; because to that<lb/> animal he had been likened in Jacob&#39;s prophetic benediction&#59;<lb/> that on the flag of Reuben stood the figure of a human&#45;being&#44;<lb/> in allusion to the mandrakes found by the father of that tribe&#44; and<lb/> to which the ancients ascribed a procreative influence.<lb/>  That on the banner of Ephraim was represented an ox&#44; because<lb/> Joshua&#44; who sprung from that stock&#44; was in the mind of Moses&#44;<lb/>&#45;&#45;as he expressed himself in his last blessing &#91;Hebrew&#93;&#44; the first&#45;<lb/>born steer&#44; who became a glory to Joseph&#39;s lineage.  And they<lb/> finally say that on the ensign of Dan appeared an eagle&#44;<lb/> for&#44; both the patriarch and the godly chieftain when near their<lb/> demise&#44; attributed to him velocity and strength.<lb/></p>
+            <p>You may perhaps have already observed&#44; my dear Brethren&#33; that<lb/> the emblems just delineated&#44; agree precisely with the figures<lb/> seen by Ezekiel&#44; when the glory of God rested on him<lb/> at the river Chebar&#59; and which constitutes a principal feature<lb/> in his inexplicable vision.  Arguing upon that<lb/> identity&#44; the Talmudists and at later times the Cabbalists&#44; have<lb/> given expression to thoughts&#44; which we deem above our com&#45;<lb/>&#45;prehension.  They have speculated on the character of those<lb/> symbols&#44; and sought in them some methaphysical construction.<lb/>  But we prefer to remain silent&#44; and conform with the health&#45;<lb/>&#45;ful counsel of a moralist of old &#91;Hebrew&#93;<lb/></p>
+            
+            <pb n="7"/>
+            <p>&#91;Hebrew&#93; &#34;Seek not out what is too hard for thee&#44;<lb/> neither search what is concealed&#44; but remain satisfied with<lb/> pondering on that to which the mind can have access.&#34;<lb/>  Nevertheless&#44; my friends&#33; whether we rely implicitly on the<lb/> assertion of the Rabbins in the present instance&#44; or whether we<lb/> refuse it acceptance&#44; this we must believe&#59; that the govern&#45;<lb/>&#45;ment of Israel was supernatural in all its bearings&#44; so that<lb/> even the arraying of their armies&#44; their military regulations&#44;<lb/> their outgoings and their encampments&#44; were directed by the<lb/> Almighty Liberator and Lawgiver &#34;who went before them with a<lb/> pillar of cloud by day to lead them in the way&#44; and by night<lb/> with a pillar of fire to give them light&#34;  It being thus&#44;<lb/> it should not seem incredible that a mysterious <sic>connexion</sic><lb/> might have existed between the hosts of Gods&#39; chosen people&#44;<lb/> and the celestial hosts&#44; and that the relation should be typified<lb/> by the four figures above referred to.  Indeed it is not im&#45;<lb/>&#45;probable that the sages held forth this idea&#44; when they wrote<lb/> &#91;Hebrew&#93; &#34;The kingdom of the earth is like the<lb/> heavenly kingdom.  Be that as it may&#44; let it<lb/> suffice us&#44; my Brethren&#44; if we apply ourselves to the study of<lb/> that which is obvious to the understanding&#44; namely&#44; the moral<lb/> truths enunciated in the Scriptures&#44; and the virtues they<lb/> inculcate&#44; for&#44; then shall we obtain favor in the sight<lb/></p>
+            
+            <pb n="8"/>
+            <p>of God and man.  The attainment of learning is not<lb/> the main duty of religion&#44; but the righteous actuary&#44; which<lb/> will redound to our own and our neighbour&#39;s advantage.<lb/>  &#91;Hebrew&#93;.  May we exemplify<lb/> this maxim in all our walks of life.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

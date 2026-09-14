@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF9_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Blumenthal, Joseph</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1895-01" source="" attested="yes">7 January 1895</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff9_1_1r.tif"/>
+                                <graphic url="smbx7ff9_1_1v.tif"/>
+                                <graphic url="smbx7ff9_1_2r.tif"/>
+                                <graphic url="smbx7ff9_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Philadelphia&#44; January 7&#44; 1896.<lb/></p>
+            <p>Honorable Joseph Blumenthal&#44;<lb/>
+                My dear Sir&#44;<lb/></p>
+            <p>The letter which you handed to me this morning&#44; I have<lb/> read with the deep interest which it commands.  Allow me to speak<lb/> confidentially as I feel.  The youthful correspondent is an enthusiast.<lb/>  No one more than I is conscious of the great difficulties under which<lb/> we labor.  It would be idle to repeat what you know well.  The choice<lb/> of the person&#44; who has become most objectionable was not my choice.<lb/>  What we need&#44; even more than learning&#44; is character&#44; manners&#44; the<lb/>  capacity to inspire love for whatever is loveable in the literature<lb/> of our Bible and post biblical writings.  To try our very best to<lb/> procure that desideratum&#44; a change is absolutely demanded.  I am<lb/> alive to other defects&#44; but the evil to which I have just hinted&#44; must<lb/> positively be remedied.  Now&#44; regarding the propositions submitted to<lb/> your decision.  The first named scholar&#44; highly recommended&#44; I re&#45;<lb/>cognize as one possessed of vast erudition&#44; but I have had occasion<lb/> to express my views touching his qualifications as head and front<lb/> of the work which we have undertaken.  The young man who would re&#45;<lb/>luctantly leave his present position&#44; but who nevertheless &#34;is<lb/> waiting for your orders&#34;&#44; may be <sic>everthing</sic> as described&#44; but sup&#45;<lb/>pose he is not&#44; what would the issue be&#63;  Again&#58; &#34;An essay on innate<lb/> ideas in Descartes&#44;&#34; may have been declared by competent authorities<lb/> excellent&#44; but after all&#44; it is not philosophy which we particularly<lb/> aim to impart.  The Spirit of Holy Writ&#44; the traditions based upon a<lb/> sound understanding of Holy Writ is what we must teach dispassionately<lb/> logically&#44; truthfully.  I have not the means to ascertain how far we<lb/> might be justified to place a youth&#44; entirely unknown to us&#44; in a<lb/> position of great responsibilities.  I might inquire of Dr. Hildesheimer<lb/> but he belongs to the School that our friend&#44; would not deem acceptable.<lb/>  I am not inclined to venture and for the sake of gaining a name abroad<lb/> destroy the little good&#44; which I hope and trust will still spring from<lb/> our midst.  It has been our misfortune not to be able to engage the<lb/> services of a superintendent fit for the situation.  This must be<lb/> filled by a person who combines with the knowledge of household af&#45;<lb/>fairs&#44; a kindly disposition and a degree of ability to teach&#44; in<lb/> case of necessity.<lb/></p>
+            <p>Being in N.Y. today&#44; I noticed for instance&#44; that the provision to<lb/> keep the building as the state of the weather required&#44; was not made.<lb/>  Another deficit that I discovered&#44; is the want of attendance on the<lb/> part of the Preparatory Class to the Saturday evening Session&#44; de&#45;<lb/>voted to Biblical history.  In fact&#44; while I am not disposed to agree<lb/> with the painful impression&#44; entertained by some&#44; namely&#44; that we<lb/> have altogether bad materials&#44; I am free to acknowledge&#44; like one of<lb/> our directors&#44; that with a single exception&#44; the Preparatory must be<lb/> altogether abolished.  Often we have realized the imperative need<lb/> of a supervision on the part of the Trustees&#44; who are within reach of<lb/> the institution.  Pupils and their instructors must feel that they are<lb/> watched.  But aside from that thought&#44; which is not indeed to the<lb/> credit of either&#44; the idea that the directors have the interest of<lb/> the institution at heart&#44; must act as an incentive for good.  A number<lb/> of the students&#44; who undergo at this season examination in secular<lb/> b<lb/></p>
+            
+            <pb n="2"/>
+            <p>branches&#44; begged that they may be permitted to absent themselves from<lb/> the Sessions at the Seminary&#44; during two weeks&#44; from next Monday.<lb/>  They asserted with positive assurance&#44; that unless the absence is<lb/> granted&#44; their failure in secular branches will follow.  I must un&#45;<lb/>willingly grant the request.<lb/>  Yours very truly&#44;<lb/> S. Morais.<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Blumenthal, M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF15_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Blumenthal, M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet when="1858-08" source="" attested="yes">8 August 1858</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff15_4_1r.tif"/>
+                                <graphic url="smbx1ff15_4_1v.tif"/>
+                                <graphic url="smbx1ff15_4_2r.tif"/>
+                                <graphic url="smbx1ff15_4_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>Revd. Mr. S. Morais&#44;<lb/>
+                Reverend and dear Sir&#44;<lb/></p>
+            <p>Your<lb/> highly valued note&#44; dated Aug. 5. came duly to<lb/> hand and I should have made myself the<lb/> pleasure of replying sooner&#44; had I not thought it best<lb/> to lay the matter this day &#40;Sunday&#41; before the Directors<lb/> at their usual meeting.  Owing however to some cir&#45;<lb/>cumstances&#45;unnecessary to name&#45;no meeting was<lb/> held&#44; and the opportunity thus denied me of arriving<lb/> at some definite conclusion and informing you<lb/> thereof.<lb/></p>
+            <p>The case as stated by Dr. Bachman in his<lb/> earnest appeal to your benevolence as well as the<lb/> feeling description which you give of his <sic>destitude</sic><lb/> condition and forlorn prospects and hopes are<lb/> certainly sufficient to enlist the sympathies of all<lb/> &#34;men of heart&#34;&#59; and I confess that both as a Colleague<lb/> and an Israelite&#44; as also as a man&#45;a member<lb/> of the great human family&#45;I warmly feel for his<lb/> position.  You would <sic>therefor</sic> confer a favor upon<lb/> me&#44; by informing me&#44; or requesting the Doctor to inform me<lb/> &#91;Hebrew&#93;fidentiellement as to his disease&#44; its nature &#38; history<lb/></p>
+                
+                <pb n="2"/>
+            <p>and distinctly stating whether he wishes<lb/> admission as a patient or simply as an<lb/> Assistant Physician.  Thus shall I be<lb/> enabled to lay the case before the Board in<lb/> its proper light and use the little influence<lb/> I may possess in his favor.<lb/></p>
+            <p>Our next meeting will be the Sunday<lb/> ensuing.<lb/></p>
+            <p>For your flattering opinion of me&#45;I must<lb/> return you my best thanks&#44; and beg to assure<lb/> you that if I have left an impression half as<lb/> favorable as your&#39;s upon me I shall feel that<lb/> I was not in Philada in vain.<lb/></p>
+            <p>It has been my ambition ever in my humble<lb/> station to act so as to merit the approval<lb/> of my God &#38; my conscience and the good<lb/> opinion of good men.  How far I have<lb/> succeeded in adhering to those principles<lb/> of religion and morality&#44; and making them<lb/> my guide I may not say.  It may be<lb/> permitted me however to hope and strive<lb/> that more matured judgement and will<lb/> may enable me in the future to improve<lb/> on the past.<lb/></p>
+                
+                <pb n="3"/>
+            <p>For your kind remembrance of me&#45;as well<lb/> as for the Foster Home Report my most<lb/> sincere acknowledgements.  Be assured dear<lb/> Sir&#44; I shall always feel highly honored<lb/> whenever either upon business or from inclinat&#45;<lb/>ion you may be disposed to address me.<lb/></p>
+                
+            <p>With best wishes for your health &#38;<lb/> happiness &#38; compliments to your interesting<lb/> Family<lb/>
+                I am<lb/>
+                Truly Your&#39;s<lb/>
+                M. Blumenthal M. D.<lb/>
+                127 W. 13<hi rend="sup">th</hi> St<lb/></p>
+                
+            <p>New York. Aug. 8. 5618.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

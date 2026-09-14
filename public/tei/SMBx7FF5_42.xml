@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">American, Sadie</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF5_42</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">American, Sadie</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Allegheny, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1894-04" source="" attested="yes">30 April 1894</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff5_42_1r.tif"/>
+                                <graphic url="smbx7ff5_42_1v.tif"/>
+                                <graphic url="smbx7ff5_42_2r.tif"/>
+                                <graphic url="smbx7ff5_42_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>MRS. H. SOLOMON&#44; PRES.&#44;				MISS SADIE AMERICAN&#44; SEC&#39;Y.<lb/>
+                4060 LAKE AVENUE&#44; CHICAGO.			3103 VERNON AVENUE&#44; CHICAGO.<lb/></p>
+            <p>MRS. P. H. ROSENBERG&#44; Vice President<lb/>
+                For PENNSYLVANIA.<lb/>
+                16 Liberty Street&#44; Allegheny&#44; Pa.<lb/>
+                National Council of Jewish Women<lb/></p>
+            <p><del>Chicago&#44;</del> Allegheny April 30th 1894<lb/></p>
+            <p>Rev. Dr. Morais&#44;<lb/>
+                Dear&#58; Sir&#44;<lb/></p>
+            <p>The Board of Directors of the National Council&#44; knowing this<lb/> movement to be one of great importance destined to be the instru&#45;<lb/>ment of much good&#44; determined to make haste slowly in order that<lb/> each step taken should be a sure step on the road to success.<lb/>  Therefore&#44; it has waited to send out notices urging the formation<lb/> of Sections in your City and State until it could at the same time&#44;<lb/> send a copy of its Constitution&#44; which would make clear the aims<lb/> and ends of the Council and thus save much unnecessary corres&#45;<lb/>pondence and delay.  You will receive with this copies of the<lb/> National Constitution of the Council and of the Constitution for<lb/> Local Sections.  You are most earnestly requested to organize a<lb/> Section in your City forthwith&#44; and to endeavor to have Sections<lb/> formed in as many Cities of your State as possible.  If you are<lb/> not able to attend to the formation of such Sections yourself&#44;<lb/> will you kindly send us the names of ladies prominent in the<lb/> Cities of your State&#44; that we may be enabled to conduct the<lb/> correspondence from here&#44; as we are anxious the movement should<lb/> be as widespread as possible.<lb/></p>
+            <p>In Chicago the first Section has been formed and has met<lb/> with noteworthy success and support.  We recommend that the plan<lb/> pursued there be followed.  Notice of a Meeting for Organization<lb/> was sent to all existing Women&#39;s Societies&#44; was published in<lb/> the City papers and the Jewish journals&#44; and read from the<lb/> various pulpits the Saturday preceding the Meeting&#44; which was<lb/> held in the vestry rooms of one of the Synagogues.  The atten&#45;<lb/>dance was large and a Committee on Organization consisting of<lb/> five members was appointed who reported at a second Meeting when<lb/> Officers were elected.  New members have been gained at each<lb/> Meeting and all classes are represented on the list&#59; a thing which<lb/> is one of the main objects of the Council.  It is not expected that<lb/> much more can be done this season than to organize and gather our<lb/></p>
+            
+            <pb n="2"/>
+            <p>forces in order to be ready for active work in the early Fall.<lb/>  The Committees on Religion and Philanthropy are at work and will<lb/> have plans ready to present at that time.  Meanwhile it is recom&#45;<lb/>mended that a paper on some topic of special interest to Jews be<lb/> read at each Meeting&#44; in order to hold and heighten interest in<lb/> the Section and to stimulate thought&#44; and that the social feature<lb/> of the Meeting be emphasized by free discussion of the paper.  The<lb/> subjects chosen thus far by the Chicago Section &#40;under advice of<lb/> the National Board&#41; are&#58;<lb/></p>
+            <p>1.  Women in Israel&#59; their past performance and present<lb/> duty &#40;this has been delivered.&#41;<lb/></p>
+            <p>2.  The Need and Uses of a Closer Study of the Bible.<lb/></p>
+            <p>3.  Organization and Personal Service in Philanthropic<lb/> work.<lb/></p>
+            <p>4.  College Settlements.<lb/></p>
+            <p>The due has been placed at the small sum of &#36;1.00 annually&#44;<lb/> that nothing may stand in the way of the poorest woman joining<lb/> the Council and enjoying its benefits.  Old people and young&#44;<lb/> rich people and poor&#44; busy people and people of leisure should<lb/> be interested in this movement&#59; which&#44; while it does not pretend<lb/> to do any one thing which has never before been attempted&#44; does<lb/> pretend to use the power and pleasure of Union among Jewish Women<lb/> in a way that it has never before been used.<lb/></p>
+            <p>It is suggested that you request any Jewish journals in your<lb/> City to publish this circular in full&#44; together with a copy of<lb/> the Constitution&#44; in order that every Jewish woman in these United<lb/> States and elsewhere may be reached and be made to feel that she<lb/> is wanted to organize a Section&#44; &#40;however small or large&#41; in<lb/> her town.  We hope for an early response&#44; informing us that you<lb/> are actively and successfully at work.  But a limited number of<lb/> the Constitutions have been printed&#44; but we will be glad to send<lb/> you those you may need to prosecute the work.<lb/>  Cordially yours&#44;<lb/> Sadie American<lb/> Corr Sec&#39;y<lb/> MRS. P. H. ROSENBERG&#44; Vice President<lb/> For PENNSYLVANIA.<lb/> 16 Liberty Street&#44; Allegheny&#44; Pa.<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes"></author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF6_15</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes"></author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Amsterdam, Netherlands</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1878-02" source="" attested="yes">22 February 1878</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff6_16_1r.tif"/>
+                                <graphic url="smbx2ff6_16_1v.tif"/>
+                                <graphic url="smbx2ff6_16_2r.tif"/>
+                                <graphic url="smbx2ff6_16_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Rabinaat<lb/>
+            der<lb/>
+                Nederl. Isra&#235;l. Hoofdsynagoge<lb/>
+            te<lb/>
+            AMSTERDAM.<lb/></p>
+            <p>22 februar 1878<lb/></p>
+            <p>Ehrw&#252;rdiger Herr<lb/></p>
+            <p>Der Inhalt Ihrer gesch&#228;tzten Teilen vom 31 der vorigen Monats haben<lb/> wir wahrhaft freudiger Augenblicke bereitet.  Gottloss&#44; dass der sch&#228;ndliche<lb/> Ehebruck endlich aufh&#246;ren wird.  Schade nur&#44; dass diese Freude durch<lb/> die Mittheilung&#44; dass Herr Dr Jastrow leides sich noch keiner Besserung<lb/> erfreut&#44; getr&#228;gt wurde.<lb/></p>
+            <p>&#91;Hebrew&#93;.  Das hiesige Rabbinat schmeichelt sich mit der Hoffnung<lb/> dass Sie&#44; ehrw&#252;rdiger Herr&#44; demselben alle Ihre moralische unterst&#252;tzung verleitz<lb/> werden&#44; und die Vollziehung der bewussten &#91;&#63;&#93; nicht allein zu beschleunigen&#44;<lb/> sondern auch auf eine Weide zu beschleuniger suchen werden&#44; dass die<lb/> Vollziehung in jeder Beziehung dem rituelle Vorschriften unserer Codex entsprechen<lb/> werde.  In dieser Voransstezung und unter der ausdr&#252;cklicher Erkl&#228;rung&#44; dass<lb/> wir auch nicht Eines Schritt von dem unerl&#228;sslichen rituelles Bedingunges<lb/> abweichen wolle&#44; bitte wir Sie inst&#228;ndig&#44; uns umgehend Schreibe zu wolle&#44;<lb/> ob Sie die Aussicht haben&#44; dem Folgende entsprechen zu k&#246;nnen.<lb/></p>
+            <p>Die Vollziehung des &#91;&#63;&#93; soll auf die folgende Weise statt finden.<lb/>  Der &#91;&#63;&#93; wird nat&#252;rlich hier geschrieben&#44; und von dem Ehemanne <hi rend="underline">Leda</hi><lb/> einem von ihre dazu bestimmtes Manne (&#91;Hebrew&#93;&#41; eingeh&#228;ndigt.  Dieser<lb/> letztere wird wiederum&#44; nach Ausfertigung einer Vollmacht&#44; kraft<lb/> welcher er auf&#39;s Neue eines andere &#91;Hebrew&#93; mit der Weiter bef&#246;rde<lb/>rung des &#91;&#63;&#93;  beauftrages k&#246;nne (&#91;Hebrew&#93;&#41;&#44; eines solchen in Ihrem<lb/> Wohnorte &#91;&#63;&#93;haften&#44; unbedingt religi&#246;s untadeliges&#45;Mann&#44; zum<lb/> Behufe der endlichen Einh&#228;ndigung des &#91;&#63;&#93; ernennes.  Auch die f&#252;r<lb/> dieses&#44; der 2ten &#91;Hebrew&#93;&#44; unumg&#228;nglich erforderliche Vollmacht (&#91;Hebrew&#93;&#41;<lb/> wird hier ausgefartigt.  Dieses 2te &#91;Hebrew&#93; &#91;&#63;&#93; wird&#44; nach Empfang<lb/> des &#91;&#63;&#93; und der Zwei Vollmacthe per Post&#44; nicht anderes zu thun<lb/> haben&#44; als der &#91;&#63;&#93; in Gegenwart von drei religi&#246;ses M&#228;nner (&#91;Hebrew&#93;&#41; in der<lb/> bekanntes vorgeschriebenen Weise des Frau einh&#228;ndiges.<lb/></p>
+            <p>Das kiesige Rabbinat erlaubt sich nur die folgende Frage&#58; Sind<lb/> Sie in der Lage&#44; die n&#246;thige anzahl frommer und gewissenhafter M&#228;nner<lb/> in Philadelphia zu finden&#44; resp. zu veranlassen&#44; sich dieser religi&#246;s noth<lb/>wendigen u. heilgen Handlung zu unterziehen.  Wenn Thun&#91;&#63;&#93; dies m&#246;glich ist&#44;<lb/> so ersuchen wir die h&#246;flichst&#44; aus umgehend genau der Hebr&#228;isches Namen<lb/> der als 2ten &#91;Hebrew&#93; bestimmtes Mannes&#44; wie des seines Vaters&#44; und nat&#252;rlich<lb/> auch die Adresse des Enteres&#91;&#63;&#93;&#44; angebe zu wolle.<lb/></p>
+            <p>Aan<lb/>
+            &#91;&#63;&#93; Herr S. Morais<lb/>
+            Rabbiner<lb/>
+            Philadelphia Penn.<lb/></p>
+            
+            <pb n="2"/>
+            <p>W&#252;nschenswerth w&#228;re es&#44; wenn dieser &#91;Hebrew&#93; ein<lb/> Mann sein k&#246;nnte&#44; von dessen Hebr&#228;ischer Adresse&#44; incl.<lb/> der Namen seiner Vaters&#44; in Philadelphia&#44; soweit Thun<lb/> bekannt&#44; keine Zweites dies befindet. &#40;&#91;Hebrew&#93;&#41;<lb/></p>
+            <p>Entschuldigen Sie zum Schlusse&#44; die Bel&#228;stigung<lb/> mit dem Bewust sein&#44; dass er hier sich an eine heilige<lb/> Sache handelt.  Unter inniger Danksagung f&#252;r Ihre<lb/> schon Cath&#246;ligte Bereitwilligkeit&#44; und dem Wunsche<lb/> von &#91;Hebrew&#93; f&#252;r den Herrn Dr Jastrow<lb/></p>
+            <p>Hochactungsvoll<lb/>
+                Dr. &#91;&#63;&#93;<lb/>
+                Oberrabbiner<lb/></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cohen, Mary M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF4_30</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cohen, Mary M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1887-04" source="" attested="yes">6 April 1887</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff4_31_1r.tif"/>
+                                <graphic url="smbx4ff4_31_1v.tif"/>
+                                <graphic url="smbx4ff4_31_2r.tif"/>
+                                <graphic url="smbx4ff4_31_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                
+                <pb n="1"/>
+            <p>1828 RITTENHOUSE SQUARE.<lb/>
+                April 6<hi rend="sup">th</hi> 87<lb/></p>
+            <p>Dear M<hi rend="sup">r</hi>. Morais<lb/></p>
+            <p>Mother asks<lb/> me to write for her as her<lb/> eyes are not yet quite<lb/> strong.  M<hi rend="sup">rs</hi>. John<lb/> Edgar Thomson called up&#45;<lb/>on her today in regard<lb/> to a Russian&#45;Jewish boy&#44;<lb/> twelve years old&#44; William<lb/> Abrahamson by name.<lb/>  He came out here as a<lb/> stow&#45;away&#44; and being<lb/> sick&#44; was put in the<lb/> Children&#39;s Hospital<lb/></p>
+                
+                <pb n="2"/>
+            <p>22<hi rend="sup">nd</hi> St just below<lb/> Walnut&#44; opposite St<lb/> James Place&#44; a<lb/> hospital in which M<hi rend="sup">rs</hi>.<lb/> Thomson has always<lb/> taken great interest.<lb/>  She has been troubled<lb/> about the child because<lb/> he is so conscientious<lb/> that he will not eat<lb/> the food prepared in<lb/> the institution.  Mother<lb/> went to see him this<lb/> afternoon&#44; found him<lb/> very bright&#44; but of<lb/> course he ought to<lb/> have strenthening<lb/></p>
+                
+                <pb n="3"/>
+            <p>food.  He has letters<lb/> from his mother in<lb/> Liverpool&#44; Eng. written<lb/> in Hebrew&#44; &#38; he seems<lb/> anxious to go home to<lb/> her for his <hi rend="underline">Barmitzva</hi><lb/> next year.  Mother<lb/> would be very glad if<lb/> you could visit him&#44;<lb/> &#38; suggest anything else<lb/> to her to be done in the case.<lb/>  She has promised to<lb/> send him some <hi rend="underline">matsos</hi>.<lb/>  I believe he went to the<lb/> United Hebrew Charities<lb/> before entering the<lb/> Hospital&#44; but they did<lb/> not do anything for<lb/></p>
+                
+                <pb n="4"/>
+            <p>him.<lb/></p>
+            <p>With regards to<lb/> all with you&#44; from<lb/> Mother and self<lb/> Sincerely<lb/> Mary M. Cohen<lb/></p>
+                
+            <p>Mother asks me to add<lb/> that <hi rend="underline">if possible</hi>&#44; she hopes<lb/> that you will see the boy <hi rend="underline">before</hi><lb/> Passover&#44; &#38; let her know<lb/> if you think there is anything<lb/> else she could do for<lb/> him.<lb/></p>
+            </body>
+    </text>
+</TEI>

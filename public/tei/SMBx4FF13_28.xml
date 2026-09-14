@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Drahman, Bernard</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF13_28</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Drahman, Bernard</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-11" source="" attested="yes">7 November 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff13_28_1r.tif"/>
+                                <graphic url="smbx4ff13_28_1v.tif"/>
+                                <graphic url="smbx4ff13_28_2r.tif"/>
+                                <graphic url="smbx4ff13_28_2v.tif"/>
+                                <graphic url="smbx4ff13_28_3r.tif"/>
+                                <graphic url="smbx4ff13_28_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>Nov. 7<hi rend="sup">th</hi>&#47;88<lb/></p>
+            <p>Dear Dr&#33;<lb/></p>
+            <p>I have the honor to submit<lb/> to you my report on the progress of<lb/> the Seminary classes during the months<lb/> of September and October in the<lb/> branches which I instruct.  The at&#45;<lb/>&#45;tendance during the months of<lb/> September was unavoidably interrupted<lb/> to a considerable extent by the holi&#45;<lb/>&#45;days occurring in that month.<lb/>  Otherwise the attendance and deport&#45;<lb/>&#45;ment of both classes have been very<lb/> good&#44; a certain unruliness of which<lb/> I had occasion to complain in the<lb/> case of a few pupils last year having<lb/> ceased through their having left the<lb/> institution.  The present attendants<lb/> are&#44; without an exception&#44; faithful&#44;<lb/> disposed to learn and well behaved.<lb/></p>
+                
+                <pb n="2"/>
+            <p>The lower class has read three chap&#45;<lb/>ters of Genesis XXIII&#45;XXV with Rashi&#44;<lb/> four Psalms 50&#45;54 with careful exegetical<lb/> treatment&#44; three chapters of Joshua<lb/> I&#45;III at sight&#44; history and the rudi&#45;<lb/>&#45;ments of grammar.<lb/></p>
+            <p>In the higher class the method of<lb/> instruction has been largely by lect&#45;<lb/>&#45;ures and dictation exercises&#44; the<lb/> substance of which is taken down<lb/> by the class into copy&#45;books.<lb/></p>
+            <p>I have lectured on Isaiah and on the<lb/> history of the early post exilic period.<lb/>  The class has read two chapters I&#45;II<lb/>  critically and learnt the grammar<lb/> of the &#91;Hebrew&#93; and &#91;Hebrew&#93; verbs.<lb/></p>
+            <p>There have been considerable ad&#45;<lb/>&#45;ditions made to the working library<lb/> of the Seminary.  Seven copies of<lb/> Talmud Babli &#91;Hebrew&#93; and three copies<lb/> of &#91;Hebrew&#93; have been bought and both<lb/> classes have been furnished with grammars&#44;<lb/> the higher class with Green&#39;s and<lb/></p>
+                
+                <pb n="3"/>
+            <p>the lower class with Tregeller.<lb/></p>
+            <p>The lower class&#44; at my suggestion&#44; paid<lb/> for their grammars but all the other<lb/> books mentioned were purchased<lb/> by and are the property of the<lb/> Seminary.  I remain&#44; Sir<lb/> very respectfully yours<lb/> Bernard Drachman<lb/> Preceptor<lb/></p>
+            
+            <pb n="4"/>
+            <p>From<lb/>
+                <hi rend="underline">329 E. 51<hi rend="sup">st</hi> St</hi><lb/></p>
+            <p>Rev. Dr. S. Morais<lb/>
+                546 N. 5<hi rend="sup">th</hi> St<lb/>
+                Philadelphia<lb/>
+                Pa.<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cowen, Philip</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF6_23</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cowen, Philip</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1890-03" source="" attested="yes">24 March 1890</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff6_24_1r.tif"/>
+                                <graphic url="smbx5ff6_24_1v.tif"/>
+                                <graphic url="smbx5ff6_24_2r.tif"/>
+                                <graphic url="smbx5ff6_24_2v.tif"/>
+                                <graphic url="smbx5ff6_24_3r.tif"/>
+                                <graphic url="smbx5ff6_24_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Published Every Friday.								Telephone&#58; 243&#44; 39th<lb/></p>
+            <p>Publication Office<lb/>
+                The American Hebrew&#44;<lb/>
+                498&#45;500 Third Avenue.<lb/></p>
+            <p>New York&#44; March 24th&#44; 1890.<lb/></p>
+            <p>Rev. S. Morais&#44;<lb/></p>
+            <p>Rev. and Dear Sir&#58;&#45;On the 4th of April&#44; we will issue a Passover<lb/> number of the American Hebrew&#44; the distinguishing feature of which<lb/> will be a consensus of opinion on the prejudice against the Jews&#44; partici&#45;<lb/>pated in by the leading Christians of this country&#44; as you will see by<lb/> the enclosed list of contributors.  The enclosed circular and questions<lb/> will give you a better idea of what will appear.  We think that this<lb/> number of The American Hebrew will attract very wide attention<lb/> in the daily and Christian religious press&#44; in a way which cannot<lb/> help having a good effect for our people.  We believe that this issue<lb/> will merit your especial attention in the pulpit during Passover.<lb/>  Should you agree with us&#44; it will afford us pleasure to give you<lb/> an opportunity of seeing the original letters in advance of publication&#44;<lb/> if you happen to be in the city at any time within the next ten<lb/> days&#44; and permit you to make such extracts as you wish for<lb/> your use.<lb/></p>
+            <p>It is of course understood that this is written and the enclosed<lb/> matter sent you in confidence&#44; and that you will make no use of<lb/> them until after the appearance of The American Hebrew of April 4th.<lb/>  Sincerely yours&#44;<lb/> Philip Cowen<lb/></p>
+            <p>P. S. If more convenient for you&#44; the letters can be seen at my residence&#44;<lb/> 109 E. 65th St.&#44; any evening.<lb/></p>
+                
+                <pb n="2"/>
+            <p>I. Can you&#44; of your own personal experience&#44; find any justification<lb/> whatever for the entertainment of prejudice towards individuals&#44; solely<lb/> because they are Jews&#63;<lb/></p>
+            <p>II. Is this prejudice not due largely to the religious instruction that<lb/> is given by the Church and Sunday&#45;school&#58;&#45;&#45;for instance&#44; the teachings<lb/> that the Jews crucified Jesus&#59; that they rejected him and can only secure<lb/> salvation by a belief in him&#44; and similar matters that are calculated to<lb/> excite in the impressionable mind of the child an aversion&#44; if not a<lb/> loathing&#44; for members of &#34;the despised race&#63;&#34;<lb/></p>
+            <p>III. Have you observed in the social and business life of the Jew&#44; so<lb/> far as your personal experience has gone&#44; any different standard of<lb/> conduct than prevails among Christians of the same social status&#63;<lb/></p>
+            <p>IV. Can you suggest what should be done to dispel the existing<lb/> prejudice&#63;<lb/></p>
+                
+                <pb n="3"/>
+            <p><emph rend="italics">Partial List of Contributors</emph><lb/>
+                TO SPECIAL NUMBER OF<lb/>
+                THE AMERICAN HEBREW&#44;<lb/>
+                NEW YORK.<lb/>
+                <emph rend="italics">To be issue Friday&#44; April 4th&#44; 1890.</emph><lb/></p>
+            <p>Cardinal James Gibbons&#44;					Baltimore&#44; Md.<lb/>
+                Rev. R. Herber Newton&#44; D. D.&#44;				New York.<lb/>
+                &#34; R. S. MacArthur&#44; D. D.&#44;					&#34;<lb/>
+                &#34; Howard Crosby&#44; D. D.&#44;					&#34;<lb/>
+                &#34; R. R. Booth&#44; D. D.&#44;						&#34;<lb/>
+                &#34; Wm. R. Huntington&#44; D. D.&#44;					&#34;<lb/>
+                &#34;Wm. M. Taylor&#44; D. D.&#44;					&#34;<lb/>
+                &#34; J. H. Day&#44; D. D.&#44;						&#34;<lb/>
+                &#34; A. S. Hobart&#44; D. D.&#44;						Yonkers&#44; N. Y.<lb/>
+                &#34; J. M. Buckley&#44; D. D.&#44;					New York.<lb/>
+                &#34; Philip Schaff&#44; D. D.&#44; Union Theological Seminary		N. Y.<lb/>
+                &#34; Wm. G. T. Shedd&#44; D. D.&#44; Union Theo. Sem.&#44;		N. Y.<lb/>
+                &#34; Robert Collyer&#44;						New York.<lb/>
+                &#34; Ensign McChesney&#44;						&#34;<lb/>
+                &#34; Morgan Dix&#44; D. D.&#44;						&#34;<lb/>
+                &#34; W. H. P. Faunce&#44;						&#34;<lb/>
+                &#34; Chas. H. Eaton&#44; D. D.&#44;					&#34;<lb/>
+                &#34; Edward Everett Hale&#44;					Boston&#44; Mass.<lb/>
+                &#34; Jno. W. Chadwick&#44;						Brooklyn.<lb/>
+                &#34; Washington Gladden&#44; D. D.&#44;				Columbus&#44; O.<lb/>
+                &#34; Phillips Brooks&#44; D. D.&#44;					Boston.<lb/>
+                &#34; A. B. Kendig&#44; D. D.&#44;					Brooklyn&#44; N. Y.<lb/>
+                Chas. W. Eliot&#44; LL. D&#44; Pres Harv. Univ.&#44; 			Cambridge&#44; Mass.<lb/>
+                Jas. McCosh&#44; LL. D.&#44;	ex&#45;Pres Princeton College.<lb/>
+                Dr. M. H. Buckham&#44; President University of Vermont.<lb/>
+                Dr. Elmer H. Capen&#44; President Tufts College&#44; Mass.<lb/>
+                Dr. S. C. Bartlett&#44; Pres. Dartmouth College&#44; Hanover&#44; N. H.<lb/>
+                Dr. J. M Taylor&#44; Pres. Vassar College&#44; Poughkeepsie&#44; N. Y.<lb/>
+                Helen Shafer&#44; Pres. Wellesley College&#44; Wellesley&#44; Mass.<lb/>
+                W. M. Thornton&#44;	President&#44; University of Virginia.<lb/>
+                Prof. C. H. Toy&#44;						Cambridge&#44; Mass.<lb/>
+                Prof. James K. Hosmer&#44; Washington University&#44; St. Louis.<lb/>
+                Oliver Wendell Holmes&#44;					Boston.<lb/>
+                Thos. Bailey Aldrich&#44;						&#34;<lb/>
+                Edward Atkinson&#44;						&#34;<lb/>
+                John Boyle O&#39;Reilly&#44;						&#34;<lb/>
+                Thos. Wentworth Higginson&#44;					Cambridge&#44; Mass.<lb/>
+                Col. Jno. Hay&#44;							Washington&#44; D C.<lb/>
+                Geo. Wm. Curtis&#44;						New York.<lb/>
+                Jno. Burroughs						West Park&#44; N. Y.<lb/>
+                Robert G. Ingersoll&#44;						New York.<lb/>
+                Chas. L. Brace&#44;						&#34;<lb/>
+                Theodore Roosevelt.						Washington&#44; D. C<lb/>
+                Mrs. Frank Leslie&#44;						New York.<lb/>
+                Henry T. Finck&#44;						New York.<lb/>
+                H. E Krehbiel&#44;							&#34;<lb/>
+                Wm J. Henderson&#44;						&#34;<lb/>
+                J. E. Learned&#44;							&#34;<lb/>
+                Hon. Zebulon B. Vance&#44;					Washington<lb/>
+                Bishop Potter<lb/>
+                &#34; Littlejohn<lb/>
+                &#34; Coxe<lb/>
+                Chancellor Vincent<lb/>
+                Rev. Dr. C. F. Deems.<lb/>
+                Arthur Gilman<lb/>
+                Carl Schurz.<lb/>
+                Anna L. Dawes.<lb/></p>
+            </body>
+    </text>
+</TEI>

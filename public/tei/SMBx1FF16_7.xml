@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Piaz, David</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF16_7</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Piza, David</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>London, England</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1859-06" source="" attested="yes">3 June 1859</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff16_7_1r.tif"/>
+                                <graphic url="smbx1ff16_7_1v.tif"/>
+                                <graphic url="smbx1ff16_7_2r.tif"/>
+                                <graphic url="smbx1ff16_7_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="en">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>London 3<hi rend="sup">rd</hi> June 1859<lb/>
+                Dear Sir&#44;<lb/></p>
+            <p>In answer to yours of 28<hi rend="sup">th</hi> April&#44; wherein<lb/> you state having sent me a letter in October last<lb/> containing certain questions&#44; I beg to say that you<lb/> are perfectly correct in your surmise as to the miscarriage<lb/> of said letter as it did not reach me.  I now therefore<lb/> hasten to answer your questions to the best of my ability.<lb/>  &#91;Hebrew&#93; is not said on the second night of &#91;Hebrew&#93; but is<lb/> on the second day &#91;Hebrew&#93; is not said at &#91;Hebrew&#93;&#45;&#45;&#91;Hebrew&#93;<lb/> is said on Friday at &#91;Hebrew&#93; but not on &#91;Hebrew&#93; or &#91;Hebrew&#93; when they<lb/> happen on &#91;Hebrew&#93;&#45;&#45;&#91;Hebrew&#93; is not said when &#91;Hebrew&#93; follows<lb/> immediately &#91;Hebrew&#93;&#45;&#45;the &#91;Hebrew&#93; is not left open at the<lb/> services for &#91;Hebrew&#93; but is for all the services on &#91;Hebrew&#93; and<lb/> is opened for the &#91;Hebrew&#93; at &#91;Hebrew&#93;&#45;&#45;there is no fixed number<lb/> of &#91;Hebrew&#93; taken out on the night of &#91;Hebrew&#93; there are at times<lb/> Eleven&#44; at other times more&#44; as besides the &#91;Hebrew&#93; and<lb/> &#91;Hebrew&#93; private individuals if they wish can take a &#91;Hebrew&#93;<lb/> but on &#91;Hebrew&#93; there are only seven&#8212;the &#91;Hebrew&#93; does not<lb/> read the &#91;Hebrew&#93; for the &#91;Hebrew&#93; at the &#91;Hebrew&#93;&#45;&#45;on &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93; and &#91;Hebrew&#93; are read as usual&#44; and on<lb/> Friday at &#91;Hebrew&#93; the Psalm belonging to the respective<lb/> festival of &#91;Hebrew&#93; or &#91;Hebrew&#93; are read and afterwards &#91;Hebrew&#93;<lb/>&#45;&#45;&#91;Hebrew&#93; is said on days when there is no &#91;Hebrew&#93;&#45;&#45;<lb/> &#91;Hebrew&#93; is not given on Friday after 12 O&#39;clock&#44; or<lb/> when the &#91;Hebrew&#93; return to Synagogue immediately<lb/></p>
+                
+                <pb n="2"/>
+            <p>after the funeral &#91;Hebrew&#93; is not made on &#91;Hebrew&#93; neither<lb/> is &#91;Hebrew&#93; said&#8212;the latter is read on all occasions<lb/> by the &#91;Hebrew&#93; when the deceased left no relatives&#45;&#45;<lb/> &#91;Hebrew&#93; is cut on the left hand side for Parents&#44; and<lb/> every garment is rent&#44; even to the shirt&#8212;It is<lb/> customary for other relatives&#44; besides the children<lb/> of deceased persons to say &#91;Hebrew&#93; but it is not an<lb/> acknowledged right&#44; consequently none but the<lb/> children have &#91;Hebrew&#93; for &#91;Hebrew&#93; during the eleven<lb/> months&#8212;the hind quarters are eaten in this<lb/> city&#44; after they have undergon<sic></sic> &#91;Hebrew&#93; and the &#91;Hebrew&#93;<lb/> does kill at the Poulterers on &#91;Hebrew&#93; for the use of<lb/> the same day&#44; but he does not kill for private<lb/> persons&#8212;I have not a printed copy of the &#91;Hebrew&#93;<lb/> of this Congregation&#44; neither do I think there<lb/> is such a book in existence.  I regret such delay<lb/> such have occurred&#44; and will be most happy to serve<lb/> you at any time&#44; as far as my humble capacity<lb/> will allow me<lb/></p>
+            <p>Mrs Piza unites with me in kindest<lb/> regards to Mrs Morais&#44; and thanks for the kind<lb/> sentiments expressed towards Judah<lb/></p>
+            <p>I am<lb/>
+                Your&#39;s very truly<lb/>
+                David Piza<lb/>
+                Revd. S. Morais<lb/></p>
+                
+                <pb n="3"/>
+            <p>Prepaid<lb/>
+                Revd. S. Morais<lb/>
+                515 North Sixth St.<lb/>
+                Philadelphia<lb/>
+                D. P.		U. S.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

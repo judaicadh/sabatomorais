@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF10_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff10_4_1r.tif"/>
+                                <graphic url="smbx11ff10_4_1v.tif"/>
+                                <graphic url="smbx11ff10_4_2r.tif"/>
+                                <graphic url="smbx11ff10_4_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Prayer for a funeral<lb/></p>
+            <p>God in whose hand is the soul of all<lb/> living&#44; and the spirit of all created beings&#33;<lb/>  We bow reverently to Thy sovereign will.<lb/>  Thou hast appointed a limited time unto<lb/> man on earth&#44; so that he may learn to number<lb/> his days&#44; and apply his heart to wisdom<lb/> and happy&#44; thrice happy will be they whose<lb/> vigour of youth&#44; and ripe judgment attending<lb/> old&#45;age&#44; are devoted to improve their latter<lb/> end.  They shall be crowned with thy<lb/> gracious favour&#44; and quaff at the fountain<lb/> of Thy delights.  Lord&#33; a creature of<lb/> thy hand&#44; who did apply her heart to wisdom&#44;<lb/> has now been ushered into thy divine presence.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Great is the bereavement &#91;&#63;&#93; to the house&#45;<lb/>&#45;hold of Israel&#59; but the universal sorrow<lb/> experienced at her departure&#44; is assuaged<lb/> by the evidence of Thy loving&#45;kindness towards<lb/> the departed.  Thanks and praises to<lb/> Thy holy name.  It was to reward the<lb/> domestic and social virtues of Thy hand&#45;<lb/>&#45;maid&#44; that Thou didst signally vouchsafe<lb/> to deliver her from the pangs of death.<lb/>  As her steps on the path of righteousness were<lb/> soft and quiet&#44; so was here end calm and<lb/> serene.  At thy summons&#44; the <sic>untramelled</sic><lb/> spirit leaped over the shore of eternity&#44; to<lb/> live beatified in Thy heavenly embrace.<lb/></p>
+            
+            <pb n="3"/>
+            <p>This tenement of clay will moulder in<lb/> the dust&#44; but that which is immortal of<lb/> Francis Cohen&#44; will live abide with Thee<lb/> in regions glorious and celestial.  The asking heart will cease to throb&#44; her feelings will be harrowed no more.<lb/>  Grant O God&#33; that the sterling qualities<lb/> which endeared our lamented sister to all<lb/> who knew her be reflected in the character<lb/> of her offspring.  That her piety&#44; her<lb/> meekness&#44; and active benevolence be per&#45;<lb/>&#45;petuated through those to whom she<lb/> was a tender parent and faithful protector.<lb/>  The loss sustained will then be full repaired.<lb/>  She will see it and rejoice&#44; which the Congre&#45;<lb/>&#45;gation of Thy people&#44; whose m honored<lb/></p>
+            
+            <pb n="4"/>
+            <p>member she was&#44; will exclaim.  &#34;The Lord hath<lb/> given&#44; and the Lord hath taken&#44; may<lb/> the name of the Lord ever be blessed.&#34;<lb/>  Prayer at a funeral<lb/></p>
+            </body>
+    </text>
+</TEI>

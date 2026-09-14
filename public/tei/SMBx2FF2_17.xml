@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Isaacs, I. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF2_17</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Isaacs, I. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1875-12" source="" attested="yes">20 December 1875</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff2_17_1r.tif"/>
+                                <graphic url="smbx2ff2_17_1v.tif"/>
+                                <graphic url="smbx2ff2_17_2r.tif"/>
+                                <graphic url="smbx2ff2_17_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Congregation &#34;Shaaray Tefila&#44;&#34;<lb/>
+            FORTY&#45;FOURTH ST. SYNAGOGUE&#44;<lb/>
+                New York&#44; Dec. 20<hi rend="sup">th</hi> 5636&#44; 1875<lb/></p>
+            <p>Dear &#38; reverend Sir&#44;<lb/></p>
+            <p>I have the pleasure to inform<lb/> you that a meeting was held yesterday<lb/> of the Ritual Committee appointed by<lb/> the Trustees of this Congregation to report<lb/> to the Congregation such changes in the<lb/> order of services as they may deem advis&#45;<lb/>able&#44; whereas Rev. S. M. Isaacs and<lb/> Rev. Dr. Mendes were present as Advis&#45;<lb/>ory Committee.  It having been stated<lb/> by Rev. S. M. Isaacs that he was in<lb/> communication with you and other<lb/> learned ministers with a view to the<lb/> early holding of a General Convention<lb/> and that this committee should<lb/> defer its action until such convention<lb/> met so that <del>so that</del> there may not<lb/> be isolated action&#44; the following<lb/> resolution was adopted of which I<lb/></p>
+            
+            <pb n="2"/>
+            <p>was instructed to send you a<lb/> copy.<lb/></p>
+            <p>Resolved that the further con&#45;<lb/>sideration of the ritual be post&#45;<lb/>poned so that the views of a confer&#45;<lb/>ence of Spiritual heads of American<lb/> Congregations to be held within the<lb/> next month may be communicated<lb/> to this Committee it being under&#45;<lb/>stood that in any event this committee<lb/> is to be called together at no later<lb/> period than one month from<lb/> date&#34;<lb/></p>
+            <p>I trust&#44; dear Sir&#44; that you<lb/> will appreciate the position<lb/> of this Committee who are<lb/> desirous to satisfy the parties<lb/> in the Congregation.  They hes&#45;<lb/>itate to urge even trivial charges<lb/> in the hope that by union with other<lb/> Committees similarly constituted&#44; a<lb/> ritual may be devised that will<lb/> answer the demands of the age.<lb/></p>
+            
+            <pb n="3"/>
+            <p>At the same time they<lb/> feel it a duty not to delay action.<lb/></p>
+            <p>Will you not therefore call<lb/> such convention to meet at an<lb/> early date&#63;  I am authorized<lb/> to state that the Board of<lb/> Trustees will send delegates<lb/> to such Convention whenever<lb/> and wherever called.<lb/></p>
+            <p>Thanking you&#44; Sir in the<lb/> name of the Committee for the<lb/> exertions that you have made<lb/> in behalf of true Judaism&#44; and<lb/> trusting that you will be enabled<lb/> to practically demonstrate with<lb/> your colleagues that radicalism<lb/> can be checked by a wise concert of<lb/> action on the part of conservative<lb/> leaders<lb/></p>
+            <p>Yours with great respect<lb/>
+            Rev. S. Morais	I. S. Isaacs<lb/>
+            Phila.		sec&#39;y of Committee<lb/></p>
+        </body>
+    </text>
+</TEI>

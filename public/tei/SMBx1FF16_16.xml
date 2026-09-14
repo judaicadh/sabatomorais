@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hart, A.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF16_16</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hart, A.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1859-11" source="" attested="yes">15 November 1859</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff16_16_1r.tif"/>
+                                <graphic url="smbx1ff16_16_1v.tif"/>
+                                <graphic url="smbx1ff16_16_2r.tif"/>
+                                <graphic url="smbx1ff16_16_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>Tuesday Evening 10 P. M<lb/>
+                Philada Nov 15<hi rend="sup">th</hi> 1859<lb/>
+                Hesvan 18<hi rend="sup">th</hi> 5620<lb/>
+                Revd S Morais<lb/>
+                My Dear Sir<lb/></p>
+            <p>A Telegraph recd.<lb/> from New York this evening announ<lb/>cing the Dangerous State of Mr.<lb/> Isaacks&#44; calls me there tomorrow<lb/> consequently I shall be unable<lb/> to keep my appointment with<lb/> the Jewish Traveller<sic></sic> Mr Benjamin<lb/> in whose service I have been<lb/> engaged today&#44; but sorry to<lb/> say not as successful as you<lb/> were&#44; altho&#39; the few I was able<lb/> to find in &#38; some I called twice<lb/> upon&#44; subscribed&#44; but could<lb/> not get to The Messrs Flrances<lb/> J. L. Moss &#40;who was sick at Home today&#41;<lb/> Lucian Moss&#44; Messr Gans&#44; Simon<lb/> Arnold&#44; EL Moss&#44; HM Phillips &#38;c<lb/></p>
+                
+                <pb n="2"/>
+            <p>I could not find Mr Andrade but<lb/> he called on me afterward &#38; sub<lb/>&#45;scribed for a copy of the English but<lb/> handed a &#36;2 50&#47;100 piece &#38; would not take<lb/> any change.  I hand you a<lb/> list of the persons&#44; who have<lb/> subscribed &#38; I enclose herein<lb/> a check for &#36;54.50&#47;100 being the<lb/> amount of their subscriptions<lb/> as well as my own &#36;22&#44; &#38;<lb/> &#36;4 for Rowlands&#44; Arnolds&#44; &#38; Hechts<lb/> copies.  I hope the Gentlemen<lb/> whom I could not see will<lb/> be called upon as I think they<lb/> will all take a copy.  I suppose<lb/> there must be other persons using<lb/> their endeavours as I asked Mr.<lb/> Lewis M Allen who told me had<lb/> been solicited by Mr Mayers who he<lb/> saw on Sunday with the Revd Mr.<lb/> Viadaver &#38; he told him to put his<lb/> name down&#44; Regretting exceedingly<lb/> that I should have been prevented<lb/></p>
+                
+                <pb n="3"/>
+            <p>from finishing my task &#38; hoping<lb/> you will make the necessary<lb/> explanations for me to Mr.<lb/> Benjamin.  I am dear Sir<lb/></p>
+            <p>yours Very Truly<lb/>
+                A. Hart<lb/></p>
+                
+            <p>I received the various copies &#38; shall<lb/> send them as directed.<lb/></p>
+            <p>P. S. As I had no time to<lb/> see the Athenaeum&#44; Philada Library<lb/> and Histl Society I will pay<lb/> for 3 more copies &#38; send them<lb/> to them when I return&#8212;making<lb/> 9 copies amtg to 8 28&#8212;for myself<lb/></p>
+            <p><hi rend="underline">List of persons to whom copies are to be sent</hi><lb/>
+                David Salomon	1 copy English &#36;2<lb/>
+                Abm S Wolf		1 &#34;&#34; &#36;2<lb/>
+                Saml Hart		1 &#34;&#34; &#36;2<lb/>
+                I Andrade		1 &#34;&#34; &#36;2.50<lb/>
+                Allen Mitchell		1 &#34;&#34; &#36;2.00<lb/>
+                Barnet Phillips	1 &#34;&#34; 4 Larg&#91;&#63;&#93;<lb/> &#61;ges Gilt Edges &#36;10&#45;&#45;<lb/>
+                &#36;20 50<lb/>
+                3 copies addl. A Hart	        	6.00<lb/>
+                6 &#34; subscribed for &#38; received &#40;over&#41; 22.00<lb/></p>
+                
+                <pb n="4"/>
+            <p>forward &#36;48.50<lb/>
+                Hecht&#44; Arnold &#38; Rowlands<lb/>
+                subscriptions<lb/> 
+                to be collected<lb/>
+                by me	<hi rend="underline">6.00	54.50</hi><lb/></p>
+            
+        </body>
+    </text>
+</TEI>

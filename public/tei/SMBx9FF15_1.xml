@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx9FF15_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx9ff15_1_1r.tif"/>
+                                <graphic url="smbx9ff15_1_1v.tif"/>
+                                <graphic url="smbx9ff15_1_2r.tif"/>
+                                <graphic url="smbx9ff15_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>For Terum&#225;<lb/></p>
+            <p>Maker of the world&#33;  How shall earthly bound creatures<lb/> presume to do Thee honor&#63;  Behold&#33; measureless<lb/> space cannot hold Thy Spirit.  Wilt Thou be then<lb/> narrowed down within the limits set for Thee by<lb/> mortals&#63;  Or canst Thou sit enthroned in their midst&#44;<lb/> like a human King&#44; and feel exalted by their rich<lb/> gifts&#63;  Not so&#44; O Lord of the universe&#33;...But&#44; be&#45;<lb/>&#45;cause Thou art good&#44; as Thou art unspeakably great&#44;<lb/> Thou deignest to tower Thy glory to man&#39;s level&#44; that<lb/> our hearts may become purified in the exercise of outward<lb/> worship.  Therefore it is chronicled in the<lb/> lesson of this Sabbath&#44; that Thou didst command our<lb/> forefathers to rear a tabernacle&#44; declaring that Thy<lb/> heavenly countenance would hallow it.  It was<lb/> to impress their minds with a fear&#44; which might<lb/> deter them from sin&#44; that Thou didst instruct their<lb/> leader&#44; to enclose the tablets of the Sinaic covenant in<lb/> an ark&#44; and to let that shrine precede them in all<lb/> their journeys.  To direct them attention of the Hebrews to that sacred<lb/> object&#44; the faces of the golden Cherubim hovering above it were made to bend<lb/></p>
+            
+            <pb n="2"/>
+            <p>downward&#59; while their outstretched wings<lb/> typified the protection Thou grantest to the<lb/> adherents of Thy word.  Likewise the table&#44; upon<lb/> which the shoe&#45;bread was placed on each returning<lb/> Sabbath&#44; purposed to teach them that Thou art<lb/> the provident Father&#44; who giveth food in glad&#45;<lb/>&#45;some plenty.  Nor could the perpetual<lb/> light&#45;&#45;a fit symbol of Thy existence&#45;&#45;&#44; fail to<lb/> inspire the thought&#44; that Thy wakeful eye constantly ever<lb/> looks towards of them every living being.  Aye&#58; all things subjects<lb/> pertaining to the olden Sanctuary meant to im&#45;<lb/>&#45;part that essential truth.  For&#44; to spiritualize<lb/> those&#44; whom Thou hadst separated from a heathen<lb/> world&#44; Thou wouldst surround them with visible<lb/> signs&#44; that might recall their bond of Union with<lb/> Thee&#44; their Deliverer and Legislator.<lb/></p>
+            <p>God of all eternity&#33;  The descendants of Jacob&#44;<lb/> scattered through the four corners of the earth&#44; can<lb/> no more offer Thee homage in the manner laid<lb/> down by Moses Thy servant.  But as they<lb/> gather together in the dwellings they have dedicated<lb/> to Thy name&#44; they eagerly wish that the promise<lb/></p>
+            
+            <pb n="3"/>
+            <p>made to their progenitors be also vouchsafed<lb/> unto the posterity thereof.  For&#44; verily Thou art not<lb/> magnified by a gorgeous display in the worship&#44;<lb/> but by the sentiments that move the <sic>worshippers</sic>.<lb/>  Grant therefore that Thy divine presence may rest<lb/> with us&#44; and sanctify our lives.  Grant that when<lb/> we leave this house&#44; in which we address our prayers<lb/> to Thee&#44; and in which we seek religious instruction&#44;<lb/> we may feel spiritually elevated&#44; morally improved&#44;<lb/> and imbued with love for all our brethren&#44; the offspring<lb/> of Adam&#44; whom Thou didst create that they might<lb/> dwell together in unity.  Amen.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

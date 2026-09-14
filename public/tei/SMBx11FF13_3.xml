@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF13_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff13_2_1r.tif"/>
+                                <graphic url="smbx11ff13_2_1v.tif"/>
+                                <graphic url="smbx11ff13_2_2r.tif"/>
+                                <graphic url="smbx11ff13_2_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>138</p>
+            <p>On the death of Dr Abraham De Sola<lb/></p>
+            <p>Brethren.  The occasion is extraordinary enough to<lb/> induce me to speak at some length&#44; but I shall not<lb/> follow my inclination.  I supposed it last Sab&#45;<lb/>&#45;bath&#44; when I instinctively felt that the man who<lb/> had given a large share of his life and of his blood<lb/> towards the creation of a united country&#45;&#45;and that my<lb/> own native land&#45;&#45;ought to have drawn from my lips a<lb/> eulogy.  And glowingly would I have pronounced it<lb/> in this house of our God.  For notwithstanding his<lb/> faults&#45;&#45;and they proceeded from the judgment rather than<lb/> from the will&#45;&#45;I recognize in Joseph Garibaldi a<lb/> man hero&#44; whom the Creating Being we worship adore&#44; designedly<lb/> raised as an instrument of His beneficent decree.<lb/></p>
+            <p>This week also I shall refrain from speaking&#44; as<lb/> a still alter even would call for.  The death<lb/> of one&#44; not so universally renowned as the Italian patriot<lb/> to whom I have just referred&#44; but widely and deserved&#45;<lb/>&#45;ly esteemed among English&#45;speaking Israelites&#44; should<lb/> elicit words of regret.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Here especially those words would be fitting&#44;<lb/> for a multiplicity of reasons.  We worship<lb/> according to the Sephardic ritual&#44; remain&#44; in<lb/> Synagogue matters at least&#44; conservative in our<lb/> views&#44; and are instructed in our religious duties<lb/> in the vernacular tongue.<lb/></p>
+            <p>The Reverend Dr Abraham De Sola who breathed<lb/> his last on Monday night was reared in our Min&#45;<lb/>&#45;hag&#59; he officiated&#44; agreeably to the same&#44; for<lb/> the period of thirty five years&#59; expounded the<lb/> Law&#44; pursuant to ancestral traditions&#44; and did so<lb/> in the language employed here on the pulpit.<lb/>  It may not even be impossible that some of my<lb/> audience may have heard his preaching in the<lb/> old Synagogue&#44; before my arrival in this city.<lb/>  How very becoming then that one who had so<lb/> much in common with us should receive in<lb/> our midst a meed of praise.  Yet&#44; another con&#45;<lb/>sideration is to be urged.  Our departed coreligionist<lb/> made himself felt in the world of letters as a<lb/> scholar&#44; able to represent his faith with honor.<lb/></p>
+            
+            <pb n="3"/>
+            <p>He however socially occupied a high position&#44; and in<lb/> latter years furthered and extended the publi&#45;<lb/>&#45;cation of devotional and instructive books for the<lb/> use of our people.<lb/></p>
+            <p>Still&#44; I check my desire to pronounce a panegy&#45;<lb/>&#45;ric&#44; and will not detain you on a warm sum&#45;<lb/>&#45;mer morning.  Besides&#58; the personal and literary merits of the Reverend<lb/> Dr Abraham De Sola will undoubtedly form the<lb/> subject of public encomium in the place where<lb/> he lived long and worked steadily.  They will<lb/> be rehearsed also in England where he was born<lb/> and educated for the ministry.  They will be<lb/> widely published in the Jewish and secular press.<lb/>  There each of my brethren who feels an interest<lb/> in the history of his distinguished fellow&#45;believers&#44;<lb/> will read more than I could might say and better than<lb/> the poverty of my language could say it.<lb/>  I shall therefore simply ask that you will<lb/> join me in offering the customary prayer for<lb/> the glory of a notable member of our race&#44; who has been<lb/> summoned to His Maker&#44; and respond Amen to<lb/> the wish that Abraham De Sola may not have<lb/></p>
+            
+            <pb n="4"/>
+            <p>gone hence without leaving behind some to take<lb/> up the sword with which he fought for his&#45;<lb/>&#45;torical Judaism.  Then will he rejoice<lb/> in heaven at the perpetuation of his guiding<lb/> principles&#44; and we shall be preserved on<lb/> earth as a distinctly monotheistic and morally<lb/> elevated people.<lb/>  &#40;It was enlarged and embellished in the delivery&#41;<lb/></p>
+            </body>
+    </text>
+</TEI>

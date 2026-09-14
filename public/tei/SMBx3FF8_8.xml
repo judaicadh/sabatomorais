@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Judelsohn, J.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF8_8</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Judelsohn, J.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1884-09" source="" attested="yes">25 September 1884</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff8_8_1r.tif"/>
+                                <graphic url="smbx3ff8_8_1v.tif"/>
+                                <graphic url="smbx3ff8_8_2r.tif"/>
+                                <graphic url="smbx3ff8_8_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+                <p>J. Judelsohn&#44;<lb/>
+                510 South Fifth Street.<lb/>
+                P.O. Box 476&#44; Philadelphia.<lb/></p>
+            <p>Sept 25&#47;84<lb/></p>
+            <p>Rev S. Morais<lb/></p>
+            <p>City<lb/></p>
+            <p>Dear Sir<lb/></p>
+            <p>In order to prevent the in&#45;<lb/>terference of shortsighted&#44; ignorant<lb/> and prejudiced parties to disturb us<lb/> in our movement&#44; with the display<lb/> that we are going to burden our<lb/> charities with an Immigration<lb/> and Labor Society&#44; I found it<lb/> necessary to publish a part<lb/> of my yesterday&#91;&#39;&#93;s communic&#45; <lb/>ation to Geo L. Lyon Esq. Enclosed<lb/> please find a cutting of today&#91;&#39;&#93;s<lb/> Public Ledger.<lb/></p>
+            <p>Anyhow I intend to raise<lb/> some money after we will be<lb/> organized &#40;from such parties<lb/></p>
+                
+                <pb n="2"/>
+            <p>who never contributed a cent<lb/> to the charities&#41; and I can  assure<lb/> you on the contrary when<lb/> we will have everything in<lb/> running order that we will<lb/> do with our labor bureau<lb/> great assistance to the U.H.C.<lb/> by getting employment for the<lb/> poor and working able of this <lb/> city&#91;.&#93;<lb/></p>
+            <p>Very resply<lb/>
+                J Judelsohn<lb/></p>
+                
+                <pb n="3"/>
+            <p>Public<lb/> Ledger<lb/>
+                Sept<lb/>
+                25&#47;84<lb/></p>
+                
+            <p><emph rend="italics">Concerning the Movement to Organize a<lb/> Jewish Immigration Society</emph>.&#45;&#45; Mr. J. Ju&#45;<lb/>delsohn&#44; at whose instance the recent meet&#45;<lb/>ing to consider the project of organizing a<lb/> permanent Jewish Immigration Society in<lb/> this city was held&#44; has written to Mr. Geo. L. Lyon&#44; Hon. Secretary of the Jews&#39; Emi&#45;<lb/>gration Society of London&#44; England&#44; giving<lb/> an account of the progress of the movement<lb/> here. He says&#58;<lb/></p>
+            <p>&#34;I am happy to state that the movement of<lb/> the emigration affair is at present very<lb/> strong in this city. But I am afraid that if <lb/> the Hamburg Committee will continue<lb/> sending hither companies of emigrants be&#45;<lb/> fore a regular organization to receive them<lb/> and to provide work for them be effected&#44;<lb/> the kindly sentiments of our good men will<lb/> be used up before any permanent good will<lb/> be accomplished. It would&#44; therefore&#44; be<lb/> advisable to stop sending emigrants to this<lb/> port for a few months.<lb/></p>
+            <p>&#34; I am persuaded&#44;&#34; Mr. Judelsohn goes<lb/> on to say&#44; &#34;that it will take but a very short<lb/> time until our organization will be perfected<lb/> in this city&#44; to receive and provide work for<lb/> our unfortunate brethren&#44; the emigrants.<lb/> Mr. Simon Muhr has already sent out an ap&#45;<lb/>peal to the Rabbis of this city&#44; that they<lb/> should with their influence lend assistance<lb/> to the good cause. So also did Mr. Moses A.<lb/> Dropsie&#44; as well as Mr. Alfred T. Jones&#44; the editor of the <emph rend="italics">Jewish Record</emph>&#44; promise to do all&#44; that is in their power to establish an organi&#45;<lb/>zation with employment bureaus for our im&#45;<lb/>migrants.<lb/></p>
+            <p>&#34;According to your letter of the 20<hi rend="sup">th</hi> ult. I <lb/> promised those gentlemen that they would<lb/> get means to manage it from your Society&#44; <lb/>because we cannot expect to get means here<lb/> at the beginning. The Jews of this city<lb/> have to support the Jewish Hospital&#44; Jewish<lb/> Foster Home&#44; Jewish Education Society&#44;<lb/> Young Men&#39;s Hebrew Association&#44; the<lb/> United Hebrew Charities of Philadelphia&#44; <lb/>and a few more kindred institutions&#44; and<lb/> we cannot expect to get means in this city to<lb/> manage the Emigration Society with the<lb/> Employment Bureau.<lb/></p>
+            <p>&#34;Therefore please set yourself at corres&#45;<lb/>pondence after receiving this letter with<lb/> Simon Muhr&#44; Esq.&#44; 635 Chestnut <sic>street</sic>&#44; and<lb/> Moses A. Dropsie&#44; Esq.&#44; 29 South Sixth<lb/> <sic>street</sic>&#44; Philadelphia&#44; and explain that you<lb/> are willing to co&#45;operate with them&#44; and that<lb/> you are responsible for the expense which<lb/> they have advanced from the funds of the<lb/> Branch of the Alliance Israelite Universelle&#44;<lb/> as Mr. Dropsie is the President&#44; and Mr.<lb/> Muhr the Treasurer of that Society.<lb/></p>
+            <p>&#34;In the meantime&#44; I would beg you to<lb/> communicate with the Committee of Ham&#45;<lb/>burg telling them to send no emigrants to<lb/> this port until a regular organization be es&#45;<lb/> tablished here.&#34;<lb/></p>
+        </body>
+    </text>
+</TEI>

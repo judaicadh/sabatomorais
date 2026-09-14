@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cohen, Emanuel</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF3_11</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cohen, Emanuel</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Minneapolis, MN</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-09" source="" attested="yes">10 September 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff3_11_2r.tif"/>
+                                <graphic url="smbx7ff3_11_3r.tif"/>
+                                <graphic url="smbx7ff3_11_3v.tif"/>
+                                <graphic url="smbx7ff3_11_2v.tif"/>
+                                <graphic url="smbx7ff3_11_1r.tif"/>
+                                <graphic url="smbx7ff3_11_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Minneapolis<lb/>
+                Sept. 10th 1893<lb/></p>
+            <p>My dear Mr. Morais.<lb/></p>
+            <p>Enclosed is the will<lb/> with the eighth item changed.  I think<lb/> it will meet your approval.  If it does<lb/> not&#44; I will gladly change it again.<lb/></p>
+            <p>In executing the paper&#44; please observe<lb/> the following suggestions&#58;&#45;<lb/></p>
+            <p>1. Fill the blank for the date.<lb/></p>
+            <p>2. Sign at the bottom of each page <hi rend="underline">your full name</hi>.  This<lb/> is better mode of execution and involves<lb/> only the writing of your name at the end<lb/> of each page as indicated in pencil.<lb/></p>
+            
+            <pb n="2"/>
+            <p>3. Sign <hi rend="underline">your full name</hi> at the bottom<lb/> of the will opposite the seal as<lb/> indicated in pencil.<lb/></p>
+            <p>4. Let the signing be in presence of two<lb/> witnesses.<lb/></p>
+            <p>5. Let the two witnesses sign as indicated<lb/> in pencil.<lb/>
+                I am very sorry to hear that you are<lb/> not as fully recovered as we anticipated&#44;<lb/> but I think that with care &#40;and such<lb/> care as <sic>as</sic> I am sure you will give&#41;<lb/> you will soon feel the benefits of<lb/> your vacation.  The danger is in trying<lb/></p>
+            
+            <pb n="3"/>
+            <p>to do too much.  Nina is getting along fairly<lb/> well&#44; much better than I expected.  The last few days<lb/> have been rather trying&#44; but with colder winds from<lb/> the north&#44; I expect a marked improvement.<lb/>  We all send you our best wishes for the New Year&#44;<lb/> with the hope that you will have many happy<lb/> returns.<lb/>  Yours<lb/> Emanuel Cohen<lb/></p>
+            
+            <pb n="4"/>
+            <p>I was deeply moved&#44; my beloved<lb/> Father by your enclosure<lb/> should I have the unspeak&#45;<lb/>able anguish of surviving<lb/> you&#44; I will see&#59; as far as lies<lb/> in my power&#44; that your<lb/> wishes are fulfilled.<lb/>  I think it would be best for you to<lb/> destroy all your papers&#44; except<lb/> those that you <hi rend="underline">desire</hi> to<lb/> have published.  I am sure<lb/> that there is no one to whom<lb/> you could leave such work<lb/> of revision as you desire&#45;&#45;<hi rend="underline">I</hi><lb/> could only make <hi rend="underline">verbal</hi><lb/> corrections&#45;&#45;and Henry&#39;s judg<lb/>ment would probably be very<lb/> antagonistic to your own.<lb/></p>
+            <p>It is my constant prayer&#44; my<lb/> most loved Father&#44; that you<lb/> may live to see many happy<lb/> years.<lb/></p>
+            
+            <pb n="5"/>
+            <p>Cohen<lb/></p>
+            </body>
+    </text>
+</TEI>

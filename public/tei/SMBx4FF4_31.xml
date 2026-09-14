@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Marcus, Alfred A.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF4_31</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Marcus, Alfred A.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Boston, MA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1887-05" source="" attested="yes">26 May 1887</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff4_32_1r.tif"/>
+                                <graphic url="smbx4ff4_32_2v.tif"/>
+                                <graphic url="smbx4ff4_32_1v.tif"/>
+                                <graphic url="smbx4ff4_32_2r.tif"/>
+                                <graphic url="smbx4ff4_32_3r.tif"/>
+                                <graphic url="smbx4ff4_32_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                
+                <pb n="1"/>
+                <p>Omer 47<lb/>
+                Boston Sivan 3 5647<lb/></p>
+            <p>Rev<hi rend="sup">d</hi>. S. Morais<lb/>
+                My very dear Sir<lb/></p>
+            <p>I have forwarded<lb/> this day by Adam&#39;s Express<lb/> to you a Scroll of the<lb/> Holy Law only finished<lb/> in this City yesterday it<lb/> was commenced in Wilna<lb/> Russia&#44; &#38; the scribe finished<lb/> the fifth book here.  I know<lb/> both father for some time &#38;<lb/> he is an <sic>excepitinal</sic> good<lb/> man.  I purchased one for<lb/> our own shule&#44; these two<lb/> <sic>scolls</sic> I bought in Sacred<lb/> Memory of my darling Angel<lb/></p>
+                
+                <pb n="2"/>
+            <p>Wife now if you will take<lb/> the scroll I have sent you<lb/> and <hi rend="underline">present it to your<lb/> Congregation&#44; conjointly<lb/> with my dear son &#38; daughter<lb/> &#38; son &#38; self in Gratitude</hi><lb/> to your congregation for your<lb/> noble deed in hastening &#38;<lb/> officiating at my poor<lb/> wife funeral&#44; &#38; if your<lb/> congregation will so record<lb/> in their books&#44; &#38; three times<lb/> a year when prayers are<lb/> said for the souls of the<lb/> departed her name should<lb/> be remembered. the cover &#38;<lb/> mappa I should like<lb/> returned when I send a<lb/></p>
+                
+                <pb n="3"/>
+            <p>a new&#44; or if you could get a handsome<lb/> white satin &#38; colomed&#91;&#63;&#93; one made in Philadelphia<lb/> We will pay for it.  Secondly I have sent<lb/> from New York 50 small Hebrew prayer<lb/> Books which please donate in our joint<lb/> names to the Foster Home&#44; &#38; the best charitable<lb/> societies divided as you deem fit &#38; also<lb/> 2 sewing machines&#44; send where they will<lb/> do the most good &#40;I hope you will use the scroll<lb/> at the Holy festival Sunday&#41; &#38; now my dear Mr. Morais we have sent<lb/> for your very kind acceptance according<lb/></p>
+                
+                <pb n="4"/>
+            <p>to my promise a silver Kidish Cap &#38;<lb/> Stand &#38; may the God of Israel spare<lb/> your life for very many many years<lb/> to enjoy the Sabbath &#38; Holy festivals<lb/> &#38; in remembrance of the sad duties you<lb/> performed over my pure darling blessed wife<lb/> God rest her soul with the kindest<lb/> wishes &#38; regards in which my darling daughter<lb/> &#38; son join to all dear to you I am<lb/> wishing you good<lb/> yourself<lb/> Yours very faithfully<lb/> Alfred A Marcus<lb/></p>
+            
+            <pb n="5"/>
+            <p>Rev<hi rend="sup">d</hi>. S. Morais<lb/>
+                Philadelphia<lb/>
+                P.a.<lb/></p>
+            </body>
+    </text>
+</TEI>

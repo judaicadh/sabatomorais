@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Mendes, H. Pereira</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF8_12</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Mendes, H. Pereira</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Keene, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1895-08" source="" attested="yes">18 August 1895</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff8_12_3r.tif"/>
+                                <graphic url="smbx7ff8_12_3v.tif"/>
+                                <graphic url="smbx7ff8_12_1r.tif"/>
+                                <graphic url="smbx7ff8_12_1v.tif"/>
+                                <graphic url="smbx7ff8_12_2r.tif"/>
+                                <graphic url="smbx7ff8_12_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Rev. Dr S. Morais<lb/>
+                546 N 5<lb/>
+                Philad<hi rend="sup">a</hi>.<lb/>
+                Penna<lb/></p>
+            
+            <p>Aug 95<lb/> H. P. M. and the<lb/> seminary<lb/></p>
+            
+            <pb n="2"/>
+            <p>Keene&#44; N. Y.<lb/>
+                Essex County&#44;<lb/></p>
+            <p>Aug 18 1895<lb/></p>
+            <p>My dear Sir and friend<lb/></p>
+            <p>I will be glad to place an afternoon at the<lb/> disposal of the Seminary as before.  I would prefer to do all<lb/> my work there on one afternoon because of the time it takes<lb/> to go to and fro and the fatigue.<lb/></p>
+            <p>I have been thinking much of the Seminary<lb/> and I think more strongly than ever that its salvation will<lb/> be your coming to New York for personal supervision.<lb/>  The sacrifice you must make.<lb/>
+                The Presidents of our congregations and of the Seminary<lb/> must consult as to your salary so that it be at least &#36;3000<lb/> or whatever you now receive.<lb/></p>
+            <p>Your status must be official in my congregation and<lb/> emeritus in your own&#44; with the right to officiate in<lb/> <del>New</del> Philad. periodically and on Holydays if you<lb/> desire.<lb/></p>
+            <p>Your constant work will be the Seminary.<lb/></p>
+            
+            <pb n="3"/>
+            <p>not simply the teaching and government of the boys&#44; but to<lb/> push the seminary by correspondence with the many<lb/> congregations available and by judicious issuing of<lb/> printed matter.<lb/></p>
+            <p>A young man in Phila. as your associate minister would<lb/> have the inestimable advantage of having your advice until<lb/> by by securing personal friends among the members&#44; he made<lb/> his position somewhat solid and could bring their personal<lb/> friendship to support him in case of need.<lb/></p>
+            <p>This would secure your congregation&#39;s adhesion after<lb/> your decease&#44;&#45;&#45;may it be far off&#44; Amen.<lb/>
+                You know that you are the prop of the Seminary.  I could<lb/> not lend it the strength it gets from you.  I am sure Dr<lb/> Drachman cannot.  You know that if it falls&#44; its fall<lb/> will be a huge strengthening of the enemy.<lb/></p>
+            <p>I pray I can not asking too much of you.<lb/></p>
+            <p>Is it not enough if you maintain your <hi rend="underline">intimate</hi> con&#45;<lb/>nection with Phila. for the rest of your life&#44; giving it your<lb/> services while strength to do it is vouchsafed to you&#44; and to<lb/> lay your bones when the time comes in the midst of<lb/> the flock you have tended so many years and where<lb/></p>
+            
+            <pb n="4"/>
+            <p>your own loved ones are resting.<lb/></p>
+            <p>That there are many problems in the way of this<lb/> proposition&#44; yes.<lb/></p>
+            <p>But is the strengthening of the Seminary desirable&#63;<lb/>
+                If so&#44; all these problems must be met one by one<lb/> resolutely&#44; and the solution of each as resolutely obtained<lb/> </p>
+            <p>Pray think over this.  Do not let our energies<lb/> and communal money be wasted by the fall of the<lb/> Seminary.<lb/></p>
+            <p>With kindest regards and hoping you and<lb/> your dear ones are well as we are<lb/> vy truly yrs<lb/> H. Pereira Mendes<lb/> Keene<lb/> Essex Co<lb/> N. Y.<lb/></p>
+            </body>
+    </text>
+</TEI>

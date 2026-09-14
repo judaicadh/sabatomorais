@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hyams, H. J.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF4_2</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hyams, H. J.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Dayton, OH</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-11" source="" attested="yes">6 November 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff4_2_1r.tif"/>
+                                <graphic url="smbx7ff4_2_1v.tif"/>
+                                <graphic url="smbx7ff4_2_2r.tif"/>
+                                <graphic url="smbx7ff4_2_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>63 Grand Ave Dayton vie<lb/>
+                Dayton Ohio Nov 6<hi rend="sup">th</hi> 1893<lb/></p>
+            <p>Rev Dr S. Morais<lb/>
+                Philadelphia  Pa<lb/></p>
+            <p>Dear Dr<lb/></p>
+            <p>Your favor of the 26<hi rend="sup">th</hi> ult was gladly received&#44; and in<lb/> reply I would say&#44; that as by your expression&#44; you may be able to<lb/> Decipher the uncertain word&#44; by seeing the Shekel&#44; I accordingly<lb/> send you one &#40;by the United State Express Co I have remold from<lb/> the one I have in my possession over 42 years&#59; and had cast of<lb/> a compound metal&#44; so that you may be able to Judge on <hi rend="underline">this</hi><lb/> one&#44; whether the genuine shekel from which mine was remold<lb/> in Jerusalem &#40;I have been told so&#41; is a true genuine&#44; by your<lb/> investigation&#44; or it is an Invention&#44; &#40;I cannot Imagine that<lb/> Mr Solomon would deceive me&#44; being a very respectable young<lb/> man&#44; and of letters&#44; having wealthy parents in Jerusalem&#44; and<lb/> he came by the advise of the late Sir Moses Montefior to learn<lb/> the trade of Engraving in London&#44; he married a Daughter of<lb/> Rev. Meldola of the <sic>Portuguess</sic> Congregation&#44;&#41; I cannot think<lb/> any other explanation&#44; than as you divide the word in<lb/> two sentence&#44; That the word &#91;Hebrew&#93; can be interpreting either<lb/> Left Deposited&#44; or Stored&#44; and as &#91;Hebrew&#93; is from &#91;Hebrew&#93;<lb/> in &#34;&#91;Hebrew&#93;. locked&#44; or from Talmud &#34;&#91;Hebrew&#93;&#44; it may be the vowel &#91;Hebrew&#93;<lb/></p>
+            
+            <pb n="2"/>
+            <p>in the Shekel is <sic>omited</sic> and is only a &#91;Hebrew&#93; as we find in<lb/> &#91;Hebrew&#93; many letters &#91;Hebrew&#93; and &#91;Hebrew&#93;&#44; so in the Shekel the &#91;Hebrew&#93;<lb/> may be &#91;Hebrew&#93; and only a &#91;Hebrew&#93;&#44; as for instance&#44; we find in all the<lb/> Bible &#91;Hebrew&#93; but in our daily prayer is &#91;Hebrew&#93;&#44;<lb/> I remember that <sic>somthing</sic> was said on that word when he<lb/> gave me&#44; but not handling all the time I have forgotten&#44;<lb/> and now as you having the Shekel before you&#44; you can Judge.<lb/>  And allow me to take the liberty to offer you this Shekel for<lb/> keepsake as a token of my high regard I have for you &#40;&#91;Hebrew&#93;&#41;<lb/> I was much pleased when I read in the Exponent of your recovery<lb/> of late sickness you had&#44; and hope the Almighty will prolong thy<lb/> days and to remain the shepherd of His flock&#44;<lb/></p>
+            <p>I was very much pleased to receive from you a few words of<lb/> congratulation of my being still among the living&#44; although<lb/> I have reached by the mercy of God to be over 80 years of age<lb/> which is the Period of the decline of strength &#40;<sic>accordin</sic> to our Rabbis&#41;<lb/> yet&#44; thank God I can say &#40;&#91;Hebrew&#93;&#41; and although I<lb/> do not follow my profession&#44; yet I cannot be Idle and<lb/> whenever I have a chance to do some good for a community<lb/> I do it gratefully&#44; bearing in mind &#40;&#91;Hebrew&#93;&#41;<lb/> and while being in Denver in 91 I got for the Jewish<lb/> Publication Society 90 members and here also 27 members<lb/></p>
+            
+            <pb n="3"/>
+            <p>Having a comfortable home with my son in law Mr Myers<lb/> who takes care of me&#44; so I can spare my time for the<lb/> welfare of others&#44;<lb/></p>
+            <p>In closing I beg to excuse me for this long letter<lb/> thinking that you may adapt the four rules of the<lb/> Wise men &#40;&#91;Hebrew&#93;&#41; &#91;Hebrew&#93;<lb/> Remaining yours very truly<lb/> H J Hyams<lb/></p>
+            <p>PS<lb/></p>
+            <p>After you deciding the merit or Demerit of that Shekel<lb/> you will please to send me a correct translation of it<lb/> as I intend to put one in the Library museum&#44; I would like<lb/> also to know the meaning of one side &#91;Hebrew&#93; and the other &#91;Hebrew&#93;<lb/> It appears to me it meant Davids&#95;Shekel and Second&#95;Year<lb/> but in Hebrew the ש ought to be on the right hand side it would<lb/> read better &#91;Hebrew&#93; IT is my opinion that Hebrew<lb/> at that Period was not so <sic>grammaticly</sic> written as the<lb/> present time and that has given room for commentary&#44;<lb/> H. J. H<lb/></p>
+            </body>
+    </text>
+</TEI>

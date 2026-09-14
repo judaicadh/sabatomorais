@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF9_10</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Montreal, Canada</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet when="1852-08" source="" attested="yes">10 August 1852</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff9_9_2r.tif"/>
+                                <graphic url="smbx1ff9_9_2v.tif"/>
+                                <graphic url="smbx1ff9_9_3r.tif"/>
+                                <graphic url="smbx1ff9_9_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>Montreal 10<hi rend="sup">th</hi> August 5612.<lb/></p>
+                <p>Rev. S. Morais<lb/>
+                Philadelphia.<lb/>
+                Dear Friend<lb/></p>
+                <p>For I trust you will permit<lb/> me thus to address you&#59; and although we have involuntarily<lb/> been opponents &#40;friendly of course&#41; in public on two occasions I<lb/> trust that you with me can see no reason why all should<lb/> not be friends in private.  It was from no insensibility that<lb/> I did not reply at once to your esteemed favor of 10<hi rend="sup">th</hi> ultimo&#59; but<lb/> when I tell you that your letter arrived here during my absence<lb/> on &#34;a trip matrimonial&#34; that I have now been only a month married<lb/> and in that itme have had perforce to continue a literary work<lb/> of mine &#40;The <sic>Sanatary</sic> Institutions of the Hebrews&#8212;you will<lb/> I am sure in the same spirit that dictated the words&#8212;&#91;Hebrew&#93;<lb/> you will pronounce me &#91;Hebrew&#93;.  God forbid I should have any<lb/> unfriendly feeling to you because you were elected to the post I<lb/> aspired&#8212;I am not such a fool as to allow these disappointments<lb/> to become so impressed on my mind as to be injurious&#44; I believe<lb/> that &#91;Hebrew&#93; as well as &#91;Hebrew&#93; does surely &#91;Hebrew&#93;.  Thank<lb/> God&#44; I am truly happy here&#8212;you will say&#44; you are yet a &#91;Hebrew&#93;<lb/> and it would strange were it not so&#44; but I have always been<lb/> so for the 6 years I have been here.  My &#91;Hebrew&#93; are much attached<lb/> to me&#44; they do not think that even you&#44; nor any other &#91;Hebrew&#93;<lb/> my equal&#44; and what more do I want than to see them<lb/> more faithful to their maker&#59; for this I earnestly pray &#38; strive.<lb/>  I am truly glad to hear that your ministry has been<lb/></p>
+                
+                <pb n="2"/> 
+                <p>so far blessed that you have &#34;formed favor in the sight&#34; of<lb/> your &#91;Hebrew&#93; and that many who were formerly careless of spiritual<lb/> matters have now become interested therein.  May we both<lb/> receive the divine help guidance &#38; strength in the sacred<lb/> responsible positions we occupy.  May He regard our efforts<lb/> &#91;Hebrew&#93; however humble&#44; with favor.<lb/></p>
+                <p>I shall proceed with a little more about myself<lb/> to encourage you to write me a long letter about yourself<lb/> I hope you will be induced so to do.  I devote much of my<lb/> time to study &#38; to literary pursuits.  I am now publishing<lb/> a most powerfully &#38; logically written work defending<lb/> Jewish exposition &#38; dogmata&#8212;tho&#39; at the cost of Christianity&#8212;<lb/> entitled Grounds of Christianity Examined by Bethune English M. A.<lb/> the work is a most necessary one for our people in America.  I<lb/> republish it at the earnest solicitation of some members of my congregation<lb/> who have literally subscribed for the purpose.  Our mutual friend<lb/> Mr A Hart has subscribed handsomely and promised his countenance<lb/> I have added a very clever essay by way of appendix on the Talmud<lb/> &#38; the Gospels published by R Lipser in the Jewish Chronicle&#8212;and<lb/> &#91;Hebrew&#93; have published the Essay in pamphlet form<lb/> at 25 cents.  Another work which I have in press is my own&#8212;it<lb/> is the 1st vol of my &#34;<sic>Sanatary</sic> Institutions of the Hebrews&#34;<lb/> designed to show in no unfavorable light the hygiene of<lb/> the Bible and Talmud.  I am about issuing a circular to the<lb/> &#91;Hebrew&#93; soliciting their countenance to the first mentioned<lb/> work especially.  Many of our reverend colleagues of the United<lb/> States &#38; England have permitted me to announce in my circular their<lb/> names as being ready to receive names&#44; subscriptions &#38;c and I<lb/> need scarcely say I should be very glad were I permitted to<lb/> add your name&#44; for the same object.  Perhaps you would be<lb/> kind enough to let me know by return of mail if possible<lb/> as to your wishes on this subject.  <sic>Refering</sic> to a subject<lb/> before mentioned I feel glad to be able to say that Mr Hart<lb/></p>
+                
+                <pb n="3"/> 
+                <p>was in some little error respecting your letter to me in<lb/> reply to that which I addressed to you on your arrival.  I<lb/> did receive your reply&#44; and simply stated my regret to Mr Hart<lb/> that I did not hear oftener from you&#59; as I can assure you<lb/> I should feel great pleasure in counting you among those &#91;&#63;&#93;<lb/> with whom I exchange thought in America by letter.  For<lb/> the present I close &#91;Hebrew&#93;<lb/></p>
+                <p>&#91;Hebrew&#93;<lb/>
+                &#91;Hebrew&#93;<lb/></p>
+                <p>Would it be too much to ask you<lb/> for a list of the seat holders &#38; members<lb/> of your &#91;Hebrew&#93; Perhaps your secretary<lb/> could read&#91;&#63;&#93; it.<lb/></p>
+                
+                <pb n="4"/> 
+                <p>Revd S. Morais<lb/>
+                30 South Third Street<lb/>
+                			Philadelphia<lb/>
+                			Pa.<lb/></p>
+            <p>Favor<lb/>
+                Mr S Hart.<lb/>
+            </p>
+            
+        </body>
+    </text>
+</TEI>

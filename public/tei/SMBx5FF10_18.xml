@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Myers, Alfred</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF10_18</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Myers, Alfred</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Toronto, Canada</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1890-11" source="" attested="yes">26 November 1890</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff10_18_1r.tif"/>
+                                <graphic url="smbx5ff10_18_1v.tif"/>
+                                <graphic url="smbx5ff10_18_2r.tif"/>
+                                <graphic url="smbx5ff10_18_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>IMPERIAL CHEMICAL CO.&#44;<lb/>
+                FOR THE MANUFACTURE OF<lb/>
+                Boiler Compounds.<lb/></p>
+            <p>ALFRED MYERS&#44;<lb/> GENERAL MANAGER<lb/>
+                OUR GUARANTEES.<lb/> CONTAIN NO ACID OR INGREDIENTS TO INJURE<lb/> BRASS&#44; IRON OR PACKING.<lb/> SATISFACTORY RESULT CONDITION OF PAYMENT.<lb/></p>
+            <p>OFFICE AT SOHO MACHINE WORKS&#44;<lb/> ESPLANADE<lb/>
+                Toronto&#44; Novr 26<hi rend="sup">th</hi> 1890<lb/></p>
+            <p>Mr. S. Morais&#44;<lb/>
+                Esteemed Friend&#44;<lb/></p>
+            <p>A letter from me may<lb/> seem strange and so it is&#44;<lb/> but as much as we neglect<lb/> our friends&#44; when we want to<lb/> make use of them can always<lb/> find the time to address them&#44;<lb/> however I trust the purport<lb/> of this will be sufficient<lb/> <sic>apoligy</sic> for intruding on<lb/> your valuable time&#44; just<lb/> let me enquire after the<lb/> health of all your circle<lb/> including of course our dear<lb/> grand children &#38; hope all is<lb/> going as nicely.<lb/></p>
+            <p>Now to the subject I would<lb/> bring to your notice&#44;<lb/> we have in this country a<lb/> day set apart as in the<lb/> United States as a day of &#34;Thanksgiving&#34;<lb/> <sic>orderd</sic> by the <sic>Governer</sic> General<lb/> the same as by the Presidents&#44;<lb/></p>
+                
+                <pb n="2"/>
+            <p>this day has never been observed<lb/> by the Jews of this place &#38; are<lb/> about the only faith whose<lb/> place of worship is not open&#39;d.<lb/>  I have introduced a resolution that<lb/> hereafter it shall be observed<lb/> by the Jews of Toronto.  Now I<lb/> fancy there is &#38; will be much<lb/> opposition to this from the fact<lb/> we have here a large element<lb/> of ignorant &#38; <sic>predjudiced</sic>&#61; Jews<lb/> who think we are <sic>apeing</sic> the<lb/> gentile ideas by taking the steps<lb/> proposed&#44; they do not enter into<lb/> the spirit of being &#34;<hi rend="underline">Citizens</hi>&#34;<lb/> they only think they are &#34;<hi rend="underline">Jews</hi>&#34;<lb/> now what I would esteem<lb/> a favor from you would be<lb/> a letter giving your views<lb/> from of course the strict<lb/> orthodox stand&#45;point &#38; so I<lb/> can show them the argument<lb/> of one whom all consider the<lb/></p>
+                
+                <pb n="3"/>
+            <p>upholder of orthodoxy in America.<lb/>  I think you will understand<lb/> the favor I ask&#44; we have a<lb/> hard set here I assure you&#44;<lb/> only a very few who can be<lb/> called respectable &#38; aim at<lb/> being respected&#44; there is very<lb/> much feeling against the<lb/> Jews here &#38; the general public<lb/> lose no opportunity of casting<lb/> the slur.  It is to try &#38; remove<lb/> these ideas that a few of us<lb/> are making the effort to<lb/> raise the name to the standard<lb/> it should hold but am<lb/> afraid it will be hard task.<lb/>  Thanking you in advance for<lb/> your esteemed reply &#38; with<lb/> kind regards to all united<lb/> by my wife &#38; Fannie<lb/> yours very sincerely<lb/> Alfred Myers<lb/></p>
+            </body>
+    </text>
+</TEI>

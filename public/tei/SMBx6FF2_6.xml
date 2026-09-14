@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Levery, N.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF2_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Levery, N.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Paris, France</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1891-02" source="" attested="yes">5 February 1891</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff2_6_1r.tif"/>
+                                <graphic url="smbx6ff2_6_1v.tif"/>
+                                <graphic url="smbx6ff2_6_2r.tif"/>
+                                <graphic url="smbx6ff2_6_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="fr">French</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>COMIT&#201; CENTRAL					ALLIANCE ISRA&#201;LITE UNIVERSELLE<lb/>
+                Rue de Tr&#233;vise&#44; 35<lb/></p>
+            <p>Paris&#44; le 5 Fevrier 1891<lb/></p>
+            <p>No<lb/>
+                R&#233;ponse aux<lb/>
+                Nos<lb/>
+                Monsieur&#44;<lb/></p>
+            <p>L&#39;Alliance ne s&#39;est jamais adresse&#233; en vain<lb/> a nos coreligionnaires.  Dans toutes les circonstances<lb/> particulieres ou nous avons invoqu&#233; les a appui<lb/> ils nous l&#39;ont donn&#233;.  &#91;&#63;&#93;&#44; c&#39;est pour<lb/> l&#39;ensemble de nos &#91;&#63;&#93;&#44; et en face des pers&#233;cu&#45;<lb/>tions graves qui menacent nos coreligionnaires&#44;<lb/> que nous faisons un pressant appel a leur<lb/> concours et au votre.<lb/></p>
+            <p>Nous n&#39;avons plus a d&#233;moutrer que l&#39;Alliance<lb/> est une force utile au Juda&#239;sm.  L&#39;assistance<lb/> donne&#233; a toute e&#39;poque a nos coreligionnaires&#44; les<lb/> e&#39;tablissements cre&#39;&#233;s pour lest &#91;&#63;&#93; et les relever&#44;<lb/> les &#233;coles qui prosperent dans les divertes contre&#233;s<lb/> de l&#39;Afrique et de l&#39;Orient&#44; les institutions<lb/> d&#39;apprentissage qui grandissent a&#39;c&#244;te de nos &#233;coles&#44;<lb/> l&#39;Ecole de travail de J&#233;rusalem&#44; l&#39;Ecole d&#39;agriculture<lb/></p>
+                
+            <p>Monsieur le Rev. Dr. S. Morais<lb/>
+                545 North Fifth Str.	Philadelphie<lb/></p>
+                
+                <pb n="2"/>
+            <p>de Jaffa&#44; les &#233;coles pr&#233;paratoires d&#39;institueurs et<lb/> d&#39;institutrices&#44; plusieurs g&#233;n&#233;rations d&#39;enfants r&#233;g&#233;n&#233;r&#233;es<lb/> par l&#39;instruction&#44; le travail&#44; vous disent le bien<lb/> que l&#39;Alliance a fait&#44; et &#91;&#63;&#93; qu&#39;elle &#91;&#63;&#93;<lb/> fane avec des ressources plus grandes.<lb/></p>
+            <p>Que n&#39;aurions nous pas a vous dire encore<lb/> sur les &#233;coles et les oeuvres d&#39;apprentissage sur<lb/> les pays ou tout manque&#44; &#233;coles et instruction<lb/> professionnelle&#44; qui n&#39;ont aucun moyen pour<lb/> &#233;chapper a une mis&#233;re s&#233;culaire&#63;<lb/></p>
+            <p>Un devoir plus pressant encore s&#39;impose a<lb/> nous.  Nous avons en Russie des millions de<lb/> coreligionnaires qui souffrent.  On leur ferme<lb/> les &#233;coles&#44; les universit&#233;s&#44; les carrieres publiques&#44;<lb/> on leur d&#233;fend de sortir du pays ou ils sont<lb/> entass&#233;s sans pouvoir y &#91;&#63;&#93;; ils tout chatr&#233;s des<lb/> villes et des villages ou leur existence &#233;tail<lb/> assur&#233;e&#44; leur s&#233;curit&#233; est menace&#233;.  La misere<lb/> exerce des ravages au milieu d&#39;ense.  La<lb/> sympathie que leurs souffrances inspirent a<lb/> leurs compatriotes ne peut se manifester&#44; et<lb/> leurs plaintes restent sans &#233;cho dans le pays.<lb/></p>
+                
+                <pb n="3"/>
+            <p>Ils &#233;migrent&#44; sans savoir ou alles&#44; menac&#233;s de<lb/> p&#233;rir dans les pays ou ils se r&#233;fugient s&#39;ils<lb/> n&#39;y trouvent pas un appui charitable.  Il faut<lb/> les secourir dans leur pays&#44; an dehors&#59; jamais<lb/> notre tache n&#39;a &#233;t&#233; plus lourde.  &#91;&#63;&#93; nous<lb/> y suffire dans le pr&#233;sent et dans l&#39;aveuri&#63;<lb/>  Jamais l&#39;appui de nos coreligionnaires ne nous<lb/> a &#233;t&#233; plus n&#233;cessaire.  Ne devraient ils pas tous<lb/> pr&#233;ter leur concours a notre oeuvre&#63;  Le nombre<lb/> de ceux qui nous le donnent est encore beaucoup<lb/> trop restreint.  Nous avons vu disparaitre avec<lb/> les armies beaucoup de nos collaborateurs actifs<lb/> et d&#233;vou&#233;s&#44; ils n&#39;ont pas toujours &#233;t&#233; &#91;&#63;&#93;.<lb/>  Le nombre des soci&#233;taires&#44; le chiffre des cotisations<lb/> annuelles ne s&#39;augmentent&#91;&#63;&#93; pas&#44; les recettes restent<lb/> stationnaires&#44; la propagande s&#39;est arr&#234;te&#233;<lb/> juste dans un temps ou chaque jour et chaque<lb/> semaine devraient nous apporter de nouveaux<lb/> adh&#233;rents.<lb/></p>
+            <p>Le nombre est une force&#44; doit elle nous<lb/> manquer a l&#39;heure pr&#233;sente&#63;  Si chacun de<lb/> nos coreligionnaires&#44; p&#233;n&#233;tre du sentiment de son<lb/></p> 
+                
+                <pb n="4"/>
+            <p>devoir envers ceux qui ont besoin d&#39;&#233;tre seutenus&#44;<lb/> encourag&#233;s&#44; instruits&#44; &#91;&#63;&#93;&#44; envers ceux qui souffrent<lb/> renait a nous&#44; que de malheureux &#91;&#63;&#93;&#45;<lb/> nous &#91;&#63;&#93; a la pers&#233;cution&#44; a l&#39;ignorance&#44;<lb/> a la miser&#233;&#44; a la mort&#33;<lb/></p>
+            <p>Nous vous &#91;&#63;&#93;&#44; cher collaborateur&#44;<lb/> de nous venir en aide.  Faites appel aux &#91;&#63;&#93;<lb/> existants&#44; &#91;&#63;&#93; des comit&#233;s &#91;&#63;&#93; ils<lb/> manquent&#44; sollicitez les adh&#233;sions de nos coreligion&#45;<lb/>naires&#44; excitez leur &#91;&#63;&#93; en faveur d&#39;une institution<lb/> dont l&#39;utilit&#233; est si grande&#44; si reconnue&#44; qui n&#39;a<lb/> d&#39;autres ennemis que les ennemis du bien&#44; de<lb/> la justice&#44; de la civilisation.  Il n&#39;est pas un<lb/> isra&#233;lite&#44; pas un homme de bonne foi qui ne<lb/> rende hommage a les bienfaits.  Faites avec<lb/> nous un nouvel et puissant effort pour la maintenir<lb/> et la developper.<lb/></p>
+            <p>Recevez&#44; Monsieur&#44; l&#39;assurance de nos<lb/> meilleurs sentiments.<lb/>
+                Pour le Comit&#233; Central.<lb/>
+                N Levery<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF18_2</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Cohen, J. S.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1861-02" source="" attested="yes">9 February 1861</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff18_2_1r.tif"/>
+                                <graphic url="smbx1ff18_2_1v.tif"/>
+                                <graphic url="smbx1ff18_2_2r.tif"/>
+                                <graphic url="smbx1ff18_2_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>Dr. J. S. Cohen<lb/>
+                February 9th 1861<lb/>
+                Dear Sir<lb/></p>
+            <p>I regret my inability to furnish you with the<lb/> passage from the Talmud which has been interpreted as<lb/> conveying the theory disseminated by professor Harvey.<lb/>  It has escaped my memory&#59; nevertheless I will quote one<lb/> which may bear some significance respecting the point<lb/> at issue.  It is the following.  R. Nathan travelled<lb/> to a distant country&#44; and when at a certain place&#44;<lb/> another who had lost two children by the circumcision&#44;<lb/> brought her third son &#40;a babe&#41; to him to be operated on<lb/> according to our laws.  The Rabbi perceiving that it looked<lb/> red all over&#44; advised the mother to defer the religious ceremony<lb/> until the blood spread &#40;&#91;Hebrew&#93; absorbed in Hebrew&#41; through<lb/>out the body.  She did so&#44; and the child out lived the operation<lb/> Another time the same Rabbi went to a city called<lb/> Rassotkeya&#44; where a woman&#44; who had lost two children by<lb/> the circumcision brought to him her third child&#44; that he might<lb/> enter the covenant.  Having noticed that he was all yellow&#44;<lb/> he endeavoured to drain down the blood&#44; by pressing the part<lb/> between his lips &#40;&#91;Hebrew&#93;&#41;.  But as the action did not produce<lb/></p>
+                
+                <pb n="2"/>
+            <p>the intended effect&#44; he requested the mother to wait until<lb/> the blood passed through the body &#40;&#91;Hebrew&#93; to fall in Hebrew&#41;<lb/> But let the meaning of the above passage be what it<lb/> may&#44; the fact that the Jews were acquainted from time<lb/> immemorial with the art of healing&#44; is <sic>uncontestable</sic>.<lb/></p>
+            <p>From the Bible we learn that King Asa consulted the<lb/> physicians more than he sought the Lord.  In the<lb/> Mishna&#44; we are told that King Ezekiah suppressed the<lb/> circulation of a certain medical work&#8212;probably because<lb/> it estranged the mind of our ancestors from the reliance they<lb/> should have exhibited on the heavenly Physician.  In the<lb/> Talmud we read that Samuel the astronomer cured <del>his</del> a<lb/> learned colleague of his sore eyes&#59; that B. Zadok was healed<lb/> by means of sundry directions.  And Maimonides also<lb/> was himself an eminent doctor&#44; offers <del>different</del> various presumptions<lb/> in the first part of his &#34;Digest of the Laws&#34;for the preser&#45;<lb/>vation of health&#44; and presentation of sickness.  It is also<lb/> recorded that among the qualifications to be possessed by<lb/> the Janhedrin&#44; the knowledge of the healing art was necessary&#44;<lb/> for&#44; on them devolved the duty of settlers judicial questions&#44;<lb/> such for instance &#44;which regarded death&#44; whether occasioned<lb/> by a blow deliberately inflicted&#44; or by some inward disease<lb/> &#91;&#63;&#93;.  Furthermore&#44; the existence among us of the<lb/></p>
+                
+                <pb n="3"/>
+            <p>law of primogeniture&#44; implied a knowledge causing the Rabbis<lb/> to decide if a fetus which was not carried&#44; had reached a<lb/> stage when it might have lived in ordinary cases.<lb/>  Again&#59; the distinction between the blood of the menstruum<lb/> and that of an internal wound which was to be determined<lb/> by the Rabbis&#44; for reasons of importance to every strict Israelite<lb/> from their acquaintance with the construction of the human<lb/> body.  Then&#44; the minute directions they have left touching<lb/> the examination which an animal must undergo before<lb/> the use of its flesh is allowable to the Jews&#44; and the detailed description of<lb/> its constitutional parts show that anatomy was <sic>practised</sic><lb/> by them.  Truly&#44; the evidences in support of my assertion<lb/> are so overwhelming&#44; that only ignorance or prejudice<lb/> can gainsay it.  I shall not now cite the<lb/> history posterior to the completion of the Talmud to<lb/> demonstrate that Judaism has produced men <sic>skilful</sic><lb/> in every branch of the healing art.  Let the inquiring student<lb/> glance over the annals of time down to our own days&#44; &#38; he<lb/> will discover at once that Esculapius may well be<lb/> proud of the achievements attained by his Jewish disciples&#44;<lb/> for <del>they are not</del>  in the mansion of the noble&#44; and in<lb/> royal courts&#44; not less than among the indigent and outcasts<lb/> of society their success has been remarkable.<lb/></p>
+                
+                <pb n="4"/>
+            <p>I do not at all wonder at the assumptions of modern<lb/> writers&#8212;even in this liberal country&#8212;who <del>assuredly that to</del><lb/> represent us as devoid of any knowledge&#44; for the sages them&#45;<lb/>selves have said that &#34;no hatred is so inveterate as that<lb/> erected by a difference in religious opinions&#34; but the silent<lb/> and d&#91;&#63;&#93; manner in which our brethren have every<lb/> where combatted<sic></sic> their adversaries&#59; I mean then signal advancement<lb/> in every sc&#91;&#63;&#93;&#44; will most assuredly gain for them at<lb/> last the applause &#38; thanks of the enlightened world.<lb/>  With my best wishes for your future success in life<lb/></p>
+            <p>I am<lb/>
+                yours truly<lb/>
+                S Morais<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

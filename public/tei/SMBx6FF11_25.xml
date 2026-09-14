@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cohen, D. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF11_25</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cohen, D. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Portland, OR</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1892-09" source="" attested="yes">2 September 1892</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff11_24_1r.tif"/>
+                                <graphic url="smbx6ff11_24_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>&#91;Picture of Cohen&#44; Davis &#38; Co. building&#93;<lb/></p>
+            <p>CABLE ADDRESS&#44;								NEW YORK OFFICE&#58;<lb/>
+                &#34;CODA.&#34;									81 WALKER ST.<lb/></p>
+            <p>OFFICE OF<lb/>
+                Cohen&#44; Davis &#38; Co.&#44;<lb/>
+                IMPORTERS OF<lb/>
+                NOTIONS&#44; TOYS &#38; FANCY GOODS<lb/>
+                2 and 4 North Front Street&#44; cor. A&#44;<lb/></p>
+            <p>Portland&#44; Or. Sept 2&#47;92<lb/></p>
+            <p>Rev Dr S Morais<lb/>
+                My dear sir<lb/></p>
+            <p>I can now give you the<lb/> information you desired concerning the new<lb/> congregation in Seattle<lb/>
+                Name&#44; &#34;Ohavath Sholem&#34; President G Winehill<lb/> Sectry. W Kierski<lb/>
+                Minhag Conservative&#44;&#45;&#45;family pews. otherwise leaning<lb/> towards German orthodoxy.<lb/>
+                Number of members now on roll 110.<lb/>
+                Rabbi Rev A. Brown salary &#36;150000 they have<lb/> also a burying ground and Hebrew school<lb/> I met Mr Brown but once when he called upon me here&#44;<lb/> &#40;I was under the impression his name was Moses.&#41;  He is<lb/> something of the style of Bettelheim&#44; though a smaller<lb/> man&#44;&#45;&#45;he is not elected for any definite time&#44; has<lb/> been conducting services in a hall for the past<lb/> Eight months.  The synagogue will be dedicated<lb/> on the 18th inst.  Its quite a handsome one&#44; &#40;frame&#41;<lb/> I am told&#44; having not yet seen it&#44; I will deliver<lb/></p>
+                
+                <pb n="2"/>
+            <p>the dedication address.  I do not think that<lb/> Brown is a speaker.  I shall be pleased<lb/> if I can be of any service to you or the<lb/> college in this or any other direction.<lb/></p>
+            <p>With regards<lb/> Very truly yours<lb/> D. S. Cohen<lb/></p>
+            <p>You will be pleased to know that the<lb/> people &#91;&#63;&#93; recognize a change in the<lb/> conduct of affairs in my department and<lb/> very generously credit me with meeting<lb/> all their expectations.  The position is in no<lb/> wise a pleasant one and I have probably<lb/> made many active enemies among the corrupt<lb/> classes&#59; but I have done everything with the<lb/> windows open &#38; shall so continue&#44;&#45;&#45;they shall<lb/> all acknowledge that the first man they have had<lb/> in the position who favored none &#38; feared none was a Jew.<lb/></p>
+            </body>
+    </text>
+</TEI>

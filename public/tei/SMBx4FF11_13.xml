@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF11_13</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Jewish Theological Seminary of America</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-07" source="" attested="yes">19 July 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff11_13_1r.tif"/>
+                                <graphic url="smbx4ff11_13_1v.tif"/>
+                                <graphic url="smbx4ff11_13_2r.tif"/>
+                                <graphic url="smbx4ff11_13_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>C<lb/>
+                O<lb/>
+                P<lb/>
+                Y<lb/></p>
+                
+            <p>To the President and Trustees of the Jewish Theological Seminary Association<lb/></p> 
+            <p>Gentlemen<lb/></p>
+            <p>On Monday&#45;&#45;June 25th&#45;&#45;a private examination of the students<lb/> of our institution was held in Room 31 of Cooper Union.<lb/></p>
+            <p>Of the ten pupils in the preparatory class only seven were present.<lb/>  I learned with regret that Isidor Cohen had been so irregular as to warrant his being<lb/> stricken from the roll&#59; that Solomon Bernstein is nearly as irregular&#44; and Raymond<lb/> Rubenstein&#45;&#45;though not so much at fault in his attendance&#45;&#45;behaves badly.<lb/></p>
+            <p>The examination was conducted principally by myself in<lb/> conjunction with Dr. Kohut.  Emanuel and Joseph Hertz gave evidence of diligent<lb/> application to their studies&#44; and of natural capacities to retain what is taught<lb/> them.  They stood the highest in their average in all branches&#44; viz&#59; in 20 chapter<lb/> of Genesis with Rashi&#59; 50 psalms&#44; history from Joshua to the death of David&#59; grammar&#44;<lb/> Mishnah <hi rend="underline">Shabbath</hi> from chapter 9 to 11&#44; and Talmud <hi rend="underline">Baba Metzia</hi> p 8 to 11.<lb/></p>
+            <p>David Wittenberg might rank with the two brothers aforenamed&#44;<lb/> were it not that he cannot express his thoughts intelligibly&#44; owing to his<lb/> imperfect acquaintance with English.  Elias Barowsky may be placed next as regard<lb/> history&#44; Mishnah and Ghemara&#44; and Bernard Blankford stands somewhat below.  The<lb/> latter has a pleasing appearance&#44; but evidently his looks betrayed excitement when<lb/> he was under examination.  Meyer Levy and Arnold Greenfield were found less<lb/> proficient than the rest.<lb/></p>
+            <p>I can never too strongly recommend the enforcing of<lb/> Grammatical rules and diacritical marks in the reading of the Hebrew&#44; and I would<lb/> even suggest that whole chapters and psalms be memorized and recited distinctly<lb/> aloud&#44; so as to render the pupils familiar with the original&#44; and qualify them to<lb/> readily and correctly quote the sacred text.<lb/></p>
+            <p>In the Junior class&#44; Levias&#44; Frohmsen and Iron are equal<lb/> respecting 16 chapters of Exodus with comments&#44; Hebrew Grammar and 8 p Ghemara<lb/> <hi rend="underline">Chullin</hi> and 10 of <hi rend="underline">Berachoth</hi>&#44; but not equal respecting their capacity of expression.<lb/>  I was pleased to notice an improvement in every sense in Simpson&#44; remembering how<lb/> unattractive his appearance and his address were when he was admitted into the<lb/> Seminary.  Friedlander did not average as high as his fellow&#45;students&#44; but he<lb/> seems anxious to rise up to the same standard.  Spicker&#44; or Speaker&#44; has often<lb/> applied to me and begged that he may be enrolled among our pupils.  He attends<lb/> merely as a listener.  Clearly&#44; he has a good knowledge of Talmud and&#44; I might<lb/> add also&#44; of Bible&#44; but his English is very bad&#44; and his appearance is not<lb/> prepossessing.  He may&#44; possibly&#44; be of service hereafter as a teacher.  I doubt his<lb/> ability to use the pulpit with credit to himself and with benefit to Judaism in<lb/> America.  I met for the first time at the private examination Halper.  He is a<lb/> young Talmudist&#44; needing a better acquaintance with other branches of our literature&#44;<lb/> and with our vernacular language.  I believe he simply attends as a listener.<lb/></p>
+            <p>Drs. Drachman and Lieberman devote themselves with zeal to<lb/> the <sic>fulfilments</sic> of their task&#44; but it is natural to all who are engaged in<lb/> the performance of so responsible an undertaking as theirs&#44; to feel encouraged by<lb/> the occasional visits of Directors and Trustees at the sessions.  I crave for that<lb/></p>
+                
+                <pb n="2"/>
+            <p>&#45;2&#45;<lb/></p>
+            <p>encouragement at the hands of all who have united with me<lb/> towards the promotion of a holy cause.<lb/>
+                Yours faithfully<lb/>
+                S. MORAIS<lb/></p>
+            <p>Philadelphia July 19&#44; 1888.  Ab 11&#47;68<lb/></p>
+            </body>
+    </text>
+</TEI>

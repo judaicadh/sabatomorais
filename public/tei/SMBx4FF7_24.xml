@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF7_24</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cincinnati, OH</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1887-11" source="" attested="yes">14 November 1887</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff7_24_1r.tif"/>
+                                <graphic url="smbx4ff7_24_1v.tif"/>
+                                <graphic url="smbx4ff7_24_2r.tif"/>
+                                <graphic url="smbx4ff7_24_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                 
+                <pb n="1"/>
+            <p>1<lb/>
+                Ezekiel &#38; Bernheim&#44;<lb/>
+                Auctioneers&#44;<lb/>
+                Nos. 134 Main and 31 Hammond Streets.<lb/></p>
+            <p>Cincinnati&#44; Nov<hi rend="sup">r</hi>. 1887.<lb/></p>
+            <p>Rev<hi rend="sup">d</hi> Dr. S. Morais<lb/>
+                Philadelphia&#44; Pa.<lb/>
+                My valued Friend<lb/></p>
+            <p>The spring of thought has prompted me<lb/> to write you a few lines&#44; a pleasure that I have not par&#45;<lb/>taken of for a long time&#44; it may be equally gratifying to<lb/> you for to know that you are not yet forgotten<lb/> I trust this may reach you finding your dear self &#38;<lb/> your entire dear family in the enjoyment of health&#59;<lb/> and I am pleased to chronicle that all of our family<lb/> are well thank God.  I was in hopes to have wended<lb/> <del>to y</del> my way East ere this to have embraced the opportu&#45;<lb/>nity of having a chat with you on our old topics.<lb/>  I am aware that your mind if firmly fixed on the<lb/> success of the New York Jewish Theological Seminary<lb/> and I trust that you may accomplish all your antici&#45;<lb/>pations&#44; I hear but little of its progress.  I really hope that<lb/> you may realize your most sanguine expectations&#44; I do not<lb/> know how you can manage to educate boys for the<lb/> ministry without giving  them subsistence and clothing<lb/> during the period of their education&#44; we cannot&#44;<lb/></p>
+                
+                <pb n="2"/>
+            <p>some years ago we had several boys from wealthy<lb/> families who after spending a couple of years at<lb/> the college finally went into mercantile pursuits&#44;<lb/> you must recollect&#44; we had Freiburg&#44; Marks&#44; Friedlander<lb/> and others&#44; it is only the poorest class that will re&#45;<lb/>main with us and go through the entire course of study&#44;<lb/> and there is no calculation to be made even with the<lb/> poorer class after they have been with us for a few<lb/> years and obtained a good secular education as<lb/> well collegiate and <sic>subsistance</sic>&#44; they drop off.  I think<lb/> the year that &#34;Balisk&#34; our last graduate entered our<lb/> College there was 15 entered his class with him and<lb/> all dropped off from time to time&#44; so that he was the<lb/> only one graduated.  doubtless you will have the<lb/> same difficulty to encounter from time to time.  it<lb/> seems therefore a pity that there would be two rival<lb/> institutions to promote the same object of instruction&#59; under<lb/> all those difficulties <hi rend="underline">we</hi> have had to encounter&#44; makes<lb/> me entertain the hopes that the day may not be far<lb/> distant when circumstances will permit&#44; that an amal&#45;<lb/>gamation will become a matter of necessity for your pupils<lb/> to complete there collegiate studies and obtain such Diploma<lb/> that will be recognized throughout the United States which<lb/> may tend to their benefit in obtaining lucrative posi&#45;<lb/>tions.  I have been considering these matters over and<lb/> over&#44; and cannot help thinking of the advisability of<lb/> amalgamating these two institutions when a time<lb/></p>
+                
+                <pb n="3"/>
+            <p>2&#41;<lb/></p>
+            <p>shall arrive when the benefit of my views may be&#45;<lb/>come <sic>apparant</sic> through force of circumstances&#44;<lb/> that may prove beneficial to the interest of Juda&#45;<lb/>ism in this country&#44; as a matter of course you as<lb/> well as myself are advancing in years of life&#44; and<lb/> it may probably be well to interchange views on<lb/> this important subject in our time for the benefit<lb/> of those who may fill our void when God may be<lb/> pleased to call us away from this earthly abode.<lb/>  My valued friend you know that I have never for<lb/> a moment doubted your honesty of purpose&#44; at the<lb/> time you took hold of this affair.  I am charitable<lb/> enough to say&#44; that from <hi rend="underline">your</hi> standpoint it must<lb/> have been galling enough to you at times&#44; the va&#45;<lb/>rious articles that emanated from the pen of<lb/> the President of this college in the &#34;American Is&#45;<lb/>raelite&#44;&#34; still you konw that within the sacred pre&#45;<lb/>cints&#91;&#63;&#93; of the college&#44; that that which is taught to<lb/> the students is from the same sources as you or<lb/> any other teacher would or could teach in any<lb/> Rabbinical College&#44; and that Dr Wise or any<lb/> of the other teachers no matter how radical<lb/> their own private views are&#44; they do not give<lb/> their opinions in opposition to the teachings<lb/> of our sages&#44; hence why should any line be<lb/> drawn between the Eastern or Western College&#44;<lb/> in the curriculum or course of study.<lb/></p>
+                
+                <pb n="4"/>
+            <p>I just noted in this weeks Jewish Journals that<lb/> you have entered a few scholars in the higher<lb/> branches&#44; did they advance from the lower<lb/> classes&#63; or had they been taught the advance<lb/> studies before entering the Seminary&#44; I can&#45;<lb/>not well understand this part of it.<lb/></p>
+            <p>Now as regards our College&#44; we are getting<lb/> on well&#44; particularly with the rules adopted<lb/> by the Board of Governors and the Faculty&#44; no doubt<lb/> you have read them in the &#34;Am. Israelite&#34; <hi rend="underline">in</hi><lb/> in the printed proceedings of the Board of Gover&#45;<lb/>nors.  We have about 45 students this session&#44;<lb/> though will not graduate any this year&#44; we<lb/> will launch them out the next however.  We<lb/> intend to be very rigid with the students and<lb/> whenever requisite&#44; will read the <hi rend="underline">riot act</hi> to them<lb/> unsparingly&#44; I have no doubt you will tire over<lb/> this &#91;&#63;&#93;&#44; but I write as  I feel and when the<lb/> spirit moves me.  My sheet is full so God bless you and<lb/> all your dear ones with long life and health&#44; and with<lb/> love to and from all.  I remain as ever&#44; yours truly<lb/> Jacob Ezekiel<lb/></p>
+            </body>
+    </text>
+</TEI>

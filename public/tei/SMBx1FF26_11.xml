@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">D'Solla, J. M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF26_11</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">D'Solla, J. M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>San Francisco, CA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1867-05" source="" attested="yes">16 May 1867</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff26_11_1r.tif"/>
+                                <graphic url="smbx1ff26_11_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>San Francisco May 16<hi rend="sup">th</hi> 1867<lb/>
+                Rev S. Morais<lb/>
+                Phila.<lb/>
+                Rev. Dear Sir<lb/></p>
+            <p>Your favor of March 20 must have been <lb/>delayed for some time in the P. O&#44; and reached<lb/> me only to day.  The grammar I borrowed from<lb/> you I found among my books sent to me by<lb/> sailing vessel as I anticipated&#44; and I am look&#45;<lb/>ing for an opportunity to send it back to you.<lb/>  It is seldom that I hear of any passengers go&#45;<lb/>ing to Phila.&#44; but I will send to N some acquaintances<lb/> in N. Y. with request further to forward it to you<lb/> I have read your biography of the late Hahn<lb/> Lozzatti with much satisfaction&#44; and with feelings<lb/> of veneration for the learned departed&#59; but I<lb/> have not seen your articles in the &#34;Messenger&#34;<lb/> As I am writing weekly Leaders for the &#34;Hebrew&#34;<lb/> &#40;a local paper&#41; I have an opportunity of seeing<lb/> the exchanges of nearly all the Jewish periodicals&#44;<lb/> and intend to look for your articles in the &#34;Mes&#45;<lb/>senger&#44; especially on the subject of the ritual.  These<lb/> may even afford me some material to write<lb/> upon&#44; as I am sometimes at a loss what to say.<lb/></p>
+            <p>This will&#44; I presume&#44; be handed to you by one of<lb/> my sons&#44; and I trust you will pardon me for mak<lb/></p>
+                
+                <pb n="2"/>
+            <p>ing this an opportunity of asking you a favor in<lb/> their behalf.  They are very anxious to join our<lb/> family circle&#44; and we&#44; especially my wife&#44; are<lb/> equally wishful to have them here with us&#59; I am<lb/> satisfied that the boys can make better progress here<lb/> than in Phila. but my limited income does not<lb/> allow me to send for them at my own expense&#44; nor<lb/> can they earn enough to gather the means themselves.<lb/></p>
+            <p>Neither do I wish them to depend on gifts and favors&#44;<lb/> and therefore wrote them they must try to work their<lb/> own way through&#44; But as they may still be in want<lb/> of some assistance to put them on the way&#44; I would<lb/> ask you to lend them a helping hand as far as<lb/> it is in your power&#44; and your kindness shown them<lb/> will be duly appreciated by me.<lb/></p>
+            <p>It will afford me great pleasure to hear<lb/> from you again&#44; and with best wishes for<lb/> your constant health and prosperity<lb/></p>
+            <p>I remain&#44; Dear sir<lb/>
+                Yours truly<lb/>
+                			J M d&#39;Solla<lb/>
+                Mrs. D&#39; joins me in<lb/>
+                regards to yourself and<lb/> 
+                circle.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

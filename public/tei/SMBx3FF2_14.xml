@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF2_14</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Houston, TX</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1882-03" source="" attested="yes">1 March 1882</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff2_14_1r.tif"/>
+                                <graphic url="smbx3ff2_14_1v.tif"/>
+                                <graphic url="smbx3ff2_14_2r.tif"/>
+                                <graphic url="smbx3ff2_14_2v.tif"/>
+                                <graphic url="smbx3ff2_14_3r.tif"/>
+                                <graphic url="smbx3ff2_14_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>6 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>JACOB VOORSANGER&#44;<lb/>
+                EDITOR JEWISH SOUTH&#44;<lb/>
+                HOUSTON&#44; TEXAS.<lb/></p>
+            <p>Mch. 1. 1882<lb/></p>
+            <p>Rev. S. Morais<lb/>
+                My dear Sir<lb/></p>
+            <p>I am in the receipt of your postal<lb/> card and of proofs of your article&#44; both of which<lb/> reached me last Monday.  The railroad track of the<lb/> St. Louis &#38; Iron Mountain R. R. which carries the Tex&#44;<lb/>as mails is entirely submerged&#44; owing to the Mississippi<lb/> floods in Arkansas and on that account mails are con<lb/>stantly delayed and in consequence your article<lb/> appeared in the J. S. before I could send a corrected<lb/> proof to New Orleans. Fortunately not much harm<lb/> is done&#59; the article has appeared almost entirely free<lb/> from errors&#44; but the correction requested could not be<lb/> made and had I been in time your article would<lb/> have had the place of honor&#44; the editorial page&#44;<lb/> whereas now it was printed on the inside.  I hope<lb/> that any incorrection which has crept in will not<lb/> be placed to my credit.<lb/></p>
+            <p>Permit me to express my thanks to you for the<lb/> honor you have conferred upon me by answer&#44;<lb/></p>
+                
+                <pb n="2"/>
+            <p>ing my article.  I wrote as I felt&#44; but I did not over<lb/>look the respect due you as our leader and teacher<lb/>  I wanted to be informed&#44; not to criticize.  And I am<lb/> very glad that you accepted my article in that spi<lb/>rit.  Now will you pardon me&#44; if I insist that even<lb/> your reply has failed to satisfy me&#63;  You certainly<lb/> make strong points&#44; but the main point&#8212;permit me&#45;&#45;<lb/> remains unanswered.  I will only make one illustra<lb/>tion&#58; Bernstein&#44; a German rationalist&#44; claims that<lb/> the whole of Genesis covering the history of Jacob<lb/> and Joseph was written at the court of Joroboam&#91;&#63;&#93; I<lb/> for political purposes.  The points he makes are very<lb/> strong.  The writer makes Joseph Jacob&#39;s best beloved<lb/> son to prove that the kingdom of Israel is God&#39;s<lb/> favorite.  He depicts Joseph&#39;s sufferings to prove<lb/> that already in olden times there was division<lb/> between Joseph and the rest.  He makes Jacob<lb/> sacrifice at Beth El&#44; to prove that Beth El was<lb/> a place of worship before ever Jerusalem was<lb/> thought of.  Rachel&#8212;Joseph&#39;s mother is Jacob&#39;s<lb/> best beloved wife.  <hi rend="underline">Judah</hi>&#44; the representative<lb/> and archi&#45;type of the other kingdom is made<lb/></p>
+                
+                <pb n="3"/>
+            <p>JACOB VOORSANGER&#44;<lb/>
+                EDITOR JEWISH SOUTH&#44;<lb/>
+                HOUSTON&#44; TEXAS.<lb/></p>
+            <p>3<lb/></p>
+            <p>a whoremaster and adulterer&#44; and even his<lb/> sons are the offspring of adultery from which<lb/> <hi rend="underline">the seed of David</hi> has sprung&#8212;this to prove<lb/> the low origin of the royal family.  Now&#44; if I accept<lb/> these facts&#44; what becomes of the logical or even<lb/> historical connection of the book of Genesis&#63;<lb/>  Graetz proves that most of the Levitical laws<lb/> were inserted in Torath Kohanim by the Kene&#44;<lb/>set Haggedola in imitation of the Parsee<lb/> laws.  The same author makes <sic>Solemon</sic> res&#44;<lb/>ponsible for the &#91;&#63;&#93; &#91;Hebrew&#93; in Leviticus&#44; what<lb/> must I think of all this&#63;  I assure you<lb/> Robertson Smith is not the worst enemy with<lb/> whom conservative religion has to contend&#44; And<lb/> I am still at a loss to know how all these<lb/> facts can be <sic>disproven</sic>&#44; or how an acceptance<lb/> thereof can be reconcilable with conservatism.<lb/>  I am sadly perplexed&#44; have still more become<lb/> so since the publication of your &#34;talk.&#34;  I<lb/> do not mean to infer that I am unsettled<lb/> in my <hi rend="underline">private</hi> opinions on these subjects.  I<lb/></p>
+                
+                <pb n="4"/>
+            <p>have for several years past studied the subject<lb/> carefully and I may say prayerfully&#44; but I <hi rend="underline">dare</hi><lb/> not present my private judgment to my charges<lb/> unless I have sufficient argument at my com<lb/>mand to prove that conservative&#44; historical<lb/> Judaism stands above any consideration of<lb/> that nature.  These arguments I thought to elicit<lb/> from you.  Will you keep me in my endeavors&#63;<lb/>  I should be so thankful&#44; <sic>That</sic> I have long ago<lb/> come back to my conservative principles the<lb/> Jewish South may witness.  That paper is pledged<lb/> to conservative Judaism&#44; and though my form<lb/> of worship is modern&#44; my preaching is as<lb/> conservative as yours.  I would ask your<lb/> permission to continue this controversy<lb/> in the press.  Nothing but good can come of it.<lb/>  We need an awakening of public sentiment<lb/> in favor of conservatism&#44; and by the dashing<lb/> of opinions it can be done.  Rationalism<lb/> and radicalism are making sad havoc<lb/> with Judaism&#44; and hardly a line is written<lb/> from our side.  If my God gives me health<lb/></p>
+                
+                <pb n="5"/>
+            <p>JACOB VOORSANGER&#44;<lb/>
+                EDITOR JEWISH SOUTH&#44;<lb/>
+                HOUSTON&#44; TEXAS.<lb/></p>
+            <p>5<lb/></p>
+            <p>and strength to continue my work I shall not<lb/> remain idle.  I have learned to speak and to<lb/> write plainly and forcibly&#44; and I intend to do<lb/> <hi rend="underline">my</hi> share of the work.  We have an important<lb/> point in our favor&#44; to wit&#44; that the American<lb/> religious tendency is decidedly conservative&#44;<lb/> and with proper and systematic work&#44; The A&#44;<lb/>merican Jewish Synagogue will step over<lb/> Kohler and Adler into the arms of Moses<lb/> and the prophets.  Now&#44; if you will consent<lb/> to continue this controversy&#44; it would delight<lb/> me&#44; not from any selfish motive but &#91;Hebrew&#93;<lb/> and I beg you to inform me of your decision<lb/> on the subject.<lb/></p>
+            <p>Thanks for your kind inquiries after the health<lb/> of myself and family.  I have been quite sick<lb/> for the last four weeks&#44; was in fact confined<lb/> to my bed&#44; but now I feel strong and well again<lb/></p>
+                
+                <pb n="6"/>
+            <p>and ready for work.  Mrs. V. and the children are<lb/> enjoying exceptional good health for which I am<lb/> duly thankful.  Your little namesake is now a &#34;wee<lb/> toddler&#34; of 21 months old&#44; and begins to prattle in<lb/> all imaginable dialects.  He has another little brother<lb/> born two months ago&#44; which makes the number<lb/> of my children five and charges me with additi<lb/>onal responsibilities.  How the years toll&#91;&#63;&#93; on.  Eight<lb/> and a half years ago I was a youngster&#44; without a<lb/> single responsibility and before I am thirty I am<lb/> a father of five children&#44; and carrying more res<lb/>ponsibilities than I think sometimes I am able<lb/> to bear.  Many thanks for your good opinion con<lb/>cerning my usefulness.  I aim at doing a man&#39;s work<lb/> and I beg to assure you&#44; that at this period of my<lb/> career I am as sensitive and anxious to de<lb/>serve your confidence and good wishes as I<lb/> was ever before.  With my respectful regards to Miss<lb/> Morais and the children and my love to yourself<lb/> and hoping to be favored with an early answer<lb/> I remain	Faithfully yours<lb/></p>
+            <p>Jacob Voorsanger<lb/>
+                Box 319.<lb/></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Almosnino, Sarah</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF10_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Almosnino, Sarah</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1853-10" source="" attested="yes">20 October 1853</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff10_6_4r.tif"/>
+                                <graphic url="smbx1ff10_6_4v.tif"/>
+                                <graphic url="smbx1ff10_6_2r.tif"/>
+                                <graphic url="smbx1ff10_6_2v.tif"/>
+                                <graphic url="smbx1ff10_6_3r.tif"/>
+                                <graphic url="smbx1ff10_6_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>Revd. S. Morias<lb/>
+                Philadelphia<lb/>
+                p Packet	U S.<lb/></p>
+                
+                <pb n="2"/>
+            <p>My dear sir<lb/></p>
+            <p>Mr. Almosnino&#44; being much<lb/> occupied in public matters&#44; has<lb/> delegated to me the very pleasing<lb/> task of conveying to you our<lb/> very sincere congratulations&#44; in<lb/> the flattering mark of respect<lb/> shown[?] you by the congregation<lb/> you have so ably served.<lb/></p>
+            <p>Believe me my dear Sir&#44; we<lb/> have all participated in the<lb/> pleasurable feelings&#44; which such<lb/></p>
+                
+                <pb n="3"/>
+            <p>an election must have afforded<lb/> you.  Our mutual friend Mr. Peixotto<lb/> knowing the interest we feel in yr.<lb/> success kindly informed us of<lb/> the high mark of respect testified<lb/> to you&#44; by the renewal of your<lb/> appointment My parents &#38; circle<lb/> unite with us&#44; in wishing you<lb/> years of uninterrupted health &#38;<lb/> happiness to enable you&#44; to continue<lb/> the fulfillment of your sacred<lb/> office.  We are glad to hear that<lb/> there is a probability of your<lb/> paying us a visit in the Spring<lb/> you have no doubt heard of<lb/> the Branch Synagogue<lb/></p>
+                
+                <pb n="4"/>
+            <p>established Westward&#44; for the<lb/> benefit of our coreligionists at<lb/> that end of London &#38; during<lb/> the Festivals&#44; it was very fully<lb/> attended thereby proving the<lb/> necessity of a place of worship<lb/> during the New Year&#44; &#38; day of<lb/> atonement.  Mr. Almosnino<lb/> officiated&#44; assisted by Sol. Sebag<lb/> the congregation is now much<lb/> in need of a Hazan &#38; on &#91;&#63;&#93;&#44; that<lb/> a Country man of yours is coming<lb/> &#91;&#63;&#93; on approval.  I trust if he<lb/> suits&#44; he will as readily acquire<lb/> the English language as you<lb/> did.  I am happy to be able<lb/> to add that Mr. Pincotti &#38; family<lb/> are becoming rather more<lb/></p>
+                
+                <pb n="5"/>
+            <p>reconciled to their sad bereavement<lb/> the death of so promising a child<lb/> was indeed a dreadful trial&#44; but<lb/> we dare only bow the head &#38; say<lb/> &#34;Thy Will O Lord be done&#34;.<lb/></p>
+            <p>Mr Almosnino &#38; self are joined<lb/> by every member of our united<lb/> families in &#91;&#63;&#93; &#38; good wishes<lb/></p>
+            <p>I remain<lb/>
+                My dear Sir<lb/>
+                Yrs &#38;c &#38;c<lb/>
+                Sarah Almosnino<lb/>
+                20<hi rend="sup">th</hi> Oct 1853<lb/>
+                B. M.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

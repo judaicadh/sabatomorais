@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Vineberg, Harris</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF2_33</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Vineberg, Harris</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Montreal, Canada</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1886-08" source="" attested="yes">23 August 1886</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff2_34_1r.tif"/>
+                                <graphic url="smbx4ff2_34_1v.tif"/>
+                                <graphic url="smbx4ff2_34_2r.tif"/>
+                                <graphic url="smbx4ff2_34_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>Office of the Secretary<lb/>
+                OF THE<lb/>
+                German and Polish Synagogue&#44;<lb/></p>
+            <p>Montreal&#44; Aug. 23<hi rend="sup">rd</hi> 5646<lb/>
+                1886<lb/></p>
+            <p>Rev. S Morais<lb/></p>
+            <p>Philadelphia P. A.<lb/></p>
+            <p>Dear Sir<lb/></p>
+            <p>We are about completing a New<lb/> Synagogue for&#44; the erection of which&#44; this Congregation<lb/> has strained every nerve&#44; the edifice itself&#44; though not a<lb/> <hi rend="underline">very</hi> expensive one&#44; will be the finest in Canada&#44; and one<lb/> of which the Orthodox Jews of this Country at least&#44;<lb/> may well be proud of&#44; this Board has resolved&#44; that since<lb/> the <sic>Allmighty</sic> spared and assisted us in erecting a<lb/> suitable place of worship&#44; we shall celebrate the occasion in<lb/> a suitable manner&#44; and in a way to show the world that<lb/> Orthodox Judaism is not dead.  We therefore&#44; beg to ask you<lb/> to come and deliver an oration&#44; in conjunction with Reverend<lb/> Mr Friedlander&#44; our Minister&#44; at the consecration&#44; on Sept. 15th&#44;<lb/> We are prompted to make this request of you from the knowledge&#44;<lb/> of the stand you have taken in Judaism&#44; and that your whole<lb/> life has been spent in defending our sacred religion.<lb/></p>
+            <p>We therefore hope that you will not deny us the honor&#44; of<lb/> taking the lead in dedicating our new building to the<lb/> worship of God.  I may here add that in undertaking this<lb/> building we have spent more than our means would allow&#44;<lb/> and may not be in a position to remunerate you for your valuable<lb/> service&#44; as much as we would like to&#44; but we sincerely trust<lb/> that this will not prevent you from&#45;&#45;what must be a pleasure to you<lb/></p>
+                
+                <pb n="2"/>
+            <p>Office of the Secretary<lb/>
+                OF THE<lb/>
+                German and Polish Synagogue&#44;<lb/></p>
+            <p>Montreal&#44; <hi rend="underline">2</hi> 564<lb/>
+                188<lb/></p>
+            <p>&#45;taking part in such a ceremony&#44; on receipt of your kind<lb/> acceptance we will forward you a check for your expenses&#44; &#38;c &#38;c&#44;<lb/> Hoping to be favoured with an early reply.<lb/>  I am your Obed&#39;t Servant<lb/> Harris Vineberg<lb/> Hon&#39;y Sec&#39;y<lb/></p>
+            <p>address&#44; 752 Craig St							G &#38; P Cong<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF10_2</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff10_2_1r.tif"/>
+                                <graphic url="smbx11ff10_2_1v.tif"/>
+                                <graphic url="smbx11ff10_2_2r.tif"/>
+                                <graphic url="smbx11ff10_2_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>a funeral address<lb/></p>
+            <p>My friends&#33;  It is under all circumstances praiseworthy in man<lb/> to bear the trials of life with pious resignation.  It indicates<lb/> a mind possessed of social2 &#38; domestic1 virtues for&#44; he who through&#45;<lb/>out his terrestrial vicissitudes sees the finger of an ever watch&#45;<lb/>&#45;ful Providence&#44; will acquire that a gentleness of character that<lb/> sweetens our intercourse both at home and abroad.  But<lb/> poor humanity is oftentimes exposed to suffering so intensely<lb/> acute&#44; that&#44; although endured without uttering a murmur&#44; yet<lb/> our natural energies will ultimately succumb under them.<lb/>  Bare indeed and therefore exceedingly to be commended is the occa&#45; instance<lb/>&#45;sion when such suffering will not overpower our physical<lb/> and moral strength.  My friends&#33;  Ought we not<lb/> then to bestow a meed of praise upon the venerable being<lb/> whose mortal remains now lie before us&#63;  Mistress Kate Catherine<lb/> Isaacs shared in common with all her fellow&#45;beings many<lb/> tribulations&#44; but what sorrow is like her sorrow&#44; when<lb/> the vital lamp that illumined her path became extinguished&#44;<lb/> and she was surrounded by clouds and ever&#45;enduring darkness&#59;<lb/> thus21 to be cut off from the cheerful ways of man&#44; never to<lb/> behold the vernal bloom&#44; nor the summer&#39;s rose&#44; nor the<lb/> human face divine&#63;  For a the long series of twenty years<lb/></p>
+            
+            <pb n="2"/>
+            <p>she was shut out of this our genial and exhilarating invigorating light&#44; but<lb/> the inward light of religion guided her steps.  Her mind<lb/> retained its serenity&#44; her manners lost naught of their suavity.<lb/>  In all the relations of life she uninterruptedly evinced an even<lb/> deportment.  Grateful to the God of mercy&#44; who&#44; in<lb/> her affliction had given her a stay in a beloved husband&#44;<lb/> she tranquilly abode with him&#44; until he preceded her to the<lb/> eternal abode.  Then was her saddened heart&#44; warmed in<lb/> her childs hearth&#44; then she delighted in the growth and<lb/> mental progress of her own descendants.  Thus she<lb/> lived&#44; and when the angel of death approached her couch&#44; she<lb/> whispered but one request.  She would lie close unto him<lb/> who had been her copartner and the joy of her existence.<lb/>  That wish is about to be fulfilled.  He is who solemnly<lb/> promised it&#44; will at this late hour betake himself to a<lb/> neighboring city&#44; there to deposit the bodily tenement of<lb/> our estimable friend into thus its final destination.  &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93; Blessed be he of the Lord&#44; who has not withheld<lb/> his kindness from the living and from the dead.  May<lb/> He pour the balm of divine consolation upon be poured on his bereaved<lb/> household.  May the Almighty grant that the example<lb/> of the righteous mother&#44; inspire th her children with<lb/></p>
+            
+            <pb n="3"/>
+            <p>resignation to the his just decrees of Providence.  May He grant<lb/> that when their days are far spent&#44; and their nights are<lb/> at hand&#44; that their posterity may say of each of them what<lb/> we will say of this pious soul &#34;Grace is deceitful&#44; beauty is<lb/> false&#44; but the women who feareth the Lord&#44; she shall be pleased.  He shall enter the dwelling of peace&#44; they shall<lb/> rest upon their beds&#44; who walk in righteousness.&#34;  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

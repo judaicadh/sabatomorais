@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Bettelheim, A. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF12_27</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Bettelheim, A. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-08" source="" attested="yes">1 August 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff12_28_1r.tif"/>
+                                <graphic url="smbx4ff12_28_1v.tif"/>
+                                <graphic url="smbx4ff12_28_2r.tif"/>
+                                <graphic url="smbx4ff12_28_2v.tif"/>
+                                <graphic url="smbx4ff12_28_3r.tif"/>
+                                <graphic url="smbx4ff12_28_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>&#91;Hebrew&#93; &#91;&#63;&#93; August 1<hi rend="sup">st</hi><lb/></p>
+                
+            <p>Rev. D<hi rend="sup">r</hi> S. Morais Ph<hi rend="sup">a</hi><lb/></p>
+                
+            <p>Dear friend and colleague<lb/></p>
+                
+            <p>I am very much interested in the derivations<lb/> of the words &#34;Livorno and Leghorn&#34; names of<lb/> your natal city.<lb/></p>
+            <p>A. Mr &#91;Hebrew&#93; writes in the &#91;Hebrew&#93; page 144<lb/> &#91;Hebrew&#93;<lb/></p>
+            <p>I gave you many years ago Rappoports &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93; and I do not remember what he says<lb/> about &#91;Hebrew&#93; in reference to Rabbi Nathans ex&#45;<lb/>planation &#91;Hebrew&#93;<lb/>  I think that the Latin name Liburnus Portus &#40;for<lb/> Livorno&#41; and lib&#365;m &#40;cake&#41; have some connection&#44;&#44;<lb/> &#40;has any one suggested this&#63;  I hope not.&#41; but<lb/> I cannot guess at the Italian &#91;Hebrew&#93;.<lb/></p>
+                
+                <pb n="2"/>
+            <p>My questions are&#58;<lb/>
+                1&#41; Can you find any connection between &#34;Livre<lb/> and Livorno to justify &#91;Hebrew&#93;&#63;<lb/>
+                2&#41; Can you find any connection between<lb/> Leghorn and &#91;Hebrew&#93; &#40;cake&#41; to justify the<lb/> term &#91;Hebrew&#93;&#63;<lb/>
+                3&#41; Is any tradition at your natal home<lb/> in regard to that great &#91;Hebrew&#93;&#33;<lb/>
+                Please answer&#33; and copy for me Rappaports<lb/> explanation<lb/></p>
+            <p>God bless you&#33;<lb/>
+                from your true friend<lb/>
+                A S Bettelheim<lb/></p>
+            
+            <pb n="3"/>
+            <p>DR. A. S. BETTELHEIM&#44;<lb/>
+                1428 MCCULLOH ST.<lb/>
+                BALTIMORE&#44; MD.<lb/></p>
+            <p>Rev. D<hi rend="sup">r</hi> S. Morais<lb/>
+                546 5<hi rend="sup">th</hi> St.<lb/>
+                <hi rend="underline">Philadelphia</hi><lb/>
+                Pa<lb/></p>
+            </body>
+    </text>
+</TEI>

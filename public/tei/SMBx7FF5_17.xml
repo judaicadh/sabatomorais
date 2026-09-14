@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Kohut, George A.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF5_17</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Kohut, George A.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1894-02" source="" attested="yes">9 February 1894</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff5_17_1r.tif"/>
+                                <graphic url="smbx7ff5_17_1v.tif"/>
+                                <graphic url="smbx7ff5_17_2r.tif"/>
+                                <graphic url="smbx7ff5_17_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Dear Dr Morais&#58;<lb/></p>
+            <p>Many thanks for<lb/> your kindness in copying for me<lb/> Luzzato&#39;s artistic epicedion&#44;<lb/> but I had already botained the<lb/> same from my friend J. Herta&#44; a<lb/> few months before.  I desire<lb/> to make a collection of them<lb/> for the &#34;&#91;Hebrew&#93;&#44;&#34; to whose Editor&#44;<lb/> I showed these poems and who<lb/> begged me to prepare them for<lb/> his magazine.<lb/></p>
+            <p>Do you know of any other<lb/> composition similarly striking<lb/> in any language&#63;<lb/></p>
+            <p>De Kosei erroneously ascribes<lb/> the authorship of the <hi rend="underline">second</hi> poem<lb/></p>
+            
+            <pb n="2"/>
+            <p>to Leo. de Modena&#44; instead of to<lb/> Moses Bassola&#44; who edited<lb/> the &#91;Hebrew&#93; in Mantua 1578<lb/> perhaps you can say with cer&#45;<lb/>tainty whether he or I am right&#63;<lb/>  May I beg of you&#44; for the transla&#45;<lb/>tion of the following poem&#63;<lb/></p>
+            <p>&#91;Hebrew&#93; 1<lb/>
+                &#91;Hebrew&#93; 2<lb/>
+                &#91;Hebrew&#93; 3<lb/>
+                &#91;Hebrew&#93; 4<lb/>
+                &#91;Hebrew&#93; 5<lb/>
+                &#91;Hebrew&#93; 6<lb/>
+                &#91;Hebrew&#93; 7<lb/>
+                &#91;Hebrew&#93; 8<lb/>
+                1 Chi nasce&#44; muor&#44; Dime&#44; che pass&#39; acerbo&#33;<lb/>
+                2 Colto vien l&#39;huom&#44; cosi ordin&#39; il Cielo&#44;<lb/>
+                3 Mose mori&#44; Mose gia car de verbo&#44;<lb/>
+                4 Santa sia ogn&#39;huom&#44; con puro zelo&#44;<lb/>
+                5 Ch&#39;alla meta&#44; gia mai senza riserbo&#44;<lb/>
+                6 Arriu&#39; huom&#44; ma vedran in cangiar pelo&#44;<lb/></p>
+            
+            <pb n="3"/>
+            <p>7 Le fin habiam&#44; ch&#39;al Cielo vero<lb/> ameno<lb/>
+                8 Va l&#39;huomo va&#44; se viva assai&#44; se<lb/> meno.<lb/></p>
+            
+            <p>I have however and the version of this<lb/> same poem with some minor variations<lb/> for instance in line 1 the <hi rend="underline">other</hi> copy<lb/> has&#58; &#91;Hebrew&#93; and in l. 1 of the Italian<lb/> version <hi rend="underline">Oi me</hi> &#40;in 2 words&#41;; l. 2 of<lb/> Hebrew&#58; &#91;Hebrew&#93; and &#91;Hebrew&#93;; Ital. l. 4&#58; <hi rend="underline">pur</hi>&#59;<lb/> l. 5 of Ital.&#58; <hi rend="underline">giammai</hi> &#40;in 1 word&#41;;<lb/> l. 6 my version begins with&#58; &#91;Hebrew&#93;<lb/> inst. of &#91;Hebrew&#93; and the Italian strangely<lb/> enough is like the above&#58; <hi rend="underline">Arriv</hi>&#39; huom&#59;<lb/> l. 7 of Ital. has&#58; <hi rend="underline">Sefin</hi> &#40;in 1 word&#41; and<lb/> <hi rend="underline">habbiam</hi>&#59; l. 8 Hebrew has&#58; &#91;Hebrew&#93; and<lb/> ibid. Italian has&#58; <hi rend="underline">Va&#39; l&#39;huom</hi> and<lb/> vive&#45;&#45;I fear the orthography &#38; punctuation in<lb/> both <hi rend="underline">copies needs much</hi> <sic>amendation</sic>.<lb/></p>
+            <p>Of course the variations are not<lb/> very important&#44; but I should much<lb/></p>
+            
+            <pb n="4"/>
+            <p>like to know which is the better<lb/> version.  You will not be wrath<lb/> with me&#44; dear Dr&#44; if I ask of<lb/> you to go through the difficulty<lb/> and recopy for me a <hi rend="underline">purified</hi><lb/> version with an English transla<lb/>tion of the <hi rend="underline">Italian</hi>.<lb/></p>
+            <p>Any reciprocal service on<lb/> my part will be most<lb/> cheerfully rendered.<lb/></p>
+            <p>Very faithfully &#38; obediently<lb/> Yours&#44;<lb/> George A. Kohut<lb/></p>
+            <p>Father begs to be remembered most<lb/> cordially to you &#38; your dear<lb/> son.  Kindly carry my respects to him<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF7_16</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Cohen, Nina</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1895-06" source="" attested="yes">1 June 1895</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff7_16_1r.tif"/>
+                                <graphic url="smbx7ff7_16_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>S. MORAIS&#44;<lb/>
+                546 N. FIFTH STREET&#44;<lb/>
+                PHILADELPHIA&#44; PA.<lb/></p>
+            <p>Saturday night.  June 1&#45;&#45;95<lb/>
+                My Dear Nina<lb/></p>
+            <p>I really see no cause for<lb/> reproach about our giving the stranger and<lb/> animal of which <hi rend="underline">we</hi> dare not partake.<lb/>  Let me explain&#44; to Exodus 22. 30&#44; we<lb/> are asked to cast to the dogs meat found<lb/> in the field&#45;&#45;the Bible speaks in general terms&#45;&#45;<lb/> which had been torn by a wild beast &#40;<hi rend="underline">Terepha</hi> is<lb/> the expression now used in a borrowed sense for<lb/> any forbidden meat&#41; In that case the flesh must<lb/> be unhealthy.  In Deut 14. 20 the animal<lb/> died of itself&#44; viz&#44; it may have been or it may have<lb/> not been diseased&#44; but it was not killed Jewishly&#44;<lb/> hence it was not thoroughly examined in the<lb/> inside.  The stranger among us may not hesitate<lb/> to eat it&#44; we then give it to <del>him it</del> them&#44; or sell it<lb/> to the foreigner who deals with us &#40;<hi rend="underline">Nochri</hi> means<lb/> one who does not live in our country&#44; but comes<lb/> and goes to traffic.  He uses the animal&#44; its<lb/> hide &#38;c &#38;c.  We are permitted to take from<lb/> him the money which the animal was worth<lb/></p>
+            
+            <pb n="2"/>
+            <p>to my mind it is all right.  No &#91;&#63;&#93; to our le&#45;<lb/>gislator who wanted to keep alive the idea that<lb/> jews must keep body and mind <hi rend="underline">perfectly</hi> sound.<lb/>  The stealing of a non Israelite slave in the Holy Land<lb/> was not a likely act.  In fact&#44; we know that the<lb/> slaves in Judea was treated mercifully.  He had the<lb/> Sabbath&#45;rest.  He was made partaken of the festive<lb/> meals of holidays &#38;c &#38;c.  But a merciful law<lb/> we must in Deut 23. 16.  We may Judge<lb/> logically that it refers to a slave among heathen<lb/> nations who came under the protection of the merci&#45;<lb/>ful rules of the Israelites.<lb/></p>
+            <p>I can hardly write.  The weather has been<lb/> overpowering during the last three days.  The<lb/> thermometer ranging from 90 to 93 in the<lb/> shade.  I have not seen the up town<lb/> folks.  It is too hot for them to come to us<lb/> and bring the children.  Fortunately&#44; Wednesday<lb/> it was not so hot and we had a full attend&#45;<lb/>ance.  You know that to travel is to<lb/> me an unbearable bore.  I would like to see<lb/> you&#44; but I could not advise your coming in<lb/> August.  Are the <del>show</del> shirts &#91;&#63;&#93;<lb/> If so you may send them.  Good night<lb/> with much love<lb/> SM<lb/></p>
+            </body>
+    </text>
+</TEI>

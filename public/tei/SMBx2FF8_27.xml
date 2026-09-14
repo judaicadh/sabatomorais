@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Henry</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF8_27</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Henry</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-10" source="" attested="yes">15 October 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff8_27_1r.tif"/>
+                                <graphic url="smbx2ff8_27_1v.tif"/>
+                                <graphic url="smbx2ff8_27_2r.tif"/>
+                                <graphic url="smbx2ff8_27_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>New York&#44; Oct. 15<hi rend="sup">th</hi> 1879.<lb/>
+                306 W. 29<hi rend="sup">th</hi> St.<lb/></p>
+            <p>Dear Papa&#58;<lb/></p>
+            <p>From shortly after 9 o&#39;clock A. M. until nearly 6 &#189;<lb/> P. M. to&#45;day&#44; I was away from the house.  I thought I<lb/> would visit some persons living up town&#59; but I found<lb/> very few at home.  Of the ministers I saw Drs.<lb/> Mendes&#44; Gottheil&#44; Adler&#44; Huebsch &#38; Revs. H. P. Mendes &#38; S.<lb/> Welsch.  The brothers Mendes behaved very kindly.<lb/>  Dr. Gottheil is somewhat of the Philadelphia Dr Hirsch&#39;s stamp.<lb/>  Adler &#40;<hi rend="underline">not</hi> the Prof.&#41; refused to do anything&#44; until he had<lb/> read the book.  Huebsch is a gentleman.  He apolog&#45;<lb/>&#45;ized for not having answered your letter in <del>with</del> reference<lb/> to Rubenstein&#44; as he imagined that the epistle came from<lb/> me&#59; the same as he mistook me before for your when addressing<lb/> me &#34;Rev. Dr.&#34;  As far as I can comprehend&#44; he<lb/> does not agree with you on the &#34;Ma&#39;ama Question.&#34;  He<lb/> will write to you next week.  He gave me his work<lb/> &#34;Gems of the Orient&#34; for you&#44; which I will bring home.<lb/></p>
+            <p>To&#45;morrow I will visit the business<lb/></p>
+                
+                <pb n="2"/>
+            <p>neighborhoods in Broadway&#44; Wall&#44; Broad &#38; &#91;&#63;&#93;<lb/> Streets&#44; where I hope to fare better.  Dr. Blumenthal<lb/> has been very kind.<lb/></p>
+            <p>Please keep me all the &#34;Public Ledgers&#44;&#34;<lb/> as I do not see them here.  There is a long piece in to&#45;<lb/>&#45;day&#39;s <hi rend="underline">Herald</hi> about Washington Nathan&#44; appearing in<lb/> Court on Tuesday&#44; the whole matter tending to show what<lb/> sort of a character he is known to be.<lb/></p>
+            <p>The Y. M. H. A. will give their opening<lb/> Entertainment to&#45;morrow &#40;Thursday&#41; night&#44; at Clickening<lb/> Hall.  Quite an attractive programme is to be<lb/> presented.  I am trying to obtain a ticket.<lb/></p>
+            <p>I am invited both to Dr. Mendes and to Mr. Henry S. Allen&#39;s<lb/> on Saturday to dinner.  The first two <del>former</del> I have not<lb/> positively accepted&#44; but Mrs. Allen urgently requested<lb/> me to come on Saturday&#44; and I suppose I must go.<lb/></p>
+            <p>As my return ticket is good until<lb/> Sunday night&#44; I may be obliged to remain over Sunday&#44; if<lb/> I do not obtain the requisite number of subscribers before<lb/> then.  I trust&#44; however&#44; that such a circumstance may<lb/> not arise&#44; for I am already home&#45;sick.  Send my letters &#38; write to me<lb/></p>
+            <p>Your Son&#44;<lb/>
+                Henry.<lb/></p>
+        </body>
+    </text>
+</TEI>

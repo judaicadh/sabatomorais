@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Kahn, J.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF11_15</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Kahn, J.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Trenton, NJ</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-07" source="" attested="yes">24 July 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff11_15_1r.tif"/>
+                                <graphic url="smbx4ff11_15_1v.tif"/>
+                                <graphic url="smbx4ff11_15_2r.tif"/>
+                                <graphic url="smbx4ff11_15_2v.tif"/>
+                                <graphic url="smbx4ff11_15_3r.tif"/>
+                                <graphic url="smbx4ff11_15_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>6 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>Trenton N. J. July 24. 88<lb/>
+                Rev. Dr. Mora&#239;s<lb/>
+                Philadelphia<lb/>
+                Pa.<lb/></p>
+            <p>Dear sir &#38; colleague&#44;<lb/></p>
+            <p>Kindly<lb/> allow me to call your<lb/> attention to a small<lb/> official matter pending<lb/> between you and me.<lb/></p>
+            <p>A<lb/> certain Mr. Pardo of<lb/> this city has about a<lb/> year ago nominally<lb/> joined our Har Sina<lb/> congregation i. e. has<lb/> on his application<lb/> been elected a member<lb/> but has paid no or<lb/> almost no dues yet<lb/></p>
+                
+                <pb n="2"/>
+            <p>and is&#44; as I understand<lb/> some twenty dollars&#44;<lb/> in arrear.  During<lb/> this time he certainly<lb/> would if necessary<lb/> have claimed the rights<lb/> of a member&#44; as the use<lb/> of burial ground etc.<lb/>  This he proved in following<lb/> instance.  His sister in<lb/> law&#44; who lives with him&#44;<lb/> is about to be married<lb/> and he has asked me<lb/> to give &#91;Hebrew&#93; and I<lb/> had accepted it and<lb/> therefore <sic>delaied</sic> my<lb/> departure from here as<lb/> I am to leave in order<lb/> to accept the Ministry<lb/> of  Jacksonville Fla.<lb/>  Pardo wanted the<lb/> ceremony to be performed<lb/></p>
+                
+                <pb n="3"/>
+            <p>in the synagogue<lb/> and the President of this<lb/> congregation consented<lb/> to that with the condition<lb/> that he first pay his<lb/> arrear dues in order that<lb/> he be a member of<lb/> good standing.  The<lb/> next thing I heard<lb/> was&#44; that P. is about<lb/> to offer you the &#91;Hebrew&#93; to<lb/> be performed in his house.<lb/>  Of course he has a right<lb/> to that and may take<lb/> any minister he pleases<lb/> although in his house<lb/> I too would have per&#44;<lb/>formed the ceremony<lb/> without asking any<lb/> questions about congre<lb/>gational matters.  But<lb/> I trust you will neither<lb/></p>
+                
+                <pb n="4"/>
+            <p>strengthen any one<lb/> in trespassing against<lb/> the principle &#91;Hebrew&#93;<lb/> nor cause a colleague<lb/> to be &#91;Hebrew&#93;<lb/></p>
+            <p>The affair is to come of<lb/> on August 26.<lb/></p>
+            <p>Please excuse and accept<lb/> colleaguial greetings<lb/> of yours truly<lb/> Rev. J Kahn<lb/>
+                Pennington Av. 57<lb/></p>
+            
+            <pb n="5"/>
+            <p>Rev. Dr. Morais<lb/>
+                Philadelphia<lb/>
+                Pa.<lb/></p>
+            
+            <pb n="6"/>
+            <p>Return to Rev. J Kahn<lb/> Trenton N. J. Pennington str. 47<lb/> if not delivered<lb/> within 5 days<lb/></p>
+            </body>
+    </text>
+</TEI>

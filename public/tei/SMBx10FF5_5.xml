@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx10FF5_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx10ff5_5_1r.tif"/>
+                                <graphic url="smbx10ff5_5_1v.tif"/>
+                                <graphic url="smbx10ff5_5_2r.tif"/>
+                                <graphic url="smbx10ff5_5_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For Sabbath &#91;Hebrew&#93;<lb/></p>
+            <p>The shepherd bard in his devotional outpourings once did thus express himself&#44;<lb/> &#91;Hebrew&#93; &#34;This is my consolation in my affliction&#44; that Thy<lb/> word hath quickened me&#34;  My Brethren.  Through every stage of the<lb/> last eighteen centuries&#44; the pious ejaculation of the royal Pslamist&#44; has been<lb/> echoed by one whole nation.  The conscience that the knowledge<lb/> treasured up in the volumes revered by Israel&#44; is an effusion of God&#39;s<lb/> boundless wisdom&#44; has ever proved to them a panoply and a shield.<lb/>  Thus armed&#44; they sallied forth to combat against the assailants of religious<lb/> truths&#44; and became invulnerable.  When thousands on their left and<lb/> myriads on their right&#45;hand pressed them around&#44; that they might<lb/> descend down to their level&#44; they yielded not the lofty stand where&#45;<lb/>&#45;unto they had been elevated&#44; for&#44; they felt that its abandonment<lb/> was the surrendering of the eternal principles they were destined<lb/> to uphold.  Even when the sun refused them its genial rays&#44; and they<lb/> were enshrouded in the impenetrable darkness of religious persecution&#44;<lb/> Gods&#39; holy law was &#91;Hebrew&#93; &#34;a lamp to their feet and<lb/> a light to their paths&#34;.  That formed their delight and study<lb/> at the colleges and in the Synagogues&#44; as it has been the real con&#45;<lb/>&#45;solation of the faithful even to this day.  National sorrows<lb/> had not the power of crushing them&#44; as other peoples have been crushed&#44;<lb/> beneath their ponderous weight&#44; but they arose above them with<lb/> renewed hope.  The steadfast conviction that as immutable and<lb/> imperishable as His Divine Essence&#44; so is the revelation manifested<lb/> by the Almighty to our progenitors&#44; breathed into them sentiments of<lb/> filial gratitude.  And although human&#45;like&#44; they could not<lb/> but lament the sufferings <sic>indured</sic> in the <sic>fulfilment</sic> of their noble<lb/> task&#44; they still were comforted by the remembrance of God&#39;s pri&#45;<lb/>&#45;stine love for Israel and the glory of their mission.<lb/></p>
+            <p>For&#44; on what nation&#44; my beloved hearers&#33; has the spirit of the<lb/> Lord rested as upon the Hebrew&#63;  To whom&#44; among the offspring<lb/> of Adam&#44; were communicated tenets so sublime&#44; as those which<lb/></p>
+            
+            <pb n="2"/>
+            <p>were transmitted to us in the lesson designated for this Sabbath&#63;<lb/>  What the deepest researches of the Sages of antiquity failed to discover&#44;<lb/> is embodied in those heavenly pages.  In the peal of the<lb/> thunder&#44; as in the softest dew&#45;drop&#44; in the tempestuous billows<lb/> as in the furling&#45;brook&#44; in the blighting &#91;&#63;&#93; as in the<lb/> gentlest breeze&#44; we were taught by that imparting to recognize&#44;<lb/> the indivisible power of the Lord&#44; to bend our adoration to nature&#39;s<lb/> God&#44; who is the sole Author of the heaven and earth&#44; of the sea and<lb/> the fulness thereof &#91;Hebrew&#93;<lb/> We hear also learnt from the same holy source that the balance<lb/> of Divine justice&#44; cannot be counterpoised by any human regard.<lb/>  That its inflexible rule affects alike the most righteous and<lb/> the most impious of men &#91;Hebrew&#93;<lb/> But that nevertheless the arms of heavenly compassion are ever<lb/> stretched forth to receive in their embrace those who turn their<lb/> hearts in sincerity&#59; for&#44; the power of repentance has not been with&#45;<lb/>&#45;held by the merciful Creator from any of his creatures&#44; but He<lb/> has granted them unrestrained freedom to labor either for their weal<lb/> or their woe.  As it is obviously enunciated in the following<lb/> sentence spoken unto the father of prophets &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93; &#34;Oh&#33; that their mind<lb/> were such&#44; to fear me&#44; and keep my precepts always&#44; that it might<lb/> be well with them&#44; and their children for ever&#34;.<lb/></p>
+            <p>But the grandest Truth&#44; which the section we have perused this morn&#45;<lb/>&#45;ing discloses is that&#44; my dear Brethren&#44; to disseminate which<lb/> our Sovereign legislator has steeled our hearts against the onslaught<lb/> of an erring world.  It is that Truth which has become the watch&#45;<lb/>&#45;word of Israel&#44; and which has been sealed with their precious blood<lb/> at the rack and on the scaffold.  That truth which the venerated<lb/> lips of Rabbi Akibah breathed out&#44; while the sharp&#45;pointed engines of torture were tearing<lb/> his flesh.  It is that glorious knowledge&#44; I say&#44; which has raised<lb/></p>
+            
+            <pb n="3"/>
+            <p>a host of martyrs&#44; whose end we have lately bewailed&#44; but whose self&#45;<lb/>denial adds this Sabbath to our consolation&#44; for&#44; we view in it the<lb/> stone which&#45;though despised by the builders&#44;&#45;&#45;will nevertheless become<lb/> the foundation of that broad edifice designed finally to shelter beneath its<lb/> wings all the the human beings called by the Almighty into existence.<lb/>  It is the Unity and incorporeity of the Most High.  How is indeed<lb/> the march of religious enlightenment&#44; but we who have led the<lb/> van&#44; will hopefully move onward&#44; and never falter.<lb/></p>
+            <p>My friends&#33;  Our living example&#44; our unflinching adherence to those<lb/> truths will teach the world that the Great Spirit of the Universe is<lb/> One&#44; that He is all&#45;mighty to save&#44; and therefore requires neither<lb/> a coadjutor nor an associate.  That the redemption of one&#39;s soul depends<lb/> on virtuous deeds and not on a belief in a vicarious sacrifice so repu&#45;<lb/>&#45;gnant to reason&#44; and so subversive of the pure word of God.<lb/>  Let me then urge you to be exceedingly wary lest our children do<lb/> no learn by association to rehearse prayers of borrowed from gentile<lb/> sources&#44; and antagonistical to Judaism.  But let us ourselves elicit<lb/> from their innocent lips&#44; when hailing the light which God alone has<lb/> created&#44; and when nature invites them to rest&#44; that the Eternal<lb/> Being whom Israel adore&#44; is an indissoluble Unity &#91;Hebrew&#93;<lb/> Imbued with that solemn truth&#44; they will also in their turn&#44; as they grow<lb/> to manhood&#44; in silent eloquence preach it to the world&#44; until the hearts<lb/> of men shall throb in unison of brotherly tenderness&#44; until all kneens<lb/> knees bow before the same altar&#44; all tongues avow that Adonai is<lb/> the only God&#44; and besides Him none in the heaven or on the earth<lb/> can create&#44; sustain or deliver.  For&#44; that knowledge at which<lb/> mankind must alternately arrive has been committed to our vigilant<lb/> care&#44; and while it has quickened us&#44; it has relieved our afflictions.<lb/>  &#91;Hebrew&#93;.  The conviction that our suffering was<lb/> pregnant with a happiness that would become universal&#44; inspired<lb/> us with unflinching constancy.  And we have&#44; my Brethren&#33;<lb/></p>
+            
+            <pb n="4"/>
+            <p>carried the immutable word of the Lord to the icy North and to the sunny<lb/> South&#59; we sanctified it from the Eastern to the Western hemisphere&#44; and<lb/> it has proved our consolation.  Let me therefore pray on this Sabbath<lb/> emphatically called &#34;the Sabbath of consolation&#34; that the same celestial<lb/> imparting may continue to arouse grateful feelings in our<lb/> breasts&#59; that our successors like our predecessors may pride<lb/> themselves on the possession of the eternal principles they have<lb/> inherited&#44; and never barter them for worldly preferments.<lb/>  Let me pray that we may remain steadfast in our attachment<lb/> to our ancestral faith&#44; and like R. Akiba proclaim with the last<lb/> breath that &#34;Adonai is our God&#44; Adonai is One.&#34;  And may our<lb/> heavenly Saviour grant the reward of such fidelity be a restoration<lb/> to national independence in the patriarchal land&#44; even within the<lb/> walls of Zion&#59; the city of the Great King.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

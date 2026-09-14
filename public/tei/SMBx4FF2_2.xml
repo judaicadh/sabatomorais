@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Rosenthal, I. B.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF2_2</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Rosenthal, I. B.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>St. Louis, MO</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1886-06" source="" attested="yes">8 June 1886</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff2_2_1r.tif"/>
+                                <graphic url="smbx4ff2_2_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>I. B. Rosenthal &#38; Co.<lb/>
+                Importers &#38; Manufacturers&#44;<lb/>
+                of<lb/>
+                Millinery Goods.<lb/>
+                N. E. Cor. Washington Ave. &#38; 5<hi rend="sup">th</hi> St.<lb/>
+                St. Louis&#44; June 8th 1886<lb/></p>
+                    <p>I. B. ROSENTHAL.<lb/>
+                M. B. ROSENTHAL.<lb/>
+                S. R. LIPSIS.<lb/>
+                SIG. ROSENTHAL.<lb/></p>
+                
+                    <p>Rabbi Dr S. Morais<lb/>
+                Philadelphia<lb/></p>
+                    <p>Rev Sir&#33;<lb/></p>
+            <p>I am one of the Members of the Board in Dr.<lb/> Sonnescheins Congr &#38; one of his many <sic>suporters</sic>.<lb/>  In behalf of truth I approach you to decide&#44; with the<lb/> enclosed oration is or contains anything that is contrary<lb/> to Jewish Doctrines &#38; traditions&#44; some opponents of our<lb/> Doctor in the Board who took hold of this oration openly<lb/> accuse him of having shown by this very words&#44;<lb/> that he is false to the Jews &#38; true Faith of our<lb/> ancestors &#38; that he is not showing by this oration<lb/> full conformity with Israels true teachings.<lb/>  Please answer at your earliest convenience<lb/> &#38; oblige yours most Respectfully<lb/> I B Rosenthal<lb/></p>
+                
+                <pb n="2"/>
+                    <p>June 10&#45;&#45;86<lb/></p>
+                    <p>Dear Sir<lb/></p>
+            <p>Your note reached me this morning&#44; and as you seem to wish for<lb/> an early reply&#44; I hasten to give it this evening&#44; immediately on my return<lb/> home from the Synagogue.  You ask that &#34;in behalf of truth&#34; I shall &#34;decide&#34;<lb/> whether the oration &#34;of the confirmant in your congregation&#45;&#45;a printed copy of which<lb/> you forwarded for my perusal&#45;&#45;&#34;contains anything that is contrary to Jewish doc&#45;<lb/>&#61;trines &#38; traditions&#34;.  I have read it carefully&#44; and found nothing to which I<lb/> could object from a Jewish stand point.  That there is only &#34;One God and one<lb/> humanity&#34; is the teaching <del>imparted</del> we received in the first pages of our Bible; &#34;that all<lb/> will be blessed&#34; &#40;will have a share in the world to come&#41;....&#34;who do what is right in<lb/> the eyes of God and man&#34;&#44; is the <del>doctrine</del> imparting of our Sages; and that Jews are &#34;bound to<lb/> abide by the laws of the nations of which they are a part&#34;&#44; is a principle we derive<lb/> from both prophetism and rabbinism.  But unequivocally as I<lb/> say that &#34;the oration&#34; does not set forth &#34;anything <hi rend="underline">contrary</hi> to Jewish<lb/> doctrines and traditions&#34;&#44; I candidly confess&#44; at the same time&#44; &#34;the spirit of Divine Justice<lb/> and Ethical civilization&#34; is a phrase which may be interpreted in various<lb/> ways&#44; Jewishly and otherwise.  Besides&#44; I may be allowed to add&#44; that the<lb/> occasion on which &#34;the oration&#34; was delivered&#44; <del>demanded</del> called for expressions specifically<lb/> Jewish&#44; so that a child of our people might become &#34;sincerely imbued&#34; with the<lb/> belief that the Decalogue&#44; <del>whose</del> the anniversary of whose <del>was then</del> presentation to our fathers<lb/> was then celebrated&#45;&#45;is the foundation stone of human civilization.  &#34;The confirmant&#34; might<lb/> have been made to confess that the house of Israel&#45;&#45;of whom he should have promised to remain<lb/> a faithful member&#45;&#45;was given the Sinaic Law&#44; to <del>become</del> for ever distin&#45;<lb/>&#45;guished by its observance&#44; as the witness of the existence and fatherhood of<lb/> a creating Lord.  Still&#44; I repeat&#44; the wording of the speech&#44; as submitted to<lb/> me&#44; &#34;in behalf of truth&#34; is not unusual.  These are the views held<lb/> by yours very truly<lb/> S. Morais<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Finsi, A.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF15_8</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Finsi, A.</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1858-12" source="" attested="yes">2 December 1858</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff15_8_1r.tif"/>
+                                <graphic url="smbx1ff15_8_1v.tif"/>
+                                <graphic url="smbx1ff15_8_2r.tif"/>
+                                <graphic url="smbx1ff15_8_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p><hi rend="underline">Strictly private</hi><lb/>
+                Decr. 2<hi rend="sup">nd</hi>. 1858.<lb/>
+                My Respected Friend<lb/></p>
+            <p>Altho&#39; I am aware that you have<lb/> refused the application of those whose opinions<lb/> and solicitations must have greater weight in<lb/> guiding your decisions&#44; than <del>might</del> mine can<lb/> possibly have&#44; yet&#44; I am emboldened&#44; to take the<lb/> liberty of exhibiting to you&#44; the effect likely to be<lb/> produced by a <sic>persistance</sic> in your present deter<lb/>mination&#59; as I think I may place the question in a<lb/> point of view&#44; which excitement may have <sic>witheld</sic><lb/> from your perception&#44; and which also may not have<lb/> appeared to those who condemn your line of conduct<lb/> in this matter&#59; You are of course aware that I<lb/> allude to your refusal to recite the prayer for the<lb/> <hi rend="underline">Members</hi> of the Government&#44; as you have <hi rend="underline">hitherto done</hi>&#59;<lb/></p>
+            <p>We will entirely pass over the omission of it last<lb/> Saturday&#44; &#40;any allusion to which&#44; in the Resolution passed<lb/> on Sunday by the Gentlemen of the Adjunta&#44; has been<lb/> considerately omitted&#41; and merely consider the ques&#45;<lb/>tion of your continuing to say it <hi rend="underline">as hitherto</hi>&#44; that is what<lb/> is desired by the Adjunta&#44; and (believe me when I assure<lb/> you) <hi rend="underline">a very large</hi> majority of the Congregation&#59; In doing<lb/></p>
+                
+                <pb n="2"/> 
+            <p>this&#44; your only reflection could be&#44; that you were praying<lb/> for a blessing on a Man or Men who did not deserve it&#59;<lb/> Do any of us deserve the blessings that we supplicate<lb/> our God to bestow on us&#63; If any&#44; I fear but very few.<lb/></p>
+            <p>And why should we not pray for a blessing on those<lb/> who act unjustly to us&#63; no blessing can be so great as<lb/> the Divine grace to enlighten us in our errors&#44; to free<lb/> our minds from the torments of prejudice&#44; and enable<lb/> us to look on all men as equally deserving of all the<lb/> enjoyment which this Earth affords&#63; we pray to God to<lb/> &#34;bless&#44; preserve&#44; guard and assist&#34;&#59; with the reservation<lb/> in our minds&#44; that this may be granted for the purpose<lb/> of removing injustice &#38; prejudice from their motives&#44; we<lb/> may surely pronounce this&#44; in favor of our greatest<lb/> enemies&#59; and the closing sentence of the prayer shows<lb/> that this is the main object of it&#44; that they may be<lb/> &#34;inspired with benevolence towards us &#38; all Israel &#38;c.&#34;<lb/></p>
+            <p>Again do you inflict any punishment on them<lb/> by <sic>witholding</sic> your prayers&#63; I know you too well to think<lb/> that you suppose by doing so&#44; they will be deprived of the<lb/> Divine grace&#59; therefore if it is the will of the Infinite<lb/> &#38; merciful God to bless them notwithstanding&#44; shall we<lb/> finite creatures&#44; equally sinful ourselves&#44; <sic>withold</sic> our<lb/> prayers that it may be so&#63; or wish &#40;even in our hearts&#41;<lb/> that those blessings we so ardently and de&#91;&#63;&#93;tly supplicate<lb/> for ourselves&#44; shall be <sic>witheld</sic> from others&#63;</p>
+            <p>And now setting aside all argument&#44; grounded on<lb/></p>
+                
+                <pb n="3"/> 
+            <p><sic>Brothely</sic>&#59; I will use a more selfish one&#44; merely to<lb/> strengthen my position &#38; not with the hope that it will<lb/> be more cogent.  You are aware that the Adjunta<lb/> can suspend you from office&#44; which would be only a step to<lb/> discharge&#45;it is true that perhaps the latter cannot be done<lb/> but by the cong. but you <hi rend="underline">know</hi> that the Board and com&#45;<lb/>mand a majority to any measure that their wisdom<lb/> may induce them to think correct&#44; and believe me when<lb/> I sincerely assure you&#44; that the majority in this case would not<lb/> be wanting&#44; altho&#39; you were &#40;I believe&#41; unanimously elected<lb/> by them for the next 5 years&#44; such is the general feeling on<lb/> this question &#40;not the past&#41; that they would all be up in<lb/> arms against what they would consider an act of con&#45;<lb/>tumacy.  And let me ask you Sir&#44; are you prepared for that&#63;<lb/>  Are you prepared to be suddenly hurled from a position of<lb/> pecuniary independence&#44; of domestic comfort&#44; in which<lb/> you are enabled to earn the means of support for yourself<lb/> &#38; those you love&#44; to one of unrequited labor&#44; in which you<lb/> might find it difficult to earn a pittance sufficient for<lb/> their bare support&#44; for well you know that talent is<lb/> but poorly rewarded.  You are also strengthening &#34;the hands<lb/> of your enemies&#34; for your perseverance in your present<lb/> decision will unquestionably drive several members to<lb/> leave our Synagogue&#44; &#38; we know where it is likely they will<lb/> go to&#59; this I say advisedly&#44; &#38; not as more conjecture&#59;<lb/></p>
+            <p>May I dare hope that your good sense will have<lb/> led you to come to the determination to act in accordance<lb/> with the wishes of the adjunta and a large majority<lb/> of the congregation&#63;  I most sincerely and devoutly pray<lb/></p>
+                
+                <pb n="4"/> 
+            <p>that such may be&#44; for I can hardly think that what<lb/> I have addressed can have sufficient weight&#44; after the in&#45;<lb/>efficacy of the persuasion of your other friends.  At any<lb/> rate I have performed what I considered a duty&#44; and I trust<lb/> you will excuse me on that score &#38; not consider that I have<lb/> been officious.  I could add much to this&#44; but will<lb/> not occupy your time by adding to what I consider the<lb/> strongest reasons I could adduce for your changing your<lb/> present position.<lb/></p>
+            <p>I am Sir<lb/>
+                Yours most sincerely<lb/>
+                &#38; Respectfully<lb/>
+                A. Finsi<lb/>
+                You will much oblige me by destroying this after<lb/> you have read it<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

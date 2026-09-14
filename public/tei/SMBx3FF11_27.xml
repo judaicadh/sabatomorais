@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cowen, P.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF11_27</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cowen, P.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1885-07" source="" attested="yes">27 July 1885</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff11_26_1r.tif"/>
+                                <graphic url="smbx3ff11_26_1v.tif"/>
+                                <graphic url="smbx3ff11_26_2r.tif"/>
+                                <graphic url="smbx3ff11_26_2v.tif"/>
+                                <graphic url="smbx3ff11_26_3r.tif"/>
+                                <graphic url="smbx3ff11_26_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>THE AMERICAN HEBREW&#44;<lb/>
+                498&#45;500 THIRD AVE.&#44;<lb/>
+                NEW YORK.<lb/></p>
+                
+            <p>TELEPHONE 243. 39th<lb/></p>
+                
+            <p>27<hi rend="sup">th</hi> July 1885.&#45;<lb/></p>
+            <p>Dear  Mr. Morais&#58;&#45;&#45;<lb/></p>
+            <p>I should have written you last<lb/> week about a matter but could not<lb/> find the time. Mr. M. Ellinger desires to write<lb/> for us a series of articles enunciating the stand&#45;<lb/>point of reform on leading questions&#44;<lb/> such as the Restoration&#44; the Resurrection&#44;<lb/> Sabbath&#44; Dietary Laws etc. He wishes to do<lb/> this&#44; as he says&#44; that the position of reform<lb/> may be understood. Kohler he says&#44; has done<lb/> justice to neither his own side nor to<lb/> conservatism&#44; inasmuch as he has failed<lb/> to <del>reg</del> recognize conservatism as it is<lb/> regarded by its own leaders&#44; but has<del>e</del><lb/> opposed an orthodoxy of the past&#44; so to say.<lb/> Mr. Ellinger is an able writer and we are<lb/> certain that his articles would command<lb/> attention. We would therefore like to<lb/> put an antidote alongside of him&#44; and<lb/> are tempted to call upon you first&#44;<lb/> to see if your time and inclination<lb/> will induce you to take up the pen<lb/> again.  <del>Mr</del> The plan is to publish in the<lb/>  &#34;Amer. Hebrew&#34; in the same issue articles on<lb/> the same subject from a reform &#38; orthodox<lb/> standpoint&#44; all articles to be briefly stated<lb/> and not to occupy over two columns.<lb/> This will insure their being read by all.<lb/></p>
+                
+                <pb n="2"/>
+            <p>The articles are <hi rend="underline">not</hi> to be of a contro&#45;<lb/>versial nature&#44; but a statement of the po&#45;<lb/>sition of each party on the subject in<lb/> question. When I suggested to Mr Ellinger<lb/> the idea&#44; he was pleased with it&#44; but<lb/> would like to have you take the other side.<lb/> In this connection I may say&#44; Mr. Morais&#44;<lb/> that the tone of your articles has<del>e</del><lb/> aroused a great deal of admiration<lb/> for your position among persons<lb/> of all degrees <del>of</del> &#40;and none&#41; of Judaism&#44; and<lb/> they have been pronounced as the<lb/> best articles &#91;overwritten&#58; o&#93;in the recent controversy.<lb/> As one is generally assured of the<lb/> approval of his own side of the house&#44;<lb/> I know it will be gratifying for you to<lb/> know that Dr. Kohler was highly pleased with the<lb/> tone of your articles&#44; and he said that such<lb/> contribute to the value of a discussion. Mr.<lb/> Ellinger liked them so much that he wished<lb/> you to write the companion series of his<lb/> for simultaneous publication. Mr. Halmes&#45;<lb/>singer&#91;&#63;&#93; expressed himself as deeply interested&#44;<lb/> and on Thursday night last I called on<lb/> Mr. Julius Bien who&#44; while he takes a deep<lb/> interest in communal affairs&#44; does not con&#45;<lb/>cern himself in religious affairs&#59; yet. though<lb/> he had only ret<hi rend="sup">d</hi>  from Europe the week<lb/> before&#44; had read through the whole<lb/></p>
+                
+                <pb n="3"/>
+            <p>of your series and admired your tone.<lb/> &#34;The man&#44;&#34; he said in speaking of them &#34;who<lb/> frankly admits that he can not fully<lb/> account for a certain state of things&#44;<lb/> strengthens his position &#94; otherwise by doing so&#44; more<lb/> than he who&#44; if he does not offer a palpably<lb/> lame apology or argument&#44; or squirm<lb/> out of it in some way&#44; avoids the<lb/> matter entirely.<lb/></p>
+            <p>I could tell you of minor lights who<lb/> feel the same way&#44; but this will satisfy you<lb/> <sic>you</sic> that your labors have not been<lb/> in vain.<lb/></p>
+            <p>It is for this reason that we are the<lb/> more anxious to have you take part<lb/> in the proposed series. Mr. Ellinger&#44; who<lb/> in days gone by has done some rough<lb/> newspaper fighting&#44; intends writing his<lb/> articles in your style. Of course time<lb/> does not get a chance to hang heavily<lb/> on your hands&#44; so you must know<lb/> best whether you can spare the time.<lb/> They need not be consecutive&#44; but<lb/> can appear from time to time.<lb/></p>
+            <p>Very truly yrs<lb/>
+                P. Cowen<lb/></p>
+        </body>
+    </text>
+</TEI>

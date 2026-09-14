@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Smith, Charles Emory</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF9_36</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Smith, Charles Emory</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>London, England</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1890-09" source="" attested="yes">1 September 1890</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff9_36_1r.tif"/>
+                                <graphic url="smbx5ff9_36_1v.tif"/>
+                                <graphic url="smbx5ff9_36_2r.tif"/>
+                                <graphic url="smbx5ff9_36_2v.tif"/>
+                                <graphic url="smbx5ff9_36_3r.tif"/>
+                                <graphic url="smbx5ff9_36_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Legation of the United States<lb/>
+                St. Petersburg.<lb/></p>
+            <p>London&#44; Sept. 1st 1890<lb/></p>
+            <p>Dear sir&#58;<lb/></p>
+            <p>Your letter of the 10th ult&#44; sent<lb/> to St Petersburg&#44; has been forwarded<lb/> to me here where I am staying a few<lb/> days&#44; and I hasten to reply.  You ask<lb/> whether the recent report of restrictive<lb/> measures directed against the He&#45;<lb/>brews in Russia is founded on fact.<lb/></p>
+            <p>This is the only period in the<lb/> year when I could be away from my<lb/> post making necessary preparations<lb/> for the coming winter&#44; and I was ab&#45;<lb/>sent from Russia when the report<lb/> to which you refer first appeared.<lb/>  But the subject is one in which no<lb/> representative of the United States<lb/></p>
+                
+                <pb n="2"/>
+            <p>could fail to feel a deep interest&#44;<lb/> and I immediately took steps to as&#45;<lb/>certain whether the statement which<lb/> attracted such wide attention had<lb/> any foundation or warrant.  The<lb/> Legation of the United States insti&#45;<lb/>tuted prompt inquiries&#44; in common<lb/> with those of several other nations&#44;<lb/> and received the most positive as&#45;<lb/>surances from the Russian Government<lb/> that the report was entirely groundless.<lb/>  The Imperial authorities stated not<lb/> only that no new restrictive measures<lb/> had been taken against the Hebrews and no old and obso&#45;<lb/>lete ones revived&#44; but that no such<lb/> measures had been contemplated.<lb/></p>
+            <p>In view of these denials&#44; the<lb/> Lord Mayor of London&#44; himself a con&#45;<lb/>spicuous and honored Hebrew&#44; sometime<lb/></p>
+                
+                <pb n="3"/>
+            <p>since announced the abandonment<lb/> of a projected public indignation<lb/> meeting which had been called when<lb/> the report of intended persecutions<lb/> was first published.<lb/></p>
+            <p>I recall our personal meetings<lb/> with great pleasure&#44; and well remem&#45;<lb/>ber your high standing among your<lb/> people&#44; and I am glad to be able<lb/> to convey these assurances to you and<lb/> to them.<lb/></p>
+            <p>With great respect I am<lb/> Sincerely Yours<lb/> Chas Emory Smith<lb/></p>
+            <p>Rabbi S. Morais<lb/>
+                Philadelphia<lb/></p>
+            
+            <pb n="4"/>
+            <p>Rev. S. Morais<lb/>
+                546 North Fifth St<lb/>
+                Philadelphia<lb/>
+                Pa.<lb/>
+                United States of America.<lb/></p>
+            </body>
+    </text>
+</TEI>

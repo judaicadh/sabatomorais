@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx9FF23_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx9ff23_1_1r.tif"/>
+                                <graphic url="smbx9ff23_1_1v.tif"/>
+                                <graphic url="smbx9ff23_1_2r.tif"/>
+                                <graphic url="smbx9ff23_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>70</p>
+            <p>For Parashat Kedoshim<lb/></p>
+            <p>Sovereign Legislator&#33;  Thou givest the people of Israel<lb/> a code of moral laws&#44; which has become the text book of<lb/> civilized communities.  And verily&#33; in proportion<lb/> as these will heed the teachings therein contained&#44; so<lb/> will the standard of justice be heightened&#59; so will the<lb/> principles of humanity serve as a guide alike to<lb/> nations and to individuals.  The false idea of honor&#44;<lb/> which now arrays Thy children O Lord&#33; against each other<lb/> in mortal conflicts&#44; will be banished by the correct thought<lb/> that wars are but <sic>cooly</sic> premeditated murders.  The<lb/> bereaving sword will represent a relic of barbarism.<lb/>  A sport of forbearance&#44; a disposition to condede&#44; a<lb/> desire to adjust difficulties&#44; will further the best interests<lb/> of mankind.  Selfishness&#44; which stands at the basis<lb/> of earthly governments&#44; will disappear in the contemplation<lb/> of that government Divine&#44; whereby all created beings<lb/> receive life and sustenance.<lb/></p>
+            <p>But grant O god&#33; that we&#45;&#45;the humble instruments of social<lb/> progress in Thy hand&#45;&#45;may act&#44; as if alive to the high<lb/> significance of the words directed whilom to our understanding.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Thou wouldst that we be holy&#44; which means that<lb/> we be devoted to Thy service.  Not by leading a purely<lb/> meditative life&#59; not by segregating ourselves from the<lb/> rest of the world&#44; but by <sic>developping</sic> our virtuous<lb/> instincts&#44; even while mixing with our fellow&#45;mortals<lb/> in their every day&#39;s concern.  For this are we to approach<lb/> perfection.  So we shall be holy&#44; as Thou O Lord our God<lb/> art holy.  Then parents in Israel will be refe&#45;<lb/>&#45;rentially spoken of&#44; and respectfully spoken to.<lb/>  The hoary head in our midst&#44; will elicit tokens of reverence&#59;<lb/> the young will secure kindly consideration.  Our<lb/> judge&#39;s ermines will remain unspotted.  Neither will<lb/> the riches of the wealthy prove to them a fortress of<lb/> defense&#44; nor will the poor find in their indigence a<lb/> screen for their dishonesty.  The laws restraining our<lb/> passions&#44; curbing our appetites&#44; the observance of which<lb/> is the only safeguard of the social compact&#44; will be adhered<lb/> to by each man and woman that is called a Hebrew.<lb/>  The love of our neighbor like that of ourselves&#44; will be exemplified<lb/> in our every deed&#44; in our address&#44; in our very motions regard&#45;<lb/>&#45;ing Thy creatures O Lord&#33; whom Thou hast endowed with an<lb/> immortal soul.  For&#44; Thou wouldst that none be<lb/></p>
+            
+            <pb n="3"/>
+            <p>excluded from that golden rule.  Therefore Thou didst inspire<lb/> Thy arch&#45;prophet to employ a term in framing that precept&#44;<lb/> whose interpretation &#91;inserted above&#58; meaning&#93; might admit of no<lb/> distinction&#59; As it is written &#91;Hebrew&#93;<lb/> Yet&#44; lest in the course of ages&#44; posterity might wrongly<lb/> construe what Thou willest that it might be deeply impressed upon<lb/> the mind of all sentient beings&#44; Thou didst strengthen<lb/> the sublime ordinance just cited&#44; by adding another&#44; which<lb/> enjoins upon us to love the stranger.  For we read &#34;Like a<lb/> native shall be the stranger among you&#44; Thou shalt love<lb/> him like thyself&#34;&#44; placing beyond a peradventure the<lb/> signification of the ennobling command&#44; that we must<lb/> evince feelings of kindliness&#44; of commiseration&#44; of friendship<lb/> to all the offspring of Adam&#44; irrespective of country&#44;<lb/> of color or of creed.  Oh&#33; that these soul&#45;elevating<lb/> principles were engrafted on the heart of mankind at<lb/> large.  We would not lament this Sabbath the sorrowful<lb/> tidings that have just reached come to our hearing&#59; even&#44; the effect<lb/> of deep&#45;rooted fanaticism on our hapless coreligionists<lb/> who dwell in iniquitous Roumania.  No casting<lb/> of venerable Rabbis&#44; and prominent Israelites in dungeons<lb/> like felons&#44; to appease prejudice and bigotry.<lb/></p>
+            
+            <pb n="4"/>
+            <p>How long O Lord&#33; how long shall the wicked triumph&#63;<lb/>  They speak&#44; they utter reproaches&#59; they oppress Thy<lb/> people&#44; and afflict Thy heritage.  They wrong<lb/> the widow&#44; and slay her of orphans.  Arise O<lb/> Lord&#33; uphold the hands of Thy servant Benjamin<lb/> Frank Peixotto that he may bring forth justice<lb/> to light&#44; even Thy judgments like noon&#45;day.<lb/>  Then will truth be vindicated&#44; and they who pine in<lb/> chains and solitude&#44; will exclaim in the language<lb/> of the ancient Psalmist.  &#34;Our soul has ex escaped like<lb/> a bird from the fowler&#39;s snare.  The snare has been<lb/> broken&#44; and we were saved.  For&#44; our help was the Lord<lb/> of heaven and earth&#44; whose name must be praised from<lb/> now to the end of time.&#34;  Amen.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

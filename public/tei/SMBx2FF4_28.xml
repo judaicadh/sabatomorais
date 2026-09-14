@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Felsenthal, B.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF4_28</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Felsenthal, B.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Chicago, IL</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1877-04" source="" attested="yes">27 April 1877</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff4_27_1r.tif"/>
+                                <graphic url="smbx2ff4_27_1v.tif"/>
+                                <graphic url="smbx2ff4_27_2r.tif"/>
+                                <graphic url="smbx2ff4_27_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>237 S. Desplaines St.<lb/>
+            Chicago&#44; April 27. 1877.<lb/></p>
+            <p>Rev. S. Morais<lb/>
+            Dear Sir<lb/></p>
+            <p>In reply to your esteemed letter of the 23. inst. I have<lb/> to say that I tried to learn something in regard to Mr<lb/> S. Magyar&#44; and was informed of the following facts.  Said Mr<lb/> Magyar kept for a considerable time a hardware store on South<lb/> Halsted <sic>st.</sic> No 717 in this city.  His business was in the first<lb/> time flourishing&#44; but of late he had no success&#59; his<lb/> customers <sic>would&#39;nt</sic> transact anymore any business with<lb/> him&#44; his reputation being such that he became much<lb/> disliked with his neighbors.  In consequence thereof he sold<lb/> out&#44; and a few days ago he left Chicago to start a business<lb/> in Wisconsin.  One of my informers told me that he had<lb/> gone to Madison&#44; Wis.&#44; with the intention to commence<lb/> another business there&#44; if the prospects there would appear<lb/> good to him.<lb/></p>
+            <p>About 2 years ago he married here a Miss Raffalsky&#44;<lb/> but children with this wife he has not.  Upon further<lb/> enquiry I was told that he was divorced from his first<lb/> wife by a decree of one of the Chicago Courts&#59; Mr. Philip<lb/> Stein&#44; a lawyer here&#8212;so I was informed&#8212;took steps<lb/> to have the wife in Europe summoned to come here&#44; but<lb/></p>
+            
+            <pb n="2"/>
+            <p>as she declined to come&#44; a decree of divorce was<lb/> granted by the court.<lb/></p>
+            <p>This is about all what I learnt of Mr Magyar<lb/> by enquiring about him among his former neighbors.<lb/></p>
+            <p>Concerning &#40;&#91;Hebrew&#93;&#41; &#91;Hebrew&#93;&#44; I was very much<lb/> pleased to read your note in the Jewish Record.  I saw<lb/> forthwith that the printer had done a bungling work in<lb/> setting your manuscript into type.<lb/></p>
+            <p>Your translation of Luzzatto&#39;s Introduzione &#91;&#63;&#93; I<lb/> have read with great interest.  It is a pity that such<lb/> writings&#44; which appear piecemeal in Weeklies&#44; must so<lb/> soon fall into oblivion.  <hi rend="underline">Such</hi> labors deserve a better<lb/> fate.  They ought to appear in book form.<lb/></p>
+            <p>I shall see some friends within the next days&#44;<lb/> and probably I can find one or the other amongst<lb/> them who will buy Luzzatto&#39;s commentary to the later<lb/> prophets.<lb/></p>
+            <p>With best regards I remain<lb/>
+            yours very truly<lb/>
+            B. Felsenthal<lb/></p>
+        </body>
+    </text>
+</TEI>

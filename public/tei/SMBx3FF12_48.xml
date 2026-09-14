@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Piza, David M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF12_48</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Piza, David M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1885-12" source="" attested="yes">15 December 1885</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff12_47_1r.tif"/>
+                                <graphic url="smbx3ff12_47_1v.tif"/>
+                                <graphic url="smbx3ff12_47_2r.tif"/>
+                                <graphic url="smbx3ff12_47_2v.tif"/>
+                                <graphic url="smbx3ff12_47_3r.tif"/>
+                                <graphic url="smbx3ff12_47_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>6 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>495 Lexington Av.<lb/>
+                New York&#44; 15th Dec. 1885<lb/></p>
+            <p>Dear Sir&#44;<lb/></p>
+            <p>I did not write you for the last<lb/> two weeks because I preferred to wait un&#45;<lb/>til I had something more definite to commu&#45;<lb/>nicate that I yet had th opportunity of do&#45;<lb/>ing. I brought your project before the Board <lb/> of Trustees of our congregation&#44; as promised&#44;<lb/>  but I regret to say that no action was taken&#44;<lb/> as they did not seem to think it practicable&#44;<lb/> or that a college would be of any use. But<lb/> I do not intend to let the matter drop there.<lb/> At the next meeting I shall have it brought<lb/> to the vote&#59; and in order to test the temper<lb/> of the congregation and enable the trustees<lb/> to vote accordingly&#44; I am getting three hun&#45;<lb/>dred copies of your letter to me printed&#44; for<lb/> distribution&#44; among the contributors to our<lb/> Synagogue. I have also attached to it the<lb/></p>
+                
+                <pb n="2"/>
+            <p>concluding paragraph of the leader of the &#34;Record&#34;<lb/> which you have kindly sent me. My sister<lb/> Mrs. Saml Piza&#44; has already promised me a<lb/> subscription of &#36;500 &#40;five hundred&#41; in memory<lb/> of her late husband&#44; to open a list with&#44; which<lb/> I hope the Board will foster&#59; and tho&#39; I have not yet<lb/> seen her&#44; to speak over the matter with&#44; I venture<lb/> the opinion that her family would add another<lb/> &#36;500. to it&#44; if  they thought the success of the un&#45;<lb/>dertaking depended on their contribution. I<lb/> have also  shown your letter to Mr. Henry Ger&#45;<lb/>soni&#44; and he promised me to do what he can<lb/> for the project&#44; in the papers for which he<lb/> writes. He requested me to tell you the same&#44;<lb/> and said that you would know that that means<lb/> something. He expressed the opinion that if<lb/> you don&#39;t succeed in what you undertake&#44; it<lb/> is because you are too despondent. Excuse me<lb/> repeating it&#58; I do it to encourage you. On the<lb/> other hand&#44; about ten days ago I also sent a<lb/> copy of your letter to J.A. Menken&#44; but as<lb/> he happened to get ill at the time&#44; I only got<lb/></p>
+                
+                <pb n="3"/> 
+            <p>his reply yesterday&#44; a copy of which I beg to<lb/> hand you herewith. I took counsel with him<lb/> because tho&#39; he is not at present a worshipper in<lb/> an orthodox synagogue&#44; he is a strict observer<lb/> of the Sabbath&#44; and he is therefore more likely<lb/> to do good to our cause than a nominal or&#45;<lb/>thodox who desecrates it. Besides&#44; I know him<lb/> to be a friend of yours. But I do not agree<lb/> with his views. Therefore I would suggest<lb/> that you who have had a college in Philade<hi rend="sup">la</hi><lb/> and know that neither that nor the one in<lb/> <sic>Cincinatti</sic> needed as much money as he es&#45;<lb/>timates&#44; should write him&#44; to disprove this<del>.</del><lb/> and other fallacies of his&#44; as they seem to me. Of course our own aim in the establishment<lb/> of a college is to reach the <hi rend="underline">next</hi> generation&#59;<lb/> and tho&#39; it would undoubtedly take a long time<lb/> to put it on a firm and permanent basis&#44; in<lb/> the endeavor to do this&#44; we would unite our own<lb/> party and influence others&#59; and there is no reason<lb/> in the argument&#44; why we should not commence<lb/> on &#94; a small scale. If the institution<del>s</del> were once<lb/></p>
+                
+                <pb n="4"/>
+            <p>in existence&#44; we could hope to get endorsements<lb/> later to enlarge it. Neither do we expect that the<lb/>Sheerit Israel congregation alone could attain<lb/> the hoped for result. Our purpose is to unite with<lb/> other Israelites all over the country&#44; as pleaded<lb/> in the editorial in the &#34;Record&#34;; and it is my opinion<lb/> that if we orthodox were  as expert and energetic<lb/> in availing ourselves of any opportunity afford&#45;<lb/>ed us as the reformers are in managing their<lb/> affairs&#44; we could capture at the present junc&#45;<lb/>ture the aid of may who have hitherto been in&#45;<lb/>different and apathetic because the danger<lb/> was less apparent. Here then lies the chance<lb/> of a reaction which Mr. M. thinks is sure to<lb/>come&#44; but which we have no reason to expect<lb/> otherwise&#44; for if we allow it to escape us&#44; we<lb/> are likely to fall more deeply into the abyss<lb/> of ignorance.&#45;&#45;And since you have asked me<lb/> to counsel you&#44; I would suggest your writing<lb/> also to the various ministers mentioned in my last&#44;<lb/> and others&#44; laymen as well&#44; who you think might<lb/> be serviceable to the cause. I understand that<lb/></p>
+                
+                <pb n="5"/>
+            <p>Dr. Drachman&#44; educated at the expense of the<lb/> Emanuel temple has turned out too orthodox<lb/> for them&#44; and has consequently accepted a<lb/> position in a small congregation in New&#45;<lb/>ark&#44; N.J.  I believe there are numerous<lb/> such congregations all over the land who w<hi rend="sup">d</hi>.<lb/> not refuse their mite if we had a well&#45;or&#45;<lb/>ganized body to reach them.  I would not<lb/> place all my dependence on large congregations<lb/> alone&#44; however apparently influential&#44; but<lb/> agitate in the endeavor to make the project<lb/> a popular one.  And as the Record is&#44; I believe&#44;<lb/> hardly seen in N.Y.&#44; it might not be out of<lb/> place for you to discuss the question also in<lb/> the American Hebrew and other organs&#44; per<del>sis</del><lb/>sistently.  If you fail of success&#44; there can be<lb/> no reproach in it.  Your memory will live<lb/> in having fought for a good cause&#44; and one<lb/> day your work will bear fruit.&#45;&#45;I would<lb/> also thank you to send me some plan of<lb/> the proposed institution&#59; based in a measure&#44;<lb/> if need be&#44; on that of the former Maimonides<lb/></p>
+                
+                <pb n="6"/>
+            <p>College&#44; and the one at present in Cincinnati&#44; as far<lb/> as the pecuniary requirements are concerned&#44;<lb/> together with all other details that may suggest<lb/> themselves to you&#44; in order that I may be able<lb/> to reply intelligently to such remarks as are<lb/> contained in Mr Menken&#39;s letter.  Keep me<lb/> also informed&#44; at your convenience&#44; of whatever<lb/> action you take&#44; and oblige<lb/></p>
+            <p>Yours respectfully and truly&#44;<lb/> David M. Piza<lb/></p>
+                
+            <p>Rev. S. Morais<lb/>
+                546 N. 5th St.<lb/>
+                Philadelphia.<lb/></p>
+            </body>
+    </text>
+</TEI>

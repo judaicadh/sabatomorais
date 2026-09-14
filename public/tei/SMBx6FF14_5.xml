@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF14_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cincinnati, OH</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-04" source="" attested="yes">23 April 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff14_5_1r.tif"/>
+                                <graphic url="smbx6ff14_5_1v.tif"/>
+                                <graphic url="smbx6ff14_5_2r.tif"/>
+                                <graphic url="smbx6ff14_5_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Cincinnati April 23<hi rend="sup">d</hi> 1893<lb/></p>
+            <p>Rev<hi rend="sup">d</hi> Dr. S. Morais.<lb/>
+                Philadelphia<lb/></p>
+            <p>My dear valued friend&#44;<lb/></p>
+            <p>I trust you will not think it<lb/> any remissness on my part by not ten&#45;<lb/>dering to you my congratulations on<lb/> the event of your attaining the &#34;three<lb/> score and ten years&#34; of your life.  I was<lb/> not aware of its occurrence until it met<lb/> my eye in the columns of our <sic>our</sic> weekly<lb/> journals&#44; as it is never too late to do a good<lb/> act.  I trust you will now accept my and<lb/> dear family heartfelt congratulations on<lb/></p>
+                
+                <pb n="2"/>
+            <p>this joyous <sic>occassion</sic>&#44; and although our<lb/> Psalmist says &#34;The days of our life are thr&#45;<lb/>eescore and ten years&#44; and by season of <sic>stren&#45;<lb/>ght</sic> they be four score years&#44; yet is their<lb/> pride weariness and sorrow&#59;&#34; we can on&#45;<lb/>ly wish with a fervent prayer to almighty<lb/> god that your future years may be joy<lb/> and gladness surrounded by your dear<lb/> family of children and grand&#45;children&#44;<lb/> that all your plans and anticipations<lb/> may be realized in your days to be a<lb/> solace to you in your declining years&#44;<lb/> and that health and happiness may always<lb/> predominate in your midst.<lb/></p>
+            <p>My dear friend you know I have<lb/> passed that length of days allotted to life&#44;<lb/> and although by course of events in my<lb/></p>
+                
+                <pb n="3"/>
+            <p>dear family which by course of nature has<lb/> unfortunately occurred&#44; still I am in&#45;<lb/>deed thankful to our heavenly father<lb/> for His goodness toward me and my<lb/> dear family&#44; I have really been blest<lb/> when I look around and see how<lb/> many poor creatures at my age are<lb/> <sic>decrepid</sic> and drink from the cup of<lb/> sorrow to its dregs&#44; whilst my cup<lb/> in a measure has been overflowing<lb/> with pleasure surrounded by my dear<lb/> children&#44; grand and great&#45;grand chil&#45;<lb/>dren.  May God grant that your future<lb/> years &#40;that I hope you may be blest<lb/> with&#41; may be crowned with no less plea&#45;<lb/>sure than has mine been to the present<lb/> day.  I really ought not wish you<lb/></p>
+                
+                <pb n="4"/>
+            <p>a continuance of the arduous duties<lb/> you now perform&#44; but trust the day<lb/> is not far distant that you may be<lb/> relieved from its performance&#44; I am<lb/> not ignorant of the fact that circumsta<lb/>nces at present may render its continu&#45;<lb/>ance imperative&#44; we often are confron&#45;<lb/>ted with the old adage &#34;It is a long lane<lb/> that has no turn&#34; as you have traversed<lb/> the lane so long&#44; I trust you may soon<lb/> find its turn.<lb/></p>
+            <p>I hope the &#34;Morais Library&#34; scheme<lb/> will be a success.  May God bless you<lb/> with long life endowed with health and<lb/> happiness&#44; and with love from all to<lb/> all you and dear ones.  I am as ever<lb/> yours truly &#38;c Jacob Ezekiel<lb/></p>
+            </body>
+    </text>
+</TEI>

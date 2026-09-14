@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cowlin, P.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF5_23</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cowlin, P.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1883-10" source="" attested="yes">12 October 1883</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff5_23_1r.tif"/>
+                                <graphic url="smbx3ff5_23_1v.tif"/>
+                                <graphic url="smbx3ff5_23_2r.tif"/>
+                                <graphic url="smbx3ff5_23_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Issued Every Friday<lb/>
+                &#40;Telephone&#58;&#45;&#45; 243&#44; 39<hi rend="sup">th</hi>.&#41;<lb/>
+                Three Dollars Per Annum<lb/>
+                Editorial Department<lb/>
+                The American Hebrew&#44;<lb/>
+                498&#45;500 Third Avenue.<lb/>
+                New York 12 Oct&#44; 1883.<lb/></p>
+            
+            <p>Rev. S. Morais&#58;&#45;&#45;<lb/>
+                Rev. &#38; Dear Sir&#58;&#45;&#45;<lb/></p>
+            <p>I have been trying to<lb/> write you for a week past concerning a<lb/> matter which may be of interest to you&#44;<lb/> but press of time prevented. At the time<lb/> we published our &#34;Sunday School number&#34;<lb/> last fall&#44; we had certain ideas we wished<lb/> to work out&#44; but which developed slowly.<lb/> Having little time just now&#44; I will tell<lb/> you briefly our plans&#44; and if they meet<lb/> your views&#44; will write more fully or<lb/> perhaps call on you concerning it.<lb/> We propose devoting considerable space<lb/> to Sunday School lessons&#44; to consist of<lb/> <del>ques</del> questions  &#38; answers &#40;or other form to be decided&#41;<lb/> after the style of the International S.S. Lessons.<lb/> The work to be divided up into <lb/> &#34;Biblical&#34;&#44; &#34;Post&#45;Biblical&#34; and such other<lb/> divisions as may be arranged&#44; each de&#45;<lb/>partment under charge of one person.<lb/> The space of at least 1Â½ col per week to<lb/> be devoted to it&#44; &#38; if we enlarge&#44; which this<lb/></p>
+                
+                <pb n="2"/>
+                <p>Issued Every Friday<lb/>
+                    &#40;Telephone&#58;&#45;&#45; 243&#44; 39<hi rend="sup">th</hi>.&#41;<lb/>
+                    Three Dollars Per Annum<lb/>
+                    Editorial Department<lb/>
+                    The American Hebrew&#44;<lb/>
+                    498&#45;500 Third Avenue.<lb/>
+                    New York 12 Oct&#44; 1883.<lb/></p>
+                
+            <p>move will very likely necessitate<lb/> we would give over a page to the<lb/> purpose. This matter is to be set<lb/> up in style for reproduction&#44; so<lb/> that the same forms or plates<lb/> therefrom can be used in<lb/> printing such numbers of copies<lb/> &#91;&#94;&#93; &#40;of this portion&#41; as may be ordered by various<lb/> religious schools. A few gentlemen<lb/> have agreed to guarantee the ex&#45;<lb/>pense under certain conditions&#44; <lb/> and any profit that may accrue<lb/> from the sale of the sheets is to go<lb/> to the gentlemen who perform<lb/> the necessary literary work.<lb/> While being essentially Jewish&#44; it<lb/> is desired that these lessons shall<lb/> be written in a manner to com&#45;<lb/>mend them to all shades of Juda&#45;<lb/> ism&#44; leaving it to the individual<lb/> instructors to go into the details<lb/> more closely. Neglect on my part<lb/> when in your city last Spring<lb/> to speak of it to you caused us<lb/> some delay&#44; and it was your PS<lb/></p>
+                
+                <pb n="3"/>
+                <p>Issued Every Friday<lb/>
+                    &#40;Telephone&#58;&#45;&#45; 243&#44; 39<hi rend="sup">th</hi>.&#41;<lb/>
+                    Three Dollars Per Annum<lb/>
+                    Editorial Department<lb/>
+                    The American Hebrew&#44;<lb/>
+                    498&#45;500 Third Avenue.<lb/>
+                    New York 12 Oct&#44; 1883.<lb/></p>
+                
+            <p>to the &#34;Record&#34;letter that induced<lb/> me to write you without &#94; further delay&#44; and<lb/> this is about as close as I could<lb/> get to it. The gentlemen so far in&#45;<lb/>terested in the literary work are<lb/> Revs. A.P. &#38; H.P. Mendes&#44; <del>and</del> it is possible<lb/> &#40;but very unlikely&#41; on account of editorial<lb/> work&#41; that Dr. Mendes may assist. <del>The former</del><lb/> They have asked me to write you inviting<lb/> you to take part and ask<del>ing</del> what you<lb/> think of the idea &#38; in what way you <lb/>could aid. Before your letter appeared<lb/> Rev. Henry P. had prepared himself for the<lb/> Post Biblical&#44; and since seeing it he says<lb/> if you wish to take hold of that&#44; he<lb/> will yield to you with the greatest pleasure<lb/> &#38; find some other department for the<lb/> field is quite large.<lb/></p>
+            <p>This will give you an idea of what we<lb/> propose&#44; and it will afford us much pleasure<lb/> to hear from you concerning it.<lb/></p>
+            <p>With my best wishes for the coming year&#44;<lb/>
+                I remain Yrs truly&#44;<lb/>
+                P. Cowlen&#91;&#63;&#93;<lb/></p>
+        </body>
+    </text>
+</TEI>

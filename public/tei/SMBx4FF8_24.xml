@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Carr, S. N.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF8_24</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Carr, S. N.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-02" source="" attested="yes">23 February 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff8_24_1r.tif"/>
+                                <graphic url="smbx4ff8_24_1v.tif"/>
+                                <graphic url="smbx4ff8_24_2r.tif"/>
+                                <graphic url="smbx4ff8_24_2v.tif"/>
+                                <graphic url="smbx4ff8_24_3r.tif"/>
+                                <graphic url="smbx4ff8_24_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>66. W. 128<hi rend="sup">th</hi> st<lb/>
+                N. Y. Feb<hi rend="sup">ry</hi> 23<hi rend="sup">rd</hi>&#47;88<lb/></p>
+            <p>My dear Mr <sic>Morrais</sic><lb/></p>
+            <p>I write thus again<lb/> to you and I will not<lb/> ask you to pardon my<lb/> importunity because I<lb/> am well aware that you<lb/> are tireless in your efforts<lb/> to promote the cause of<lb/> Israsel.  Our Fair will<lb/> soon take place&#44; and<lb/> altho we have tried our<lb/></p>
+                
+                <pb n="2"/>
+            <p>very best we have not<lb/> as yet been very success<lb/><del>s</del>ful.  You recollect you<lb/> kindly introduced me<lb/> to Mr A. Marcus of Boston<lb/> who responded favorably<lb/> by saying he would<lb/> donate to our Fair&#44; he<lb/> has not done so as<lb/> yet&#44; and I am fearful<lb/> that in the press of<lb/> &#91;&#63;&#93; &#38;c he has forgotten<lb/> us.  I would like you<lb/> please to advise me<lb/> <sic>wether</sic> to write him<lb/> again or not&#44; I enclosed<lb/> him a Circular two<lb/> months ago but he<lb/></p>
+                
+                <pb n="3"/>
+            <p>has not acknowledged<lb/> it&#44; It would have gratified<lb/> you&#44; to have been present<lb/> at the examination of<lb/> our school last Sunday<lb/> about 125 children taken<lb/> from the poorest classes<lb/> so orderly&#44; so perfect<lb/> in Hebrew and the<lb/> <del>Phal</del> elements of our Faith.<lb/> when two or three years<lb/> ago&#44; they were ignorant<lb/> little street children.<lb/>  It is for that school too<lb/> we require funds&#44; it has<lb/> grown so we must<lb/> increase our schools rooms<lb/> &#38;c&#44; I am taking up too<lb/></p>
+                
+                <pb n="4"/>
+            <p>much of your time I am<lb/> <sic>afail</sic> but I am so very<lb/> anxious to be the means<lb/> of doing some good. <del>more</del><lb/> for it is only now that<lb/> time and <sic>oppertunity</sic><lb/> has been given to me to do<lb/> so&#44; I will conclude with<lb/> best wishes for you and<lb/> your circle&#44;<lb/> I remain yours<lb/> truly S N. Carr<lb/></p>
+                
+                <pb n="5"/>
+            <p>&#34;Congregation Moses Montefiore&#44;&#34;<lb/>
+                &#40;SPANISH AND PORTUGUESE&#41;<lb/>
+                NO. 529 EAST 86TH STREET&#44;<lb/></p>
+            <p>New York&#44; January 1st&#44; 1888.<lb/></p>
+            <p>To Mr. <del>Whitney</del>&#44;<lb/></p>
+            <p>The undersigned Executive Committee of a Fair projected in aid of the building<lb/> fund of the Spanish and Portuguese Congregation Moses Montefiore of the City of New<lb/> York&#44; respectfully ask your co&#45;operation and support in the task which they have<lb/> undertaken.<lb/></p>
+            <p>The Congregation Moses Montefiore has been in existence since the year 1883&#44;<lb/> and has held divine services and kept a religious school&#42; during that period&#44; but has<lb/> always met with drawbacks and experienced no little inconvenience from the fact that<lb/> it does not own a house of worship.  The few who have generously given of their means<lb/> to keep this Congregation alive&#44; cannot&#44; without your assistance&#44; extend its usefulness&#44; or<lb/> feel assured of future success.<lb/></p>
+            <p>The Congregation bears the widely known name of one of the noblest and best<lb/> of men that ever lived&#44; and in erecting a suitable house of prayer we believe that we<lb/> fitly perpetuate his piety and good deeds.<lb/></p>
+            <p>It is proposed to build a synagogue of moderate dimensions&#44; always keeping in<lb/> view&#44; however&#44; the increasing attendance at the religious school.<lb/></p>
+            <p>Contributions may be sent to any member of the Executive or Honorary Executive<lb/> Committees&#44; who will duly acknowledge the same.<lb/></p>
+            <p>The Fair will be held at Webster Hall&#44; No. &#91;...&#93; 11th Street&#44; and will be opened<lb/> on March 5th&#44; 1888&#44; for a period of seven days.<lb/></p>
+            <p>Respectfully yours&#44;<lb/>
+                A. M. LAREDO&#44; Chairman&#44; 31 Broadway&#44;<lb/>
+                G. S. ROSENBERG&#44; Louisville&#44; Kentucky&#44;<lb/>
+                DR. A. E. HARTOGENSIS&#44; Treasurer&#44; 208 E. 49th St.&#44;	<emph rend="italics">Executive</emph><lb/>
+                A. PARIENTE&#44; 250 East 90th Street&#44;			<emph rend="italics">Committee</emph>.<lb/>
+                REV. MOSES A. GUEDALIA&#44; 231 East 81st Street&#44;<lb/>
+                ISIDORE OSORIO&#44; Secretary&#44; 319 Broadway&#44;<lb/></p>
+            <p>D. M. PIZA&#44; Treasurer&#44; 24 State Street&#44;<lb/>
+                JULIUS J. LYONS&#44; 140 Nassau Street&#44;	<emph rend="italics">Honorary</emph><lb/>
+                REV. H. P. MENDES&#44; 27 West 16th Street&#44;	<emph rend="italics">Executive Committee</emph>.<lb/>
+                REV. A. H. NIETO&#44; 256 West 22d Street&#44;<lb/></p>
+                
+            <p>&#42;One hundred and twenty&#45;five children now receive instruction at this school&#44; but with increased <sic>accomodations</sic><lb/> this number can be easily doubled.<lb/></p>
+            </body>
+    </text>
+</TEI>

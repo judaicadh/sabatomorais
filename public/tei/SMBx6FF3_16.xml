@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cowen, Philip</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF3_16</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cowen, Philip</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1891-05" source="" attested="yes">14 May 1891</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff3_16_1r.tif"/>
+                                <graphic url="smbx6ff3_16_1v.tif"/>
+                                <graphic url="smbx6ff3_16_2r.tif"/>
+                                <graphic url="smbx6ff3_16_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Published Every Friday								Telephone&#58; 243&#44; 39th<lb/></p>
+            <p>Publication Office<lb/>
+                The American Hebrew&#44;<lb/>
+                498&#45;500 Third Avenue.<lb/></p>
+            <p>New York&#44; May 14&#44; 1891.<lb/></p>
+            <p>Rev. Dr. S. Morais&#44;<lb/>
+                Phila.&#44; Pa.<lb/>
+                Dear Doctor&#58;&#45;<lb/></p>
+            <p>By an oversight I have omitted to write you<lb/> to ask if you could contribute to our columns an article on &#34;The<lb/> Characteristics of Jewish Home Life&#34; for a special number we will<lb/> issue next week.  I do not know how I forgot about it&#44; but I have<lb/> been so busily engaged the past four weeks that it was only in<lb/> going over the plan in view that I noticed the omission.  The en&#45;<lb/>closed circular will give you an idea of what the special number<lb/> will contain&#44; in addition to which will be given the addresses de&#45;<lb/>livered at the opening of the Semitic Museum of Harvard this week.<lb/>  We would very much indeed like to have you give us an article on<lb/> the subject indicated and&#44; as it is one that you can readily handle<lb/> without special preparation&#44; we doubt not you will oblige us.  It<lb/> need not exceed two columns&#44; but can make as much more as you deem<lb/> necessary.<lb/></p>
+            <p>What we would like to have you treat on in the article will<lb/> simply be the affection of the Jew for his home and its surround&#45;<lb/>ings&#44; the attachment existing between parents and children&#44; how this<lb/></p>
+                
+                <pb n="2"/>
+            <p>is due to the religious spirit dominating the home&#44; and which has<lb/> been the preservation of Israel.<lb/></p>
+            <p>The time is short&#44; I know&#44; but I hope you will oblige us.  If<lb/> you could possibly mail it on Sunday night&#44; we would especially<lb/> appreciate it.  We would also be pleased to know how many extra<lb/> copies of the issue you would like to have for your use&#44; which we<lb/> will be pleased to send you.<lb/></p>
+            <p>Sincerely yours&#44;<lb/> Philip Cowen<lb/></p>
+                
+                <pb n="3"/>
+            <p>LEADING FEATURES OF<lb/>
+                SPECIAL ISSUE<lb/>
+                THE AMERICAN HEBREW&#44;<lb/>
+                <emph rend="italics">To be published on Friday&#44; May 15th&#44; devoted to the subject&#44;</emph><lb/>
+                PROGRESS OF THE JEW.<lb/></p>
+            <p>I. <emph rend="italics">The Jew in Business</emph>.<lb/></p>
+            <p>Giving an account of his early training for business characteristics<lb/> and treating of his 				frugality&#44; patience&#44; perseverance&#44;<lb/> etc.&#44; etc.&#44; the amount of capital controlled by the Jews in<lb/> business in New York in various branches of trade&#44; etc.&#44; and<lb/> its growth in the past twenty years.<lb/></p>
+            <p>In connection with this will be published a consensus of opinion<lb/> by prominent merchants and others on the business methods&#44;<lb/> energy and reliability&#44; etc.&#44; of the Jew in business.<lb/></p>
+            <p>II. <emph rend="italics">The Jew in Finance.</emph>	J. S. Moore<lb/>
+                III. <emph rend="italics">The Jew in Literature.</emph>	Rev R Grossman<lb/>
+                IV. <emph rend="italics">The Jew in Art.</emph>		Prof S Woolf<lb/>
+                V. <emph rend="italics">The Jew in Music.</emph>		H E Krehbiel<lb/>
+                VI. <emph rend="italics">The Jew and the Humanities.</emph>	Mrs. M. D. Louis<lb/>
+                Giving an account of various Charities and the amount of<lb/> money annually given&#44; etc.<lb/>
+                VII. <emph rend="italics">The Jew in Medicine.</emph>	Dr H P Mendes<lb/>
+                VIII. <emph rend="italics">The Jew in Law.</emph>		D P Hays<lb/>
+                IX. <emph rend="italics">The Jew in Education.</emph>	H M Leipziger<lb/>
+                X. <emph rend="italics">General Characteristics of Jewish. Life&#44; etc.</emph><lb/></p>
+            <p>These together will form a series of subjects that will make this<lb/> issue the most valuable 			and interesting ever published by us.		Dr S. Morais<lb/></p>
+            </body>
+    </text>
+</TEI>

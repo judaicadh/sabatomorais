@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Drachman, Bernard</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF14_18</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Drachman, Bernard</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-12" source="" attested="yes">7 December 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff14_18_1r.tif"/>
+                                <graphic url="smbx4ff14_18_1v.tif"/>
+                                <graphic url="smbx4ff14_18_2r.tif"/>
+                                <graphic url="smbx4ff14_18_2v.tif"/>
+                                <graphic url="smbx4ff14_18_3r.tif"/>
+                                <graphic url="smbx4ff14_18_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>Dec. 7<hi rend="sup">th</hi>&#47;88<lb/></p>
+            <p>Dear Dr&#33;<lb/></p>
+            <p>During the month of<lb/> November the Seminary classes<lb/> continued the subjects fixed upon<lb/> for this year.  The Preparatory<lb/> Department continued the reading<lb/> of Genesis with &#91;Hebrew&#93; to the end of<lb/> Cap. XXV&#44; read Psalms LII &#38; LIII&#44; Joshua<lb/> at sight to the end of Cap. VIII&#44; con&#45;<lb/>&#45;tinued the history of the division of<lb/> the land and the grammar through<lb/> the pronouns and the rudiments of<lb/> the verb.  The Junior Department<lb/></p>
+                
+                <pb n="2"/>
+            <p>continued the reading of Isaiah to<lb/> Cap. V&#44; the grammar through verbs<lb/> &#91;Hebrew&#93; and the history to the end of<lb/> the period of Ezra and Nehemiah.<lb/>  In accordance with the agreement<lb/> made during your recent presence<lb/> in New York&#44; the Junior Department<lb/> has been instructed to prepare<lb/> an essay in English and one in<lb/> Hebrew to be ready at the end of<lb/> January.  For the English essay<lb/> I have given two subjects of which<lb/> the students are at liberty to choose<lb/> whichever one they prefer.  The first<lb/> is &#34;The importance of Grammar<lb/> for the correct study of the Hebrew<lb/> language and Jewish literature&#44;&#34; the<lb/></p> 
+                
+                <pb n="3"/>
+            <p>second &#34;The period of Ezra and Nehemi&#45;<lb/>&#45;ah in its relation to the history of<lb/> Judaism.&#34;  The Hebrew essay is pro&#45;<lb/>&#45;posed  by Dr. Lieberman and is on<lb/> the thirteen hermeneutical rules<lb/> of R. Ishmael.<lb/></p>
+            <p>The essays are to be passed on by<lb/> the faculty.<lb/></p>
+            <p>This comprises everything of importance<lb/> during the month of November.<lb/>  I remain<lb/> very respectfully<lb/> Bernard Drachman<lb/></p>
+            
+            <pb n="4"/>
+            <p>From<lb/>
+                329 E. 51<hi rend="sup">st</hi> St<lb/>
+                <hi rend="underline">N. Y</hi><lb/></p>
+            <p>Rev. Dr. S. Morais<lb/>
+                546 N. 5<hi rend="sup">th</hi> St<lb/>
+                Philadelphia<lb/>
+                Pa.<lb/></p>
+            </body>
+    </text>
+</TEI>

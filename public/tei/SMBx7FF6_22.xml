@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes"></author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF6_22</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes"></author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1894-10" source="" attested="yes">October 1894</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff6_22_5r.tif"/>
+                                <graphic url="smbx7ff6_22_5v.tif"/>
+                                <graphic url="smbx7ff6_22_1r.tif"/>
+                                <graphic url="smbx7ff6_22_1v.tif"/>
+                                <graphic url="smbx7ff6_22_2r.tif"/>
+                                <graphic url="smbx7ff6_22_2v.tif"/>
+                                <graphic url="smbx7ff6_22_3r.tif"/>
+                                <graphic url="smbx7ff6_22_3v.tif"/>
+                                <graphic url="smbx7ff6_22_4r.tif"/>
+                                <graphic url="smbx7ff6_22_4v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>8 pages on 5 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>219 South Seventeenth Street&#44;<lb/>
+                18th and Chestnut Station&#44;<lb/>
+                Philadelphia.<lb/></p>
+            <p>Rev. S. Morais LLD<lb/>
+                546 N 5<lb/>
+                Philada<lb/></p>
+            
+            <pb n="2"/>
+            <p>To the Honorable Council of the<lb/> Union of American Hebrew Congregations.<lb/></p>
+            
+            <p>Your Committee&#44; appointed by the Council<lb/> assembled at the City of Philadelphia&#44; to<lb/> conduct the annual examination of the<lb/> students of the Hebrew Union College<lb/> have the honor to submit the following<lb/> report.<lb/></p>
+            
+            <p>Your Committee are highly pleased<lb/> with the general result of the examin&#45;<lb/>ation made.  The answers given in<lb/> the various branches of learning pursued&#44;<lb/> exhibited a degree of proficiency on the<lb/> part of the Students&#44; which in many<lb/> instances exceeded expectations.<lb/></p>
+            <p>Taking into consideration that the Students<lb/></p>
+            
+            <pb n="3"/>
+            <p>were engaged during the best hours of<lb/> the day in secular studies in the Public<lb/> Schools of Cincinnati&#44; the progress they<lb/> have made in the various branches of<lb/> Rabbinical knowledge was found to<lb/> be eminently satisfactory.<lb/></p>
+            <p><hi rend="underline">Bible Study</hi>.<lb/></p>
+            <p>The students in this branch have obtained<lb/> a comprehensive knowledge of the<lb/> Holy Scriptures and evinced a steady<lb/> progress in the more advanced<lb/> scriptural text&#44; while they have very<lb/> creditably mastered the difficult linguist&#45;<lb/>&#45;ic and grammatical construction.<lb/>  A few instances of awkwardness in the<lb/> translation from the Hebrew text were<lb/> noticed&#44; but found due more perhaps<lb/> from linguistic difficulties&#44; than from a<lb/> want of proper knowledge or gram&#45;<lb/>&#45;matical construction&#44; and which from<lb/> the zeal manifested by the students<lb/></p>
+            
+            <pb n="4"/>
+            <p>will no doubt be timely overcome.<lb/></p>
+            <p>The greatest excellence however<lb/> in this department should be waged as a<lb/> most valuable attainment in the Hebrew<lb/> scholar and future Minister.<lb/></p>
+            <p>Your Committee is of opinion<lb/> that a few hours each week might be<lb/> spared from the &#34;<hi rend="underline">Mishnah</hi>&#34; and &#34;<hi rend="underline">Talmud</hi>&#45;<lb/>&#45;<hi rend="underline">ical Exercises</hi>&#44;&#34; and be profitably sub&#45;<lb/>&#45;stituted and employed with the special<lb/> view of improving this deficiency&#59; and<lb/> encouraging such other exercises as may<lb/> lead to a thorough acquaintance with the<lb/> contents and diction of all the books in<lb/> the sacred canon&#44; and would therefore<lb/> recommend that at least two hours ad&#45;<lb/>&#45;ditional&#44; weekly&#44; be devoted to these ends&#44;<lb/> and that some of the notable com&#45;<lb/>&#45;mentaries of the Medieval period be<lb/> included in this branch&#44; such as &#34;<hi rend="underline">Rashi</hi>&#34;<lb/></p>
+            
+            <pb n="5"/>
+            <p>&#34;<hi rend="underline">Ezra</hi>&#34; &#34;<hi rend="underline">David Rimche</hi>&#34; and &#34;<hi rend="underline">Nachman</hi>&#45;<lb/>&#45;<hi rend="underline">ides</hi>&#34; and of the modern epoch &#34;<hi rend="underline">Luzzatto</hi>&#44;&#34;<lb/> the &#34;<hi rend="underline">Buirim</hi>&#34; of the Mendelssohn school&#44;<lb/> and those contained in the Vienna and<lb/> Prague Editions of the Scriptures.<lb/></p>
+            <p>&#34;<hi rend="underline">Hebrew Language</hi>.&#34;<lb/></p>
+            <p>The method adopted in the study of this<lb/> branch is best calculated for efficient<lb/> instruction in the sacred tongue&#44; and the<lb/> results attained therein reflect credit<lb/> alike on the Professor and the student.<lb/>  To complete however this course and to<lb/> facilitate the acquirement of a fluent<lb/> Hebrew style&#44; it is recommended that<lb/> regular written versions from English<lb/> into Hebrew should be included in the<lb/> exercises.<lb/></p>
+            <p>&#34;<hi rend="underline">Modern Hebrew Literature</hi>.&#34;<lb/></p>
+            <p>The readings selected in the examination<lb/> were choice and were rendered with<lb/> remarkable ability and no improvement<lb/></p>
+            
+            <pb n="6"/>
+            <p>can be suggested on this topic&#44; except<lb/> perhaps a greater variety from the<lb/> works of eminent Hebrew writers would be<lb/> useful&#44; particularly the &#91;Hebrew&#93;<lb/></p>
+            <p>&#34;<hi rend="underline">Mishnah and Gemara</hi>.&#34;<lb/></p>
+            <p>The merits of the examination in these<lb/> <hi rend="underline">sources</hi> of Rabbinical lore cannot be<lb/> too greatly commended.<lb/></p>
+            <p>The students have by the successful<lb/> use of the Hebrew and Chaldaic<lb/> Grammars considerably overcome the<lb/> natural linguistic difficulties&#44; and<lb/> have acquired a thorough understand&#45;<lb/>&#45;ing of the technicalities of the Talmud&#45;<lb/>&#45;ical discussion&#44; and many of them<lb/> have most ably interpreted the text.<lb/></p>
+            <p><hi rend="underline">Jewish History</hi>.<lb/></p>
+            <p>The examination in this important<lb/> and interesting subject was very<lb/></p>
+            
+            <pb n="7"/>
+            <p>satisfactory&#44; and the chronological<lb/> order seemed to have been thoroughly<lb/> studied and mastered&#44; and having<lb/> embraced extended historical periods&#44;<lb/> evidenced most praiseworthy research.<lb/></p>
+            <p>&#34;<hi rend="underline">Mechilta</hi>.&#34;<lb/></p>
+            <p>The students in this course acquitted<lb/> themselves with great credit&#44; although<lb/> your Committee believe these lessons<lb/> are premature and unimportant<lb/> notwithstanding the study has many<lb/> merits.<lb/></p>
+            <p>It is recommended that further<lb/> instruction under this head be<lb/> discontinued and the time thus<lb/> employed&#44; more profitably devoted<lb/> to the subjects already alluded to.<lb/></p>
+            
+            <pb n="8"/>
+            <p>Your Committee finally can with<lb/> pleasure commend the untiring<lb/> zeal and disinterested devotion of<lb/> the honored President and Faculty<lb/> of the noble institution&#44; and the<lb/> excellent discipline and efficient<lb/> management which characterizes its<lb/> government&#44; reflected in the educ&#45;<lb/>&#45;ational improvement and splend&#45;<lb/>&#45;id deportment of the students.<lb/></p>
+            <p>The Hebrew Union College<lb/> may justly be pronounced a success&#44;<lb/> with prospects of influencing the<lb/> early realization of its generous<lb/> founders and patrons and crown&#45;<lb/>&#45;ing American Israel with interestim&#45;<lb/>&#45;able glory.<lb/>  Respectfully submitted.<lb/></p>
+            </body>
+    </text>
+</TEI>

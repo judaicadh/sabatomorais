@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">American, Sadie</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF9_10</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">American, Sadie</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Allegheny, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1896-02" source="" attested="yes">14 February 1896</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff9_10_1r.tif"/>
+                                <graphic url="smbx7ff9_10_1v.tif"/>
+                                <graphic url="smbx7ff9_10_2r.tif"/>
+                                <graphic url="smbx7ff9_10_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>MRS. H. SOLOMON&#44; PRES.&#44;<lb/> 4060 LAKE AVE.&#44; CHICAGO.<lb/> MRS. J. HARRY SELZ&#44; TREAS.&#44;<lb/> 3329 MICHIGAN AVE.&#44; CHICAGO.<lb/> MISS SADIE AMERICAN&#44; SEC&#39;T.<lb/> 3130 VERNON AVE.&#44; CHICAGO.<lb/></p>
+            <p>National Council of Jewish Women<lb/></p>
+            <p>Allegheny <del>Chicago</del> Feb 14 1896<lb/></p>
+            <p>Rev. Sabbato Morais&#58;<lb/></p>
+            <p>My dear Dr Morais&#58;<lb/></p>
+            <p>Surely nothing<lb/> you could say can call for an excuse<lb/> since we know the motive &#38; the worth<lb/> of all that you say to us&#44; &#38; since we<lb/> must always remember most gratefully<lb/> the helping &#38; kindly hand you have held out<lb/> to us from the very beginning.<lb/></p>
+            <p>What you say about &#34;American Judaism&#34;<lb/> should have been thought of as by us<lb/> but unfortunately we do not all think as<lb/> clearly nor as deeply as we should.  The<lb/> pamphlet if it materializes should be<lb/> called &#34;Judaism in America&#34; for to present<lb/> that was our desire &#38; not to espouse<lb/> the cause of any form of it.<lb/></p>
+            <p>Since our members are of all shades<lb/> of opinion we have always held that<lb/></p>
+            
+            <pb n="2"/>
+            <p>all that <sic>emananated</sic> from the central Board<lb/> must be neutral &#38; devoted only to Judaism<lb/> &#38; a deeper knowledge of &#38; devotion to it&#44; no matter<lb/> in what way temperament&#44; circumstances<lb/> or teaching has made it take hold on us.<lb/></p>
+            <p>Therefore we desired that each phase should<lb/> be presented by its most revered exponent&#45;&#45;<lb/> we would deprecate any thing that was<lb/> controversial or polemical.  We knew that<lb/> conflicting ideas would be found beneath<lb/> the same cover&#44; but we hoped thus to show<lb/> by peaceful juxtaposition of what seemed<lb/> opposing forces to put into the hands of all<lb/> such statements as would give satisfaction under<lb/> one head or the other to each &#38; thus render firmer<lb/> the hold on Judaism.  We wished to influence none<lb/> away from his view.  Our motive was good.<lb/>  It remains to be seen whether it is possible<lb/> to carry it out&#44; under the changed name of<lb/> &#34;Judaism in America&#34;  If the others acquiesce<lb/> do you still think you cannot assist in<lb/> this project&#63;  It can be carried out only if<lb/> all work together as we will not publish what<lb/> may seem to want to force the opinions<lb/> of the National Board &#40;all of whom are<lb/> radical&#41; on the members.  The Board has<lb/> always been very careful not to let this<lb/></p>
+            
+            <pb n="3"/>
+            <p>appear.<lb/></p>
+            <p>I have so far heard only from<lb/> Dr. Wise who voices an objection similar<lb/> to yours.  I have written to him again &#38;<lb/> await his answer &#38; yours.<lb/></p>
+            <p>We are more than grateful for your<lb/> assistance&#44; my visits with you have<lb/> been a living stimulus&#45;&#45;Mrs. Cohen has done<lb/> magnificent service.  In fact we are<lb/> more than satisfied since now in 35 cities<lb/> earnest attempts are being made to gain<lb/> a close knowledge of our dear religion &#38;<lb/> interest is growing deeper &#38; truer.  Good must<lb/> come of it &#38; the hand of the Lord is in it &#38;<lb/> is sustaining us.<lb/></p>
+            <p>For any suggestions&#44; criticisms or comments<lb/> we will always be thankful.  May I ask<lb/> for always to give them to us fully &#38; freely.<lb/>  I hope to hear from you soon again&#44; &#38; am<lb/> with assurances of deepest respect &#38;<lb/> regard&#44; Most faithfully yrs<lb/> Sadie American<lb/> Secy<lb/></p>
+            </body>
+    </text>
+</TEI>

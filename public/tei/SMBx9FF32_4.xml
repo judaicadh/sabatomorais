@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx9FF32_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx9ff32_4_1r.tif"/>
+                                <graphic url="smbx9ff32_4_1v.tif"/>
+                                <graphic url="smbx9ff32_4_2r.tif"/>
+                                <graphic url="smbx9ff32_4_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>For Chakat and Balak<lb/></p>
+            
+            <p>Grant O Lord&#33; that we may gain a correct under&#45;<lb/>&#45;standing of that which our holy men of old have written.<lb/>  Specially are we eager for a right comprehension&#44; when<lb/> pondering on that part of the sacred book&#44; which contains is most<lb/> revered&#44; because it contains Thy perpetual ordinances.<lb/>  Human reason rises at times unbidden to gainsay what<lb/> the pen of inspiration has registered.  Thus in the twofold<lb/> section of this Sabbath&#44; various incidents startle the mind.<lb/>  We can readily recognize Thy justice&#44; O Lord&#33; which visited<lb/> upon the two messengers of Thy will a light error with<lb/> severity.  For&#44; by those who come nearest unto Thee&#44; is Thy<lb/> name to be publicly hallowed&#44; in order that all may<lb/> stand in dread of sin.  Moses and Aaron who suffered<lb/> anger to erase Thy command from their memory&#44; so that<lb/> instead of ordering the rock to gush out water for the thirsty&#44;<lb/> struck it wrathfully&#44; though incensed by our father&#39;s<lb/> constant tempting of Thy power&#44; fell under Thy dis&#45;<lb/>&#45;pleasure and were denied the joy of entering the goodly land.<lb/>  That event so grievous to the righteous&#44; discloses Thy way<lb/> which is perfect&#44; and Thy Divine rule which is no respecter of<lb/> persons.<lb/></p>
+            
+            <pb n="2"/>
+            <p>But we cannot dive into the meaning of the occurrence&#44;<lb/> which relates that a look directed towards a brazen<lb/> serpent healed our ancestors&#44; whose blood&#44; the agent of<lb/> Thy upright judgment&#44; a live serpent&#44; had poisoned.<lb/>  Taught by Thy prophets to believe&#44; that contrition and the<lb/> relinquishing of our evil doings are the restorers of Thy<lb/> favor&#44; we are unable to comprehend how those sickened&#44;<lb/> because of their transgression&#44; found a cure by gazing on<lb/> a statue.  We hate froward thoughts&#44; and love Thy word&#44;<lb/> O Lord&#33; but we crave for light that we may put faith<lb/> in Thy book with a whole heart.  Thus we also fully<lb/> credit the narrative that a heathen soothsayer was made<lb/> by Thee to <sic>unvail</sic> the future&#44; and utter&#44; against his own<lb/> will&#44; devout wishes&#44; and truths sublime&#59; for&#44; to rebuke<lb/> the king who had hired a wizard to harm Thy redeemed<lb/> people&#44; Thou didst inspire Balaam to exclaim &#34;No enchant&#45;<lb/>&#45;ment can avail against Jacob&#44; and no divination against<lb/> Israel&#34;.  But we who know that a man&#39;s malediction<lb/> can injure none&#44; without Thy heavenly sanction&#44; cannot<lb/> understand why the lips open to curse were forced to bless.<lb/>  Nor can our unaided reason find an adequate cause for<lb/> the gift of speech seemingly bestowed upon an irrational being&#44;<lb/></p>
+            
+            <pb n="3"/>
+            <p>and for its having been favored with a supernatural<lb/> apparition&#44; withheld from the master thereof.<lb/>  Verily&#58; our teachers have striven to unfold by their discernment<lb/> and fittingly to explain what the human mind is prone<lb/> to controvert.  From them we have learnt that not the<lb/> mere staring at the brazen serpent&#44; but that a penitent<lb/> look upturned towards Thee O Lord&#33; brought on the healing of<lb/> the diseased sinners.  They have likewise told us that the<lb/> scrupulous care of our predecessors not to wage war against<lb/> Moab&#44; because of the ancient relationship existing&#44; might<lb/> have been interpreted as the effect of Balaam&#39;s imprecation&#44;<lb/> and therefore Thou didst not permit the Syrian magician to prac&#45;<lb/>&#45;tise on Thy tribes his deceptive art.  And some of our pre&#45;<lb/>&#45;ceptors have intimated that the episode relative to the<lb/> journey of the sorcerer to meet Balak&#44; and the appearing<lb/> of an angel with a drawn sword&#44; seen first by the dumb<lb/> creature&#44; happened in a vision which Thou didst vouchsafe&#44;<lb/> to reprove him who deemed his magical powers supreme.<lb/>  But men are fallible.  However useful their instruction&#44; and<lb/> satisfactory their elucidations&#44; they may not always be the<lb/> breathing of the spirit of truth.  Aid us Thou O Lord in<lb/> our meditations.  Guide our thoughts aright&#44; that we<lb/></p>
+            
+            <pb n="4"/>
+            <p>may discover all which is hidden&#44; penetrate all which is<lb/> obscure in the revealed volumes.  With Thy pious Psalmist<lb/> we cry &#34;Let Thy face shine on Thy servants&#44; and teach us<lb/> Thy statutes.&#34;  Then will we quell the tumults of a rebellious<lb/> mind&#44; and join into a holy alliance reason with faith.<lb/>  Grant us that capacity Thou who delightest in the<lb/> sincere belief of Thy children&#59; and let the words of our<lb/> mouth&#44; and the desires of our hearts be acceptable before<lb/> thee&#44; O Lord Our Rock&#44; and our Redeemer.  Amen.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

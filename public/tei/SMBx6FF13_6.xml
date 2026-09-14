@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF13_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Blumenthal, Joseph</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-02" source="" attested="yes">26 February 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff13_6_1r.tif"/>
+                                <graphic url="smbx6ff13_6_1v.tif"/>
+                                <graphic url="smbx6ff13_6_2r.tif"/>
+                                <graphic url="smbx6ff13_6_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>C<lb/>
+                O<lb/>
+                P<lb/>
+                Y<lb/></p>
+            <p>Philadelphia&#44; February 26&#44; 1893.<lb/></p>
+            <p>Honorable Joseph Blumenthal&#44;<lb/>
+                My dear Sir&#58;<lb/></p>
+            <p>I have just returned from a funeral and found a<lb/> telegraphic <sic>despatch</sic>&#44; stating that the New York committee&#44; expected here<lb/> this afternoon&#44; will not come.  I regret it very much&#44; because on Friday<lb/> morning&#44; I called on Dr. Cohen and made arrangements to invite Dr.<lb/> Steinbach&#44; the treasurer of our Phila Branch&#44; to meet us and talk matters<lb/> over&#44; previous to our annual meeting.  I have induced Mr. E. L. Rotschild&#44;<lb/> one of our Trustees&#44; to accept the presidency&#44; and Mr. Lederer&#44; who&#44; un&#45;<lb/>fortunately has just buried his father&#44; will as soon as he can.  Issue<lb/> calls for said meeting.  <del>I have induced Mr. E. L. Rothschild&#44; one of our<lb/> Trustees&#44; to accept the presidency&#44; and Mr. Leder</del> Mr. Hoffman&#44; who de&#45;<lb/>clined the presidency and for valid reasons preferred Mr. Rothschild&#44; will<lb/> gladly serve on the Board.  Naturally&#44; I feel greatly disappointed at the<lb/> unfavorable reports concerning the tuition in the Seminary.  It surprises<lb/> and pains me to hear that after the solemn promises given me by Dr.<lb/> Lieberman&#44; he continues to be irregular and justly occasions the displeas&#45;<lb/>ure of the Trustees&#44; and the imperative necessity of a change&#44; after his<lb/> having begged that I would allow him to remain till the end of the term.<lb/>  I might write and caution him once more&#44; but from what Mr. Max Cohen says&#44;<lb/> my endeavours in that direction would be futile.  AS to Dr. Jaffe&#44; I wish<lb/> to remind you of the ideas entertained by some of our students.  I notice<lb/> that Dr. Kohut has sent certificates as to character and abilities of the<lb/> aforenamed&#44; and  I was shown also a letter written by the Dr. to Dr. Cohen<lb/> on the merits of the aspirant to the Talmudical chair.  In that same letter&#44;<lb/> the Dr. intimates that the gentleman now at Oxford would be selected as<lb/> professor of exegises.  Clearly&#44; Dr. R. desires a thorough transformation<lb/> in the complexion of the Institution.  For that I am not prepared.  You know<lb/> my views about foreign scholars&#44; and the little importance I attach to big<lb/> names and highly complimentary documents.  It is this fondness for eclat&#44;<lb/> that has&#44; in my opinion&#44; sacrificed a thorough knowledge of Bible<lb/> and the spirit of prophetism to less essential studies.<lb/></p>
+            <p>Admit&#58; We need a most suitable person to<lb/> watch over the instruction of pupils&#44; over their conduct&#44; habits&#44;<lb/> etc.&#44; and&#44; in all sincerity&#44; I would rejoice if I could be re&#45;<lb/>placed by a New Yorker&#44; able and willing to do us justice.  But<lb/> I know of none.  Our ministers are&#44; like myself here&#44; busy men&#44;<lb/> while some of them are wedded to a school which I learn&#44; every<lb/> day more&#44; to distrust.  While I remain connected with the seat<lb/> of learning&#44; gotten up in good faith for the perpetuation of<lb/> traditional Judaism&#44; I must prevent what will falsify its prom&#45;<lb/>ises and stultify my whole life.  With regret I say&#44; that this<lb/> week I am unable to be in New York.  Tomorrow I shall have<lb/> another funeral.  On Tuesday I am bound to teach children whom<lb/> I train to chant the prayers in Synagogue.  On Wednesday is the<lb/> fast of Esther and on Thursday&#44; Purim.  Meanwhile&#44; <sic>O</sic> hope you<lb/> will do me the favor to see Dr. Leiberman&#44; and tell him how an&#45;<lb/>noyed I am at his failing to keep up his promises.  If we must<lb/></p>
+                
+                <pb n="2"/>
+            <p>reduce the hours devoted to Talmudical studies&#44; let them be filled<lb/> up by the pupils&#44; either under Dr. Drachman&#44; or Mr. Speaker&#44; or<lb/> even by themselves&#44; having been assigned a certain task in Bible&#44;<lb/> history and Hebrew composition.  I hope to be able dearly next week<lb/> to see you and arrive at some definite conclusion.<lb/></p>
+            <p>I am sorry to report that Isaac Husick was taken quite ill&#44;<lb/> and he is now laid up.  The doctors tell me that he has overtaxed<lb/> his strength by attending too closely to his studies.  But I fear<lb/> that the poor manner of living may have greatly contributed to<lb/> impair his health.  I trust that he will soon recover&#44; for he will<lb/> do us credit.<lb/></p>
+            <p>With kind regards and wishing yourself&#44; and all connected<lb/> with the Seminary&#44; a merry Purim&#44; I remain<lb/> Yours truly<lb/> S. Morais.<lb/></p>
+            </body>
+    </text>
+</TEI>

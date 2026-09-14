@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Jastrow, M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF13_19</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Jastrow, M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Atlantic City, NJ</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-04" source="" attested="yes">18 April 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff13_19_1r.tif"/>
+                                <graphic url="smbx6ff13_19_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p><hi rend="underline">TELEGRAM</hi><lb/></p>
+            <p>&#91;Seal of Postal Telegraph&#45;Cable Company&#93;  <emph rend="italics">This Company TRANSMITS and DELIVERS messages subject to conditions printed on back of this Blank.</emph><lb/></p>
+            <p>ALBERT B. CHANDLER&#44;						JOHN O. STEVENS&#44;<lb/>
+                President and General Manager.					Secretary.<lb/></p>
+            <p>NUMBER		SENT BY		REC&#39;D BY		CHECK<lb/>
+                6			Bc			Da			10 Pd<lb/></p>
+            <p>Dated Atlantic City NJ 18 Received at&#95;&#95;&#95;<lb/></p>
+            <p>To Rev. Dr S Morais	4&#47;18 1893<lb/> 546 N 5<lb/></p>
+            <p>accept Heartiest<sic></sic> congratulations<lb/> on arrival at Three 3 scores<lb/> and Ten 10<lb/> M. Jastrow<lb/></p>
+            <p>PRESTON&#39;S COMMISSION OFFICE<lb/></p>
+            <p>General Office&#44; N. E. Cor. 3rd and Chestnut Sts.  Open Day and Night.<lb/></p>
+            <p>Telephone No. 146.<lb/></p>
+                
+                <pb n="2"/>
+            <p><hi rend="underline">CONDITION</hi><lb/></p>
+            <p>ALL MESSAGES TAKEN BY THIS COMPANY ARE SUBJECT TO THE FOLLOWING TERM&#91;S&#93;<lb/></p>
+            <p>To guard against mistakes or delays&#44; the sender of a message should order it REPEATEd&#59; that is&#44; telegraphed back to<lb/> the originating office for comparison.  For this&#44; one half the regular rate is charged in addition.  It is agreed between the<lb/> sender of the message written on the face hereof and the Postal Telegraph&#45;Cable Company&#44; that said Company shall not be<lb/> liable for mistakes or delays in the transmission or delivery&#44; or for non&#45;delivery&#44; of any UNREPEATED message&#44; beyond the<lb/> amount received for sending the same&#59; nor for mistakes or delays in the transmission or delivery&#44; or for non&#45;delivery of any<lb/> REPEATED message beyond fifty times the sum received for sending the same&#44; unless specially insured&#44; nor in any case for<lb/> delays arising from unavoidable interruption in the working of its lines&#44; or for errors in cipher or obscure messages.  And this<lb/> Company&#44; is hereby made the agent of the sender&#44; without liability&#44; to forward any message over the lines of any other<lb/> Company when necessary to reach its destination.<lb/></p>
+            <p>Correctness in the transmission of messages to any point on the lines of the Company can be INSURED by contract in<lb/> writing&#44; stating agreed amount of risk&#44; and payment of premium&#44; thereon at the following rates&#44; in addition to the usual<lb/> charge for repeated messages&#44; viz&#58; one per cent. for any distance not exceeding 1&#44;000 miles&#44; and two per cent for any greater<lb/> distance.<lb/></p>
+            <p>No responsibility regarding messages attaches to this Company until the same are presented and accepted at one of its<lb/> transmitting offices&#59; and if a message is sent to such office by one of this Company&#39;s messengers&#44; he acts for that purpose as<lb/> the agent of the sender.<lb/></p>
+            <p>Messages will be delivered free within the established free delivery limits of the terminal office.  For delivery at a<lb/> greater distance a special charge will be made to cover the cost of such delivery.<lb/></p>
+            <p>This company will not be liable for damages in any case where the claim is not presented in writing&#44; within sixty days<lb/> after the message is filed for transmission.  In any event&#44; this Company is not to be held liable for any loss&#44; or damage&#44; or<lb/> for delay&#44; or detention&#44; or errors caused by storms or action of the elements&#44; or other acts of God&#44; or by civil or military<lb/> authority&#44; or by insurrections&#44; riots&#44; rebellions&#44; or dangers incident to time of war&#44; or by the unlawful acts of individuals.<lb/></p>
+            <p>This is an UNREPEATED Message and is delivered by request of the sender under the conditions named above.<lb/></p>
+            <p>No employee of this Company is authorized to vary the foregoing.<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF2_18</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Houston, TX</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1882-04" source="" attested="yes">12 April 1882</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff2_18_1r.tif"/>
+                                <graphic url="smbx3ff2_18_1v.tif"/>
+                                <graphic url="smbx3ff2_18_2r.tif"/>
+                                <graphic url="smbx3ff2_18_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>JACOB VOORSANGER&#44;<lb/>
+                EDITOR JEWISH SOUTH&#44;<lb/>
+                HOUSTON&#44; TEXAS.<lb/></p>
+            <p>April 12&#44; 1882<lb/></p>
+            <p>My dear sir<lb/></p>
+            <p>I have read with much interest your letter of March<lb/> 20<hi rend="sup">th</hi> and only regret&#44; that my many occupations and the<lb/> intervening holidays prevented me from replying sooner.  To<lb/> enter into the merits of our present discussion at once&#58; you<lb/> denounce Bernstein and <del>our</del> give him some hard knocks<lb/> on the knuckles&#44; yet pardon me&#44; if I am still impressed<lb/> with the extraordinary similarity of the stories of Gen&#44;<lb/>esis and kings.  I have always been a devoted follower of<lb/> the science of philology&#44; and especially under the rules<lb/> of that science B&#39;s deductions are perfectly admissible<lb/> But granted&#44; that you are right on every point&#8212;what<lb/> about the Samson and Herakles comparison&#63;  Surely<lb/> <hi rend="underline">there</hi> one finds more than accident&#44; namely the drawing<lb/> on a common source of information.  A few other examples.<lb/>  In the last number of the Hebrew Review Dr. Haupt<lb/> satisfactorily proves&#44; that the flood story is a transcript<lb/> &#40;almost literally&#41; from an Assyrian or Chaldean<lb/> story.  I knew long ago that the first chapter of Genesis<lb/></p>
+                
+                <pb n="2"/>
+            <p>was a <del>use</del> transcript from a like source.  Enf. Graetz&#44;<lb/> following the Frenchman Bertheau&#44; identifies &#91;Hebrew&#93; and<lb/> &#91;Hebrew&#93; with Apollo &#40;Helios&#41; and makes &#91;Hebrew&#93; their<lb/> sister the same as Venus &#40;the moon&#41;. &#91;Hebrew&#93; is<lb/> the <del>the</del> Etrurian Toelchin&#91;&#63;&#93;&#44; Gr. &#91;Greek&#93;&#44; and by drop&#44;<lb/>ping the S. which is perfectly permissible the Latins<lb/> had Vulcan &#40;us&#41; who was a blacksmith&#44; as &#91;Hebrew&#93;<lb/> was the worker in iron and brass.<lb/></p>
+            <p>Be these things as they may&#44; &#38; much remains true<lb/> that we stand at the door of a revolution.  What for&#44;<lb/>merly has been the private opinion of scholars is now<lb/> becoming public property&#44; and when a man like<lb/> Dr. Lilienthal &#91;Hebrew&#93; publicly proclaims &#40;Hebrew<lb/> Review&#44; page 130&#41; that the Bible contains &#34;legendary<lb/> parts&#44;&#34; and that &#34;especially the Mosaic Books are com&#44;<lb/>posed of various parts&#44; written and collected at var&#44;<lb/>ious times&#34; we have cause for serious meditation.  If<lb/> this assertion be true <sic>than</sic> &#91;Hebrew&#93; is a <hi rend="underline">licentia<lb/> scribenda</hi>&#44; if not to denominate it by a harsher ex<lb/>pression&#59; and the prophet who said &#91;Hebrew&#93;...<lb/>....&#91;Hebrew&#93; did not know anything about<lb/> what he was saying.  Can you then be surprised<lb/></p>
+                
+                <pb n="3"/>
+            <p>JACOB VOORSANGER&#44;<lb/>
+                EDITOR JEWISH SOUTH&#44;<lb/>
+                HOUSTON&#44; TEXAS.<lb/></p>
+            <p>3<lb/></p>
+            <p>that we youngsters&#44; who <hi rend="underline">must</hi> follow the directions <del>of</del><lb/> <del>the</del> and tendencies of the age are sadly perplexed&#63;  In view of<lb/> the foregoing I beg to represent to you that my diffi&#44;<lb/>culty is not exactly the harmonization of the scriptures<lb/> with critics and criticism&#44; but only how to apply the<lb/> letter so that the former may remain &#91;Hebrew&#93; I have<lb/> read much&#59; thank God that my faith has not suffered&#44;<lb/> and when in the article answered by you I quoted Hab&#44;<lb/>bakkuk it was to indicate&#44; that <hi rend="underline">his</hi> golden rule<lb/> was indeed the only <hi rend="underline">safe</hi> rule&#44; and that not creed<lb/> but deed&#44; not scholarly attainments&#44; but humble work&#44;<lb/> not scrupulous text&#45;criticism&#44; but pious compliance<lb/> with the text&#39;s demands were to lead to happiness.<lb/>  Am I not right&#63;  What perplexes me is not how<lb/> to learn for myself&#44; but how to teach my block and<lb/> my <del>prof</del> pupils.  If I err for myself&#44; it is simply<lb/> &#91;Hebrew&#93; but if I err in my teachings&#44; is <hi rend="underline">that</hi><lb/> not unpardonable&#63;  Hence I criticized your talk.<lb/>  I thought and still think&#8212;that our people cannot<lb/> yet stand the risk of radical text&#45;criticism&#44; and<lb/> that it is untimely to discuss before them works like<lb/></p>
+                
+                <pb n="4"/>
+            <p>Smiths.<lb/></p>
+            <p>Of course I respect your reluctance to enter the field of<lb/> polemics&#44; and I shall therefore not continue to write on this<lb/> subject.  I have recently withdrawn from the J. S. mainly<lb/> because its proprietor is impractical and unmanageable&#44;<lb/> but I shall not remain idle.  I have a passion for writing<lb/> and as long as I can therewith serve the cause I am con<lb/>tent.  I may&#44; in course of time&#44; develop into a &#34;story teller&#44;&#34;<lb/> for I discover in one a growing taste for writing sketches<lb/> and tales&#44; which have already given Koppel von Vloomburg<lb/> something of a reputation.  I thank you for your kind advice<lb/> to &#34;study the situation&#34; it is really necessary&#44; for my income<lb/> is beginning to be disproportionate to my expenditures.  Hap<lb/>pily my dear people will raise my salary next month<lb/> with an additional &#35;300.  I have lately subscribed for the<lb/> new Wilna edition of the &#91;&#63;&#93; and &#91;Hebrew&#93;; it will cost a<lb/> great deal of money&#44; but I need a complete edition.  Time<lb/> fails me to write more.  I hope to be honored again with a<lb/> few lines&#44; and with regards to Miss Morais and the<lb/> children I am	sincerely yours<lb/></p>
+            <p>Jacob Voorsanger<lb/></p>
+            <p>Rev. S. Morais.<lb/></p>
+        </body>
+    </text>
+</TEI>

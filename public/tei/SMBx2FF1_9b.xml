@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF1_9b</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Wiley, S. R.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1874-07" source="" attested="yes">3 July 1874</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff1_9_5r.tif"/>
+                                <graphic url="smbx2ff1_9_5v.tif"/>
+                                <graphic url="smbx2ff1_9_6r.tif"/>
+                                <graphic url="smbx2ff1_9_6v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>S. R. Wiley Esqre<lb/></p>
+            <p>Philadelphia July 3d 1874<lb/></p>
+            <p>Dear Sir<lb/></p>
+            <p>Your letter of the 23d ult&#44; came just now to hand.<lb/>  I hasten<del>ed</del> to reply as briefly as the subject allows.<lb/></p>  
+            <p>Without discussing at all the question as to the language<lb/> <hi rend="underline">first</hi> spoken&#44; though Adam from Adama&#44; and Isha<lb/> from Ish would entitle the Hebrew to the right of<lb/> primogeniture&#44; we may <del>confidently</del> venture to say that at the<lb/> earliest periods of Biblical history&#44; the Aramaic and<lb/> Hebrew were very near alike&#8212;similar to the Spanish<lb/> and Portuguese of our days.  The fact that the<lb/> alphabet&#44; doubtless of very ancient origin&#44; &#40;according<lb/> to the Sages coeval with creation&#8212;contains the<lb/> name<del>s</del> of letters like Beth &#40;&#91;Hebrew&#93;&#41; and Nun &#40;A&#41; &#38;c &#38;c&#44;<lb/> carries out the views generally entertained.  Gradually&#44;<lb/> however&#44; the two languages <del>separated</del> diverged&#44; so much to<lb/> that at the time of Jacob they were entirely distinct.<lb/>  The patriarch called the heap of Hones set up to<lb/> testify to the truth of his promise Gal Ed&#44; &#91;&#63;&#93;<lb/></p>
+            
+            <pb n="2"/>
+            <p>Laban named at Yegar Sahadrita&#39;h.<lb/></p>
+            <p>The opinion of Philo in the point at issue&#44; is<lb/> of no value.  I believe that the good and learned<lb/> Jew had scarcely any knowledge of Hebrew.  Our<lb/> Hellenist brethren use the Greek even in public<lb/> worship.  A tyro will perceive that Israel is ana<lb/>&#45;logical to Yasar El &#40;having power over the mighty&#41;<lb/> as the context shows&#44; as the prophet Hosea intimates&#44;<lb/> and as Josephus&#8212;no mean authority&#8212;confirms.<lb/>  The difference between the history of our fathers in<lb/> Egypt&#44; and our predecessors in Babylon&#44; in connection<lb/> with the sacred tongue&#44; is clearly explained in the<lb/> Scriptures.  While intermarriage with heathen women<lb/> happened constantly during the captivity in Chaldea&#44;<lb/> in the land of the Pharaohs&#44; they very rarely took<lb/> place.  In one case the mothers taught their verna&#45;<lb/>&#45;cular to the exclusion of the Hebrew&#44; in the other<lb/> such influences were not at work.<lb/></p>
+            <p>The proof that the 70 persons who emigrated<lb/> to <del>Heb</del> Egypt spoke the Hebrew&#44; is&#44; among others<lb/> the following.  Jacob&#39;s blessing to the heads of the<lb/> tribes&#44; which notwithstanding modern criticism denying<lb/></p>
+            
+            <pb n="3"/>
+            <p>its avowed authorship&#44; bears internal evidences of<lb/> its genuineness&#44; contains several homonyms&#44; that can<lb/> best be carried out in the Hebrew&#44; as Yehudah&#44; Yoducha<lb/> Dan. Yadin&#8212;Gad Gided.<lb/></p>
+            <p>Were I not at present much engaged&#44; I would write<lb/> more at length&#44; and possibly to your satisfaction.<lb/>  As it is&#44; you must excuse the brevity.<lb/></p>
+            <p>Yours truly<lb/>
+            S Morais<lb/></p>
+        </body>
+    </text>
+</TEI>

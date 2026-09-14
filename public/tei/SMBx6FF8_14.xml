@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Drachman, Bernard</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF8_14</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Drachman, Bernard</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1892-03" source="" attested="yes">21 March 1892</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff8_14_1r.tif"/>
+                                <graphic url="smbx6ff8_14_1v.tif"/>
+                                <graphic url="smbx6ff8_14_2r.tif"/>
+                                <graphic url="smbx6ff8_14_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+                <pb n="1"/>
+            <p>New York&#44; March 21<hi rend="sup">st</hi> 5652<lb/></p>
+            <p>Dear Dr&#33;<lb/></p>
+            <p>In accordance with your request I hereby send<lb/> you a statements of the studies pursued in the Seminary<lb/> during the past year and the portion hitherto gone through<lb/> of the present Scholastic year.  The amounts are only<lb/> approximate as I have not recorded them since the intro&#45;<lb/>&#45;duction of the new <del>style</del> style of reports which make no allowance<lb/> for them.  During the Scholastic year 5651 &#40;1890&#45;1891&#41; the<lb/> Senior class took the following studies  The book of Ezekiel&#44;<lb/> some 30 chapters with grammatical &#38; exegetical explanations&#44;<lb/> the philosophical work Ikkarim by R. Joseph Albo&#44; 15 chapters&#44;<lb/> Jewish History to the end of the period of the second Temple&#44; and<lb/> lectures on Biblical Version and Semitic languages.<lb/></p>
+            <p>During the present term they have read the Emmoth Ue&#45;deoth<lb/> of Saadiah Goan some 40 pages&#44; the book of Job with gram&#45;<lb/>&#45;matical &#38; exegetical explanations&#44; some 15 chapters&#44; lectures<lb/> on Biblical versions and on the history of Jewish Philosophy.<lb/>  The lectures on Biblical versions described the Tarqumim<lb/> &#38; all noteworthy translations ancient &#38; modern&#44; the lectures<lb/> on Jewish philosophy explained the views of the Alexandrian&#45;<lb/></p>
+                
+                <pb n="2"/>
+            <p>Hellenistic&#45;Jewish thinkers and presented the chief philos&#45;<lb/>&#45;ophical&#44; theological views of the Talmudists.  Each year<lb/> the class prepared several sermons &#38; were practically exercised<lb/> in Homilitics.<lb/>  Junior A.<lb/></p>
+            <p>During the Scholastic year 5651 &#40;1890&#45;1891&#41; the Junior A. class<lb/> were instructed by me in the following subjects.  Pentateuch<lb/> &#40;Numbers&#41; 6 chapters with Rashi&#44; Biblical History through the<lb/> reign of Solomon&#44; Isaiah with the commentaries &#91;Hebrew&#93; and<lb/> &#91;Hebrew&#93; some 10 chapters.  During the present term they<lb/> read with me Hozen with commentary &#91;Hebrew&#93; and &#91;Hebrew&#93;<lb/> 8 chapters&#44; Mishna &#91;Hebrew&#93; with commentary Bertinov<lb/> 4 chapters&#44; Grammar the entire verb and noun and history<lb/> through the reigns of Jehovan and Ahaziah&#44; of Israel &#38; Judah.<lb/>  They also attended the lectures on history of the Senior class.<lb/></p>
+            <p>Junior B<lb/></p>
+            <p>During the Scholastic year 5651 this class read under my<lb/> instruction the entire book of Nehemiah and almost all of<lb/> Lamentations&#44; besides grammar Biblical history.<lb/>  During the present term their instruction has been mostly<lb/> given by Mr Speaker and I have only taught them History<lb/> and Grammar in common with the Junior Cl.<lb/>  I have only reported here the branches which I have<lb/> myself taught.  The branches conducted by Dr. Lieberman<lb/></p>
+                
+                <pb n="3"/>
+            <p>and Mr Speaker have been regularly conducted but<lb/> concerning them I am unable to report.<lb/></p>
+            <p>In concluding this <del>condition</del> communication&#44; I regret<lb/> to state that my condition of health has not been<lb/> good for some time.  My physician tells me<lb/> that my nervous system is considerably run down<lb/> and urges me to withdraw for at least two weeks from<lb/> active work and to seek recuperation in some quiet health<lb/> resort.  I feel myself therefore obliged to request leave of absence<lb/> for that period and I think it not any unlikely that<lb/> a substitute may be found to temporarily take my<lb/> place so that the instruction need not be interrupted.<lb/>  I remain<lb/> with highest regards<lb/> Bernard Drachman<lb/></p>
+            </body>
+    </text>
+</TEI>

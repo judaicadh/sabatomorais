@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cohen, Nina</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF5_39</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cohen, Nina</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1894-03" source="" attested="yes">March 1894</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff5_39_1r.tif"/>
+                                <graphic url="smbx7ff5_39_2r.tif"/>
+                                <graphic url="smbx7ff5_39_1v.tif"/>
+                                <graphic url="smbx7ff5_39_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Tuesday Morning.<lb/></p>
+            <p>My dear Father.<lb/></p>
+            <p>I have just received<lb/> your letter&#44; and am glad to know that<lb/> you are well.  I had a letter from<lb/> Manuel on board the Columbia<lb/> and he had left safe and well I wonder<lb/> whether he rec&#39;d the cigars you sent<lb/> him.  That was the fourth bon with<lb/> which he was presented.  I hope he<lb/> will not be too sick to use them.<lb/>  We shall not hear from him<lb/> now until he reaches Algiers on<lb/> the 19th.  Yes&#44; I think you had<lb/> better send both letters in case<lb/> he should need them&#44; &#38; write to Ascoli.<lb/>  The address is 90 Maguay Hooker &#38; Co<lb/> Bankers<lb/> Rome<lb/> Italy<lb/> until March 20.  After that<lb/></p>
+            
+            <pb n="2"/>
+            <p>it is Brown&#44; Shipley and Co&#44;<lb/> Founder&#39;s Court E. C. London&#44; Eng.<lb/> I do hope that he will have<lb/> the happy time that he deserves.<lb/>  The Ktichells and the Hoeghs are<lb/> very kind.  We eat one last meal<lb/> with Mrs. Hoegh &#38; she will drive<lb/> us to the station.  On Sunday<lb/> we closed the house&#44; Rose went<lb/> to St Paul &#38; I to Kitchells.  We<lb/> have much company and are<lb/> very busy&#44; but shall be all<lb/> ready to leave to&#45;morrow night.<lb/>  We go to Chicago together&#44; arrive<lb/> at 9.30&#44; go to Rose&#39;s aunt where<lb/> I leave her.  I take the Erie<lb/> Train at 2&#44; reaching Bradford<lb/> about 10.30 on Friday.  Rose<lb/> goes from Chicago directly<lb/></p>
+            
+            <pb n="3"/>
+            <p>to Scranton where I will again see her.<lb/>  I have had all my mail sent to you.  Please<lb/> forward any letters to Bradford c&#47;o A. Galland<lb/> Mc. Kean Co. Penna.  Do you remember whom<lb/> Clara married in Leghorn&#63;<lb/></p>
+            <p>The weather is phenomenal with us&#45;&#45;real<lb/> spring already.  I wonder whether it will<lb/> last&#33;  I have just rec&#39;d Dave Cohen&#39;s in&#45;<lb/>vitation &#38; must send him something<lb/> I could have stopped at Toronto for a small<lb/> extra cost&#44; but I thought it best not to.  Mrs M&#39;y<lb/> invitation came only thro&#39; Josephine<lb/> I hope all are well&#44; and I am with much<lb/> love<lb/> Yours Nina.<lb/></p>
+            </body>
+    </text>
+</TEI>

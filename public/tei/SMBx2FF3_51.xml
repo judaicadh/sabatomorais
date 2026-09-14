@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Rubenstein, J.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF3_51</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Rubenstein, J.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1876-09" source="" attested="yes">20 September 1876</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff3_50_1r.tif"/>
+                                <graphic url="smbx2ff3_50_1v.tif"/>
+                                <graphic url="smbx2ff3_50_2r.tif"/>
+                                <graphic url="smbx2ff3_50_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>&#91;Hebrew&#93;<lb/></p>
+            <p>Sept. 20&#47;76. 178 Sycamore <sic>str.</sic><lb/></p>
+            <p>&#91;Hebrew&#93;<lb/>
+            Rev. S. Morais<lb/>
+            Dear Teacher&#58;<lb/></p>
+            <p>Your letter of<lb/> the 20<hi rend="sup">th</hi> of Aug. came to hand together with<lb/> the postage card you send to me hereafter.  The<lb/> cause was I changed my residence to 178 Sycamore <sic>str.</sic><lb/> and I did not know that there was a letter laying<lb/> for me.  The letter inclosed to Dr. Wise was given<lb/> to him at the very same day I have received it<lb/> and he told me he will soon write you an an&#45;<lb/>swer thereof.  He was very glad by receiving of me<lb/> your letter &#38; he told me that he feels <sic>sory</sic> that he<lb/> has not seen you at the time of his being at<lb/> Philadelphia.  The college <sic>comenced</sic> its operation<lb/> for the coming year it is divided now in two grades<lb/> the new students of this year &#38; the old students of the<lb/> last year.  Mr Eppinger is the preceptor of the former<lb/> &#38; &#91;crossed&#45;out&#93; Wise of the latter.  In the second grade we<lb/> learn Mishnah&#44; Gmorah &#40;&#91;Hebrew&#93;&#41; Aramaic grammar<lb/></p>
+            
+            <pb n="2"/>
+            <p>a Bible viz &#91;Hebrew&#93; &#38; &#91;Hebrew&#93;.  Every Saturday &#38; Sunday<lb/> afternoon Dr Lilienthal teaches history &#38; Dr<lb/> Wise on Sunday p. m. delivers a lecture.  I am<lb/> willing to write you every subject of ever lecture<lb/> next Sunday we will have the first lessons<lb/> in History &#38; in Lecturing.<lb/></p>
+            <p>As another year has passed<lb/> away &#38; a new year is coming on&#44; you deserve that<lb/> I should not let away this golden occasion to send<lb/> you my heartfelt thanks for all you have done<lb/> to me this year.  but I am not able to repay you<lb/> with any thing else&#44; only I have to do is beseech the<lb/> Lord God our father from above to bestow you &#38; your family with a happy<lb/> &#38; prosperous life a long healthy &#38; untroubled future life<lb/> that you shall with joy see in future years the<lb/> produce of your disciple&#44; whom you have<lb/> taught religious sentiments &#38; modern instruction<lb/> which I know that my improvements <del>these are</del> will be the only reward<lb/> for your <del>favor</del> labor.  I am your faithful pupil<lb/></p>
+            <p>J. Rubenstein<lb/></p>
+            <p>P. S. I have forgotten to let you about my public<lb/> education I <sic>comenced</sic> to go to Woodward&#39;s<lb/> high school the 5th of this month.  I succeeded<lb/></p>
+            
+            <pb n="3"/>
+            <p>to obtain the favor of the teachers during these two<lb/> weeks.  Through my hard laboring I <sic>didnt</sic> miss<lb/> one lesson yet &#38; therefore the teachers are willing<lb/> to help me along in everything it is possible.  I am<lb/> this week on the privilege list.  I must try also<lb/> to be on the next week list.  I have all my books<lb/> received from the college also a new suit of<lb/> cloth for new years.  They give me every thing<lb/> I need without any exception of the others.<lb/>  The only thing it remains for me to do to work<lb/> &#38; to show improvements I had a notion to take<lb/> 2 grades this year&#44; but I am very much afraid<lb/> that I shall fail&#59; therefore I thought it to<lb/> be more proper to be a perfect <sic>schollar</sic><lb/> in one grade than a bad one in two.  I hope<lb/> you will also say the same.<lb/></p>
+            <p>I wish you a<lb/>
+            Happy new year<lb/>
+            J. R.<lb/></p>
+            
+            <pb n="4"/>
+            <p>I send my best regards to you &#38; your<lb/> family.  I inclose here a few words to<lb/> our respectful friend Mr. E. Ezekiel<lb/></p>
+            
+            <p>I send a respectful &#91;Hebrew&#93; to my<lb/> intimate friend Mr. M. Lame.  I <sic>dont</sic> know<lb/> why he <sic>dont</sic> <sic>answers</sic> me I have written<lb/> to him once on the direction I found by<lb/> me in trunk of his residence.<lb/></p>
+            <p>A respectful &#91;Hebrew&#93; to my well<lb/> beloved friend Mr. Henry Morais<lb/></p>
+        </body>
+    </text>
+</TEI>

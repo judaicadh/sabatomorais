@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF31_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cincinnati, OH</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1872-03" source="" attested="yes">1 March 1872</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff31_18_1r.tif"/>
+                                <graphic url="smbx1ff31_18_1v.tif"/>
+                                <graphic url="smbx1ff31_18_2r.tif"/>
+                                <graphic url="smbx1ff31_18_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>H. C. Ezekiel</p>											<p>S. Bernheim.<lb/></p>
+            <p>Office of Ezekiel &#38; Co.<lb/>
+            Auctioneers and Commission Merchants<lb/>
+            Nos. 19 &#38; 21 West Pearl Street.<lb/></p>
+            <p>Stroburger &#38; Co. Lith. Cincinnati.</p>						<p>Cincinnati&#44; March 1. 1872.<lb/></p>
+            <p>Revd. S. Morais&#44;<lb/>
+            My dear sir.<lb/></p>
+            <p>Your welcome favour reached<lb/> me this morning with two dollars enclosed&#44; per<lb/> me in the name of the projectors of our fair to thank<lb/> you the kind donation&#44; and <sic>its</sic> shall receive its prop&#45;<lb/>er acknowledgement hereafter.  In writing to you<lb/> for a &#34;contribution&#34; I designed that <hi rend="underline">only</hi> of the pen&#44;<lb/> being well aware of your over generous heart and<lb/> the small amount of means which must of necessity<lb/> be at your command&#44; but as you have thought proper<lb/> to send your contribution for this noble project which<lb/> is a charitable one&#44; we with pleasure receive it in that<lb/> spirit.  In regard to my remarks concerning &#34;orthodox&#34;<lb/> and &#34;reform&#34; I merely made use of the terms in order<lb/> that you might not be cramped or narrowed down<lb/> to any particular theme that you may have desired<lb/> write upon.  I regret sincerely that your dear wife has<lb/> been so seriously indisposed and trust with the blessing<lb/> of God that she may soon convalesce and be blest<lb/> with renewed vigor and continued health.  Please tender<lb/> to her our kindest sentiments of regard.  I am in&#45;<lb/>deed pleased to learn that we may pride ourselves<lb/></p>
+            
+            <pb n="2"/>
+            <p>with the expectation of receiving a contribution<lb/> <del>a contribution</del> from your eldest daughter which<lb/> shall find a place in the columns of the journal&#44;<lb/> which I shall be pleased to receive at her earliest<lb/> convenience&#44; I was not aware that she devotes<lb/> her <sic>liesure</sic> moments to literary pursuits&#44; or I may<lb/> have made the request of her&#44; but it being a<lb/> voluntary contribution on her part&#44; it can be the<lb/> more readily appreciated.<lb/></p>
+            <p>Hoping soon to hear from you&#44; and with sen&#45;<lb/>timents of pref&#91;&#63;&#93;red esteem.  I remain as ever&#44;<lb/></p>
+            <p>yours truly &#38;c<lb/>
+            Jacob Ezekiel<lb/></p>
+            
+            <pb n="3"/>
+            <p>iel &#38; Co<lb/>
+                19 &#38; 21 West Pearl Street&#44;<lb/>
+                Cincinnati&#44; O.<lb/></p>
+            <p>Revd S. Morais<lb/>
+                No 546 N. 5<hi rend="sup">th</hi> St.<lb/>
+                <hi rend="underline">Philadelphia</hi><lb/>
+                Pa<lb/></p>
+
+        </body>
+    </text>
+</TEI>

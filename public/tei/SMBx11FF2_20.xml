@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF2_20</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1876" source="" attested="yes">1876</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff2_20_1r.tif"/>
+                                <graphic url="smbx11ff2_20_1v.tif"/>
+                                <graphic url="smbx11ff2_20_2r.tif"/>
+                                <graphic url="smbx11ff2_20_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For the 1st anniversary of the young men&#39;s<lb/></p>
+            <p>Hebrew association of Philadelphia.<lb/></p>
+            <p>Ladies and Gentlemen&#33;  Ordinarily Generally&#44; the farce concludes<lb/> the performance.  This evening a freak of our manager<lb/> has made it first in order.  I guess it was done on<lb/> purpose.  That head&#45;piece of his is brimful of shrewdness.<lb/>  &#34;Let us put the company in good humor.  They will be<lb/> more willing to lend their ears to the serious portion of the exer&#45;<lb/>&#45;cises.&#34;  So must have reasoned to himself that man Wise<lb/> the Steine&#44; I mean&#44; the Stone&#44; on which whereon our insti&#45;<lb/>&#45;tution was founded about a year ago.  I am sure he didn&#39;t<lb/> mean any offense.  But as he was once a child&#44;&#45;&#45;and he<lb/> knows who we are all children of an older growth&#45;&#45;he<lb/> thought he would coax us into learning.  I remember<lb/> well&#44;&#45;&#45;though nearly two score years and ten have rolled away<lb/> since&#45;&#45;&#44; I remember well when a Hebrew Alphabet was<lb/> put into my hands.  It contained large and small letters<lb/> printed on paste&#45;board&#44; upon the top part of which the picture<lb/> of an angel figured conspicuously.  My little eyes being in<lb/> sympathy with that spiritual babe&#44; caught something<lb/> rolling out of the outstretched wings.  I had not been<lb/> mistaken.  They were sugar&#45;plumbs.<lb/></p>
+            
+            <pb n="2"/>
+            <p>That signet quickened my reflective organs.<lb/>  I soon gained an acquaintance with our twenty two letters.<lb/>  I say thus merely by way of illustration&#44; believing that<lb/> our manager by so oddly arranging the programme<lb/> wished to give those who will render our entertainment<lb/> instruction&#44; a chance to be attentively heard.  I only<lb/> regret that with all his reputation for sagacity&#44; our<lb/> friend fell into a huge error.  He chose the wrong person<lb/> for the play.  I am so accustomed to public speaking<lb/> on grave subjects&#44; that my attempt to excite a dispo&#45;<lb/>&#45;sition to risibility must needs a dead failure.  I<lb/> shall not try my hand at it.  But as I am up&#44; and some&#45;<lb/>&#45;thing has preliminarily to be said&#44; according to promise&#44; I will relate a short<lb/> story.  There was once a Rabbi who held a<lb/> high position.  But notwithstanding his acknowledged<lb/> abilities and good character&#44; he did not enjoy popularity.  The<lb/> community thought him too austere&#44; too jealous of his authority&#44;<lb/> and too un<sic>yeilding</sic> to measures which others proposed.<lb/>  The charges were not unfounded.  The olden Sage asserted<lb/> that his conduct sprang simply from a consciousness of<lb/> his religious duties.  But whether that was so or not&#44; his<lb/> brethren who judged him by the result consequences of his exceeding strictness&#44;<lb/></p>
+            
+            <pb n="3"/>
+            <p>could not well suppress the antipathy entertained<lb/> against a teacher&#44; who drove away the people repelled scholars from the<lb/> seat of learning&#44; rather than impel them to seek it.<lb/>  On one occasion&#44; when he used his power with undue severity&#44;<lb/> public feelings were wrought up to such a pitch&#44; that a<lb/> younger&#44; but more genial Rabbi was selected to supercede<lb/> the stern preceptor.  The utility of that measure decision strike of jealousy revolutionary movement became<lb/> at once evident.  Whereas formerly many had kept aloof<lb/> from the college&#44; now so large became grew the attendance that<lb/> an extraordinary number of benches had to be provided.<lb/>  The day upon which the new ecclesiastical chief was<lb/> installed into office&#44; formed quite an epoch in the annals<lb/> of traditional Judaism.  Ladies &#38; Gentlemen&#33;<lb/>  It is the hope of a similar result which suggested the<lb/> literary entertainment to which you have been invited.<lb/>  I emphatically disclaim the idea of drawing a compari&#45;<lb/>&#45;son between my insignificant self and Rabbi Gamliel&#44;<lb/> the second.  But I have during the last twelve months&#44;<lb/> as a presiding officer&#44; and as a member spoken so<lb/> repeatedly before this association&#44; and always to very<lb/> little purpose&#45;&#45;owing perhaps to a lack of social ame&#45;<lb/>&#45;nities and of tact on my part&#45;&#45;&#44; that aware of my<lb/></p>
+            
+            <pb n="4"/>
+            <p>incapacity to lengthen its life and give it strength&#44;<lb/> I heartily commend a change in the base of our operations.<lb/>  All look confidently to other men for the concocting of useful<lb/> plans and for a wise direction.  My colleagues celebrated<lb/> for their discernment and persuasive eloquence can offer them&#44;<lb/> and they may moreover bring the popularity enjoyed to bear<lb/> upon the furtherance of a worthy object&#44; which has been left<lb/> hitherto to lag behind.  Why shall there not be among amidst<lb/> a Jewish population of at least ten thousand an institution&#44;<lb/> to which our youths may be drawn for mutual improvement&#63;<lb/>  A central point whence kindly influences may proceed and become<lb/> visible in a closer intercourse among the co&#45;heirs of the same<lb/> Divine Law&#44; and the possessors of the same rich literature&#63;<lb/>  Where&#44; I say&#44; Israelites irrespective of laying aside ritual differences&#44; will<lb/> learn to appreciate and respect one another&#63;....But I<lb/> am admonished to cease.  The sharp eye of our manager is on<lb/> me.  Our understanding was that I would make a few intro&#45;<lb/>&#45;ductory remarks and retire.  I beg his and your pardon&#44; and<lb/> draw quickly back&#44; but not without extending a cordial greet&#45;<lb/>&#45;ing to the assemblage that has honored us with their presence&#44;<lb/> and wishing sincerely that the Hebrew Association of Philadelphia<lb/> may by the exertions of prominent individuals&#44; add lustre to<lb/> our city&#44; and cement the bond of union among our people.<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hackenburg, William B.; Ferstmann, B. H.; Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF31_18</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hackenburg, William B.; Ferstmann, B. H.; Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Hackenburg, William B.; Ferstmann, B. H.; Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1872-04" source="" attested="yes">22 April 1872</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff31_6_1r.tif"/>
+                                <graphic url="smbx1ff31_6_1v.tif"/>
+                                <graphic url="smbx1ff31_6_2v.tif"/>
+                                <graphic url="smbx1ff31_6_2r.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Philada. April 22&#47;72<lb/></p>
+            <p>Rev. Sabato Morais<lb/>
+            Dear Sir<lb/></p>
+            <p>The undersigned have<lb/> been appointed a Committee of the<lb/> &#34;Mount Sinai Cemetery Asso.&#34;<lb/> to ascertain from you the Jewish<lb/> Laws and usages relating to the<lb/> removal of bodies interred in Jewish<lb/> cemeteries and burying grounds&#44; and&#44;<lb/> if it is not contrary to those laws and<lb/> customs under what circumstances<lb/> such removal should be permitted&#59;<lb/> the question being of importance and<lb/> one which as been frequently agi&#45;<lb/>tated of late it is the desire of the<lb/> Board of Officers of the Association<lb/> to become fully acquainted with all<lb/> the laws and usages bearing upon the<lb/> subject&#44; they have deemed it advisable<lb/> to consult those versed in the <hi rend="underline">Law</hi><lb/></p>
+            
+            <pb n="2"/>
+            <p>before adopting any definite rule&#44;<lb/> we would be under many obliga&#45;<lb/>tions if you would favor us with<lb/> what laws you may be aware of<lb/> and would be glad to have your<lb/> views on the subject.<lb/></p>
+            <p>An early answer will receive<lb/> the thanks of<lb/></p>
+            <p>Yours Truly<lb/>
+            Wm B Hackenburg<lb/>
+                20 N. 3<hi rend="sup">rd</hi> St.<lb/>
+            B. H. Ferstmann<lb/>
+            519 Market St<lb/></p>
+            <p>Committee of<lb/>
+            &#34;Mt. Sinai Cemetery Association.&#34;<lb/></p>
+            
+            <pb n="3"/>
+            <p>Messrs Wm B. Hackenburg &#38; B. H. Ferstmann.<lb/>
+            Committee of Mount Sinai Cemetery Association.<lb/></p>
+            <p>Gentlemen&#33;  I hasten to reply to your note&#44; received<lb/> this morning.<lb/></p>
+            <p>You wish to ascertain&#44;&#34; What are the Jewish laws and usages<lb/> relating to the removal of bodies interred in Jewish cemeteries and<lb/> burying grounds&#44; and if not contrary to these laws and customs&#44;<lb/> under what circumstances&#44; such removal should be permitted.&#34;<lb/>  I believe that the <del>accompanying</del> subjoined translation of these passages<lb/> in a paragraph from the digest of our laws&#44; known under the<lb/> title of Shulchan Aruch&#44; will afford the necessary information.<lb/>  I beg to forward it&#44; with sentiments of due regard<lb/></p>
+            <p>S. Morais<lb/>
+                Wednesday evening April 24<hi rend="sup">th</hi> 1892.<lb/></p>
+            
+            <pb n="4"/>
+            <p>&#35;363 Yori De&#225;<lb/>
+                1. We should take up neither a dead body&#44; nor the bones thereof to have the same<lb/> buried in another grave&#59; whether both graves be considered equally good&#44; or<lb/> one be regarded better than the other.  And it is unnecessary to state that<lb/> the removal should not take place&#44; if the body is to be deposited in a grave not<lb/> as eligible as that in which it had first been interred.  But to<lb/> a family burial&#45;ground&#44; the removal may be allowed&#44; though the &#91;&#63;&#93; should<lb/> not compare each with that from which the body had been exhumed&#59; for&#44; men<lb/> prefer to lie where their parents are interred.  So likewise&#44; it may be permissible<lb/> to exhume a body to have it buried in the holy land.  However&#44; <del>when a</del> the removal<lb/> may take place in any manner&#44; when a provision to that effect had originally<lb/> been made. Should some fear be entertained that the body may be<lb/> stolen&#44; through religious prejudices&#44; or that water be made to run through<lb/> the grave&#44; or should the latter have been opened in a certain ground&#44; without<lb/> the consent of the owner&#44; in all such cases a removal is right and proper.<lb/></p>
+            <p>3. We should not gather up the remains of the departed&#44; whether preserved in a coffin&#44;<lb/> or scattered through the grave&#44; and put them elsewhere&#44; in order to make room<lb/> for another dead body&#44; or with a view to make use of the ground.<lb/></p>
+            <p>7. It is prohibited to open a grave after it has been fully closed&#44; though the action<lb/> be urged by the relatives of the deceased&#44; for the purpose of settling some legal<lb/> disputes regarding the estate.<lb/></p>
+
+        </body>
+    </text>
+</TEI>

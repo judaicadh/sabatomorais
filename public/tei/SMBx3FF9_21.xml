@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Felsenthal, B.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF9_21</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Felsenthal, B.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Chicago, IL</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1884-12" source="" attested="yes">1 December 1884</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff9_21_1r.tif"/>
+                                <graphic url="smbx3ff9_21_1v.tif"/>
+                                <graphic url="smbx3ff9_21_2r.tif"/>
+                                <graphic url="smbx3ff9_21_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>237 S. Desplaines St.<lb/>
+                Chicago&#44; Decbr 1. 1884.<lb/></p>
+                
+            <p>Rev. S. Morais&#44;<lb/>
+                Philadelphia<lb/></p>
+            <p>Dear Sir&#58;&#45;&#45;<lb/></p>
+            <p>A few minutes ago the letter carrier<lb/> delivered to me a letter which caused me delight and<lb/> shame at the same time. If I may use an &#34;Irish bull&#34;&#44;<lb/> I can say that this letter was no letter at all. It was<lb/> but an <sic>enveloppe</sic> containing a slip  from the Philad<hi rend="sup">a</hi><lb/> &#34;Daily Record&#34;&#44; and nothing else&#59; but the direction on<lb/> this <sic>enveloppe</sic> was written by you&#44; dear and most esteemed<lb/> Rabbi S. Morais&#33; If I say now that this &#34;letter&#34; gave<lb/> me delight&#44; it was because it came from you&#44; and I thought&#44; <lb/> How kind is this gentleman to think of me and to send me<lb/> a slip from a Phil<hi rend="sup">a</hi> paper wherein my name is mentioned<lb/> and how noble hearted a man must he be&#44; as by this act&#44;<lb/> seemingly so small and insignificant&#44; he proves that it is<lb/> a joy to him to cause joy to others&#33;<lb/></p>
+            <p>But I said above also that a sense of shame<lb/> was at the same time awakened within me by your<lb/> letter. For it was a reminder that I had neglected<lb/></p>
+                
+                <pb n="2"/>
+            <p>to acknowledge receipt of your postal card which<lb/> you mailed to me 10 or 12 days ago. Please excuse&#33;<lb/> Please don&#39;t consider me rude and unrespectful&#33;<lb/> I might&#44; as mitigating circumstances&#44; mention that<lb/> the contents of your recent postal required no par&#45;<lb/>ticular answer&#59; I might further say that I was<lb/> not well&#44;&#45;&#45; and this is indeed so&#44; for I am a <lb/> chronic sufferer since many years under a<lb/> form  <sic>a</sic> sickness which often returns and which&#44;<lb/> whenever it comes&#44; makes me almost unable to<lb/> lift up my hand or to collect my thoughts.<lb/> &#91;Hebrew&#93;<lb/></p>
+            <p>I have learned from the slip you have sent to me that my few remarks on Wise&#91;&#63;&#93;&#44; in the last num&#45;<lb/>ber of the &#34;Old Test. Student&#34;&#44; have been noticed by a<lb/> gentleman in your city. Some additional remarks<lb/> on the same subject the next issue of the &#34;O.T. Student&#34;<lb/> will contain. But I have also seen that the<lb/> writer in the &#34;Daily Record&#34; refers to an article of<lb/> you on the same matter. I am almost sure that<lb/> you agree with me in my remarks&#44; though I had<lb/> not the pleasure of seeing your article.<lb/></p>
+                
+                <pb n="3"/>
+            <p>In order not to send away this letter so<lb/> <hi rend="underline">very</hi> empty&#44; permit me to add something else.<lb/> You know that at least among the German and<lb/> Polish Jews the name  &#91;Hebrew&#93; has become the proverb&#45;<lb/>ial designation for a person who has ill luck<lb/> in everything he undertakes. I don&#39;t know whether<lb/> this name is used in the same sense among Italian<lb/> or other Sephardic Jews. Since a German poet<lb/> &#40;Chamisso&#41; wrote his novel &#34;Peter Schlemihl&#34;&#44;<lb/> the word has even become a household word among<lb/> the Germans in general. Now I was of the opinion<lb/> that as a real proper noun the name was never<lb/> borne by any one since the days of Ben Tzurishaddai&#44;<lb/> at least that it is totally unusual since biblical<lb/> times. I was therefore a little surprised when I <lb/>learned that among Italian Israelites the name<lb/> &#91;Hebrew&#93; occurs then and now. In Lampronte&#39;s&#91;&#63;&#93;<lb/> &#91;Hebrew&#93;&#44; in the volume containing &#91;Hebrew&#93;&#44; I found<lb/> on page 40<hi rend="sup">a</hi>&#44; line 14 from below&#44; the name<lb/> &#91;Hebrew&#93; in a legal document published<lb/> there. Have you been aware from personal knowledge<lb/> that in Italy still this name is in use&#63;<lb/></p>
+            <p>I know it is very well that in this regard Italy quite<lb/></p>
+                
+                <pb n="4"/>
+            <p>differs from Germany&#59; that names are there in use<lb/> not <sic>heared</sic> at all in Germany&#44; and vice versa.<lb/> So I know that in the beginning of the 18. century<lb/> there was an &#91;Hebrew&#93; in Mantova whose name was<lb/> &#91;Hebrew&#93;&#45;&#45; a name almost unthinkable<lb/> to a German or Polish Israelite&#8212;and this &#91;Hebrew&#93; was the<lb/> &#91;Hebrew&#93;. So did &#91; Hebrew&#93; call his first<lb/> born son&#8212;who died&#44; alas&#33; too early&#8212;by the unusual<lb/> name &#91;Hebrew&#93; &#40;Philogenos&#41;. Is it not customary<lb/> in your native country to give children the names<lb/> of dear departed relatives&#63;<lb/></p>
+            <p>Let me conclude now. I am perfectly<lb/> satisfied if you consider the foregoing &#34; talk&#34;<lb/> as a sign that it is a sincere pleasure to<lb/> me to have  sometimes the honor of addressing<lb/> myself to the venerable and venerated Rabbi<lb/> of the Mikve Israel Congregation in Philadelphia&#44;<lb/></p>
+            <p>With sincerest regards<lb/>
+                yours very respectfully<lb/>
+                B. Felsenthal<lb/></p>
+        </body>
+    </text>
+</TEI>

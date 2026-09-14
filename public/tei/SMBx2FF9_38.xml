@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF9_38</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Houston, TX</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1880-06" source="" attested="yes">20 June 1880</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff9_40_1r.tif"/>
+                                <graphic url="smbx2ff9_40_1v.tif"/>
+                                <graphic url="smbx2ff9_40_2r.tif"/>
+                                <graphic url="smbx2ff9_40_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>JACOB VOORSANGER&#44;<lb/>
+                HOUSTON&#44;<lb/>
+                TEXAS.<lb/></p>
+            <p>June 20 1880<lb/></p>
+            <p>Rev. S. Morais<lb/>
+                Rev &#38; Dear Sir<lb/></p>
+            <p>Your welcome favor of the 15<hi rend="sup">th</hi> is duly<lb/> at hand.  Though there is a mass of miscellaneous work<lb/> on my desk I give an answer to your&#39;s the preference.  Per&#44;<lb/>mit me to thank you for your kind sentiments.  I fer&#44;<lb/>vently second the good wishes you are kind enough to<lb/> express concerning my boy.  He is growing nicely and pro<lb/>mises to be a sturdy&#44; healthy&#44; little fellow.  I must also<lb/> thank you for your encouraging remarks.  I have always<lb/> endeavored to merit your good opinion&#8212;of great value<lb/> to me&#44; and shall continue to do so.  Whatever Providence<lb/> may have in store for me I shall accept as my mission<lb/> in life.  For the present my course lies through the<lb/> wilds of Texas and Louisiana.  The South&#8212;spite all<lb/> that apologists may say to the contrary&#8212;is an &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;.  Religion is largely at a discount&#44; and I<lb/> feel that i am wanted here.  Thus far I have done<lb/> my duty&#44; though my path is beset with difficulties.<lb/>  I shall struggle&#59; and if my labors will be crowned<lb/></p>
+                
+                <pb n="2"/>
+            <p>with that degree of success that hitherto has attended<lb/> them I shall have every reason to thank God and be<lb/> satisfied.  My labors are for the present&#44; my studies for<lb/> the future.<lb/></p>
+            <p>My health&#44; for the present&#44; is quite good again&#44; though<lb/> there is no telling when the fever may return.  I am stri<lb/>ving to keep it away permanently by occasional doses<lb/> of quinine&#44; plenty of exercise at the dawn of day<lb/> and a subsequent cold water bath.  Between the hours<lb/> of nine and six it is impossible to be in the streets.<lb/>  It is almost &#91;Hebrew&#93;.  With the <sic>thermomether</sic><lb/> 99&#176; in the shade&#44; we have neither rest nor comfort&#44; until<lb/> at nights the cool breezes from the Gulf reinvigorate<lb/> exhausted nature.<lb/></p>
+            <p>Concerning the &#91;Hebrew&#93; you speak of&#44; you will<lb/> permit me to say a few words.  It has been a source<lb/> of annoyance to me&#44; that my name has been connected<lb/> with an affair for which I was not in the least<lb/> responsible.  I am candid enough to confess to you<lb/> my friend and adviser&#8212;that my letter to the Ame<lb/>rican Israelite was written under the influence of the<lb/> malicious blow&#44; but at my congregation by an ano&#44;<lb/></p>
+                
+                <pb n="3"/>
+            <p>JACOB VOORSANGER&#44;<lb/>
+                HOUSTON&#44;<lb/>
+                TEXAS.<lb/></p>
+            <p>3&#41;<lb/>	
+                1880<lb/></p>
+            <p>nymous correspondent in the same paper.  Its author<lb/> is a lesser&#45;social and religious&#45;&#45;&#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;.  A low&#45;life&#44; without principle&#44; name or character&#44;<lb/> an Ishmaelite&#44; &#91;Hebrew&#93;.  The man is a quasi<lb/> orthodox&#44; but observes nothing.  His orthodoxy consists solely<lb/> as reviling my congregation in particular and &#34;reform&#34; in ge<lb/>neral.  He is an ignorant&#44; vulgar tradesman why must he<lb/> constitute himself censor&#63;  <hi rend="underline">He</hi> should have kept his peace<lb/> and leave stricture&#45;making to such as are fit and<lb/> able.  You will object that such as he are not worthy<lb/> of notice&#44; no matter what they say&#59; at this time I grant<lb/> that objection but at the time when I saw my congre<lb/>gation reviled in the American Israelite and knowing<lb/> well what a precious morsel of gossip it would be<lb/> for the would&#45;be Jewish papers my blood&#44; &#34;rose<lb/> within me&#34; and I wrote that annihilating letter.<lb/>  I am sincerely sorry for some of its phrases<lb/> but the man deserved it&#8212;and more.  As to the<lb/> fact &#34;of what happened&#8212;at a late festivity&#34;<lb/> I was ignorant of the very fact of there being<lb/> a supper until I came to the ball room.  When<lb/></p>
+                
+                <pb n="4"/>
+            <p>I noticed the disregard of <hi rend="underline">Kashrut</hi> I was sparing<lb/> in neither strictures nor demonstrations.  But <hi rend="underline">cui bono</hi>&#63;<lb/>  It was an affair with which neither the congregation<lb/> nor its minister were concerned.  The publicity given<lb/> to the matter by the Jewish Record and its unfavorable<lb/> comment upon the same as well as its &#34;slap&#34; at<lb/> myself are the result of Mr. Jones&#39; unwarrantable<lb/> hatred towards myself.  Of this I will not speak<lb/> now.  I have not noticed the attack nor will I do<lb/> so but &#91;Hebrew&#93;.  Believe me&#44; dear sir&#44; that I<lb/> have deplored the occurrence.  But I was not to be<lb/> silent and see a low&#45;life make statements&#44; devoid<lb/> of truth.  It was more the man&#44; to whom I objected<lb/> than his statements.  The latter would have received a<lb/> different reply had they come from a different<lb/> source.  And now&#44; let us leave this matter rest.  I<lb/> trust that my explanation has satisfied you.  Time<lb/> is beginning to be very valuable to me now and though<lb/> reluctantly&#44; I close with my heartfelt wishes for<lb/> your long life and happiness.  In my next permit me<lb/> to discuss matters of a different and more inte<lb/>resting nature.  Please let me hear from you.  Sincerely Yours Jacob Voorsanger<lb/></p>
+        </body>
+    </text>
+</TEI>

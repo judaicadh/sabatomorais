@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Karstaedt, Louis</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF9_15</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Karstaedt, Louis</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1890-08" source="" attested="yes">3 August 1890</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff9_15_1r.tif"/>
+                                <graphic url="smbx5ff9_15_1v.tif"/>
+                                <graphic url="smbx5ff9_15_2r.tif"/>
+                                <graphic url="smbx5ff9_15_2v.tif"/>
+                                <graphic url="smbx5ff9_15_3r.tif"/>
+                                <graphic url="smbx5ff9_15_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Philadelphia. Aug. 3. 1890.<lb/></p>
+            <p>Dr. <sic>Morrais</sic>.<lb/></p>
+            <p>Es hat mir schon sehe viel Schwierigkeiten<lb/> und Mehr gekostet&#44; um meinem wunsche u.<lb/> begierde&#44; die ich hege&#44; und fruchtlose Resultate<lb/> mir stets lieferden&#44; nachzukommen&#44; trotzdem&#44;<lb/> hat noch mein hartes Loos&#44; in meinen Fu&#91;&#63;&#93;<lb/> nicht gesiegt&#44; und es mir stets&#44; zu neure<lb/> Anstrengungen spornet&#44; es sind schon 4. Jahre<lb/> seitdem ich es an verschiedenen Leuten&#44;<lb/> so gar in verschiedenen L&#228;ndere arbeitete&#44;<lb/> nur dasselbe zu erheischen&#44; trotzdem erfolglos&#44;<lb/> mus ich von dieser Probe nicht &#91;&#63;&#93; will.<lb/></p>
+            <p>Meine Eltern waren stets unbemit&#45;<lb/>telt&#44; um welche Bildung mir gekommen<lb/> zu la&#223;en&#44; und muste mir deshalb&#44; einer<lb/> 3&#45;j&#228;hrigen Elementar&#45;Schule begn&#252;gen&#44;<lb/> und wir ich heute zu weitere Bildung<lb/> strebe&#44; so war es auch im Jahre 1886.<lb/></p>
+                
+                <pb n="2"/>
+            <p>Ich anstatt&#44; dieses&#44; wurde ich in einem<lb/> Gesch&#228;fte angewiesen&#44; wof&#252;r ich allerdinge<lb/> keine Lust hatte&#44; nat&#252;rlicher weise&#44; h&#246;rte<lb/> ich das Suchen nicht auf&#44; aber wir ge&#45;<lb/>sagt waren Alles resultatlos&#44;&#45;&#45;<lb/> zu diesem Zwecke&#44; wende ich mir<lb/> zu Ihrer ws. Person&#44; ich wei&#223;&#44; es ist<lb/> eine sehr schwere Liste&#44; um diese zu<lb/> erf&#252;llen.<lb/></p>
+            <p>Ein hei&#223;es Verlangen&#44; mich<lb/> dem Studium zu &#91;&#63;&#93;&#44; ich w&#252;r&#45;<lb/>de mich mit Leib und Seele wei&#45;<lb/>hen&#44; um endlich dasselbe zu errei&#45;<lb/>chen&#44; zahlreiche &#91;&#63;&#93; beweisen<lb/> es&#44; wir ich dazu unh&#228;ngig&#44; und<lb/> fest umklammert daran zu sein<lb/> scheine&#44; deshalb Lasse ich&#44; da&#223; Sie<lb/> mir mit Rath oder That st&#252;tzen<lb/> werden&#44; um mich aus einem Angl&#252;ck<lb/> zu retten&#44; ja&#44; wie gl&#252;cklich ist<lb/> der Mensche der das nicht braucht&#44; und<lb/></p>
+                
+                <pb n="3"/>
+            <p>keine Lust dazu hat&#44; war<lb/> solche Lust hat und nicht erreichen<lb/> kann.  Im voraus &#91;&#63;&#93;&#44; um<lb/> da&#223; ich endlich am rechten Platze<lb/> getroffen habe&#44; zeichen mit<lb/> hochachtungsvoller Ergebenheit<lb/> Louis Karstaedt.<lb/> Royal shirt m&#39;f&#39;g co.<lb/> cor. 3 &#38; Brown sts.<lb/> Philad&#39;a<lb/></p>
+            
+            <pb n="4"/>
+            <p>ROYAL SHIRT MFG. CO.&#44;<lb/>
+                S. W. COR. THIRD AND BROWN STS.&#44;<lb/>
+                PHILADELPHIA.<lb/></p>
+            <p>Mr. Dr. <sic>Morrais</sic><lb/>
+                546 N. 5th st.<lb/>
+                <hi rend="underline">Philadelphia</hi>.<lb/></p>
+            
+            <pb n="5"/>
+            <p>Louis. Karstadt<lb/>
+                Philadelphia&#44; PA.<lb/></p>
+            </body>
+    </text>
+</TEI>

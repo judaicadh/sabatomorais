@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">University of Pennsylvania</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF5_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">University of Pennsylvania</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1887-06" source="" attested="yes">8 June 1887</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff5_1_1r.tif"/>
+                                <graphic url="smbx4ff5_1_1v.tif"/>
+                                <graphic url="smbx4ff5_1_2r.tif"/>
+                                <graphic url="smbx4ff5_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                
+                <pb n="1"/>
+            <p>University of Pennsylvania.<lb/>
+                ONE HUNDRED AND THIRTY&#45;FIRST ANNUAL<lb/>
+                COMMENCEMENT<lb/>
+                FOR<lb/>
+                CONFERRING DEGREES IN ARTS&#44; SCIENCE&#44; PHILOSOPHY&#44;<lb/>
+                MUSIC&#44; LAW&#44; AND VETERINARY MEDICINE&#44;<lb/>
+                AT THE<lb/>
+                AMERICAN ACADEMY OF MUSIC&#44;<lb/></p>
+            <p><emph rend="italics">On Wednesday&#44; June 8th&#44; 1887&#44; at 11 o&#39;clock A. M.</emph><lb/></p>
+            <p>The Music&#44; by the GERMANIA ORCHESTRA &#40;Ch. M. Schmitz&#44; Conductor&#41;&#44; will begin at 10.30 A. M.<lb/></p>
+            <p>The &#34;Pennsylvania&#34; System of Academic Costume&#44; appearing for the first time on this<lb/> occasion&#44; indicates Faculties and Degrees as follows&#45;&#45;FACULTIES&#58; Arts&#44; <emph rend="italics">marine blue</emph>&#59;<lb/> Philosophy&#44; <emph rend="italics">sapphire blue</emph>&#59; Science&#44; <emph rend="italics">light blue</emph>&#59; Music&#44; <emph rend="italics">very light blue</emph>&#59; Law&#44;<lb/> <emph rend="italics">purple</emph>&#59; Medicine&#44; <emph rend="italics">crimson</emph>&#59; Dentistry&#44; <emph rend="italics">pink</emph>&#59; Veterinary Medicine&#44;<lb/> <emph rend="italics">cardinal</emph>.  DEGREES&#58; Undergraduate&#44; <emph rend="italics">cord</emph>&#59; Bachelor&#44; <emph rend="italics">yoke</emph>&#59;<lb/> Master or Doctor&#44; <emph rend="italics">yoke and border</emph>&#44; in Faculty color.<lb/></p>
+                
+            <p>COLLINS PRINTING HOUSE&#44; PHILADA.<lb/></p>
+                
+                <pb n="2"/>
+            <p>PROGRAMME<lb/></p>
+            <p>CONCERT OVERTURE . . . . . . . . <emph rend="italics">Hummel</emph>.<lb/>
+                VALSE MILITAIRE . . . . . . . . <emph rend="italics">Waldtuefel</emph>.<lb/>
+                SELECTIONS&#44; &#34;A Night in Venice&#34; . . . . . . . . . <emph rend="italics">Strauss</emph>.<lb/>
+                OVERTURE&#44; &#34;Yelva&#34; . . . . . . . <emph rend="italics">Reissiger</emph>.<lb/>
+                MARCH&#44; &#34;Alexander&#34; . . . . . . . <emph rend="italics">Weingarten</emph>.<lb/>
+                PROCESSION&#45;&#45;Governor&#44; Provost&#44; Trustees&#44; Faculties&#44; Invited Guests&#44; Graduates.<lb/>
+                PRAYER.<lb/>
+                Rt. Rev. O. W. WHITAKER&#44; D.D.<lb/>
+                BACHELOR&#39;S ORATION . . . . . . . OLIVER HUCKEL.<lb/>
+                &#34;<emph rend="italics">The Republic of the Twentieth Century</emph>.&#34;<lb/>
+                SELECTIONS&#44; &#34;Carmen&#34; . . . . . . . <emph rend="italics">Biset</emph>.<lb/>
+                LAW ORATION . . . . . . . WILLIAM W. SMITHERS.<lb/>
+                &#34;<emph rend="italics">Diffusion of National Sentiments</emph>.&#34;<lb/>
+                MASTER&#39;S ORATION . . . . . . . . JOHN AUGUST WILLIAM HAAS &#40;excused&#41;.<lb/>
+                BOLERO . . . . . . . <emph rend="italics">Mosskowsky</emph>.<lb/>
+                CONFERRING OF DEGREES.<lb/>
+                ANNOUNCEMENT OF HONORS AND PRIZES.<lb/>
+                ARIA&#44; &#34;The Maid of Artois&#34; . . . . . . . . <emph rend="italics">Balfe</emph>.<lb/>
+                VALEDICTORY ORATION . . . . GEORGE WHARTON PEPPER&#44; B.A.<lb/>
+                BENEDICTION.<lb/>
+                GALOP&#44; &#34;For Fame and Fortune&#34; . . . . . . <emph rend="italics">Wiegand</emph>.<lb/></p>
+                
+                <pb n="3"/>
+            <p>CONFERRING OF DEGREES.<lb/></p>
+            <p>THE DEGREE OF BACHELOR OF ARTS will be conferred on&#45;&#45;<lb/>
+                WILLIAM ALLEN&#44; JR.&#44;			CHRISTOPHER MAGEE&#44; JR.&#44;<lb/>
+                DAVID WERNER AMRAM&#44;		ROBERT STEPHEN MAISON&#44;<lb/>
+                WILLIAM SINCALIR ASHBROOK&#44;	JAMES ALAN MONTGOMERY&#44;<lb/>
+                CHAUNCEY RALSTON BAUGH&#44;		HYLAND CLARKE MURPHEY&#44;<lb/>
+                EDGAR FRENCH BROWN&#44;		WILLIAM ROMAINE NEWBOLD&#44;<lb/>
+                CHARLES TYLER COWPERTHWAIT&#44;	GEORGE WHARTON PEPPER&#44;<lb/>
+                EDWARDS SANFORD DUNN&#44;		FRANCIS JOHN PRYOR&#44; JR.&#44;<lb/>
+                GEORGE FETTEROLF&#44;			THEODORE WOOD REATH&#44;<lb/>
+                GEORGE HARRISON FRAZIER&#44;		ALEXANDER WILSON RUSSELL&#44; JR.&#44;<lb/>
+                FRED. WM. WILSON GRAHAM&#44;		ROBERT BOWEN SALTER&#44;<lb/>
+                JOHN MCARTHUR HARRIS&#44;		ANDRE WILLIAM SEGUIN&#44;<lb/>
+                JAMES HAWORTH&#44;				HENRY DANIEL EMANUEL SIEBOTT&#44;<lb/>
+                CRAWFORD DAWES HENING&#44;		HENRY NAGLEE SMALTZ&#44;<lb/>
+                OLIVER HUCKEL&#44;				JAMES SOMERS SMITH&#44; JR.&#44;<lb/>
+                JOSEPH SIEGMUND LEVIN&#44;		WITMER STONE&#44;<lb/>
+                WALTER RODMAN LINCOLN&#44;		GEORGE FLOWERS STRADLING&#44;<lb/>
+                WALTER BIDDLE LOWRY&#44;		CHARLES COOPER TOWNSEND.<lb/>
+                THE DEGREE OF BACHELOR OF PHILOSOPHY will be conferred on&#45;&#45;<lb/>
+                FORREST MURRELL ANDERSON&#44;	CLEMENT ACTON GRISCOM&#44; JR.&#44;<lb/>
+                WILLIAM FRANCIS AUDENRIED&#44;	SAMUEL FREDERIC HOUSTON&#44;<lb/>
+                EDWARD CHARLES BATCHELOR&#44;	HEW BRYDON MACLEAN&#44;<lb/>
+                CHARLES SELIGMAN BERNHEIMER&#44;	FRANKWENRICH SHEAFER&#44;<lb/>
+                FRANCIS ASHBURY BRUNER&#44;		MILES TUCKER&#44;<lb/>
+                JOSEPH ALLISON EYSTER&#44; JR.&#44;		EDWARD LOWBER WELSH.<lb/>
+                THE DEGREE OF BACHELOR OF SCIENCE will be conferred on&#45;&#45;<lb/>
+                HENRY CLAY ADAMS&#44;			JAMES FRANCIS MAGEE&#44; JR.&#44;<lb/>
+                LOUIS EUGENE AMET&#44;			ALBERT LEE MAGILTON&#44;<lb/>
+                HENRY PRICE BALL&#44;			GEORGE LEDLIE MARTIN&#44;<lb/>
+                CHARLES THOS. PARRY BRUNNER&#44;	LEVIS PASSMORE NEWLIN&#44;<lb/>
+                ALBERT ROWLAND CLINE&#44;		WILLIAM BYRD PAGE&#44;<lb/>
+                EDGAR PARDEE EARLE&#44;			DAVID PEPPER&#44; JR.&#44;<lb/>
+                JOSEPH SKETCHLEY ELVERSON&#44;	ANDREW PERRY REDIFER&#44;<lb/>
+                THOMAS S. R. FLICKWIR&#44;			FRANK REMI REMONT&#44;<lb/>
+                LEE KAUFER FRANKEL&#44;			HOWARD SMITH RICHARDS&#44;<lb/>
+                SILAS GODFREY GRIFFITH&#44;		ROBERT N. RIDDLE&#44;<lb/>
+                WILLIAM HAHMAN&#44;			HENRY HUNTER SEYFERT&#44;<lb/>
+                GEORGE BACON HANCOCK&#44;		FRANKLIN SHELBE&#44;<lb/>
+                WALTER EUGENE HARRINGTON&#44;	JAMES REEVES SIDDALL&#44;<lb/>
+                JOHN DAWSON HAWKINS&#44;		ALFRED HENRY SMITH&#44;<lb/>
+                JOHN JULIUS HOVEY&#44;			WILLIAM POULTNEY SMITH&#44; JR.&#44;<lb/>
+                FRANK JAMES KEELEY&#44;			MILTON VALENTINE SNYDER&#44;<lb/>
+                EDWARD FULBISTER KENNEY&#44;		THEODORE NELSON SPENCER&#44;<lb/>
+                LEON KRAFT&#44;				DANIEL MORRELL STACKHOUSE&#44;<lb/>
+                JNO. PHILIP KRECKER&#44;			HORACE AMBROSE STEVER&#44; JR.&#44;<lb/>
+                THEOPHILUS KUELLING&#44;			JOSEPH CHRISTIAN WAGNER&#44;<lb/>
+                THOMAS LOVE LATTA&#44;			JOHN WALLACE WEAVER&#44;<lb/>
+                CHARLES ROBERT LEE&#44;			ALFRED WEEKS&#44; JR.&#44;<lb/>
+                LEIGHTON LEE&#44;				ALAN DEAN WHITTAKER.<lb/>
+                WILLIAM MCLEAN&#44;<lb/></p>
+            <p>THE DEGREE OF BACHELOR OF MUSIC will be conferred on&#45;&#45;<lb/>
+                PRESON WARE OREM.<lb/></p>
+            <p>CERTIFICATES will be presented&#45;&#45;<lb/>
+                IN SCIENCE to<lb/>
+                LOUIS JOSEPH MATOS&#44;			WILLIAM VINCENT MCGRATH&#44; JR.&#44;<lb/>
+                FRANK HERRON CAROTHERS&#44;		JAMES CLARENCE OGDEN.<lb/>
+                IN BIOLOGY to<lb/>
+                MILTON J. GREENMAN			MARCUS A. WEEMS.<lb/>
+                IN FINANCE AND ECONOMY to&#45;&#45;<lb/>
+                NORTON BUEL YOUNG.<lb/>
+                IN MUSIC to<lb/>
+                MARGARET G. DEVINE&#44;			EVOR WILLIAMS&#44;<lb/>
+                ELIZABETH A. REINBOTH&#44;		SARA WILSON.<lb/>
+                EMMA A. WHITELY&#44;<lb/></p>
+                
+                <pb n="4"/>
+            <p>THE DEGREE OF BACHELOR OF LAWS will be conferred on&#45;&#45;<lb/>
+                LOUIS A. BIDDLE&#44;				HORATIO G. LLOYD&#44; JR.&#44;<lb/>
+                RUSSELL T. BOSWELL&#44;			ROBERTS LOWRIE&#44;<lb/>
+                CHARLES BREMER&#44; JR.&#44;			ROBERT HUNTER MCGRATH&#44; JR.&#44;<lb/>
+                LOUIS P. BRENNAN&#44;			J. CRAIG MCLANAHAN&#44;<lb/>
+                CHALRES D. BROWN&#44;			HENRY A. MCMURROW&#44;<lb/>
+                WALTER W. CALMORE&#44;			THOMAS W. MCNEIL&#44;<lb/>
+                HENRY BRINTON COXE&#44; JR.&#44;		ABNER H. MERSHON&#44;<lb/>
+                MORRIS DALLETT&#44;				S. DUFFIELD MITCHELL&#44;<lb/>
+                FRANCIS J. DEARY&#44;			EVERETT MOON&#44;<lb/>
+                ALEXANDER R. DE WITT&#44;			ZIBA T. MOORE&#44;<lb/>
+                WM. REES EVANS&#44;				HARRY P. ORLEMANN&#44;<lb/>
+                LEONARD FINLETTER&#44;			ALBERT M. OTT&#44;<lb/>
+                ROBERT B. FLETCHER&#44;			JACOB A. SCHIEDT&#44;<lb/>
+                HARRY K. FRIES&#44;				LOUIS K. SIGGONS&#44;<lb/>
+                W. ROGER FRONEFIELD&#44;			HENRY WORTHINGTON SMITH&#44;<lb/>
+                JOHN LENTZ GARRETT&#44;			WM. W. SMITHERS&#44;<lb/>
+                DANIEL GIBBONS&#44;				ARTHUR C. SNYDER&#44;<lb/>
+                JOHN FRED. HARTMAN&#44; JR.&#44;		LEWIS STARR&#44;<lb/>
+                CALVIN F. HECKLER&#44;			JOSEPH T. TAYLOR&#44;<lb/>
+                ERNEST H. HUNTER&#44;			HENRY TESNOW&#44;<lb/>
+                JAMES COLLINS JONES&#44;			JOSEPH W. THOMPSON&#44;<lb/>
+                SAMUEL HUCKEL KIRKPATRICK&#44;	WILLIAM C. WILSON&#44;<lb/>
+                FRANK P. KREBS&#44;				MILTON C. WORK&#44;<lb/>
+                CHARLES KUNI&#44; JR.&#44;			STUART WYETH.<lb/></p>
+            <p>THE DEGREE OF MASTER OF ARTS will be conferred on&#45;&#45;<lb/>
+                JOHN AUGUST WILLIAM HAAS&#44; B. A.&#44;	JOHN MULLEN&#44; B. A.&#44;<lb/>
+                JAMES DALLAS STEELE&#44; B. A.&#44;		ARDEMUS STEWART&#44; B. A.<lb/></p>
+            <p>THE DEGREE OF BACHELOR OF SCIENCES AUXILIARY TO MEDICINE on&#45;&#45;<lb/>
+                P. FRANKLIN STAHL&#44; PH. G.&#44; M.D.<lb/>
+                THE DEGREE OF BACHELOR OF DIVINITY will be conferred on&#45;&#45;<lb/>
+                REV. FRANK S. BALLENTINE&#44; A. M.	JOHN AUGUST WM. HAAS&#44; A.M.<lb/>
+                THE DEGREE OF PRACTICAL CHEMIST will be conferred on&#45;&#45;<lb/>
+                ABRAM TRIMBLE EASTWICK&#44; B.S.&#44;	WILLIAM DANIEL WEIKEL&#44; B.S.<lb/>
+                THE DEGREE OF MINING ENGINEER will be conferred on&#45;&#45;<lb/>
+                AMOS PEASLEE BROWN&#44; JR.&#44; B.S.&#44;	JAMES HARMAR KNIGHT&#44; B.S.&#44;<lb/>
+                PERCY MCGEORGE&#44; B.S.&#44;			MARSHALL ROGERS PUGH&#44; B.S.&#44;<lb/>
+                ALFRED WEEKS&#44; B.S.&#44;			SAMUEL JENNINGS WHITE&#44; B.S.<lb/>
+                THE DEGREE OF MECHANICAL ENGINEER will be conferred on&#45;&#45;<lb/>
+                EDGAR AUGUSTUS ALCOTT&#44; B.S.&#44;	WILLIAM AUGUSTUS BIGLER&#44; B.S.&#44;<lb/>
+                THEODORE GOULD&#44; JR.&#44; B.S.&#44;		THOMAS GRAHAM GRIER&#44; B.S.&#44;<lb/>
+                JOSEPH DAVID ISRAEL&#44; B.S.&#44;		LEON KRAFT&#44; B.S.&#44;<lb/>
+                DAVID EDWARD TRACY&#44; B.S.&#44;		CARL OTTO HERING&#44; B.S.<lb/>
+                THE DEGREE OF CIVIL ENGINEER will be conferred on&#45;&#45;<lb/>
+                THOMAS S. R. FLICKWIR&#44; B.S.&#44;		HENRY JACKSON MULLEN&#44; B.S.&#44;<lb/>
+                WILLIAM SALTER FREEMAN&#44; B.S.&#44;	EDWARD ARNOTT PEARSON&#44; B.S.&#44;<lb/>
+                CHARLES HERMAN HAUPT&#44; B.S.&#44;	EARL THOMSON&#44; B.S.&#44;<lb/>
+                JOSEPH EDWARD HORN&#44; B.S.&#44;		JOHN WILLIAMSON ZIEGLER&#44; B.S.<lb/>
+                FRANCIS EMLEN HOSKINS&#44; B.S.&#44;<lb/></p>
+            <p>THE DEGREE OF DOCTOR OF VETERINARY MEDICINE will be conferred on&#45;&#45;<lb/>
+                CHARLES M. CULLEN&#44;			EDGAR MARLIN&#44;<lb/>
+                HIRAM P. EVES&#44;				WILLIAM B. MONTGOMERY&#44;<lb/>
+                SIMON J. J. HARGER&#44;			JOHN F. VANDEGRIFT&#44;<lb/>
+                RICHARD W. HICKMAN&#44;			RICHARD G. WEBSTER&#44;<lb/>
+                CHARLES LINTZ&#44;				CHARLES WILLIAMS.<lb/></p>
+            <p>THE HONORARY DEGREE OF DOCTOR OF DIVINITY will be conferred on&#45;&#45;<lb/>
+                THE REV. GEORGE POMERY ALLEN&#44;	THE REV. SAMUEL D. MCCONNELL&#44;<lb/>
+                THE REV. EDWARD T. BARTLETT&#44;	THE REV. ROBERT ELLIS THOMPSON.<lb/></p>
+            <p>THE HONORARY DEGREE OF DOCTOR OF PHILOSOPHY will be conferred on&#45;&#45;<lb/>
+                PROFESSOR JOHN A. RYDER.<lb/></p>
+            <p>THE HONORARY DEGREE OF DOCTOR OF LAWS will be conferred on&#45;&#45;<lb/>
+                FERDINAND V. HAYDEN&#44; M.D.&#44;		THE REV. SABATO MORAIS.<lb/></p>
+            </body>
+    </text>
+</TEI>

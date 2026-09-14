@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Deacon, C. R.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF11_17</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Deacon, C. R.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-07" source="" attested="yes">17 July 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff11_17_1r.tif"/>
+                                <graphic url="smbx4ff11_17_1v.tif"/>
+                                <graphic url="smbx4ff11_17_2r.tif"/>
+                                <graphic url="smbx4ff11_17_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>THE AMERICAN BIOGRAPHICAL PUBLISHING COMPANY&#44;<lb/>
+                1206 CHESTNUT STREET.<lb/>
+                ROOM 2&#44; SECOND FLOOR.<lb/>
+                C. R. DEACON &#45; &#45; &#45; &#45; &#45; MANAGER.<lb/></p>
+            <p>Philadelphia&#44; 7. 17 1888<lb/></p>
+            <p>Rev. S. Morais<lb/>
+                Dear Sir<lb/></p>
+            <p>We have in<lb/> preparation a biographical<lb/> work that will contain a por<lb/>trait and sketch of the late<lb/> Henry Cohen.  None of the other<lb/> sketches make less than two quar<lb/>to pages but we cannot obtain<lb/> from Mr Chas H Cohen matter<lb/> sufficient to make one full<lb/> page for his father.  In our per&#45;<lb/>plexity we applied this morn<lb/>ing to Mayer Sulzberger Esq. and<lb/> he advised to address you in<lb/> the belief that you would<lb/> furnish some additional mat<lb/>ter.<lb/></p>
+                
+                <pb n="2"/>
+            <p>We enclose what we have and<lb/> beg that you will note.  A<lb/> lengthy extract from the remarks<lb/> you made at his funeral<lb/> would perhaps be appopri<lb/>ate.  We could say<lb/> Rev Dr Morais&#44; who preached<lb/> his funeral sermon said<lb/> of him &#95; &#95;<lb/></p> 
+            <p>Hoping that you will be<lb/> able to do this without inconvenience<lb/> and can return the enclosed<lb/> to us with your additions in<lb/> two or three days&#44; as the work<lb/> is nearly finished&#44; I am<lb/> Your very obt servt<lb/> Chas R Deacon<lb/> pr F<lb/></p>
+                
+                <pb n="3"/>
+            <p>HENRY COHEN.<lb/></p>
+            <p>Henry Cohen&#44; for many years a leading merchant of Philadelphia&#44; was born in London<lb/> England&#44; on July 19&#44; 1810.  There he was educated and remained until his eighteenth<lb/> <sic>yearwhen</sic> he started upon an extensive tour&#44; visiting Africa&#44; Australia and South Amer<lb/>ica.  He returned to his home in 1833 but shortly afterwards took up his residence in<lb/> Paris&#44; where he remained three years during an eventful period in French history.<lb/>  About 1837 he came to the United <sic>Statesand</sic>&#44; after a short stay in New York&#44; he came<lb/> to Philadelphia where he decided to permanently locate and reside.  He began the im&#45;<lb/>portation of English and French stationery&#44; and afterwards established the <sic>manufactur<lb/>ture</sic> of envelopes and lead points.  The business grew to large dimensions and he be&#45;<lb/>came the leading merchant in that line in the city of Philadelphia.  He retired from<lb/> business in 1871 with a competency.<lb/></p>
+            <p>Mr. Cohen was a man of more than ordinary culture.  He was a good French scholar<lb/> and a life&#45;long&#44; diligent and discriminating student of English literature.  The lei&#45;<lb/>sure obtained by retirement from business he spent in reading&#44; in travel and in de&#45;<lb/>votion to charitable and other public duties.  He was a strict believer in the Jew&#45;<lb/>ish faith and took great interest in the affairs of the old Portuguese congregation&#44;<lb/> serving as its president for three years.  He ardently espoused the cause of the<lb/> Union during the war&#44; and took an active part in the formation of the Union League.<lb/>  An enthusiastic American citizen he took great interest in the country&#39;s growth and<lb/> the development of its industries&#44; and was a zealous and tireless worker for the suc&#45;<lb/>cess of the great Centennial Exposition of 1876&#44; which was held in Philadelphia.<lb/></p> 
+            <p>During all his life he was deeply interested and active in Jewish and general char&#45;<lb/>ities for the relief of the poor and suffering.<lb/></p>
+            <p>In 1844 he married Matilda&#44; the daughter of Mr. Lewis Samuel&#44; by whom he had five<lb/> children&#44; two sons and three daughters.  Charles J.&#44; the eldest son&#44; succeeded to<lb/> his father&#39;s business&#44; which he has very successfully conducted.  The younger son&#44;<lb/> John M.&#44; is a practicing lawyer and a member of the Philadelphia bar.  His daughter<lb/> Edith is the wife of Colonel Alfred Cromelien.  His daughter Mary is a writer of ex&#45;<lb/>ceptional ability on subjects of political economy&#44; etc.&#44; and his daughter Katherine<lb/> is a rising young artist&#44; with a decided talent for sculpture.<lb/></p>
+            <p>Mr. Cohen died June 20&#44; 1879.<lb/></p>
+            </body>
+    </text>
+</TEI>

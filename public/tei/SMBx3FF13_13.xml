@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Schneeberger</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF13_13</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Schneeberger</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Batlimore, MD</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1886-02" source="" attested="yes">17 February 1886</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff13_13_1r.tif"/>
+                                <graphic url="smbx3ff13_13_2r.tif"/>
+                                <graphic url="smbx3ff13_13_1v.tif"/>
+                                <graphic url="smbx3ff13_13_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Balto. Febr 17th<lb/></p>
+            <p>Rev S. Morais<lb/></p>
+            <p>Esteemed friend.<lb/></p>
+            <p>Pardon my seeming neglect in waiting till<lb/> to&#45;day to attend to a duty I should have seen to<lb/> before&#59; but my d. wife&#39;s indisposition prevented<lb/> my leaving the house daily before  four o&#39;clock<lb/> &#38; then it is too late for the Post Office.<lb/></p>
+            <p>Enclosed please find money order for &#36; 6.00&#44;<lb/> which I take the liberty to forward for the<lb/> Expenses i&#91;overwritten&#58; e&#93;ncurred by your recent trip to<lb/> this city&#44; wherever I go&#44; I hear the pro&#45;<lb/>found satisfaction and unanimous praise<lb/> your address has created here&#44; I hope and<lb/>  sincerely pray that the response to your<lb/> able efforts will be in proportion to the<lb/> sincerity of your eloquence and the<lb/> approbation of the public. Thus far<lb/> I received no indication of such&#44; beyond<lb/></p>
+                
+                <pb n="2"/>
+            <p>what Mr Friedenwald told me&#44;<lb/> that several members of his family<lb/> will do justice to the cause.<lb/> I will announce from the pulp&#91;&#94;&#93;it<lb/> next Sabbath&#44; that I will receive<lb/> for further transmission any sums<lb/> or promises to subscription for the<lb/> fund. I shall write to NY for<lb/> more circulars if they can be<lb/> obtained &#38; if I am to go to Washing&#45;<lb/>ton&#44; I shall <del>f</del> want some for distri&#45;<lb/>bution there.<lb/></p>
+            <p>If I can be of any service to you&#44; I <lb/> will only be too glad to lend you my<lb/>assistance and if your leisure time<lb/> allows to communicate on the subject&#44; be<lb/> most grateful for any information&#91;.&#93;<lb/></p>
+            <p>My d. wife  th. G. is feeling much better<lb/> to&#45;day &#38; begs to be kindly remembered.<lb/>
+                With best greetings I am<lb/>
+                fraternally yours<lb/>
+                &#91;&#63;&#93; Schneeberger&#91;&#63;&#93;</p>
+                
+                <pb n="3"/>
+            <p>P.S. I just had a talk with Dr. Friedenwald<lb/> who was here on a professional visit&#8212;he told<lb/> me what he and others of his family are<lb/> ready to contribute &#38; we resolved to<lb/> organize a local Committee consisting<lb/> of influential men of the various Congre&#45;<lb/>gations together with Mr. Mendez Cohen&#44;<lb/> Dr. F &#38; myself and endeavor to<lb/> canvass the city to get subscriptions<lb/> and members for the Seminary&#8212;I <lb/> think the plan a good one and if the<lb/> same could be done elsewhere&#44; we could<lb/> easier approach the masses&#45;&#45;<lb/></p>
+            </body>
+    </text>
+</TEI>

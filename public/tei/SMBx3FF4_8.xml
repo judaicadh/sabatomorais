@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Isaacs, A. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF4_8</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Isaacs, A. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1883-02" source="" attested="yes">17 February 1883</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff4_8_1r.tif"/>
+                                <graphic url="smbx3ff4_8_1v.tif"/>
+                                <graphic url="smbx3ff4_8_2r.tif"/>
+                                <graphic url="smbx3ff4_8_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>313 W. 45<hi rend="sup">th</hi> St.<lb/>
+                A. M. Febry 1883.<lb/></p>
+            <p>Dear Friend&#58;<lb/></p>
+            <p>I was exceedingly glad<lb/> to read your article in the Restoration<lb/> of the Record.  It is peculiar that<lb/> we should thus appear writing against<lb/> what has been a traditional article<lb/> of faith&#59; but I cannot be helped.  It<lb/> was a matter of much delicacy to<lb/> attack Miss L&#39;s advocacy of a<lb/> return to Palestine.  How she ever<lb/> came to propound such a scheme<lb/> is beyond my ken.  She has always<lb/> appeared to me as being utterly<lb/> opposed to any such visionary pro<lb/>ject&#44; &#38; her article on Beaconsfield<lb/> showed how peculiar were her<lb/> views of Judaism.  Still&#44; as you say&#44;<lb/> she deserves every credit&#44; &#38; I am<lb/> glad that she has utilized so<lb/> well topics &#38; books I have<lb/> placed at her disposal.  Of her<lb/></p>
+                
+                <pb n="2"/>
+            <p>Epistle to the Hebrews &#34;&#45;&#45;I cannot<lb/> say much just yet.  It is a &#91;&#63;&#93;<hi rend="underline">danger</hi><lb/> written with some purpose&#44; I suppose.<lb/></p>
+            <p>I don&#39;t know what kind of<lb/> an answer Henry Mendes will<lb/> make to Sulzberger.  He told me<lb/> that he would not reply.  I think<lb/> he is sincere&#58; he is indefatigable<lb/> in his efforts &#38; charitably inclined<lb/>&#45;&#45;which is more than can be said<lb/> of his contemporaries.  As to his<lb/> father&#39;s proposed ministry in Newport&#44;<lb/> which Wise noticed in last week&#39;s<lb/> <hi rend="underline">Israelite</hi>&#44; it is difficult to see how<lb/> any independent manly minister<lb/> can coop himself up there&#44; with<lb/> its 2 Jews resident&#44; for the<lb/> sake of the few hundred dollars<lb/> salary.  He is personally a<lb/> pleasant gentleman.  I met him<lb/> in London in 1875.<lb/></p>
+            <p>I have written a reply<lb/> to Miss L. which the Editor<lb/> of the Century has promised me<lb/></p>
+                
+                <pb n="3"/>
+            <p>will appear in the April number.<lb/>  It is brief.  It was written 2 weeks<lb/> ago&#44; but now that the question has<lb/> failed to arouse any interest<lb/> in its favor&#44; am half inclined<lb/> to write to have it returned to<lb/> me for the waste basket.<lb/></p>
+            <p>The Sunday&#45;Sabbath movement<lb/> is quieting down&#44; but its advocates<lb/> are <hi rend="underline">not</hi> convinced of its unJewish<lb/> features&#58; they are only waiting<lb/> for a better opportunity.  A few<lb/> of the older members of Kohler&#39;s<lb/> &#38; Gottheil&#39;s temples have influence<lb/> enough at present to retard<lb/> it&#59; when they die&#44; it will<lb/> be carried&#44; with a possibility of<lb/> a split in both congregations &#38;<lb/> the agonizing of a strong conserv<lb/>ative Synagogue in consequence.<lb/>  It is strange that today a conservative<lb/> tendency should be manifesting<lb/> itself in the ranks of Emanu El<lb/></p>
+                
+                <pb n="4"/>
+            <p>&#38; at the same time a radical<lb/> sentiment be strong in Old&#45;<lb/>time orthodox Synagogues.  The<lb/> Henry St. Synagogue&#44; I am<lb/> informed&#44; will soon enlarge<lb/> &#38; have again 8 pews.  This is one<lb/> of the larger downtown syangogues&#44;<lb/> but it has a small membership<lb/> &#38; little intelligence at that.<lb/></p>
+            <p>My mother is not as<lb/> well as we would like&#45;&#45;<lb/> &#38; under such circumstances I<lb/> find any attempt at preaching<lb/> incongruous.  I am glad of<lb/> absolute Sabbath rest.<lb/></p>
+            <p>With best remembrances<lb/> to your family&#44;<lb/>
+                Sincerely Yours&#44;<lb/>
+                A. S. Isaacs<lb/></p>
+            <p>Rev S. Morais<lb/></p>
+        </body>
+    </text>
+</TEI>

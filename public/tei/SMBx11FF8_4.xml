@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF8_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff8_4_1r.tif"/>
+                                <graphic url="smbx11ff8_4_1v.tif"/>
+                                <graphic url="smbx11ff8_4_2r.tif"/>
+                                <graphic url="smbx11ff8_4_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For a funeral<lb/></p>
+            <p>Some of the Hebrew Sages of old&#44; believing that<lb/> not a single letter of the five books of Moses can be<lb/> dispensed with&#44; ingeniously tried to discover a meaning&#44; not<lb/> expressed in the text&#44; in whatever&#44; according to their views&#44;<lb/> might seem superfluous.  I am free to acknowledge<lb/> that I do not approve altogether of such a system&#44; knowing<lb/> that it often occasions a straining of the literal sense.<lb/>  But on hearing of the decease of this our coreligionist&#44; I was<lb/> forcibly reminded of the teaching of those ancient Sages&#44; in<lb/> connection with the fifth commandment of the Decalogue.<lb/>  They thought that it might have been worded more<lb/> concisely in the original&#44; but that by saying &#91;Hebrew&#93;<lb/> &#34;Honor thy father and thy mother&#44;&#34; the heavenly Legislator<lb/> had in mind other beings entitled to respect&#44; not named in<lb/> the sentence&#44; but closely allied to ones parents&#59; such as&#44; for<lb/> instance&#44; the oldest son in the family.  Now&#44; I ho&#45;<lb/>&#45;nestly declare that in my experience&#44; derived from a per&#45;<lb/>&#45;sonal acquaintance with the congregation I have long<lb/> served&#44; I have not met with a better illustration of<lb/> the observance of that unexpressed ordinance of Holy Writ&#44;<lb/> them among the children of Mayer and Fanny Arnold.<lb/>  They have honored the eldest son in the household&#44; and<lb/></p>
+            
+            <pb n="2"/>
+            <p>their deference has proceeded from a high apprecia&#45;<lb/>&#45;tion of his character.  They early learned that he had the<lb/> ability and the will to counsel and help and comfort those<lb/> with whom he had shared the good effects of maternal<lb/> care and paternal solicitude.  Endowed with a mental<lb/> acumen&#44; which showed him the full scope of fraternal<lb/> duties&#59; possessing a degree of culture which raised him<lb/> above the average of man in the mercantile walks of<lb/> life&#44; he could supply the place of his sainted father<lb/> and mother&#44; and he did become in the days of trial&#44; a<lb/> moral support to his younger sisters and brothers.<lb/>  That he acted his part nobly in that capacity&#44; the an&#45;<lb/>&#45;guish pictured on the countenances of relatives whom I saw&#44;<lb/> when the sad tidings of the demise arrived here&#44; testifies.  The<lb/> tears shed were drawn from the memory of deeds&#44; which fasten<lb/> still more closely the ties of nature.  But a family<lb/> grief is sacred&#44; I dare not intrude upon it.  They who<lb/> have lost a veritable friend in Simon W. Arnold&#44; would not<lb/> wish that I should harrow their feelings wit ha narrative<lb/> of events&#44; when his tender regard and affection were best evinced.<lb/>  But they will experience a melancholy satisfaction to hear<lb/> that his activity among his people in the city that beheld<lb/></p>
+            
+            <pb n="3"/>
+            <p>his growth from childhood to a well <sic>developped</sic> manhood&#44;<lb/> is still kindly remembered.  For&#44; it is true&#44; beyond quest&#45;<lb/>&#45;ioning&#44; that when the defective system of dispensing alms<lb/> among the poor&#44; elicited the considerate thoughts of some lead&#45;<lb/>&#45;ing Jews in Philadelphia&#44; our lamented fellow&#45;believer labored<lb/> steadfastly in conjunction with others to bring about a fusion<lb/> of disconnected societies.  He would thus effectually relieve<lb/> the necessitous&#44; and hinder imposition.  His sagacity was pu&#45;<lb/>&#45;blicly recognized by his selection as the first President of the<lb/> United Hebrew Charities.  Occupying the chair two consecu&#45;<lb/>&#45;tive terms&#44; he brought to bear on the discharge of an exceed&#45;<lb/>&#45;ingly difficult and delicate task&#44; administrative abilities<lb/> of a high order.  Were it not that I deem it in compa&#45;<lb/>&#45;tible with our occasion&#44; so sorrowfully solemn&#44; to dwell on<lb/> details&#44; I would explain how his personal exertions detected<lb/> deception of a long standing&#44; and searched out the indigent of<lb/> too retiring a disposition to mingle with common mendicants.<lb/>  Doubtless&#44; what I leave untold&#44; will be supplemented by the<lb/> history and obituary acknowledgments of the aforenamed orga&#45;<lb/>&#45;nization.  But I may appropriately add&#44; that not alone<lb/> in that department was the advise of our lamented brother<lb/> efficacious.  It was sought after with advantage&#44; when the<lb/></p>
+            
+            <pb n="4"/>
+            <p>Mutual Benefit Company&#44; mainly Jewish in its consti&#45;<lb/>tuency&#44; was about to be formed.  Its interests S. W. A. greatly<lb/> promoted&#44; hence I have heard many an Israelite regret his removal<lb/> to New York.  In him was met a sensible leader and coworker&#44;<lb/> and a well educated associate.  As to myself&#44; since our brother<lb/> exchanged the city of his earliest endeavours for another&#44; I have been de&#45;<lb/>&#45;prived of the opportunity to judge of his proceedings&#44; socially or bene&#45;<lb/>&#45;ficially.  Yet&#44; assurances which I have repeatedly received&#44; embolden me<lb/> to venture a sentiment&#44; which I earnestly hope will neither wound&#44; nor<lb/> give room to <sic>misapprehions</sic>.  It was the eager wish of my deceased<lb/> coreligionist&#44; that his offspring might cling to the belief in which he<lb/> was born and raised and in which he has died.  Led by that impression&#44; I<lb/> unhesitatingly responded to the call which demanded of me this mortuary<lb/> service.  He whose heart beat Jewishly&#44; should obtain the last tribute of respect&#44;<lb/> which the living can tender the dead&#44; from a brother whose heart also throbs with<lb/> love for the olden faith.  Let it me say it then.  It will be joy to me to learn<lb/> hereafter&#44; that a perfect identification outwardly&#45;&#45;in a manner comformable to Jewish<lb/> usages&#45;&#45;&#44; as well as inwardly in honor of Israel&#39;s God&#44; was effected among all who<lb/> belong to S. W. A.  The affectionate intercourse of relatives can bring it pass&#44;<lb/> &#38; to them I look with anxious anticipations....Oh Parent of goodness&#44; compassio&#45;<lb/>&#45;nate Lord&#33; forgive trespasses&#44; reward merits&#44; console the afflicted&#44; bring the erring<lb/> humbly to Thy footstool&#44; and let the spirit of an intellectual creature now stand&#45;<lb/>ing before Thy judgment seat&#44; be uplifted by angels to the realms of<lb/> unending happiness.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

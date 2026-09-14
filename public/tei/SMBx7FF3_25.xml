@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Louis, Minnie D.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF3_25</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Louis, Minnie D.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-10" source="" attested="yes">24 October 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff3_25_1r.tif"/>
+                                <graphic url="smbx7ff3_25_2v.tif"/>
+                                <graphic url="smbx7ff3_25_1v2r.tif"></graphic>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>66 West 56th Street&#44;<lb/>
+                New York.<lb/>
+                October 24&#44; 1893.<lb/></p>
+            <p>Rev. Dr. S. Morais&#44;<lb/>
+                Dear Doctor&#58;&#45;<lb/></p>
+            <p>Your letter<lb/> addressed to Mr. Philip Cowen&#44;<lb/> &#40;which he generously sent to<lb/> me&#44;&#41; so laudatory of my in&#45;<lb/>significant efforts&#44; indeed<lb/> overwhelmed me for the mo&#45;<lb/>ment with pride and thank&#45;<lb/>fulness.  That they should<lb/> elicit commendation from a<lb/> mind so discerning&#44; and a<lb/> soul so pure and unworldly<lb/> as you have the rare happi&#45;<lb/>ness to possess&#44; gave me<lb/></p>
+            
+            <pb n="2"/>
+            <p>more satisfaction than any<lb/> praise I have ever received.<lb/>  But dear Doctor&#44; I fear the<lb/> inherent glow of your Southern<lb/> imagination has invested me<lb/> with a higher coloring of worth<lb/> than our searching Northern<lb/> light might justify&#59; neverthe&#45;<lb/>less&#44; I accept your tribute<lb/> with all the humility of an<lb/> aspiring soul conscious of<lb/> the still long distance from<lb/> the goal.<lb/></p>
+            <p>Having met you in my child&#45;<lb/>hood at Mrs. Charles Levy&#39;s<lb/> boarding&#45;house in this city&#44; shortly<lb/> after your arrival here&#44; I have<lb/> a distinct recollection of your<lb/> appearance at that time.<lb/>  You wore a close&#45;cut beard<lb/></p>
+            
+            <pb n="3"/>
+            <p>and a velvet or plush cap&#44; with your coat<lb/> always buttoned up rather close to the throat.<lb/>  You often passed your hand under my chin&#44;<lb/> and would say&#45;&#45;&#34;Just like velvet.&#34;  Despite<lb/> your uncertain English&#44; your gentle voice and<lb/> manner attracted me as well as my seniors.<lb/>  You gave me then&#44; a little Hebrew book published<lb/> in 1844&#44; with my name&#44; M. Dessau&#44; written in<lb/> it by you&#59; and according to my recollection&#44; you<lb/> said it was a book of &#34;Bridal Songs.&#34;  I have just<lb/> taken it from my book&#45;shelf to look at it.  These<lb/> things have kept the name of Dr Morais ever<lb/> fresh in my memory&#44; and it was with a thrill<lb/> of pleasure that I met you here at the organiza&#45;<lb/>tion of the &#34;Jewish Historical Society&#59;&#34; though<lb/> we both had journeyed so far as Time&#39;s road&#44;<lb/> that our garb of youth was unrecognizable to each<lb/> other.  But as often as I see your esteemed name<lb/> in our contemporary journals&#44; the delight is ever<lb/> present that I have known you.  And the hope is<lb/> also present that I may meet you again&#44; and thank&#44;<lb/> you in person for your kind words about me.<lb/>  And I thank the Giver of all good that He has<lb/> blessed our sphere with your own cultivated in&#45;<lb/>tellect and holy life&#44;&#45;&#45;a beacon to guide the Steps<lb/> of the righteous as well as the wayward.<lb/></p>
+            <p>Yours reverently and cordially&#44;<lb/> &#40;Mrs. A. H.&#41; Minnie D. Louis<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF5_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff5_5_1r.tif"/>
+                                <graphic url="smbx11ff5_5_1v.tif"/>
+                                <graphic url="smbx11ff5_5_2r.tif"/>
+                                <graphic url="smbx11ff5_5_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>S. MORAIS&#44;<lb/>
+                546 N. FIFTH STREET&#44;<lb/>
+                PHILADELPHIA.<lb/></p>
+            
+            <pb n="2"/>
+            <p>For the Dedication of the Industrial School<lb/>
+                on Thanksgiving Day<lb/></p>
+            <p>To Thee&#44; All seeing God&#44; was disclosed the eager&#45;<lb/>&#45;ness with which Thy suppliants wished for<lb/> the arrival of this day.  They feared that<lb/> their hope might be too long deferred&#44; and<lb/> prayed that Thou wouldst soon make them joy&#45;<lb/>&#45;ful over the opening of a nursery of human<lb/> progress.  Accept the joint thanksgivings<lb/> of all who acknowledge that Thy Divine in&#45;<lb/>&#45;spiration stirred up men and women to help<lb/> to carry on the holy undertaking.  It was<lb/> pleasing in Thy sight&#44; O Lord of righteousness&#44;<lb/> that Thy <sic>worshippers</sic> in Philadelphia had<lb/> planned a work for the elevation of the lowly<lb/> among their people&#44; and Thou didst create<lb/> an anxiety in Thy adorers of this city to further<lb/> the work of the same exalting end.<lb/></p>
+            <p>Oh&#33; may Thy guardianship crown the labor with a<lb/> success yearly greater and finally complete.<lb/>  The heavenly blessing that Thou hast promised<lb/> in the sacred books to the diligent&#44; will then<lb/></p>
+            
+            <pb n="3"/>
+            <p>rest on the craftsmen&#44; trained in this build&#45;<lb/>&#45;ing which we dedicate to industry.  Through<lb/> them&#44; will the name of Israel rise aloft among in the<lb/> midst of a nation&#44; whose mechanics have rendered America<lb/> so famous.  Grant that the descendants<lb/> of the tribes whose skill in handling the tools of<lb/> the artificer adorned testified Thy Tabernacle in times of<lb/> old&#59; that even the progeny of the artisans whom<lb/> Babylon tyranny banished from their land&#44; may gain here<lb/> a knowledge which will redeem the reputa&#45;<lb/>&#45;tion of the Hebrews&#44; who sought protection be&#45;<lb/>&#45;neath the folds of the banner of freedom.<lb/></p>
+            <p>By Thy watchfulness&#44; O Lord&#44; the spirit of the<lb/> religion&#44; whose expounders have extolled manual<lb/> labor exceedingly&#44; will abide with the many<lb/> that shall enter our consecrated edifice to receive<lb/> instruction.  for&#44; the good and true whom Thou<lb/> hast lifted to the realms of bliss and the gene&#45;<lb/>&#45;rous that who still remain our living benefactors&#44;<lb/> resolved that make renders this structure should stand always a monument of their<lb/> loyalty to Thy revealed Word.  Whatever<lb/> may tend to fasten the bond of Thy Sinaic<lb/></p>
+            
+            <pb n="4"/>
+            <p>covenant&#44; make us wise with humility&#44; and<lb/> devoted to the moral welfare of Thy necessi&#45;<lb/>&#45;tous creatures&#44; will be taught in the house<lb/> for whose permanence we implore Thy grace.<lb/></p>  
+            <p>Vouchsafe&#44; O Lord&#33; thus to reward the saintly<lb/> charity performed by one&#44; who loved the young<lb/> in Israel and did bide her own efforts to promote foster<lb/> public education.  Were she walking now<lb/> upon earth&#44; how greatly she would rejoice<lb/> in Thee&#44; because of an offering so precious as<lb/> that which we bring on our national day.<lb/>  Verily&#58; &#34;the memory of the just is blessed.&#34;<lb/>  But Thou wilt bestow Thy Fatherly benediction<lb/> likewise upon all who have hallowed their<lb/> time to the service of the soul ennobling cause&#59;<lb/> on all who have parted with some of their<lb/> means to advance the object now consum&#45;<lb/>&#45;mated.  May they behold the fruits of<lb/> their planting grow luxuriantly&#44; and hear the<lb/> dwellers of our city praise their joint united endeavour<lb/> and call it &#34;social progress&#34;<lb/></p>
+            <p>And now we invoke Thy name for the<lb/></p>
+            
+            <pb n="5"/>
+            <p>sake of the country in which prosperity has<lb/> smiled upon our strivings and where tranquil&#45;<lb/>ity has been our inseparable companion.<lb/>  Let Thy choicest favors enrich the Republic<lb/> of the North&#44; let rays of Thy wisdom enlight&#45;<lb/>&#45;en her leaders and Thy celestial unsullied purity&#44; of<lb/> which Thou art the archetype&#44; be reflected<lb/> in their public characters.  Bless Penn&#45;<lb/>&#45;sylvania the Keystone of the arch spanned<lb/> over our heads for as a &#91;&#63;&#93; protection&#44; and<lb/> may Philadelphia remain continue for ever the home<lb/> of peace&#59; the habitation of brotherly love.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

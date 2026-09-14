@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Montefiore, Joseph Sebag</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF12_45</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Montefiore, Joseph Sebag</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Ramsgate, England</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1885-10" source="" attested="yes">28 October 1885</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff12_44_1r.tif"/>
+                                <graphic url="smbx3ff12_44_1v.tif"/>
+                                <graphic url="smbx3ff12_44_2r.tif"/>
+                                <graphic url="smbx3ff12_44_2v.tif"/>
+                                <graphic url="smbx3ff12_44_3r.tif"/>
+                                <graphic url="smbx3ff12_44_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>East Cliff Lodge\
+                Ramsgate 28 Octr 1885<lb/></p>
+                
+            <p>My dear &#38; respected Sir&#44;<lb/></p>
+            <p>I have received a very<lb/> considerable number of<lb/> Letters since the death of my<lb/> lamented Uncle&#44; Sir Moses<lb/> Montefiore&#45;&#45; I sincerely<lb/> assure you that none has<lb/> been more acceptable and<lb/> gratifying to me than the<lb/> Letter you kindly addressed me<lb/> on the 12<hi rend="sup">th</hi> Inst. I am well <lb/> aware that I am quite<lb/></p>
+                
+                <pb n="2"/>
+            <p>undeserving of the laudatory<lb/> Terms in which you therein<lb/>speak of me&#8212;Still it has been<lb/> very agreeable to me to read<lb/> your note and to be the recipient<lb/> of the good wishes of so pious and<lb/> esteemed a person as yourself&#45;&#45;<lb/> In your long career in America<lb/> you have indeed evinced a Course <lb/> of conduct alike honorable to<lb/> yourself and Advantageous to<lb/> those who had the good fortune of<lb/> being under your Ministration&#45;&#45;<lb/>And I have frequently felt<lb/> regret that the path of your<lb/> Labors had not continued in this<lb/></p>
+                
+                <pb n="3"/>
+            <p>Country where&#44; after too short a<lb/> sojourn&#44; you had secured the<lb/> esteem and friendship of those<lb/> with whom you had associated.<lb/> I am very sensible of the honorable<lb/> Inheritance to which I have<lb/> succeeded but I also know my<lb/> weakness and feel much <lb/> apprehension that I must<lb/> necessarily create much<lb/> disappointment. Indeed it would<lb/> be a difficult task for anyone<lb/> worthily to succeed the great and<lb/> good Departed&#45;&#45; I look however with Confidence &#40;as he uniformly<lb/> did&#41; to that great Power&#45;who&#44;<lb/> as declared by Isaiah &#34;giveth<lb/> &#34;strength to the weak.&#34;<lb/></p>
+            <p>&#91;Hebrew&#93;<lb/></p>
+                
+                <pb n="4"/>
+            <p>As you are doubtless aware<lb/> Sir Moses left a considerable<lb/> part of his Fortune in Legacies<lb/> to Friends and a still larger<lb/> Amount for Charitable purposes<lb/> hence these can be carried out<lb/> by the Authorities&#44; who are the<lb/> Trustees for his benevolent <lb/> Bequests.<lb/></p>
+            <p>With much regard<lb/>
+                I remain<lb/>
+                Yours very truly<lb/>
+                Joseph Sebag Montefiore<lb/></p>
+                
+            <p>My Son desires<lb/>
+                His very kind<lb/>
+                regards<lb/>
+                To <lb/>
+                The Revd S. Morais<lb/></p>
+                
+                <pb n="5"/>
+            <p>To<lb/>
+                The Revd S. Morais<lb/>
+                546 N 5<hi rend="sup">th</hi> St<lb/>
+                Philadelphia<lb/>
+                U. S. America<lb/></p>
+            </body>
+    </text>
+</TEI>

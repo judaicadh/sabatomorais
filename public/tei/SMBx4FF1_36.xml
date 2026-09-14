@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Schneeberger, H. W.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF1_36</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Schneeberger, H. W.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1886-03" source="" attested="yes">29 March 1886</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff1_36_3r.tif"/>
+                                <graphic url="smbx4ff1_36_3v.tif"/>
+                                <graphic url="smbx4ff1_36_1r.tif"/>
+                                <graphic url="smbx4ff1_36_1v.tif"/>
+                                <graphic url="smbx4ff1_36_2r.tif"/>
+                                <graphic url="smbx4ff1_36_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Rev. S. Morais.<lb/>
+                546 N. 5<hi rend="sup">th</hi> St.<lb/>
+                <hi rend="underline">Philadelphia</hi><lb/>
+                Pa.<lb/></p>
+                
+            <p>from Dr Schneeberger 252 E. Balto St<lb/> Balto<lb/></p>
+                
+                <pb n="2"/>
+            <p>Balto. M&#39;ch 29<hi rend="sup">th</hi> 5646.<lb/></p>
+            <p>Rev S. Morais&#44;<lb/></p>
+            <p>Rev&#39;d and esteemed friend. &#91;Hebrew&#93;<lb/> The Jewish Weeklies conveyed to me last Satur&#45;<lb/>day the gratifying news of the thirty&#45;five<lb/> years of your active service as faithful leader<lb/> of our people.<lb/></p>
+            <p>Accept&#44; dear friend&#44; my most sincere con&#45;<lb/>gratulations&#44; as also of my d. wife&#44; and at<lb/> the same time my fervent prayer that the<lb/> &#91;Hebrew&#93; may keep and most carefully watch<lb/> over you; may He grant you renewed<lb/> strength and retain you for us and our<lb/> Holy Cause in vigor and health to the<lb/> welfare and prosperity of our Holy religion&#44; so<lb/> that your widely felt influence as &#91;Hebrew&#93;<lb/> may continue to be felt throughout the<lb/> length and breadth of the country &#91;Hebrew&#93;.<lb/></p>
+            <p>My long proposed visit to Washington<lb/></p>
+                
+                <pb n="3"/>
+            <p>took place yesterday.  I had a fair<lb/> audience.  I was not surprised of such;<lb/> because the President of the Congr. in<lb/> a letter some time ago complained of the<lb/> indifference and lukewarmness of its members.<lb/></p>
+            <p>I gave them some health admonition<lb/> regarding school and Synagogue and<lb/> spoke most emphatically on the Semin&#45;<lb/>ary and its purposes.  I had the app&#91;&#63;&#93;<lb/> circulated and hope to meet with some<lb/> beneficial results.  Otherwise I have<lb/> heard of nothing new transpiring.  I am<lb/> waiting for the printed constitution and<lb/> with a copy may be instrumental in<lb/> securing the cooperation of <del>th</del> some<lb/> of the moderate reform congregations here.<lb/>  With kindest regards and<lb/> best wishes for your future<lb/> good health I am<lb/> fraternally yours<lb/> H W Schneeberger<lb/>
+            </p>
+            </body>
+    </text>
+</TEI>

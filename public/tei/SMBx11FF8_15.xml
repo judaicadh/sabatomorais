@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF8_15</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff8_15_1r.tif"/>
+                                <graphic url="smbx11ff8_15_1v.tif"/>
+                                <graphic url="smbx11ff8_15_2r.tif"/>
+                                <graphic url="smbx11ff8_15_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For a funeral<lb/>
+                Brethren.<lb/></p>
+            <p>Those who&#44; like myself&#44; know the history of Jules A.<lb/> Ephraim since his arrival in this land&#44; will agree<lb/> that my silence respecting it&#44; is an act of kindness to a<lb/> disconsolate family.  I might&#44; now that unhappily that history<lb/> has so untimely indeed&#44; eulogize industry and perseverance&#44;<lb/> early meeting with due reward&#44; but I would be unavoidably<lb/> led to describe subsequent reverses&#44; and losses and trials<lb/> of mind and body&#44; under which the human frame<lb/> at length sank irrecoverably.  I would thus deepen a sore<lb/> wound.  Far be it from me to add to the distress&#44;<lb/> which desolate hearts experience.  If I cannot<lb/> elicit tears which will relieve suffering&#44; I shall not<lb/> draw forth tears of anguish.  But while<lb/> compassionate feelings&#44; which you all share with me&#44;<lb/> ask that I shall say nothing about the temporal concerns<lb/> of our deceased brother&#59; neither a bout the causes of prospe&#45;<lb/>&#45;rity nor those of adversity&#44; a sense of justice demands<lb/> that I shall speak of qualities which will secure to<lb/> Jules A. Ephraim a remembrance for good among his<lb/> people and the community in whose midst he<lb/> lived.<lb/></p>
+            <p>It was a belief with some of our ancient teachers that<lb/></p>
+            
+            <pb n="2"/>
+            <p>the lips which have closed in death&#44; will open and move plea&#45;<lb/>&#45;surably&#44; when the living repeat the religious sayings of<lb/> the departed.  I have no maxim or law to tell in<lb/> the name of our lamented brother.  He was not a sage&#44;<lb/> nor a saint whom I may quote&#44; but I have evidences<lb/> of his generous character to show&#44; and I trust that<lb/> my pointing them out&#44; will gladden his immortal<lb/> spirit&#44; and that this will respond approvingly to my<lb/> truthful utterances.  Jules A. Ephraim was<lb/> benevolent.  To contribute largely to institutions of charity<lb/> was to him a necessity.  He must respond to follow his heart&#39;s<lb/> best instincts&#59; to refuse would have been to do violence<lb/> to his nature.  Therefore his name appeared not simply<lb/> on the list of donors&#44; but on that of active workers&#44;<lb/> always leaning towards on the side of mercy&#44; even when the appli&#45;<lb/>&#45;cants had but doubtful claims to assistance.<lb/>  It might be thought that to give of his means to public organiza&#45;<lb/>&#45;tions which aid the poor&#44; and orphans&#44; the sick and<lb/> the aged&#44; and to further benefit them by personal coo&#45;<lb/>&#45;peration&#44; was considered by our brother the completion<lb/> of his duty.  But if the recipients of his private<lb/> kindness could gather here&#44; we would see throngs<lb/></p>
+            
+            <pb n="3"/>
+            <p>come forth and lay crowns of charity over this coffin.<lb/>  For our brother could not refuse deny the humblest among<lb/> his fellow creatures succour&#44; and never minding personal<lb/> discomfort he would make room at his own table for<lb/> the stranger and the wayfarer&#44; receiving all affably.<lb/>  And this is the trait most laudable in Jules A. Ephraim&#39;s<lb/> character.  When in the height of success&#44; he remained<lb/> lowly in spirit.  No act betraying assumption or an<lb/> arbitrary disposition emanated from him.  Posts of honor<lb/> in societies he received as offices of sacred trust&#44; and not<lb/> as means for self&#45;aggrandizement.  To the con&#45;<lb/>&#45;gregation with which he became connected&#44; at the beginning<lb/> of his career in this country&#44; and to which he remained<lb/> attached from principles&#44; my deceased friend was indeed<lb/> a liberal member.  And what is more noticeable and<lb/> more praiseworthy in this age of utilitarianism&#44; when all<lb/> is sacrificed to an imaginary happiness&#44; which after all<lb/> is but a will of with a wisp&#44; Jules A. Ephraim attended<lb/> Divine service&#44; and set aside worldly pursuits&#44; he became<lb/> a live worshipper and not a mute spectator&#44; and felt pride<lb/> in preserving a house of prayer in its imposingness.<lb/>  Hence it is that his absence from the Sanctuary by<lb/></p>
+            
+            <pb n="4"/>
+            <p>reason of physical disability was a loss sensibly<lb/> felt.  I lamented it because few are those who&#44; like Jules<lb/> A. Ephraim can or will join understandingly and heartily in<lb/> the national offering of Israel to their God.  He has now been<lb/> transferred above where the choral hymns of the righteous<lb/> extol the universal Creator&#44; but his congregation will<lb/> miss him&#44; a numerous circle of friends will miss him&#44; and<lb/> who more than his sorely tried wife&#44; and his bereaved children<lb/> shall look to fill the void created&#44; and long feel distressed<lb/> because Jules A. Ephraim is no more&#63;  For them my<lb/> heart yearns.  I who have watched the risinge and the fall&#44;<lb/> the joys and the sorrows&#44; I that have participated in<lb/> the pleasures&#44; and grieved at the afflictions of my friend&#39;s<lb/> household&#44; wish it were in my power to lessen the burden<lb/> of misfortune.  But I can only pray&#44; and that I fervently<lb/> do for the consolation of Mrs Ephraim.  May she find some<lb/> compensation to her past suffering in the devotion of her child&#45;<lb/>&#45;ren and her children&#39;s children.  May all who belong to<lb/> her vie with each other in making her latter days calm and<lb/> serene.  May the practical sympathy of friends and relatives prove<lb/> a solace to her heart.  Eternal Lord&#33;  Vouchsafe to bestow Thy loving<lb/> kindness on the family of Thy servant Ephraim son of Joseph&#44; &#38; apportion to him abundant mercies&#44;<lb/> as a reward for his beneficence&#44; his love of Thy Law&#44; and his endeavour to perform<lb/> its precepts.  Grant that his name be perpetuated in Israel&#44; through there &#38; &#38;c &#38;c.<lb/></p>
+            </body>
+    </text>
+</TEI>

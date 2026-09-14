@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF8_15</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Blumenthal, Joseph</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1895-09" source="" attested="yes">11 September 1895</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff8_15_1r.tif"/>
+                                <graphic url="smbx7ff8_15_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>546 N. Fifth Street&#44;<lb/>
+                Philadelphia&#44; Pa.<lb/>
+                September 11&#44; &#39;95.<lb/></p>
+            <p>Honorable Joseph Blumenthal<lb/>
+                My dear Sir&#44;<lb/></p>
+            <p>I was under the impression that a report<lb/> of the examination in June had been prepared by me<lb/> and sent to yourself and the Board of Trustees.  An<lb/> examination for promotion was to have been held last<lb/> month.  Unfortunately&#44; in a measure through my fault&#44;<lb/> all the students were not notified and only a few of<lb/> Senior B were present.  I regret that very much&#44; because<lb/> I would wish that pupils should know exactly their<lb/> standing during the term.  I regret it the more&#44; because<lb/> owing to the heavy task which the coming holidays impose<lb/> upon me&#44; the opportunity to come to New York is denied<lb/> me.  Messrs. Roeder and Cohen went over the curriculum<lb/> which I have formulated&#44; and they suggested such altera&#45;<lb/>tions as may prove acceptable.  The students in Senior B<lb/> whom I considered deserving of promotion are M. Kaplan&#44;<lb/> Elias Solomon&#44; Max Heichler and Nathan Wolf.  Some who<lb/> were absent&#44; may be equally deserving&#44; but they must undergo<lb/> an examination.  As regards the diploma&#44; I will try my best<lb/> to get it ready.  Both Wittenberg and Speaker begged the<lb/> favor of receiving it early.  The believe that it will in&#45;<lb/>sure a permanent position.  I am sorry that the Board are<lb/> disinclined to grant it to S.  He petitioned for it&#44; and<lb/> declared that his conduct hereafter would be in every re&#45;<lb/>spect exemplary.  With due respect to Messrs Cohen and<lb/> Roeder&#44; I think that he shows great familiarity with Biblical<lb/> and Rabbinical literature.  Of course&#44; neither he nor W.<lb/> was perfect&#44; but that is a qualification very rare indeed.<lb/>  The least of the three was N. as far as Biblical history is<lb/> concerned&#44; and his diploma must be guardedly worded.  I<lb/> have just seen Mr. Rothschild&#44; who kindly proposes to repeat<lb/> in behalf of the Seminary what he effectively did before.<lb/>  He agrees with me that the Convention had better take place<lb/> in N. Y.<lb/></p>
+            <p>Pardon me to say&#44; that I believe no remittance was<lb/> sent for my two students during August and September&#44; I am not<lb/> positive about July.<lb/></p>
+            <p>Heartily reciprocating the kind wishes you were good<lb/> enough to express and hoping that while I am <sic>premitted</sic> to live&#44;<lb/> I may be <sic>os</sic> some use&#44; I remain&#44;<lb/> Yours truly&#44;<lb/> S. Morais.<lb/></p>
+            </body>
+    </text>
+</TEI>

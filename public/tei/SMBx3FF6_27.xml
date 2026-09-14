@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Mendelsohn, S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF6_27</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Mendelsohn, S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Jastrow, M.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Wilmington, NC</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1884-01" source="" attested="yes">15 January 1884</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff6_27_1r.tif"/>
+                                <graphic url="smbx3ff6_27_1v.tif"/>
+                                <graphic url="smbx3ff6_27_2r.tif"/>
+                                <graphic url="smbx3ff6_27_2v.tif"/>
+                                <graphic url="smbx3ff6_27_3r.tif"/>
+                                <graphic url="smbx3ff6_27_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>5 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Wilmington&#44; N.C.&#44; Jan&#39;y 15<hi rend="sup">th</hi> 84.<lb/></p>
+            <p>Rev S. Morais&#59;<lb/>
+                Philada.&#44; Pa.<lb/>
+                My Rev. Teacher&#58;<lb/></p>
+            <p>First of all I have to crave<lb/> your pardon for addressing myself to you in the vernacul&#45;<lb/>ar&#44; &#38; not in the language you prefer to correspond in<lb/> with your pupil. The arrival of the last issue of the<lb/> <hi rend="underline">Israelite</hi> put me out of the humor of writing Hebrew.<lb/> Hebrew&#44; the language of <hi rend="underline">Truth</hi>&#44; is the language of the Is&#45;<lb/>raelites &#38; before me lies a paper &#91;Hebrew&#93;&#44; replete<lb/> with bare&#45;faced <hi rend="underline">falsehoods</hi>&#33;&#45;&#45;<lb/></p>
+            <p>By this time you have doubtlessly seen  the paper in<lb/> question&#8212;did you read my article on &#34;Intermarriages&#34; &#38; the<lb/> &#34;Editorial Postscript&#34; therein contained&#63; I do not ask<lb/> this question out of  impure motives&#58; out of the desire to<lb/> know whether my kind teacher has honored me by perusing<lb/> my crude thoughts&#59; but because I am anxious to know<lb/> &#91;Hebrew&#93;&#63; &#38;therefore I propound the above<lb/> question. &#91;Hebrew&#93;<lb/></p>
+                
+                <pb n="2"/>
+            <p>&#91;Hebrew&#93;<lb/> this is  not the question. But do you find<lb/> my humble effort faithfully representing the views of<lb/> the opponents of the amalgamation schemers&#63;<lb/></p>
+            <p>That I have succeeded to&#91;&#63;&#93; in upsetting Wise&#39;s theories<lb/> &#91;Hebrew&#93;&#44; I infer from the fact that the Wise man<lb/> has nothing to say in reply to my arguments &#40;&#91;Hebrew&#93;&#41;<lb/> except that &#39;none of his statements is attacked by me&#39;&#45;&#45; <lb/>&#38; this is a &#91;Hebrew&#93;&#44; English&#58;a black lie&#33;&#95;&#95;Who said&#44;<lb/>&#34;You see that &#94; the reason of this prohibition &#91;of intermarriage&#93;&#91;previous brackets inserted by author&#93; is <del></del> not&#93; none<lb/> of race&#44; color or any other corporal accident&#34;&#63; Not Hirsch&#44;<lb/> not Stern&#44; but Dr. Wise&#59; &#38; at the close of Part 1 of my<lb/> paper I prove that race had as much to do with the<lb/> prohibition as religion.&#45;&#45;Who asserted that &#39;the Rabbis<lb/>adopted the <hi rend="underline">minority</hi> opinion of R. Simeon&#91;&#63;&#93;&#44; &#38; not that of<lb/> the majority opposed to him&#39;&#63; Dr. Wise&#33; And in part 2<lb/> of my paper I show that R.S. was not the author of that<lb/> opinion&#44; but that he simply delivered it as a <hi rend="underline">Halakha</hi> adopted<lb/></p>
+                
+                <pb n="3"/>
+            <p>&#91;Hebrew&#93; long before his birth.&#95;&#95; Who wrote&#44;<lb/> in connection with the condition of the offspring of illegal marria&#45;<lb/>ges&#58; &#34;R.S. Z. &#91;Y.&#93; is left there in the minority&#44; &#38; strange to<lb/> say&#44; has been made law by the code. We know not on what<lb/> principle&#34;&#63; The paper itself answers&#58; &#34;<hi rend="underline">Ed. Israelite</hi>&#34;&#59; &#38; in <lb/> part 3 of my paper I controvert this assertion&#44; &#38; in part<lb/>4 expound the principle on which the law is based&#33; In&#45;<lb/>deed&#44; my whole essay is directed against Dr Wise whose<lb/> every assertion is demonstrated to be the creation of<lb/> his brains &#38; &#91;Hebrew&#93;&#44; not even &#91;Hebrew&#93;&#95;&#95; Dr&#39;s<lb/>Hirsch &#38; Stern being brought in just for company&#39;s<lb/> sake&#95;&#95;&#38; yet he says in his &#34;Postscript&#44;&#34; that &#39;none of<lb/> his points is attacked in the above essay&#33;&#33;&#95;&#95; Moreover&#44;<lb/> &#91;Hebrew&#93;&#44; he reiterates in the &#34;Postscript&#34; the very<lb/> ideas I refute in my paper&#44; <del></del>  &#93; &#38; styles these &#34;facts&#44;&#34; as<lb/> if  there were no doubt as to their being facts&#33;&#95;&#95;Un&#45;<lb/>forunately&#44; &#38; I say this with a sense of sorrow for the Re&#45;<lb/>ligion I have been taught to revere&#44; I know that only &#91;Hebrew&#93;<lb/> will read my article&#44; while all will read<lb/> Wise&#39;s postscript &#38; ninety nine out of every 100 will take<lb/> his words for it &#38; consider it as &#91;Hebrew&#93;.&#45;&#45;<lb/></p>
+                
+                <pb n="4"/>
+            <p>Now&#44; what is to be done to counteract the effects of<lb/> the idolatrous worship paid the Wise man of the West&#63;<lb/> My voice is too weak to silence him. Besides&#44; his false&#45;<lb/>hoods are more powerful than my truths. &#91;Hebrew&#93;<lb/>&#91;Hebrew&#93; &#45;&#45;&#38; Wise &#91;Hebrew&#93;&#33; And yet&#44; is<lb/> this &#91;Hebrew&#93;&#63; The pacific policy of the conscientious<lb/> Rabbis in this country has raised that man to the<lb/> dignified position he occupies &#38; rendered him second only<lb/> to the keeper of St.Peters&#39;s key to heaven&#44; &#38; the continuance<lb/> of that policy is paramount to wearing around his<lb/> brazen brow a crown of laurels every fiber of which<lb/> is a thorn in the side of Judaism. Can the &#91;Hebrew&#93;<lb/>&#91;Hebrew&#93; afford to maintain silence&#63;&#45;&#45; Pardon me for speak&#45;<lb/> ing thus to you &#91;Hebrew&#93;&#33; My heart actually<lb/> aches within me whenever I think of the evil that man<lb/> has brought to Judaism&#44; &#91;Hebrew&#93;.<lb/> I am powerless &#38; my pen is suffering with chronic impoten&#45;<lb/>cy&#59; your arm is  strong&#44; your pen prolific&#44; your name<lb/> revered&#44; your word respected&#58; I candidly think that you <lb/> are the one &#91;Hebrew&#93;.&#45;&#45;<lb/></p>
+            <p>Yesterday I received from Berlin a copy of Frankel&#39;s<lb/></p>
+                
+                <pb n="5"/>
+            <p>&#91;Hebrew&#93;&#44; &#38; am therefore able to return to you the copy you<lb/> kindly lent me some seven months ago. I forward it<lb/> to your address by to&#45;day&#39;s mail&#44; registered&#44; &#38; hereby<lb/> tender you my heartfelt thanks for the loan. I have<lb/> made frequent use of it&#44; but hope that you will &#94; find the<lb/> book in no worse condition for all that.&#95;&#95; The copy<lb/> I received will cost me some &#36;4 50<lb/>100&#47; &#95;&#95; an enormous<lb/> price for such a work&#44; but I must have it &#38; pay<lb/> for it&#33;</p>
+            <p>For the present I shall be a  &#91;Hebrew&#93;&#44; i.e. I shall<lb/> not reply to Wise&#39;s postscript&#44; but wait till I hear<lb/> from Hirsch &#38; Stern &#38; then shape my course.<lb/></p>
+            <p>With kindest regards &#38; best wishes for yourself &#38; your dear children&#44; in which my wife cordially joins&#44; <lb/> I have the honor to subscribe myself&#44;<lb/></p>
+            <p>Your faithful pupil<lb/>
+                S. Mendelsohn<lb/></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF10_29</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Felsenthal, B.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1896-12" source="" attested="yes">14 December 1896</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff10_29_1r.tif"/>
+                                <graphic url="smbx7ff10_29_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>C<lb/>
+                O<lb/>
+                P<lb/>
+                Y<lb/></p>
+            <p>Philadelphia&#44; Dec. 14&#44; 1896.<lb/></p>
+            <p>Rev. Dr. B. Felsenthal&#44;<lb/>
+                Dear Sir&#58;<lb/></p>
+            <p>Your favor has just come to hand.  Since you<lb/> ask about the works of Luzzato &#91;Hebrew&#93;&#44; permit me to mention that the<lb/> son of the late Professor&#44; Isaiah Dr.&#44; inquired about you&#44; and I<lb/> answered that you reside in Chicago&#44; I am not a pupil of the<lb/> celebrated literati.  I was born at Livorno &#40;Leghorn&#41; and studied<lb/> with Chief Rabbi Ab B. Pisserno &#91;Hebrew&#93; but Luzzatto&#39;s writings are&#44;<lb/> of course&#44; known to every Italian student.  I remember having seen<lb/> a manuscript copy of his commentary on Isaiah&#44; when I was quite a<lb/> youth.  I have&#44; however&#44; corresponded with my great compatriot and<lb/> coreligionist &#38; I wrote a very brief and imperfect biography of<lb/> his character and labors&#44; shortly after his death&#44; and which ap&#45;<lb/>peared in the Occident&#44; and was reproduced in the Jewish Chronicles&#44;<lb/> &#40;London&#41;.  Having noticed in an Italian journal that his posthumous<lb/> works were about to be published&#44; I requested his son to send me a<lb/> copy of his Pentateuch&#44; Isaiah&#44; Italian Bible&#44; and some other minor<lb/> productions of his pen in my native language.  I wrote immediately<lb/> an article in the Record&#44; a paper to which I contribute&#44; with the<lb/> view of inducing my colleagues to benefit the family of the deceased<lb/> by purchasing his books.  I have obtained these&#44; save the &#91;Hebrew&#93;<lb/> which has not yet been issued&#44; all through the post office&#44; an expens&#45;<lb/>ive mode of getting foreign works&#44; but the only of which I knew&#44; not<lb/> wishing to trouble private individuals.  I expect five copies of the<lb/> <sic>Tentateuch</sic> and one of the Isaiah&#44; for persons who bespoke them here.<lb/>  If you wish&#44; I will communicate with the Dr. at Padua&#44; and report<lb/> your request.  At all events&#44; I enclose a list&#44; which may serve as a<lb/> guide regarding prices&#44; etc.<lb/></p>
+            <p>And now since I had the pleasure of forming your<lb/> acquaintance by letter&#44; allow me to seek a favor at your hands.  This<lb/> week I wrote to a youth&#44; formerly an attendant at my Synagogue&#44; and<lb/> begged that he would make some inquiries about the standing and repu&#45;<lb/>tation of a certain Samuel Maggiar.  This man has an Italian wife in<lb/> Alexandria &#40;Egypt&#41;.  After having consumed her property&#44; deserted her<lb/> and the son she bore to him&#44; and came to America &#91;Hebrew&#93;.  He is<lb/> <sic>is</sic> reported to be in your city.  Lately he made an attempt to return<lb/> home&#44; but the parents of the deserted&#44; persons of respectability and<lb/> means&#44; are anxious to learn beforehand whether present circumstances<lb/> would warrant their <sic>gorgiving</sic> the past&#44; and delivering again a loved<lb/> child into the hands of an unprincipled fellow.  No doubt&#44; you are<lb/> more likely to find out&#44; than Solomon Sulzberger of the firm Lindauer<lb/> &#38; Bros. Co.&#44; to whom I wrote and sent the man&#39;s photograph.  I hear<lb/> that the deserter is a constant attendant at the Synagogue&#59; you may<lb/> therefore&#44; without great difficulty&#44; discover his whereabouts and con&#45;<lb/>dition.  Say nothing to him&#44; but have the kindness to drop me a line&#44;<lb/> and believe&#44; that I will be ready to reciprocate your kindness.<lb/>  Very truly&#44;<lb/> S. Morais.<lb/>
+                546 North 5th St.<lb/></p>
+            </body>
+    </text>
+</TEI>

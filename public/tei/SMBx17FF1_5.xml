@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx17FF1_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cincinnati, OH</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1878-09" source="" attested="yes">3 September 1878</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx17ff1_5_1r.tif"/>
+                                <graphic url="smbx17ff1_5_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>&#91;Seal of the Hebrew Union College&#93;		&#91;Seal of the Union of American Hebrew Congregations&#93;</p>
+            <p>&#91;Hebrew&#93;<lb/></p>
+            <p>OFFICE OF SECRETARY&#44;<lb/>
+                BOARD OF GOVERNORS<lb/>
+                OF THE<lb/>
+                Hebrew Union College.<lb/></p>
+            <p>Cincinnati&#44; Sept 3<hi rend="sup">d</hi> 5638.<lb/>
+                1878.<lb/></p>
+            <p>Rev. S. Morais<lb/></p>
+            <p>My dear friend.<lb/></p>
+            <p>Your last and welcome favour came<lb/> duly to hand&#44; which as usual I perused with much pleas&#45;<lb/>ure.  Your remarks concerning young Strause were duly<lb/> appreciated I trust he may grow up in full realization<lb/> of all our expectations.  I am pleased to learn that<lb/> an effort will be made in Phila to rear an advanced<lb/> class of Boys in the routine of our preparatory grades<lb/> that may be put under the auspices of our Union<lb/> next year.  I like to see the rivalry between Phil<hi rend="sup">a</hi> and<lb/> New York.  We opened the new session yesterday at<lb/> 4 P.M. Twenty five boys registered their names&#44; Dr Wise&#39;<lb/> address was really good&#44; and when he spoke of the<lb/> death of one of our last students&#42; who died of the fever<lb/> at Memphis during vacation&#44; our students all arose and<lb/> recited the &#34;Mourners Kadish&#34; with the Dr. which was very<lb/> inspiring indeed.  Scarcely a dry eye could be seen<lb/> in the room&#44; his address will be in this weeks Is&#45;<lb/>raelite&#44; Mr Bettraum and Dr Voorsanger also spoke&#44;<lb/> &#42; Moses S Hahn.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Dr Julius Wise a son of Dr Wise is down with<lb/> the fever at Memphis.  God grant him a perfect cure&#44;<lb/> we hear from him that he is doing well so far.<lb/>  The Dr has his troubles still keeps us&#44; his faith in<lb/> the will of God seems to strengthen him in order<lb/> to bear his troubles.<lb/></p>
+            <p>The Doctor requested me yesterday to say&#44;<lb/> that you will oblige him by ordering from your<lb/> friend Dr Luzzatto a copy of all his Hebrew<lb/> works for the present&#44; and if they answer the<lb/> purposes of the College more can be ordered&#44; he<lb/> can send them for the &#34;<hi rend="underline">Hebrew Union College</hi>&#34;<lb/> <hi rend="underline">Cincinnati</hi> care of Rev Dr Isaac M. Wise&#44; then<lb/> they come free of duty.<lb/></p>
+            <p>Young Strause says so far he is much pleased<lb/> here&#44; we will make his time agreeable&#44; we have<lb/> an excellent man &#38; his lady to take charge of the<lb/> boys&#44; has a nice house nearly opposite to Hannah<lb/> and Freibergs.<lb/></p>
+            <p>I am sorry to learn dear Nina has contrac&#45;<lb/>ted a cold again.  After spending such a nice<lb/> time at Cape May&#44; please give our love to her&#44;<lb/> and all your dear ones.<lb/></p>
+            <p>Hoping this may meet you and all<lb/> the dear ones well&#44; I am as ever<lb/> Yours truly xc<lb/> Jacob Ezekiel<lb/></p>
+            </body>
+    </text>
+</TEI>

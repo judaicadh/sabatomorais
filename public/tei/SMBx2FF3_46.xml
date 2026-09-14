@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF3_46</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">May, Lewis; Ellinger, M.; Mayer; Isaacs, S.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1876-05" source="" attested="yes">14 May 1876</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff3_45_1r.tif"/>
+                                <graphic url="smbx2ff3_45_1v.tif"/>
+                                <graphic url="smbx2ff3_45_2r.tif"/>
+                                <graphic url="smbx2ff3_45_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Messrs Lewis May&#44; M Ellinger&#44; &#38; Mayer S. Isaacs.<lb/></p>
+            <p>Philadelphia May 14<hi rend="sup">th</hi> 1876<lb/></p>
+            <p>Gentlemen<lb/></p>
+            <p>The Hebrew Ministers in our city&#44; to whom<lb/> your communication was directed&#44; met last evening<lb/> at the rooms of Y M H W.  Having appointed<lb/> the Revd Dr Samuel Hirsch chairman&#44; and S. Morais<lb/> secretary&#44; they proceeded to discuss the various questions<lb/> you have asked.  The following is substantially their<lb/> reply.<lb/></p>
+            <p>1.	It is&#44; by all means&#44; advisable&#44; instead of establishing<lb/> a separate college in which secular as well as Hebrew learning<lb/> <del>shall</del> would be imparted&#44; that chairs for the teaching of sacred<lb/> literature be founded in some well&#45;known American university<lb/></p>
+            <p>2.	The studies pursued ought to be&#58; &#40;a&#41; Select <del>portions</del> passages of<lb/> the Talmud with <sic>commentarie</sic> &#40;b&#41; The most difficult chapters<lb/> <del>passages</del> of the poetical books of the Bible&#44; elucidated by<lb/> the researches of modern critics. &#169; The chaldaic lan&#45;<lb/>&#45;guage&#44; and&#44; as far as attainable&#44; that of the Arabic and<lb/> kindred tongues. &#40;d&#41; Practical exercises in homelitics.<lb/></p>
+            
+            <pb n="2"/>
+            <p>These studies should be divided into different courses&#44;<lb/> allowing those students who simply wish to qualify themselves<lb/> for the position of Hebrew instructors to omit a portion thereof.<lb/></p>
+            <p>3.	Before entering the University to pursue the studies afore&#45;<lb/>mentioned&#44; scholars should have learnt&#44; &#40;a&#41; the historical<lb/> books of Holy Writ&#44; in the original&#44; &#40;b&#41; the least difficult<lb/> passages <del>out of</del> from the Prophets and Psalms &#40;c&#41; <del>the rules</del><lb/> <del>of</del> Hebrew Grammar &#40;d&#41; one treatise of the 1<hi rend="sup">st</hi> volume of<lb/> Maimonides &#40;Yad hacaza kah&#41;&#44; attesting their ability to<lb/> read understandingly without punctuations.<lb/></p>
+            <p>4.	&#91;&#63;&#93; attending high&#45;schools&#44; and having received<lb/> some knowledge of Hebrew in institutions attached to or<lb/> disconnected from their respective congregations&#44; shall<lb/> attend in the afternoon or evening&#44; such schools&#44; in<lb/> which the branches designated above are imparted.<lb/>  To establish schools of that character&#44; and carry them<lb/> on successfully&#44; committees in each city where con&#45;<lb/>gregations contribute towards the furtherance of the<lb/> present object&#44; should be appointed to direct&#44; su&#45;<lb/>pervise&#44; and secure a uniform plan.<lb/></p>
+            <p>5.	Competitive examinations are deemed an efficient<lb/> mode of exacting emulation&#44; and hence&#44; progress in<lb/></p>
+            
+            <pb n="3"/>
+            <p>the study of the holy language<lb/></p>
+            <p>6. With the exception of the chairman &#40;the Revd<lb/> Dr S. Hirsch&#41; the ministers present at the<lb/> meeting&#44; namely Drs Jastrow and <sic>Elllen</sic>&#44; &#38;<lb/> Messrs Jacobs &#38; Morais&#44; considered the question<lb/> of establishing a college&#44; or of chairs for the branches<lb/> named in &#40;1&#41; totally premature&#44; and consequently<lb/> impracticable for the present time.<lb/></p>
+        </body>
+    </text>
+</TEI>

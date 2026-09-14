@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Wilburn, Cora</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx8FF19_22</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Wilburn, Cora</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx8ff19_22_1r.tif"/>
+                                <graphic url="smbx8ff19_22_1v.tif"/>
+                                <graphic url="smbx8ff19_22_2r.tif"/>
+                                <graphic url="smbx8ff19_22_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>&#40;Poem.&#41;<lb/></p>
+            <p>&#40;&#91;&#41;<hi rend="underline">For the Jewish Exponent</hi>.&#40;&#93;&#41;<lb/></p>
+            <p><hi rend="underline">To the Rev&#58; Dr. Sabato Morais&#44;<lb/>
+                Most affectionately and respectful&#45;<lb/>
+                ly dedicated&#44; By Cora Wilburn</hi>.<lb/></p>
+            <p>I&#44; with the many and the mighty&#44; come.<lb/>
+                The Great in intellect&#44; the tuneful strong&#59;<lb/>
+                With but a true heart&#39;s simple offering&#44;<lb/> 
+                And the low music of a broken song.<lb/></p>
+            
+            <p>But freighted with the sweets of solitude&#44;<lb/>
+                All the soul&#39;s fervencies of gratitude&#44;<lb/>
+                And thoughts that dwell in heavenly regions fair&#44;<lb/>
+                I bring to thee&#44; thou white&#45;winged Soul of<lb/>
+                prayer&#33;<lb/></p>
+            
+            <p>Because thy spirit&#44; &#39;neath the shadows cast<lb/>
+                Out of the ruined splendors of the past&#44;<lb/>
+                Finds Faith&#39;s illumined pathway&#44; as of yore&#44;<lb/>
+                And Israel&#39;s Only God&#44; forevermore&#33;<lb/></p>
+            
+            <p>In ancient paths&#44; thou Sage of Israel&#39;s fold&#33;<lb/>
+                Thine eyes the light of miracle behold&#59;<lb/>
+                The present marvel is <hi rend="underline">thy</hi> sterling grace&#44;<lb/>
+                Amid the world&#44; a world&#45;aparted place&#59;<lb/></p>
+            
+            <pb n="2"/>
+            <p>Far from its idol&#45;worship&#44; lures of sin&#44;<lb/>
+                A life all pure and &#34;beautiful within&#34;&#33;<lb/></p>
+            
+            <p>Great with humility&#39;s crowned holiness&#44;<lb/>
+                And human&#44; world&#45;embracing tenderness&#59;<lb/>
+                I dare divine the sorrowing conflict wrought<lb/> 
+                In heart and soul upon the heights of thought&#59;<lb/>
+                So dear is Custom&#44; that the faithful see<lb/>
+                Only within its bounds&#44; life&#39;s sanctity.<lb/></p>
+            
+            <p>Brave&#44; honored Sage&#33; thy loving eyes behold<lb/>
+                More of Creation&#39;s wonders in the Old&#59;<lb/>
+                Yet&#44; in the sweetness of an outlook grand&#44;<lb/> 
+                To <hi rend="underline">all</hi> is reached thy true&#44; fraternal hand&#59;<lb/>
+                Never denunciation&#39;s lurid sway&#44;<lb/>
+                Heaven&#39;s gates of promise bar to Freedom&#39;s way&#59;<lb/>
+                Keeping thy steadfast feat among the few&#44;<lb/>
+                Thy name exalted stands amid the New&#33;<lb/></p>
+            
+            <p>I cannot with the Great and tuneful strong&#44;<lb/>
+                Thy meed of praise in holy Hebrew song&#44;<lb/>
+                Bring with Life&#39;s high accord of melody&#59;<lb/>
+                A fragmentary offering to thee&#44;<lb/>
+                Heart&#44; soul&#44; and utterance give imperfectly.<lb/>
+                Yet inly freighted with the Truth&#39;s demand&#44;<lb/>
+                Such as the Soul <hi rend="underline">of Truth</hi> may understand&#33;</p>
+            </body>
+    </text>
+</TEI>

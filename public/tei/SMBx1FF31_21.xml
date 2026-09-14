@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cohen, David A.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF31_21</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cohen, David A.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>London, England</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1872-06" source="" attested="yes">16 June 1872</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff31_4_1r.tif"/>
+                                <graphic url="smbx1ff31_4_1v.tif"/>
+                                <graphic url="smbx1ff31_4_2r.tif"/>
+                                <graphic url="smbx1ff31_4_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>London June 16<hi rend="sup">th</hi> AM 5632<lb/></p>
+            <p>My dear &#38; Revd Sir<lb/></p>
+            <p>Although nearly if not quite five<lb/> years have elapsed since I had the honor of carrying on<lb/> a correspondence with you respecting the affair of Mrs<lb/> Costas unfortunate marriage with that apostate Barny<lb/> Costa Yet I am in hopes that it is still fresh in<lb/> your memory and that I shall be able to rekindle<lb/> that sympathy in your bosom you evinced then as the<lb/> time is now near for action.  Had the Revd Doctor<lb/> Artom done what I conceive to be his duty by giving<lb/> <hi rend="underline">me</hi> his sanction of my becoming the &#91;Hebrew&#93; in<lb/> accordance with your arrangement the matter would<lb/> have been finally settled She would have been a<lb/> free woman and at liberty to have united herself<lb/> to some other man that would have been better part<lb/>ner than that <sic>villian</sic> &#91;Hebrew&#93; You can understand<lb/> that the matter has been in suspense ever since<lb/></p>
+            <p>But now by the &#91;Hebrew&#93; some men in your city<lb/> have arose who have taken his case in hand.  Have not<lb/> alone bestirred themselves in every way possible to<lb/></p>
+            <pb n="2"/>
+            <p>assist her to be released from the clutches of her<lb/> unworthy husband but have provided for her<lb/> passage from London to Philadelphia with the<lb/> most friendly advice and instruction as to what<lb/> she should do in every way connected with her voy<lb/>&#45;age  She leaves England on the 20<hi rend="sup">th</hi> Inst in<lb/> the <hi rend="underline">City of Antwerp</hi> so her arrival may be calcula<lb/>ted on two or three days after this comes to hand<lb/></p>
+            <p>I must not omit to mention the names of the<lb/> gentlemen that are so anxious to serve an ill &#91;&#63;&#93;sid<lb/> woman and if possible to permit that miscreant<lb/> that has forsaken his God and his wife and<lb/> child.  Mr R  Cohen S&#91;&#63;&#93; M&#91;&#63;&#93; of South<lb/> Str Mr Hunt a Mr Jacobs and a Mr Rob&#45;<lb/>inson  My own object has been all this<lb/> time as she is yet a very young woman<lb/> &#91;Hebrew&#93; which I hope please God we shall<lb/> succeed in  I <sic>therefor</sic> trust Dear Sir that<lb/> if it is in your way to lend an helping hand<lb/></p>
+            
+            <pb n="3"/>
+            <p>when she arrives in your city that you will<lb/> do it  Nay I feel confident that you will if<lb/> it be only for the same reason that has actuated<lb/> myself  I trust in God that after all the<lb/> anxiety that has been felt and the trouble<lb/> that has been taken that the result will be<lb/> favorable and entirely in accordance with<lb/> our most sanguine expectations<lb/></p>
+            <p>I am Dear &#38; Revd Sir<lb/>
+            Yours Respecty<lb/>
+            David A Cohen<lb/>
+            22 Little Alic Str<lb/>
+            Goodmans Fields<lb/></p>
+            
+            <p>Revd S Morais<lb/></p>
+
+        </body>
+    </text>
+</TEI>

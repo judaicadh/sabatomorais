@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes"></author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF10_7</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes"></author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1885-01" source="" attested="yes">January 1885</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff10_7_3r.tif"/>
+                                <graphic url="smbx3ff10_7_3v.tif"/>
+                                <graphic url="smbx3ff10_7_1r.tif"/>
+                                <graphic url="smbx3ff10_7_1v.tif"/>
+                                <graphic url="smbx3ff10_7_2r.tif"/>
+                                <graphic url="smbx3ff10_7_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Return to<lb/>
+                Rev Dr HP Mendes<lb/>
+                313 West 30<lb/>
+                New York City<lb/></p>
+                
+            <p>Rev S. Morais<lb/>
+                546 North 5<hi rend="sup">th</hi> St.<lb/>
+                Philad<hi rend="sup">phia</hi><lb/></p>
+                
+                <pb n="2"/> 
+            <p>Monday night<lb/></p>
+            <p>My dear Mr Morais<lb/></p>
+            <p>Will you kindly let me<lb/> know what subject you choose for<lb/> your Paper. It will be &#94; read on <hi rend="underline">Tuesday</hi><lb/> morning. Of course you and<lb/> your son will be looked after by<lb/> my brother and me for Casheruth.<lb/></p>
+            <p>I am writing this at our<lb/> final meeting before the Conference.<lb/></p>
+            <p>At present arrangements are<lb/> Monday <del>Evening</del> Morning at Y.M.H.A Rooms.<lb/></p>
+            <p>1.	Prayer<lb/>
+                2.	Address<lb/>
+                3.	Organization<lb/>
+                4.	Committees<lb/>
+                5.	Reports &#38; Resolutions<lb/>
+                6.	Dr Kohler &#34;Sunday Schools&#34;<lb/></p>
+             <p>Dr. Landsberg AP Mendes  Falk&#91;&#63;&#93;<lb/>
+                &#40;Discussion open to all&#41;
+                Afternoon.<lb/>
+                HP Mendes Congregational Work<lb/>
+                free Discussion<lb/></p>
+                
+                <pb n="3"/>
+            <p>Monday Evening at the <lb/>
+                Temple &#91;&#63;&#93;&#58;&#45;&#45; &#40;public&#41;<lb/></p>
+            <p>1.	Prayer Rev &#91;&#63;&#93; Chapman<lb/>
+                2.	Dr Jastrow&#45;Jewish pulpit&#58;<lb/>
+                3.	Dr F of Mendes Charity Work<lb/>
+                4.	Dr Philipsohn<lb/>
+                5.	D J. of the Temple<lb/></p>
+                
+            <p>Tuesday morning at YMHA<lb/>
+                Paper Rev S Morais &#34;Study  of Hebrew&#34;<lb/>
+                &#40; or what you like&#41;<lb/>
+                Paper Rev  A S Jacobs &#34;Internments&#34;<lb/>
+                Reports of Committees on<lb/>
+                Permanent Organization<lb/></p>
+                
+            <p>With regards<lb/>
+                Yrs<lb/>
+                &#91;&#63;&#93;<lb/></p>
+        </body>
+    </text>
+</TEI>

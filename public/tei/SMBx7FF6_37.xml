@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Leon</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF6_37</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Leon</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Minneapolis, MN</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1894-02" source="" attested="yes">12 February 1894</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff6_37_1r.tif"/>
+                                <graphic url="smbx7ff6_37_1v.tif"/>
+                                <graphic url="smbx7ff6_37_2r.tif"/>
+                                <graphic url="smbx7ff6_37_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Minneapolis Minn Feb 12&#47;94<lb/></p>
+            <p>Dear Father<lb/></p>
+            <p>Nina has written you<lb/> in full detail what she and<lb/> Mr Cohen have decided to let<lb/> me do and also the amounts<lb/> I owe&#44; and legal notes will<lb/> be made out to you before I leave<lb/> here which will be not later<lb/> than Wednesday.<lb/></p>
+            <p>I scarcely<lb/> know what to say to you for in<lb/> the twenty four years of my life<lb/> I have promised so much and<lb/> fulfilled so few of those promis&#45;<lb/>es that I can not blame any&#45;<lb/>body who knows me for not be&#45;<lb/>lieving me.<lb/></p>
+            <p>I do not ask your<lb/> forgiveness for all my sins<lb/> and the unhappiness I have<lb/> caused you in your old age&#44;<lb/> and I can only say in regard<lb/> to my future&#44; that I ask<lb/> God to give me strength to<lb/> resist all temptations and<lb/></p>
+            
+            <pb n="2"/>
+            <p>again give me power to prove<lb/> to you as I had been trying<lb/> to do when I first came to<lb/> Kansas City that I am worthy<lb/> of the name I bear.<lb/></p>
+            <p>I can hardly realize<lb/> sometimes that I have brought<lb/> myself in a few short months<lb/> down to what I am&#44; and as<lb/> I am a boy no longer you may<lb/> feel sure that I have enough<lb/> manly sense to feel the disgrace<lb/> that I have brought upon myself<lb/> and the sorrow that I have<lb/> brought upon my family.<lb/></p>
+            <p>I pray that you will<lb/> live to see me once more a man<lb/> in every sense of the word&#44; and<lb/> that I may give you no cause to regret<lb/> having bestowed upon me<lb/> the amount of money which<lb/> I know has cost you many a<lb/> privation to accumulate.<lb/></p>
+            <p>Of my sister Nina<lb/> and her best of husbands<lb/> Emanuel Cohen I can never<lb/> live long enough or do enough<lb/></p>
+            
+            <pb n="3"/>
+            <p>good to repay them for their<lb/> goodness to me&#44; there is not<lb/> another man in this world<lb/> I believe who would have done<lb/> for me what Emanuel Cohen<lb/> did&#44; for when I consider that<lb/> he&#39;s no relation of mine I<lb/> certainly ought to congratulate<lb/> myself on having such a <hi rend="underline">friend</hi><lb/> and <hi rend="underline">helper</hi>&#44; he is a <hi rend="underline">man</hi> and<lb/> I feel that the association<lb/> with him and the example he<lb/> has shown me of what a <hi rend="underline">man</hi><lb/> ought to be has done me more<lb/> good than I can tell&#44; I have<lb/> not yet said one word of thanks<lb/> to him or Nina nor shall<lb/> I but if I <sic>dont</sic> prove to them<lb/> in future that <hi rend="underline">I am thankful</hi><lb/> indeed for their gigantic efforts<lb/> to help me become what I should<lb/> be I ought to be torn limb from<lb/> limb.<lb/></p>
+            <p>I go back to Kansas<lb/> City&#44; there is where I lost my<lb/> name&#44; and there if I can&#44; I am<lb/> going to regain it and my<lb/> friends<lb/></p>
+            
+            <pb n="4"/>
+            <p>I need not tell you again<lb/> that I have been trusted here<lb/> with more than kindness and<lb/> have had a very pleasant<lb/> visit in an ideal home.<lb/></p>
+            <p>Try to forget the past<lb/> no matter what you hear of<lb/> what I <hi rend="underline">have done</hi> but lay<lb/> your head down at night knowing that<lb/> I am now making amends<lb/> in every possible manner.<lb/></p>
+            <p>I will write to<lb/> you from Kansas City and my<lb/> address there will be<lb/> 1324 Central St.<lb/> Kansas City<lb/> <hi rend="underline">MO</hi><lb/> Your son<lb/> Leon<lb/></p>
+            </body>
+    </text>
+</TEI>

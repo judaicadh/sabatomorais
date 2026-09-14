@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Almosnino, S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF27_10</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Almosnino, S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>London, England</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1868-09" source="" attested="yes">3 September 1868</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff27_10_1r.tif"/>
+                                <graphic url="smbx1ff27_10_1v.tif"/>
+                                <graphic url="smbx1ff27_10_2r.tif"/>
+                                <graphic url="smbx1ff27_10_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>London 3 Sept. 1868<lb/>
+            Rev&#58; S. Morais<lb/>
+            Philadelphia<lb/>
+            Revd. &#38; dear sir&#47;<lb/></p>
+            <p>I have to apologize to you&#44;<lb/> for my apparent neglect in not earlier replying<lb/> to your favor of the 17<hi rend="sup">th</hi> July.  My absence from London<lb/> when it reached here&#44; and afterwards awaiting &#91;&#63;&#93;<lb/> the return from the Continent of our Ecclesiastical Chief&#44;<lb/> must plead my excuse&#59; I c&#91;&#63;&#93; concur<lb/> in all you have stated&#44; as to the unfortunate<lb/> position&#44; of the wife of Barrick Costa&#44; who I find<lb/> &#40;by my register&#41; was married in 1854 &#91;inserted above&#58; 5614&#93;&#45;&#45;from my<lb/> interview with Doctor Artom&#91;&#63;&#93;.  I learnt that he<lb/> was quite cognizant of the matter&#44; for Mr Cohen<lb/> the father&#44; had called upon him&#44; when he<lb/> failed in his appeal to Dr. Adler&#44; both these<lb/> Reverend Gentlemen seem to be entirely agreed<lb/> in their opinions&#44; there are certain proceedings<lb/> &#38; observances to take place in Respect to <hi rend="underline">Enet</hi>&#91;&#63;&#93;&#44;<lb/> which can only be carried but personally between the<lb/> parties&#44; by recognized <sic>Rabinical</sic> authorities&#44; and<lb/> whilst giving all due credit and appreciating<lb/> most fully the zealous labours of yourself and<lb/></p>
+            
+            <pb n="2"/>
+            <p>Hazanim &#38; preachers&#44; in the United States&#44; for<lb/> the preservation &#38; promotion of our religious faith<lb/> there is not in America a <hi rend="underline">recognized</hi> <sic>Rabinical</sic><lb/> authority competent to act&#44; in such cases as &#91;&#63;&#93;.<lb/></p>
+            <p>I have urged on Dr. Artom&#44; the consideration&#44;<lb/> whether it was not possible to adopt certain<lb/> preliminary steps here&#44; and getting a <hi rend="underline">Shalish</hi><lb/> to take out&#44; and bring back the necessary writings<lb/> then assess the quality and capacity of the<lb/> messenger&#59; next the apostacy&#44; of the Husband<lb/> and other matters beyond my ability to<lb/> describe.  The object of the &#91;&#63;&#93; is no doubt<lb/> to free the woman from the connextion of so base&#91;&#63;&#93;<lb/> a man&#44; but it is also with the view to leave her<lb/> the option of marrying again&#8212;the severance<lb/> of the parties has long existed&#44; and a Divorce by<lb/> religious Jewish authority is not recognized in this country<lb/> &#91;&#63;&#93; the Jews have allowed alterations in the<lb/> marriage act&#44; which have debarred them of<lb/> the privileges they hitherto enjoyed here&#44; of<lb/> giving Divorces in all cases where Jewish Law<lb/> not only authorized&#44; it should be done.  I fear<lb/> therefore&#44; that there is little chance of<lb/> our Ecclesiastical Boards&#44; here altering their<lb/></p>
+            
+            <pb n="3"/>
+            <p>opinion&#44; I shall however not lose sight of the<lb/> subject&#8212;The parents of Barrick Costa were<lb/> poor but respectable and brought up their<lb/> family religiously&#8212;how he should turned out<lb/> so base I cannot comprehend.<lb/></p>
+            <p>Mrs. Almosnino&#44; &#38; my circle&#44; unite<lb/> in kindest remembrances &#38; I am<lb/>
+            Revd Dr Sir<lb/>
+            Yours faithfully<lb/>
+            I hope you will be able	S. Almosnino<lb/>
+                to <sic>decypher</sic> my writing<lb/>
+            for I feel the consequences of age<lb/>
+            and constant application to public matters<lb/>
+            by Gods blessing if spared until tomorrow&#44; I<lb/>
+            shall complete my 76 year.  60 of these in the<lb/>
+                Service of my Congregation.<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

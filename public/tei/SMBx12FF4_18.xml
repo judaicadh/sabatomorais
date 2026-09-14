@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx12FF4_18</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx12ff4_18_1r.tif"/>
+                                <graphic url="smbx12ff4_18_1v.tif"/>
+                                <graphic url="smbx12ff4_18_2r.tif"/>
+                                <graphic url="smbx12ff4_18_2v.tif"/>
+                                <graphic url="smbx12ff4_18_3r.tif"/>
+                                <graphic url="smbx12ff4_18_3v.tif"/>
+                                <graphic url="smbx12ff4_18_4r.tif"/>
+                                <graphic url="smbx12ff4_18_4v.tif"/>
+                                <graphic url="smbx12ff4_18_5r.tif"/>
+                                <graphic url="smbx12ff4_18_5v.tif"/>
+                                <graphic url="smbx12ff4_18_6r.tif"/>
+                                <graphic url="smbx12ff4_18_6v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>10 pages on 4 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Post Biblical lecture<lb/>
+                38<lb/></p>
+            
+            <pb n="2"/>
+            <p>Properly Strictly speaking&#44; the political history of our people&#44;<lb/> came to an end the fatal day of the tenth of August<lb/> in the year 70 of the Christian vulgar era&#44; the day fatal day epoch which saw the Temple<lb/> delivered to the flames and Jerusalem razed to the ground.<lb/>  Still&#44; it would be doing ourselves injustice&#44; to let stir&#45;<lb/>&#45;ring episodes subsequent to the conquest by Titus go<lb/> unnoticed.  For notwithstanding the ill&#45;will of a<lb/> prejudiced world&#44; that calls our fathers last efforts to<lb/> regain independence sheer madness&#59; an unwarranted<lb/> undertaking incited by superstition&#44; those unsuc&#45;<lb/>&#45;cessful endeavours be worthy of the respect of all the<lb/> right&#45;thinking.  They are&#44; at all events any rate&#44; a just<lb/> cause of pride to Hebrews&#44; whose hearts beat yet still in<lb/> unison accord of sentiments with their people.<lb/></p>
+            <p>Thirty or forty years had rolled away&#44; since the<lb/> triumphal arch was raised at Rome to record<lb/> the overthrow of Judea.  During that interval&#44;<lb/> the minds wearied with the memory of long and<lb/> bloody wars&#44; sought relief by turning to the<lb/> Torah&#44; which neither sword nor fire could destroy.<lb/>  They studied the oral traditions in colleges which<lb/></p>
+            
+            <pb n="3"/>
+            <p>the wise&#45;hearted Johanan Ben Zaccha&#239; had<lb/> established beyond Jerusalem.  Humiliating as<lb/> it must have been&#45;&#45;specially to the young generation&#45;&#45;to pay a capitation tax for the<lb/> support of the Temple of Jupiter&#44; no concerted attempt<lb/> was seems to have been made to rise against resist the oppressive law.<lb/>  It was patiently borne&#44; as other tyrannic rules were<lb/> endured under Vespasian and Titus&#44; Domitian and<lb/> Nerva&#44;&#45;&#45;though the latter&#39;s mild reign of very short du&#45;<lb/>&#45;ration offered some respite.  But after Trajan<lb/> mounted the throne&#44; unrelenting persecutions incited aroused a<lb/> spirit of revolt.  Writers have described Trajan as<lb/> a righteous emperor&#44; but Rabbinical legends paint<lb/> him in different colours.  Naturally&#44; Israel&#39;s sages<lb/> could not appreciate his conduct towards his own<lb/> race and those belonging adhering to the heathenism. belief.  To<lb/> them the warlike emperor who aspired to be a second Alexander&#44; may have shown every<lb/> consideration&#44; but he was cruel&#44; to excess to persons<lb/> who rejected paganism.  Both Alike Christians and Jews&#44;<lb/> whom he confounded together&#44; suffered martyrdom under his rule.<lb/>  Mere coincidences added to the strong antipathy he felt<lb/> against our people.  It is reported by the Talmudists&#44;<lb/> that on one occasion&#44; when all were feasting over<lb/></p>
+            
+            <pb n="4"/>
+            <p>a joyful event in the emperor&#39;s family&#44; the Jews<lb/> were heard to recite lamentations.  It was the anniver&#45;<lb/>&#45;sary of the breaking up of their nationality and the burn&#45;<lb/>&#45;ing of their Sanctuary.  On another&#44; when all mourned bewailed<lb/> a domestic loss sustained by Trajan&#44; the Jews displayed<lb/> lights in their houses and synagogues.  It was the com&#45;<lb/>&#45;memorative epoch of Maccabean victories.  The Both circum&#45;<lb/>&#45;stances was were construed into <sic>wilful</sic> contempt&#44; and both intensified hatred.<lb/>  Be that so or not&#44; it is beyond doubt that our ancestors<lb/> cherished evinced no kindly sentiments partiality for a ruler&#44; whose ambi&#45;<lb/>&#45;tious schemes were directed to the conquest of far off regions&#44; where the believers<lb/> in the Unity had so far always been free from the Roman<lb/> yoke.  In the kingdom of Parthia&#45;&#45;east of Palestine&#44;<lb/> between the rivers Euphrates and Tigris&#44; a vast num&#45; population<lb/> &#45;ber of Hebrews had lived for ages.  They were go&#45;<lb/>&#45;verned by their own laws&#44; and had been allowed a<lb/> considerable degree of liberty.  But now Trajan<lb/> cast a covetous look towards that country.  An ex&#45;<lb/>&#45;ploit which generals of renowned genius had not ac&#45;<lb/>&#45;complished&#44; he resolved to perform.  He would boast<lb/> of having seen the monarch of a once <sic>redoutable</sic><lb/></p>
+            
+            <pb n="5"/>
+            <p>Oriental nation bend his the knee and own alle&#45;<lb/>&#45;giance to powerful Rome.  To that effect&#44; he mus&#45;<lb/>&#45;tered a large army from a number of Roman pro&#45;<lb/>&#45;vinces in the East and marched on to against the conquest<lb/> of Parthians.  But no sooner had had the legions which<lb/> had kept African cities in subjection had been with&#45;<lb/>&#45;drawn&#44; than the Jews rushed to arms and attacked<lb/> the Greeks with whom Egypt was thickly populated.<lb/>  History is silent upon the cause of the outbreak.<lb/>  We miss Josephus&#44; despite his shortcomings.  For<lb/> the information gathered concerning this period is meagre.  It is<lb/> mainly derived from three chapters by Dion Cassius&#44;<lb/>&#45;&#45;a contemporary writer.  But we know that<lb/> from the earliest stages of history&#44; the hatred of the<lb/> Greeks against the Jews has been deep rooted&#44; and<lb/> we have often read of their revilings&#44; and vile and shameless insults<lb/> to the religion of Moses.  Perhaps a wish<lb/> for retalal retaliation actuated our predecessors&#44; relieved from the pressure of brought to bear by Roman soldiery&#59; perhaps<lb/> a feeling of insecurity&#44; and the necessity of taking<lb/> the offensive before being set upon&#44; still if the<lb/> account of the atrocities committed is true&#44; our<lb/> ancestors deserve our unqualified denunciation.<lb/></p>
+            
+            <pb n="6"/>
+            <p>But may we not incline to believe that<lb/> exaggerations were expressly indulged in by our<lb/> inveterate enemies&#44; who wrote in Greek and for<lb/> Greek reading peoples&#63;  However&#44; if our fathers<lb/> did become guilty of the unheard of cruelties attributed<lb/> to them&#44; the requital of their crime came soon with<lb/> tremendous force.  Trajan sent his nephew<lb/> Hadrian&#44; as the arm of his vengeance&#44; and not&#45;<lb/>withstanding a stout resistance&#44; Jews in Egypt&#44;<lb/> in Cyrene&#44; in the island of Cyprus&#44;&#45;&#45;wherever the<lb/> insurrection had spread&#45;&#45;were slaughtered.  Hundreds of thousands fell by the sword.<lb/>  But Trajan was not destined to exercise long<lb/> his fierce severity.  He died on the ship that<lb/> would have conveyed him to Rome&#44; to have his brow<lb/> wreathed at the capital.  Hadrian succeeded<lb/> his uncle&#44; but did not follow in his wake the same military system as his predecessor.  His&#45;<lb/>&#45;torians have pictured that emperor as a man of<lb/> great literary taste&#44; as a philosopher&#44; averse to<lb/> blood shed in the pursuit of conquest.  It cannot must<lb/> be denied admitted&#44; that viewed from a certain standpoint&#44; the<lb/> portrait has not been in cannot be deigned considered overdrawn.  Yet&#44; Rabbinical<lb/> writings accompany his couple Hadrian&#39;s name&#44; like that of Titus&#44;<lb/></p>
+            
+            <pb n="7"/>
+            <p>with the epithet of Rashang &#40;wicked&#41;.  To<lb/> explain the cause find reason the proper reason&#44; it is necessary to relate study the<lb/> origin and issue of last struggle of our fathers for independence.<lb/>  Strange as it may sound&#44; it is true nevertheless true that<lb/> Hadrian himself had inspired the hope of our na&#45;<lb/>&#45;tional revival.  He relinquished the idea of com&#45;<lb/>&#45;pelling the Parthians to submit to Rome&#44; and thus he<lb/> virtually was the means of restoring all the Jews beyond the Euphrates<lb/> to freedom.  He entered into familiar intercourse with<lb/> the Sages of Israel&#44; and displayed a spirit of liberality<lb/> towards a people whom he knew to have acted behaved<lb/> bravely.  But he went further&#44; he promised to<lb/> rebuild Jerusalem&#44; and permit the reconstruction<lb/> of the Temple.  At that&#44; the Jews felt that a<lb/> new life had been breathed into them.  They imagined<lb/> that Zion would again raise up her turrets as if<lb/> old&#44; and he made vocal with the festive songs of<lb/> her children.  Accordingly pilgrims moved quickly on towards the<lb/> holy city&#59; facilities were given to the <sic>travellers</sic>&#44; and<lb/> the new coins struck&#44; representing Hadrian&#44; in the act<lb/> of offering to the God of Israel&#44; were expended freely<lb/></p>
+            
+            <pb n="8"/>
+            <p>to purchase a new political existence.<lb/>  But the bright glowing anticipations were doomed to be<lb/> distressingly frustrated.  There are reports that tribes and sects<lb/> inimical to our people&#44; to our people&#44; poisoned the<lb/> mind of Hadrian.  That is not at all improbable&#44;<lb/> but whatever motive may have been at work&#44; the<lb/> imperial reaction was terrible.  Hadrian mocked<lb/> the Jews in their fond expectations.  He had promised to<lb/> rebuild Jerusalem&#44; and he did raise a town upon its<lb/> ruins&#44; but only for the residence of a Roman colony.<lb/>  Even the name it bore round which glorious associations clustered was wiped away.  He had<lb/> promised to set up a new temple where the Sanctuary<lb/> of the Lord had stood&#44; and he did rear a structure&#44;<lb/> but it was dedicated to a heathenism god.  This revulsion<lb/> of feelings took such a hold on his mind&#44; that he<lb/> determined to blot out Judaism.  He decreed that<lb/> to introduce one&#39;s male children into the Abrahamic<lb/> covenant&#44; to teach them Holy Writ&#44; to observe the<lb/> Sabbath&#44; was to incur the penalty of death.<lb/>  In vain the prudent Rabbi Joshua Ben Levy Hayonish<lb/> Hananajah&#44; whom the emperor in his inquisitiveness<lb/> had often questioned&#44; journeyed in his as far as Egypt<lb/></p>
+            
+            <pb n="9"/>
+            <p>to entreat Hadrian to recall his mandate.  He remain&#45;<lb/>&#45;ed inexcrable inflexible.  The Talmud teems with stories of<lb/> parents who were hurried on to the stake&#44; because<lb/> they had transgressed the royal ordinance and &#91;&#63;&#93; to perform the covenant of god with Abram&#44; others teachers<lb/> who secreted themselves on roofs&#44; on or in cellars with<lb/> the holy books sacred scroll to read and impart its knowledge&#44; but<lb/> who&#44; informed against by spies&#44; were consigned to<lb/> the rack&#44; and who has not all have heard of the tortures<lb/> of Israel&#39;s sages&#44; who died in the agonies rather of tortures<lb/> than forswear their trust anticipating and even surpassing those of inflicted<lb/> by the Spanish inquisition.  Our ancestors<lb/> had now touched the lowest depth of misery.<lb/>  The metropolis of their former kingdom was forbid<lb/> to them.  Aliae Capitolina was its the name given to<lb/> it&#44; and none who dared disobeyed the emperor Alinus<lb/> Hadrianus Alius&#44; after whom the city of David was  called&#44; dared<lb/> enter it.  On the site of the Solomon&#39;s Temple&#44; pagans<lb/> <sic>worshipped</sic> Jupiter in its new shrine.  Chased away from their inheritance&#44;<lb/> persecuted and despised&#44; our ancestors forefathers thought that<lb/> Pharaoh and Antiochus had arisen again to try their<lb/> faith so severely most terrifically.  But as in those dark<lb/></p>
+            
+            <pb n="10"/>
+            <p>days of antiquity deliverance came when the gloom of suffering was the deepest&#44; so it<lb/> was imagined &#91;&#63;&#93; conceived that the dawn of a brighter era<lb/> would at this period also soon break.  A champion would now step forth&#44;<lb/> buckle on the armour to fight the battles of for<lb/> the people of God and win the victory.<lb/>  The man under whose lead the final struggle sanguinary battles<lb/> to regain liberty were fought did arrived.  But I<lb/> must defer to another lecture the stirring nar&#45;<lb/>&#45;rative of that his deeds and the final struggle of our predecessors<lb/> to regain liberty and independence.<lb/></p>
+            </body>
+    </text>
+</TEI>

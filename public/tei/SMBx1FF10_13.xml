@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF10_13</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1853-05" source="" attested="yes">20 May 1853</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff10_13_1r.tif"/>
+                                <graphic url="smbx1ff10_13_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>Philadelphia 20<hi rend="sup">th</hi> May 1853<lb/>
+                My dear Madam<lb/></p>
+            <p>Through Miss Louisa I have received on several<lb/> occasions your kind remembrances which I with pleasure now<lb/> return.  In your last however there was a paragraph<lb/> where you expressed a desire that I should offer to your<lb/> children &#40;in whose Jewish religious training I am happy<lb/> to learn you are so interested&#41; some explanations on<lb/> matters which <hi rend="underline">we</hi> regard as essential to the maintenance<lb/> of our nationality and the discharge of our duties towards<lb/> God.  It affords me gratification to comply with it&#44;<lb/> since you trust that my words may prove <del>of some</del><lb/> useful&#44; your daughter&#39;s remarks touching the Sabbath<lb/> are strictly logical.  That command is the pivot on<lb/> which all our ceremonial observances turn&#58; Not only<lb/> it claims priority to all others&#44; it being coeval with<lb/> creation&#44; but it is the clearest evidence we can give<lb/> of the truth of Israel&#39;s mission.  If asked what renders<lb/> it thus&#58; we shall answer with the Prophet &#34;It is<lb/></p>
+                
+                <pb n="2"/> 
+            <p>a sigh between us and our Divine Protector&#34; who rescued<lb/> our fathers by extraordinary deeds&#44; from Egyptian paganism<lb/> and Egyptian barbarities&#44; that He is the Author of creation&#44;<lb/> and that to preserve us as his living witnesses&#44; He has<lb/> altered and will alter&#44; if needful&#44; the laws of nature.<lb/>  When we accurately read the Bible&#44; we find that&#44; with<lb/> the exception of the moral tenets&#44; that inspired<lb/> book mostly dwells on the necessity of observing<lb/> that sacred day.  But although we may safely<lb/> assert that the Sabbath has precedence to all<lb/> ceremonial precepts&#44; still it would be presumptuous<lb/> in us to define which among the other observances<lb/> is most important&#44; and which may be considered<lb/> secondary.<lb/></p>
+            <p>They all spring from the same source of wisdom&#44;<lb/> and as our <sic>Rabbies</sic> say&#44; we have been left<lb/> ignorant of the reward attached to the respective<lb/></p>
+                
+                <pb n="3"/> 
+            <p>precepts&#44; that we might perform them all<lb/> with the same zeal and alacrity.<lb/></p>
+            <p>We may be allowed to ascribe certain reasons<lb/> for their enactment&#44; but we must never lose<lb/> sight of the most weighty one&#44; which his&#44; that<lb/> those behests are intended to particularize<lb/> us from the rest of mankind&#44; not to be the<lb/> recipients of the transient goods of the world&#44;<lb/> but to devote us continually to the service<lb/> of the Deity&#44; by repressing our appetites&#44; by<lb/> restraining our passions and correcting<lb/> our evil inclinations.<lb/></p>
+            <p>For we are and hope with the grace of<lb/> God ever to remain the true descendants<lb/> of Abraham&#44; through whom the whole<lb/> earth shall ultimately be blessed.  &#34;And ye<lb/> shall be to me a Kingdom of priests and a<lb/> holy nation.&#34;<lb/></p>
+            <p>I have perused your daughter&#39;s composition<lb/></p>
+                
+                <pb n="4"/> 
+            <p>on &#34;Style&#34; and coincide with her teacher<lb/> about its merit.<lb/></p>
+            <p>Be certain that I am concerned in the religious<lb/> and moral progress of your dear ones&#44;<lb/> because they also will one day in their turn<lb/> be fathers and mothers in Israel&#44; and<lb/> to be such in proper spirit&#44; they must<lb/> early imbibe correct principles.<lb/></p>
+            <p>yours respectfully<lb/>
+                S Morais<lb/>
+                31 New St<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

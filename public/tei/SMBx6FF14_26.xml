@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hertz, Joseph H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF14_26</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hertz, Joseph H.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-04" source="" attested="yes">16 April 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff14_26_1r.tif"/>
+                                <graphic url="smbx6ff14_26_1v.tif"/>
+                                <graphic url="smbx6ff14_26_2r.tif"/>
+                                <graphic url="smbx6ff14_26_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Jewish Theological Seminary Ass&#39;n&#44;<lb/>
+                736 LEXINGTON AVENUE.<lb/></p>
+            <p>New York&#44; April 16 1893<lb/></p>
+            <p>Rev. Sabato Morais&#44; LL. D.<lb/>
+                Philadelphia.<lb/></p>
+            <p>Dear and Reverend Sir&#58;&#45;<lb/></p>
+            <p>We&#44; the Students of the Jewish Theo&#45;<lb/>logical Seminary do hereby transmit to you our heartiest<lb/> congratulations to your Seventieth Birthday.<lb/></p>
+            <p>More than any other man you<lb/> have the proud satisfaction of looking back upon a<lb/> past spent in the service of Truth&#44; in battle for the<lb/> maintenance of the historic and unalloyed purity<lb/> of Judaism in this country.  To your efforts and to<lb/> your efforts alone&#44; is due the establishment and direction<lb/> of our own Alma Mater&#44; founded to carry into effect<lb/> the Jewish ideals you have ever championed.  All<lb/> of the future success of this Seminary will be<lb/> but a worthy reward and crown for your unselfish<lb/> devotion&#44; modest perseverance and self&#45;sacrifice.<lb/></p>
+            <p>With such a heavenly&#45;appointed<lb/> guide before us&#44; with such a fire&#45;soul leading us<lb/> on to the fight for Judah&#39;s Law&#44; we will with the help<lb/> of our God&#44; carry out the principles that you with<lb/> your associates so dearly cherish.<lb/></p>
+                
+                <pb n="2"/>
+            <p>Accept&#44; therefore&#44; in conclusion&#44; our<lb/> sincerest thanks for the noble sentiments and manly<lb/> hopes that you&#44; our dearest friend&#44; have during the<lb/> last seven years implanted in our breast&#59; for the<lb/> love to the Jewish faith&#44; to the Jewish Law and to<lb/> Jewish learning that you have so enthusiastically<lb/> kindled in the hearts of your devoted pupils&#44;<lb/> Joseph Hertz<lb/> David Wittenberg<lb/> Henry M. Speaker<lb/> Bernhard C. Ehrenreich<lb/> Emil Friedman<lb/> Morris Mandel.<lb/> Michael Fried<lb/> David Levine<lb/> David M. Bressler<lb/> Judah H. Elmaleh<lb/> Leo Jacobs<lb/> Alter. Abelson.<lb/> S. Rosensohn<lb/> Abraham Neugroschl<lb/> Michael Rosenbl&#252;th<lb/> Myron Botkovsky<lb/> Jacob Hyman<lb/> Jacob Slaperbersky<lb/> Israel Sackheim<lb/> Aaron Senier.<lb/> Bernard Weene.<lb/></p>
+            </body>
+    </text>
+</TEI>

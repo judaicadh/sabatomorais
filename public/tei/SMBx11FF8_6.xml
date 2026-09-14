@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF8_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff8_6_1r.tif"/>
+                                <graphic url="smbx11ff8_6_1v.tif"/>
+                                <graphic url="smbx11ff8_6_2r.tif"/>
+                                <graphic url="smbx11ff8_6_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For a funeral<lb/></p>
+            <p>He is not dead.  The heart has ceased to beat throb&#44; but the senti&#45;<lb/>&#45;ments which quickened it&#44; vitalize&#44; eternize&#44; imparadise the<lb/> soul.  He is not dead&#44; who has cleaved to God.  Steadily he ad&#45;<lb/>&#45;vanced&#44; and soon reached the palace of the great King.  &#34;Lift up<lb/> your heads O ye gates&#44; and be raised up ye everlasting doors&#59; let the<lb/> righteous man enter.  Who is that righteous man&#63; a descendant and<lb/> disciple of Moses&#44; even Jacob Isaacs the Levite&#44; who &#34;loved his neighbor<lb/> like himself.&#34;  But does he in all truth deserve so eminent a title&#63;  Say<lb/> ye that have gathered round his decaying body.  Was the spirit which<lb/> animated it god&#45;like and purified&#63;  My sad feelings cannot so<lb/> darken my vision&#44; that I see not methinks.  I read in your countenances<lb/> the reflections of your a consonance of thoughts.  Aye&#58; &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93; &#34;From the obsequies of the departed&#44; we may judge whether<lb/> he be the heir of heavenly bliss.&#34;  Those tears flowing from a multitude<lb/> are a tribute of respect paid to sterling goodness.  Because at the hour<lb/> that the soul of my friend left its tenement of clay&#44; charity was<lb/> bereft of a noble representation&#44; because you recognize in the<lb/> demise of this Israelite a loss to the community of his brethren&#44;<lb/> and to human society&#44; therefore you echo my lamentations.<lb/>  Command that a just God must needs have set apart a<lb/></p>
+            
+            <pb n="2"/>
+            <p>vast reward for his deeds of kindness&#44; you still bewail<lb/> the departure of one who could ill be spared.  For the number of&#45;<lb/> of those who yearn for the unfortunate&#44; and lend a generous support<lb/> to every undertaking aiming at the alleviation of misery&#44; is not so<lb/> abundant.  Jacob Isaacs the Levite identified himself with the institutions<lb/> of beneficence established in our midst&#44; but to obey a divine instinct&#44;<lb/> ennobling his character&#44; he sought distress that he might relieve it.<lb/>  To speak to him of suffering&#44; was to engage his sympathies&#44; his<lb/> zealous cooperation in the cause of humanity.  To allude before him to<lb/> a plans by which want or shame might be averted from the mortals was to secure<lb/> his strong advocacy.  This leading feature in his demeanour&#44; won<lb/> for him our brother the love affectionate regard of his fellow men&#44; irrespective of race or creed.  He<lb/> loved his neighbor like himself&#44; and a reciprocity of feelings sprung up&#44;<lb/> as &#91;&#63;&#93; on the present melancholy occasion.  For this is not the<lb/> pageantry attending the funeral of an individual allied by chance to<lb/> some popular organizations.  The large concourse of people who<lb/> accompanied these mortal remains to their eternal resting place is a volun&#45;<lb/>&#45;tary a spontaneous declaration of the worth of the man&#44; whose untimely decease<lb/> deprives the needy and the afflicted of a friend indeed.<lb/></p>
+            <p>But at the side of charity bemoaning by this coffin the loss of<lb/> her votary&#44; there stands also practical Judaism.  Jacob Isaacs the Levite<lb/> had not always proved himself its staunch adherent.  Like many<lb/></p>
+            
+            <pb n="3"/>
+            <p>others&#44; he had&#44; inconsistently&#44; neglected to perform the tenets he<lb/> believed in.  But new ties and consequently new claims to his example<lb/> of a religious life&#44; wrought within his mind a change&#44; a happy change&#44;<lb/> for&#44; piety sustained and uplifted him mid trials of a severe nature.<lb/>  And Prayer assuaged his pains.  As his agonies grew in intensity&#44; his<lb/> devotions increased.  He A confiding trust in the Lord&#44; &#34;who doth not<lb/> afflict willingly&#34; became his soothing balm.  And if&#44; as we have<lb/> been taught by the Sages &#91;Hebrew&#93;&#44; &#34;bodily sufferings atone<lb/> for the sins of the flesh&#34; our much lamented brother can present before<lb/> the judgment&#45;seat of the Most High&#44; a spirit tenfold cleansed and<lb/> purified.  Relieved of the burden of human trespasses&#44; he can fly upon<lb/> the wings of righteousness to the heavenly Mansion.  He possesses<lb/> the mystic keys which will open its portals.  Faith and charity.<lb/>  &#34;Let him come in peace&#34; cry a host of archangels.  &#34;The limbs which<lb/> once moved by the direction of the will&#44; repose in their resting place earthly terrestrial abode.&#34;  But<lb/> the will itself&#44; the agent of the soul&#44; that led them on to uprightness<lb/> shall live and enjoy delights everlasting.&#34;  My departed<lb/> friend&#33;  Short was thy stay upon earth&#44; but more profitable<lb/> to thee&#44; than the long abiding here of the impious.  For thou<lb/> hast earned the means of securing an eternity of glory&#59;<lb/> they have been gathering fagots wherewith to consume their<lb/> future existence.  Soar then on high&#44; sainted being&#33;<lb/></p>
+            
+            <pb n="4"/>
+            <p>and when thou reachest the throne of the great king bend at its footstool to offer<lb/> at its footstool supplications for those who have been left in<lb/> this valley of tears.  Pray for the wife of thy youth&#44; she needs<lb/> a superhuman support in her bereavement&#59; she needs it to <sic>fulfil</sic> her task well&#58; to train the children<lb/> she bore unto thee&#44; as thou woulds that they be reared.<lb/>  Pray for thy disconsolate parents.  The absence of thy companionship<lb/> hands weighs them down with sorrow.  They submit to but they grieve exceedingly<lb/> over the divine decree that so soon summoned thee hence.  Pray for the<lb/> relatives&#44; whose unwearied and careful tending calmed thy agi&#45;<lb/>&#45;tation&#44; and eased thy pangs.  Pray for all thy friend&#44; who la&#45;<lb/>&#45;ment this separation&#44; that assisted from above&#44; they may<lb/> like thyself lay hold of faith and charity&#44; and essay to mount<lb/> the hill that leads to Beth&#45;El&#44; where righteousness is<lb/> crowned with never&#45;fading laurels.<lb/></p>
+            </body>
+    </text>
+</TEI>

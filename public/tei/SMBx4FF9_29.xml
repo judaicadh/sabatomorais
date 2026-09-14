@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Felsenthal, B.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF9_29</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Felsenthal, B.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Chicago, IL</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-04" source="" attested="yes">4 April 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff9_29_1r.tif"/>
+                                <graphic url="smbx4ff9_29_1v.tif"/>
+                                <graphic url="smbx4ff9_29_2r.tif"/>
+                                <graphic url="smbx4ff9_29_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+ 
+                <pb n="1"/>
+            <p>Dr. B. Felsenthal&#44;<lb/>
+                450 W. Randolph St.<lb/></p>
+            <p>CHICAGO&#44; April 4. 1888.<lb/>
+                &#91;Hebrew&#93;<lb/></p>
+            <p>Dr. S. Morais&#44; Philadelphia.<lb/></p>
+            <p>Dear friend and colleague&#58;&#45;<lb/></p>
+            <p>I am really glad that I have an <sic>occassion</sic> to<lb/> write to you again.  A few days ago I received<lb/> by mail a copy of the &#91;Hebrew&#93; &#40;Part 2<hi rend="sup">nd</hi>&#41;&#44;<lb/> which was recently published by Eisig Gr&#228;ber&#44; Jaroslau.<lb/>  In an accompanying circular letter the publisher<lb/> said that the Americans who receive the book<lb/> &#91;Hebrew&#93;<lb/> Please inform me now how much I shall send you&#44;<lb/> and I will then remit the amount by Post Office Order.<lb/></p>
+            <p>I embrace this opportunity to ask you for<lb/> some information.  About 3 years ago&#44; in 1885&#44;<lb/> there was published by the &#91;Hebrew&#93; a volume en&#45;<lb/>titled &#34;&#91;Hebrew&#93;&#34;.  This volume contains&#44; among other<lb/> writings&#44; several poems by the brothers Jacob and Emanuel<lb/> Frances&#59; one of them is a Hebrew cantata by Emanuel<lb/></p>
+                
+                <pb n="2"/>
+            <p>Frances&#44; preceding which the author says&#44;<lb/> &#34;&#91;Hebrew&#93;&#34;<lb/> when I read this&#44; and since then&#44; I was wondering<lb/> what kind of a society this &#91;Hebrew&#93; was.  In the<lb/> &#91;Hebrew&#93;&#44; published last year by Eisig Gr&#228;ber&#44;<lb/> is a biography of the 2 poets Frances&#44; and the<lb/> biographer&#44; David Kahana&#44; when he speaks of the<lb/> fact that Eman. Frances wrote his cantata upon<lb/> the request of the &#91;Hebrew&#93;&#44; says in a foot note<lb/> that in Italian the society was called &#91;Hebrew&#93;.  What kind of<lb/> a society was this &#91;Hebrew&#93;&#63;  Was it a social club&#44; or<lb/> a literary club&#44; or any other kind of society&#44; upon whose<lb/> request E. Fr. wrote his poem&#63;  What is the meaning of<lb/> &#34;&#91;Hebrew&#93;&#34;&#44; resp. of &#34;&#91;Hebrew&#93;&#34;&#63;<lb/></p>
+            <p>In the April <hi rend="underline">Menorah</hi> you may probably<lb/> have noticed an article headed&#58; &#34;How old is<lb/> &#34;Jehova&#34;&#63;&#34; let me confess that I perpetrated<lb/> this article.<lb/></p>
+            <p>In regard to the &#34;Jewish Theological<lb/> Seminary&#34; in New York permit me to express one<lb/> wish.  See to it&#44; my dear and venerated Sir&#44;<lb/> that the seminary does not degenerate into a mere<lb/></p>
+                
+                <pb n="3"/>
+            <p>business college where Jewish boys are trained for<lb/> the Rabbi&#45;business&#59; but let it be the endeavor of<lb/> teachers and officers that the Seminary may<lb/> become a true institution of Jewish learning&#59;&#45;&#45;<lb/> an institution where &#91;Hebrew&#93; is taught&#59;&#45;&#45;an institution<lb/> where thoroughness and solidity of learning is aimed<lb/> at&#59; &#38;c. Not by the words &#34;reform&#44;&#34; or &#34;orthodox&#44;&#34;<lb/> or similar ones&#44; should such an institution be chracter&#45;<lb/>ized&#44; but by other adjectives.  A <hi rend="underline">good</hi> college<lb/> is one where something is <hi rend="underline">learned</hi>&#44; where the graduate&#44;<lb/> if not a &#34;&#91;Hebrew&#93;&#34;&#44; is at least a &#34;&#91;Hebrew&#93;&#34;&#44; a &#34;&#91;Hebrew&#93;&#34;.  A<lb/> not&#45;good college is one where nothing is learned<lb/> except external and really unprofitable things&#44;&#45;&#45;<lb/> no&#44; I am mistaken&#59; I should not have said<lb/> &#34;unprofitable&#34;&#44; I should have said &#34;profitable&#34;<lb/> things&#44; as f. i. the art of declamation&#44; &#38;c. &#38;c.<lb/></p>
+                
+                <pb n="4"/>
+            <p>But I must close.  If I should have<lb/> said too much&#44; then &#91;Hebrew&#93;&#33;<lb/>
+                Hoping soon to be honored by an<lb/> answer from you.<lb/>
+                I am&#44; dear and venerated friend&#44;<lb/>
+                Yours very truly<lb/>
+                B. Felsenthal<lb/></p>
+            </body>
+    </text>
+</TEI>

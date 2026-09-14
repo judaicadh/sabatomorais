@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Piza, David M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF13_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Piza, David M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1886-01" source="" attested="yes">5 January 1886</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff13_6_1r.tif"/>
+                                <graphic url="smbx3ff13_6_1v.tif"/>
+                                <graphic url="smbx3ff13_6_2r.tif"/>
+                                <graphic url="smbx3ff13_6_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>495 Lexington Av.<lb/>
+                New York&#44; 5<hi rend="sup">th</hi> Jan. 1886.<lb/></p>
+            <p>Rev. and dear Sir&#44;<lb/></p>
+            <p>I wrote you last on 22nd.<lb/> ult&#44; and trust that the letter duly reached<lb/> you. Since then I have come in possession <lb/> of your postal card of 31st. ult by which<lb/> I was glad to learn that both Drs. Kohut<lb/> amd Drachman had answered you encour&#45;<lb/> agingly. The latter wrote Dr. Mendes ask&#45;<lb/>ing for &#40;about&#41; a hundred of our circulars&#44;<lb/> as he intended addressing his congrega&#45;<lb/>tion on last Friday evening on that and<lb/> kindred subjects&#44; and wanted them for dis&#45;<lb/>tribution. But I regret that I could not<lb/> spare more than about twenty of each&#44; as<lb/> I wanted to have some left for any other<lb/> call that may be made for them&#44; Could I<lb/> have anticipated this&#44; I would have had<lb/> more printed.<lb/></p>
+                
+                <pb n="2"/>
+            <p>The President promised Dr. Mendes and myself<lb/> a meeting of the Board of Trustees&#44; on last Tues&#45;<lb/>day&#44; but thro&#39; a mistake it was called for the pre&#45;<lb/>vious evening&#44; and therefore we were not present. The<lb/> next will be on Thursday evening 7th Inst. and after<lb/> that I hope to be able to write you definitely when<lb/> to visit this city for an interchange of views with<lb/> those favoring the cause. The &#34;Am. Heb.&#34; &#34;Heb. Standard&#34;&#44;<lb/> and &#34;H. Journal&#44;&#34; &#40;the three Jewish papers which I have<lb/> seen&#41; give it their support. Activity and perseverance<lb/> on our part will&#44; I believe&#44; with God&#39;s help&#44; carry<lb/> it through. Do you not think it would help us if you<lb/> write to Dr. Schneeberger&#63;&#45;&#45;As I anticipated&#44; my<lb/> sister&#44; Mrs. Saml. Piza&#44; is willing to raise their sub. to<lb/> &#36;1000&#44;&#44; &#40;one thousand&#41;. With a few more such and small&#45;<lb/>er am&#91;oun&#93;ts&#44; we could make a start and rely on general<lb/> annual contributions of from &#36;5 to &#36;20. from members<lb/> and patrons throughout the U.S. for its support in the<lb/> future. You are doubtless giving the matter your con&#45;<lb/>sideration to enable you to give the outline of some plan<lb/> when you visit us. Yours truly&#44; David M. Piza<lb/></p>
+            <p>Rev. S. Morais&#44; Phila.<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hackenburg, William B.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF1_13</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hackenburg, William B.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1891-01" source="" attested="yes">15 January 1891</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff1_12_1r.tif"/>
+                                <graphic url="smbx6ff1_12_1v.tif"/>
+                                <graphic url="smbx6ff1_12_2r.tif"/>
+                                <graphic url="smbx6ff1_12_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Jewish Hospital Association<lb/>
+                OF PHILADELPHIA.<lb/></p>
+            <p>January 15&#44; 1891.<lb/></p>
+            <p>Rev Dr S. Morais<lb/>
+                Dear Sir<lb/></p>
+            <p>At the Annual Meeting of the Association&#44; held Sunday&#44; 11th inst.&#44; the<lb/> following resolution was adopted&#58;<lb/></p>
+            <p>RESOLVED&#44; That the President shall appoint a General Committee of<lb/> Thirty&#45;six&#44; none of whom shall be members of the Board of Officers&#59; that<lb/> two&#45;thirds of the Committee shall be composed of gentlemen and one&#45;third of<lb/> ladies&#59; that the said General Committee shall be divided into twelve Sub&#45;<lb/>committees of two gentlemen and one lady each &#40;the first named on each such<lb/> Sub&#45;committee being that of the chairman thereof&#41;&#44; whose duty it shall be to<lb/> visit the Hospital and Home during such months as may be assigned to them&#44; to<lb/> examine into the condition of the institutions and to report thereon to the<lb/> President and Board of Officers.<lb/></p>
+            <p>The President respectfully requests your acceptance as a member of the<lb/> Committee&#59; a complete list with assignments is enclosed.<lb/></p>
+            <p>Each Sub&#45;committee will arrange the time of visits during the desig&#45;<lb/>nated months to suit themselves.  The Hospital&#44; Home&#44; Dispensary and all<lb/> other buildings&#44; as well as the farm and grounds&#44; will be open at all times<lb/> for their inspection.  The Superintendent and Resident Physicians will afford<lb/> all facilities for a thorough examination of everything connected with their<lb/> different departments.<lb/></p>
+            <p>It is requested that each Committee will promptly and unhesitatingly<lb/> communicate complaints&#44; suggestions or improvements to the President&#44; so that<lb/> immediate consideration may be given them by the Board of Officers.<lb/></p>
+            <p>Respectfully yours&#44;<lb/> WM. B. HACKENBURG&#44; President&#44;<lb/> No. 25 N. Third Street.<lb/></p>
+                
+                <pb n="2"/>
+            <p>Jewish Hospital Association of Philadelphia.<lb/>
+                Committee of Thirty&#45;six appointed by authority of<lb/>
+                resolution adopted at the Annual Meeting&#44;<lb/>
+                Sunday&#44; January 11&#44; 1891.<lb/></p>
+            <p>FEBRUARY.<lb/></p>
+            <p>Rev. Dr. Marcus Jastrow&#44;		925 North Eighth St.<lb/>
+                Raphael Brunswick&#44;			1212 North Seventh St.<lb/>
+                Mrs. Miriam K. Arnold&#44;		1512 North Broad St.<lb/></p>
+            <p>MARCH.<lb/></p>
+            <p>Rev. Dr. Joseph Krauskopf&#44;	1537 Diamond St.<lb/>
+                Louis Wolf&#44;				    508 Minor St.<lb/>
+                Miss Esther Baum&#44;			1320 North Sixth St.<lb/></p>
+            <p>APRIL.<lb/></p>
+            <p>Rev. Dr. Sabato Morais&#44;		546 North Fifth St.<lb/>
+                Isaac Rosskam&#44;			    1423 North Fifteenth St.<lb/>
+                Mrs. I. Binswanger&#44;			1730 Oxford St.<lb/></p>
+            <p>MAY.<lb/></p>
+            <p>Rev. Victor Caro&#44;			946 Franklin St.<lb/>
+                Simeon Fels&#44;				1151 North Third St.<lb/>
+                Mrs. Jacob Louer&#44;			2225 Mount Vernon St.<lb/></p>
+            <p>JUNE.<lb/></p>
+            <p>Rev. Henry Iliowizi&#44;			1845 North Eighteenth St.<lb/>
+                Rev. Eleazer Kleinberg&#44;		313 South Fifth St.<lb/>
+                Mrs. Arnold Kohn&#44;			718 North Sixth St.<lb/></p>
+            <p>JULY.<lb/></p>
+            <p>Charles Hoffman&#44;			    717 Walnut St.<lb/>
+                Isaiah B. Langstadter&#44;		700 Arch St.<lb/>
+                Miss Mary M. Cohen&#44;			28 South Twenty&#45;Second St.<lb/></p>
+            <p>AUGUST.<lb/></p>
+            <p>Dr. Morris Jastrow&#44; Jr.&#44;	925 North Eighth St.<lb/>
+                Samuel Kind&#44;				N. E. Fifth and Market Sts.<lb/>
+                Mrs. Clarence Wolf&#44;			910 Franklin St.<lb/></p>
+            <p>SEPTEMBER.<lb/></p>
+            <p>George Goward&#44;			    636 North Sixth St.<lb/>
+                Rev. Wm. Armhold&#44;			1444 Franklin St.<lb/>
+                Mrs. Harry A. Jeitles&#44;		Continental Hotel.<lb/></p>
+            <p>OCTOBER.<lb/></p>
+            <p>Augustus Bacharach&#44;			429 Market St.<lb/>
+                Joseph J. Snellenburg&#44;		Fifth and South Sts.<lb/>
+                Mrs. Simon Loeb&#44;			949 North Eighth St.<lb/></p>
+            <p>NOVEMBER.<lb/></p>
+            <p>Rev. S. Kaufman&#44;			    1809 North Seventh St.<lb/>
+                Samuel Nathan&#44;			    S. W. Seventh and Parrish&#44;<lb/>
+                Mrs. Alex. Fleisher&#44;		1935 Wallace St.<lb/></p>
+            <p>DECEMBER.<lb/></p>
+            <p>Nathan Strouse&#44;			    513 Market St.<lb/>
+                Alexander M. Apple&#44;			232 Market St.<lb/>
+                Mrs. A. B. Kirschbaum&#44;		932 Franklin St.<lb/></p>
+            <p>JANUARY&#44; 1892.<lb/></p>
+            <p>Alfred Klein&#44;				918 Market St.<lb/>
+                Rev. N. Mossessohn&#44;			117 Ellen St.<lb/>
+                Mrs. W. Amram&#44;			    911 North Eighth St.<lb/></p>
+            <p>Please preserve this list for future reference.<lb/></p>
+            </body>
+    </text>
+</TEI>

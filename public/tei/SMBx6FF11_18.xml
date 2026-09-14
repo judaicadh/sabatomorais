@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Kovno, Philip</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF11_18</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Kovno, Philip</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1892-09" source="" attested="yes">14 September 1892</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff11_17_1r.tif"/>
+                                <graphic url="smbx6ff11_17_1v.tif"/>
+                                <graphic url="smbx6ff11_17_2r.tif"/>
+                                <graphic url="smbx6ff11_17_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Sept. 14th. 92<lb/></p>
+            <p>Rev. Dr. Morais.<lb/>
+                Honorable Sir&#58;<lb/></p>
+            <p>I very much dislike to be a bore&#44;<lb/> but the case I intend to submit to<lb/> you this time is very important &#38;<lb/> which&#44; as usual&#44; can hardly be success&#45;<lb/>ful without your <sic>irresistable</sic> influ&#45;<lb/>ence being brought to bear in its<lb/> behalf.  Great as it is my venera&#45;<lb/>tion before you&#44; no matter how consci&#45;<lb/>ous I&#39;m of the fact&#44; that are likely<lb/> to intrude upon you by my fre&#45;<lb/>quent applications&#44; I cann&#39;t help<lb/> bringing up before you this case &#38;<lb/> similar ones&#44; which may represent<lb/> themselves in the future&#44; for the two<lb/> principal reasons&#58; 1&#41; As a true son<lb/> to my nation&#44; whose emblem is&#58;<lb/></p>
+                
+                <pb n="2"/>
+            <p>&#34;&#91;Hebrew&#93;&#34;&#44; I cann&#39;t but <sic>sym&#45;<lb/>potize</sic> &#38; lend my possible assistance<lb/> to every needy &#38; deserving coreligionist&#59;<lb/> 2&#41; I&#39;m anxious to call your attention<lb/> once more to the noble speci&#45;<lb/>mens of the <sic>russian</sic> Hebrews&#44; of which<lb/> there are many&#44; thus&#44; I think&#44; miti&#45;<lb/>gating the harsy &#38; undeserving opi&#45;<lb/>nion about them.  The case in ques&#45;<lb/>tion is an intelligent young lady&#44;<lb/> who&#44; after having graduated one of<lb/> the <sic>russian</sic> public schools&#44; was compelled&#44;<lb/> thanks to the oppressive laws existing<lb/> against Hebrews in that country&#44; to seek<lb/> refuge&#44; together with her parents &#38; fa&#45;<lb/>mily&#44; in this country.  The hard and<lb/> unaccustomed work &#40;operating on a<lb/> sewing machine&#41; during the day did<lb/> not prevent her&#44; however&#44; from study&#45;<lb/></p>
+                
+                <pb n="3"/>
+            <p>ing at night&#44; so much so that in<lb/> a comparatively short time she was<lb/> enabled to learn the language &#38; to<lb/> be ready to pursue a professional<lb/> study&#45;&#45;her only wish in life&#33;&#45;&#45;<lb/> But there is a great stumbling block<lb/> in her way &#38; that is&#45;&#45;tuition fees&#44; &#38;<lb/> here it is that your kind advice how<lb/> to remove that block is indispensible.<lb/>  Should you kindly favor her with<lb/> your advice&#44; she would be added<lb/> to that countless number of mor&#45;<lb/>tals&#44; who are indebted with their<lb/> happiness solely to your kindness.<lb/></p>
+            <p>Respectfully yours<lb/> Phillip Kovno<lb/></p>
+            <p>1113 South Str.<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Souza, H. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF16_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Souza, H. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet when="1859-03" source="" attested="yes">11 March 1859</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff16_3_1r.tif"/>
+                                <graphic url="smbx1ff16_3_1v.tif"/>
+                                <graphic url="smbx1ff16_3_2r.tif"/>
+                                <graphic url="smbx1ff16_3_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>Philadelphia<lb/>
+                March 11. 1859<lb/></p>
+                
+            <p>My Dear Sir<lb/></p>
+            <p>I beg to inclose you &#36;10.  I<lb/> have been delaying to make it more&#44; but I<lb/> really cannot manage it.  Will you be<lb/> pleased to accept the same for <hi rend="underline">the present</hi>.<lb/>  God willing&#44; I hope soon to reward you<lb/> in some way or the other for your late<lb/> kindness towards me and mine.  I owe you<lb/> much&#44; and I don&#39;t think you can ever be<lb/> paid <hi rend="underline">in full</hi>.  I have a great deal<lb/> to thank you for&#44; my happiness for the future<lb/> is now complete in a religious point of view&#44;<lb/> and I hope long life &#38; happiness will<lb/> attend us all and may my good and af&#45;<lb/>fectionate family be spared for many years<lb/> to enjoy their new belief.  I have now<lb/> accomplished what I have for many years<lb/> been too anxious for &#38; I do feel happy.<lb/></p>
+                
+                <pb n="2"/>
+            <p>I am indeed overwhelmed in love and gratitude<lb/> to you my very kind &#38; Respected Sir and may<lb/> God spare you and yours for years to come<lb/> in health and happiness.  I <sic>dont</sic> express<lb/> myself in these terms to you&#44; merely as a compli&#45;<lb/>ment&#44; but my God in Heaven knows that I<lb/> <hi rend="underline">feel</hi> the contrary.  I feel too happy when I<lb/> now look around my doting wife &#38; children&#44; &#38;<lb/> to <hi rend="underline">know</hi> that they <hi rend="underline">are</hi> the &#34;<hi rend="underline">unbelieving</hi> Jews&#34;&#33;<lb/>  I do feel proud of them&#44; especially when I<lb/> conscientiously know that they <del>are</del> have really<lb/> &#38; <hi rend="underline">honestly</hi> embraced my religion&#44; not merely<lb/> as a matter of <hi rend="underline">form</hi>&#44; or to <hi rend="underline">carry out any<lb/> particular end</hi>&#44; but from a <hi rend="underline">thorough&#44; honest<lb/> faithful</hi> &#38; <hi rend="underline">conscientious belief</hi> of the <hi rend="underline">one true<lb/> God</hi>&#33;<lb/></p>
+            <p>I hope Mrs Morais &#38; the &#34;Baby&#34; are<lb/> well&#44; as also your dear self&#44; please accept<lb/> our united and affectionate regards.<lb/></p>
+            <p>I shall do myself the pleasure of soon<lb/> calling on you.  I really would have done so<lb/></p>
+                
+                <pb n="3"/>
+            <p>before&#44; but I am so tied down to the<lb/> desk that I really have not time to spare in<lb/> the Evening when I go home I am more fit<lb/> for bed than for any other purpose on Sundays<lb/> someone or the other keeps me at home&#33;<lb/></p>
+            <p>Believe me<lb/>
+                My &#91;&#63;&#93;ery dear Sir<lb/>
+                Yours very faithfully<lb/>
+                H. S. Souza<lb/>
+                I hope you are not angry&#44; at my delaying<lb/> so long in addressing you.<lb/></p>
+                
+                <pb n="4"/>
+            <p>Dear Sir<lb/></p>
+            <p>I have just received your note with the enclosed &#36;10&#44; for which<lb/> please accept my thanks.  I trust that the expressions of grati&#45;<lb/>&#45;tude you offer to the God of Israel&#44; are sincere&#44; but it would much<lb/> gratify myself&#44; who am his humble servant&#44; &#38; the <del>whole</del> Congregation<lb/> of which you are a member&#44; to perceive that <hi rend="underline">practically</hi> as well<lb/> as theoretically your wife and children revere the religion they have<lb/> embraced.  I flatter myself that the instruction obtained <del>received</del> at<lb/> my hands has impressed upon their minds the necessity of conforming<lb/> their habits to those followed by our nation&#59; and consequently<lb/> I take the liberty to suggest the propriety of extending public<lb/> worship as frequently as convenient.  Pray&#44; let not<lb/> their conduct give rise to merited censure&#44; which would likewise<lb/> reflect upon me&#59; but let your family rightly&#91;&#63;&#93; <sic>fulfil</sic> the promises<lb/> they have repeatedly and solemnly made&#44; and I will deem that<lb/> the best token of the regard you seem to experiences for<lb/></p> 
+            <p>yours truly<lb/>
+                S. Morais<lb/></p>
+            
+        </body>
+    </text>
+</TEI>

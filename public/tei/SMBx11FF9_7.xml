@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF9_7</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff9_7_1r.tif"/>
+                                <graphic url="smbx11ff9_7_1v.tif"/>
+                                <graphic url="smbx11ff9_7_2r.tif"/>
+                                <graphic url="smbx11ff9_7_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For a funeral<lb/></p>
+            <p>The chamber of death&#58; the chamber of death.  Therein should they assemble&#44; who<lb/> are desperately enamoured with the world&#39;s vanities.  The truth of the<lb/> sentence uttered by inspiration may then flash on before their minds&#44; and teach that<lb/> &#34;Surely men walketh as in a shadow&#44; surely people are disquieted for nothing&#44;<lb/> man heapeth up and riches but knoweth not who shall gather them&#44;&#34; &#91;Hebrew&#93;<lb/> often as I watched the departing breath of a brother&#45;Israelite&#44; I became<lb/> fully impressed with that conviction&#44; and <sic>marvelled</sic> at human heedlessness.<lb/>  &#91;Hebrew&#93;.  An endless future is left unprovided for&#44;<lb/> and all labor is bestowed spent upon the fleeting present.  Is it sensible<lb/> so to act&#63;  To eat to satiety during a passing hour&#44; and famish for<lb/> an eternity of time&#63;  Fellow mortals&#33;  Contemplate the scene which<lb/> the last moments upon earth presents&#44; and take its lesson to heart.<lb/>  Learn&#44; like the royal psalmist&#44; whose language I quoted&#44; that our days are but a hand&#45;breadth.<lb/>  that ye may  I know how frail is the bark of your existence&#44; how easily<lb/> wrecked.  No human foresight could have discovered the clouds which<lb/> so swiftly lowered upon this house.  The light of domestic happiness<lb/> seemed to have penetrated every recess thereof.  Yet how soon&#44; alas&#33; it<lb/> became enshrouded in darkness.  Two years ago a joyful wife<lb/> held here her gentle sway&#44; and a rejuvenated husband hung<lb/> upon her word &#38; <sic>benefitted</sic> by her counsel.  But this habitation&#44; will where<lb/></p>
+            
+            <pb n="2"/>
+            <p>not long since&#44; the seat of connubial felicity domestic felicity sat enthroned&#44; mourns.  is Bereft it is of its rightful owners.<lb/>  They shall never see it no more again.  A fatal error of an irresponsible<lb/> apothecary consigned a loveable woman to an untimely grave.<lb/>  And he whose heart was entwined with hers languished away.  He<lb/> now lies for before us a lifeless&#59; a corpse.  Dear Brethren&#33;  I am<lb/> by reason of my office familiarized with scenes of distress.  I have<lb/> stood so frequently beside the dying&#44; that I can with almost<lb/> perfect composure perform the last rites of our religion&#44; and offer<lb/> prayers.  But when summoned to the death&#45;bed chamber of Lazarus<lb/> Hecht&#44; my whole being shuddered at the sight it exhibited.<lb/>  Two innocent creatures looked listlessly on&#44; unconscious of the sorrow with<lb/> which that home was fraught.  The younger gambolled around So young to be deprived&#44;<lb/> the older of paternal guidance.  So young&#44; and miss never not to feel the caresses fond embracing of a mother.<lb/>  What hand can supply that have which would have guided led aright<lb/> their steps aright through the devious paths of life&#63;  Who can bestow<lb/> upon the formation of their habits&#44; the <sic>developping</sic> of their sentiments&#44;<lb/> the education of their minds&#44; that solicitude which parents<lb/> increasingly display&#63;  Verily&#58; no one&#44; for none&#44; but parents&#44;<lb/> can experience that depth of feelings which prompts to acts<lb/> of self&#45;denial&#44; and to gratify which&#44; our thoughts&#44; our<lb/> time&#44; our the best energies efforts of which we are capable are employed to promote the welfare<lb/> of our offspring.  But you relatives of my<lb/></p>
+            
+            <pb n="3"/>
+            <p>departed lamented friends&#44; will not relinquish their orphaned children.<lb/>  I shall not presume to say&#44; under whose vigilant guardianship<lb/> their Samuel and Joseph should be reared.  But let whomsoever be<lb/> is chosen to the arduous task&#44; be fully impressed with the awful<lb/> responsibility assumed.  A few nights before Lazarus<lb/> Hecht was gathered to his people&#44; I sat prayfully beside his couch&#44; and<lb/> prayed I pained and anxious for the spiritual salvation of my dying departing brother I asked whether<lb/> he had made provisions for the correct training of his two beloved sons.<lb/>  He answered that ample means were to be devoted to that<lb/> all&#45;important object&#44; but that he had omitted to select some<lb/> who might successfully carry it into execution.  Could<lb/> he rall but once more rally&#44; he would advise with me and<lb/> come to a decision.  That desire remained unfulfilled.  His<lb/> strength waned way&#59; the power of speech closed upon his<lb/> lips.  But from this coffin a father and<lb/> a Jew Hebrew zealous of his faith thrillingly addresses you&#44; who<lb/> will be entrusted with the education of his infants guileless cherished in&#45;<lb/>fant and his elder promising brother.  A disregard of any parts of that appeal fatherly injunction<lb/> would be to meet with Gods displeasure&#44; &#38; at the peril of your future to endanger an everlasting existence.  The minds of<lb/> those two innocent beings must be instructed stored with the a<lb/> knowledge of which enlarges the sphere of human thought&#44;<lb/> but they learn must be mainly instructed in the duties imposed by the<lb/></p>
+            
+            <pb n="4"/>
+            <p>Jewish religion.  They must learn early to revere its practices&#44; and exemplify<lb/> the principles to which their deceased parents were attached.  Every<lb/> progress attained in that noble course will be a blessing invoked<lb/> on your heads by the imparted imparadized Sophia and Lazarus Hecht.<lb/>  Oh&#33;  Let their undying spirit never grieve over the degeneracy of those&#44; through<lb/> whom their name will be perpetuated in Israel.  Dutiful daughters of my lamented friend&#33; promise<lb/> upon over this coffin&#44; which enclosed the remains of him that gave you<lb/> life &#38; sustenance that you will ever cherish the progeny of his second bed.<lb/>  You have hitherto shown how indissolubly strongly tightly fastened is every<lb/> link of the delivery chain that bound you to dear Samuel and Joseph.<lb/>  Continue to lavish upon them tokens of sisterly love.<lb/>  Encircle their guileless existence with your abiding affection.  Let the<lb/> orphans fret that great terrible severe as their loss has been&#44; you they still still&#44; God has not abandoned them<lb/> have found that He raised for their sake tutelary angels&#44; who gave will afford them all comforts&#44; even<lb/> yourselves&#44; whom you the Almighty has preserved for a high and holy purpose.<lb/>  May this be the will of our Creator beneficent Lord and Sovereign Maker&#44; and let us all<lb/> say to it.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF7_14</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff7_14_1r.tif"/>
+                                <graphic url="smbx11ff7_14_1v.tif"/>
+                                <graphic url="smbx11ff7_14_2r.tif"/>
+                                <graphic url="smbx11ff7_14_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For a funeral on &#91;Hebrew&#93;<lb/></p>
+            <p>There are laws which we must obey&#44; and laws to which<lb/> obedience becomes a natural impossibility.  The Almighty<lb/> who is our Maker&#44; as well as our Legislator&#44; knows<lb/> how far we can <sic>fulfil</sic> the commands of His Sovereign<lb/> will.  We are demanded not to set aside a<lb/> national holiday by reason of a private bereavement&#44;<lb/> and in conformity with that precept I have asked a<lb/> sorrow stricken family in Israel to defer the performance<lb/> of certain observances&#44; and to forego others.  So likewise<lb/> for the same cause&#44; I am debarred from doing such<lb/> obsequies as the present melancholy occasion would call<lb/> for.  But God who knows our frames cannot deem<lb/> it an offense to the Mosaic injunction &#91;Hebrew&#93;<lb/> &#8220;thou shalt surely rejoice&#44;&#8221; that if we should give expression<lb/> to our feelings of sympathy&#44; even if when the time and season<lb/> be not is inopportune&#44; according to ancestral usages.  He<lb/> who shaped our hearts will not force us to suppress instinctive<lb/> emotions.  Therefore though I shall keep silent<lb/> on subjects upon which I might have otherwise en&#45;<lb/>&#45;larged&#44; I will not withhold words of comfort to from those<lb/></p>
+            
+            <pb n="2"/>
+            <p>who stand most in need thereof.<lb/></p>
+            <p>The children who have experienced the loving&#45;kindness of<lb/> their father&#44; not only from birth to childhood&#44; and from this<lb/> to mature age&#44; but in every stage of their lives&#44; whilst<lb/> he lived&#59; the children who experienced paternal indulgence<lb/> under all circumstances&#59; the children who found in Eleazar<lb/> Isaacs &#91;Hebrew&#93; &#8220;a help in trouble ever present&#44;&#8221;<lb/> must be urged to lean for support on the Omnipotent Lord&#44;<lb/> and draw solace from the discharge of duty&#44; especially in<lb/> centering their filial reverence on her who gave them birth.<lb/>  The wife&#44; whose loss is as wide as the sea&#44;&#45;&#45;to use a<lb/> Scriptural expression&#45;&#45;&#40;for without doubting the sincerity of<lb/> the grief of children&#44; I verily believe that no sorrow can be<lb/> so deep&#44; so agonising and so lasting as that of a being who<lb/> must separate from a true friend after a long and tender<lb/> companionship&#41;; the wife&#44; I say&#44; must receive consolation.<lb/>  I am directed by my heavenly Master to tell her that her<lb/> tears are seen and they will be accounted for righteousness&#44;<lb/> if they proceed from conjugal affection and not from despair<lb/> hopelessness and despair&#44; that her husband to whom she<lb/> gave her undivided thoughts&#44; her energies and anxious cares<lb/> dwells in spirit with her&#44; and will be found ever present&#44;<lb/></p>
+            
+            <pb n="3"/>
+            <p>whenever she shall carry out any of his good in&#45;<lb/>&#45;tentions which he may have communicated to her&#44; re&#45;<lb/>&#45;garding his religion&#44; his family and those among his<lb/> brethren&#44; who require assistance and consideration.<lb/>  But another object&#44; besides the immediate household of<lb/> the departed&#44; stands in want of comfort.  I represent that<lb/> object&#44; and can testify to its sadness at the death of<lb/> Eleazar Isaacs.  It is the congregation of which<lb/> he had been a member for a series of years&#44; and in whose<lb/> board of directors he had lately served.  That Congregation<lb/> laments&#44; because it ranks are thinning off&#44; and because<lb/> events have so willed it&#44; that the surviving married sons of our<lb/> friend have quitted its midst&#44; and are not likely to swell<lb/> up its number with such among their progeny as will<lb/> bear the name of our deceased fellow&#45;believer.  The<lb/> more keenly is the void felt&#44; because it is unhappily<lb/> frequent growing in intensity.  But I am admonished by the Biblical<lb/> ordinance not to indulge into a strain of melancholy<lb/> expressions&#44; and in gloomy anticipations.  A<lb/> comfort it will prove also to my congregation also to<lb/> hear that distance from their native city&#44; and<lb/> from their early associations and surroundings&#44;<lb/></p>
+            
+            <pb n="4"/>
+            <p>have is not wiped away from the memory of<lb/> Eleazar Isaacs&#39; descendants&#44; the impressions received<lb/> in the days of childhood&#59; that they will endeavour<lb/> so to control circumstances as never to break away<lb/> from the Torah.  but It will be a pleasure to learn that they will raise their young<lb/> ones in the school of historical Judaism&#44; to which<lb/> the deceased claimed adherence&#44; notwithstanding back&#45;<lb/>&#45;slidings&#44; which the weakness of the flesh and<lb/> human liability to sin led him&#44; at times&#44; to commit.<lb/>  For those shortcomings we must implore forgiveness<lb/> from a merciful God&#44; while we know and feel<lb/> that the virtues he practised in the various relations<lb/> of life&#44; will become his advocates before the throne of<lb/> the King of Kings who is &#8220;great to save.&#8221;  For<lb/> He who supports the loving with kindness&#44; and<lb/> breathes a new existence into the departed.  Such<lb/> are hopes and our daily prayers. &#91;Hebrew&#93;<lb/> &#8220;Blessed art Thou O Lord&#44; who revivest the dead.&#8221;<lb/>  Be Thou thus O Eternal to our brother&#44; Eleazar of the<lb/> house of Levy.<lb/></p>
+            </body>
+    </text>
+</TEI>

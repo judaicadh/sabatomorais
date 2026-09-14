@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Philip, Joseph</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF9_76</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Philip, Joseph</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1880-11" source="" attested="yes">12 November 1880</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff9_76_2r.tif"/>
+                                <graphic url="smbx2ff9_76_2v.tif"/>
+                                <graphic url="smbx2ff9_76_1r.tif"/>
+                                <graphic url="smbx2ff9_76_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>If not delivered within 10 days&#44; return to<lb/>
+                Joseph &#38; Fleischer&#44;<lb/>
+                274 W. Baltimore St.&#44; BALTIMORE&#44; MD.<lb/>
+                
+                <pb n="2"/>
+                Special Notices.<lb/>
+                PROCLAMATION.<lb/>
+                STATE OF MARYLAND&#44;<lb/>
+                EXECUTIVE DEPARTMENT.<lb/>
+                ANNAPOLIS&#44; November 9&#44; 1880.<lb/>
+                I&#44; WILLIAM T. HAMILTON	&#44; Governor of the State of<lb/> Maryland&#44; do hereby&#44; in conformity with custom and in<lb/> recognition of the many blessings we have enjoyed dur&#45;<lb/>ing the past year&#44; designate THURSDAY&#44; the 25<hi rend="sup">th</hi> day of<lb/> November instant&#44; as a DAY OF THANKSGIVING AND<lb/> PRAYER&#44; and recommend to the people of the State a<lb/> due observance thereof.<lb/>
+                Given under my hand and the Great Seal of the State of<lb/> Maryland at the city of Annapolis on the 9<hi rend="sup">th</hi> day of No&#45;<lb/>vember&#44; A. D. 1880.<lb/>
+                WILLIAM T. HAMILTON.<lb/>
+                By the Governor&#44;<lb/>
+                JAMES T. BRISCOE.<lb/>
+                Secretary of State.								1tD&#38;W.<lb/>
+                
+                <pb n="3"/>
+                JOSEPH &#38; FLEISCHER&#44;<lb/>
+                Notions &#38; Fancy Goods&#44;<lb/>
+                274 W. BALTIMORE STREET.<lb/>
+                Baltimore&#44; Novbr 12 1880<lb/>
+                Rev Dr Morais<lb/>
+                Dear Sir&#33;<lb/>
+                Having noticed that you have a<lb/> <sic>contreversey</sic> in <sic>refference</sic> to the Governors<lb/> proclamation of <sic>pennsylvania</sic>&#44;<lb/> I herewith take the liberty to send<lb/> you a copy of our Governors<lb/> proclamation of Maryland<lb/> which is more liberal and<lb/> proper&#44; I would also refer you<lb/> to a similar proclamation<lb/> issued by the Governor of either<lb/> South Carolina or Georgia<lb/> in 1844 and then our people<lb/> held a meeting and insisted that<lb/> the Governor should change it &#38;c<lb/>
+                your humble servant<lb/>
+                Philip Joseph<lb/></p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Drachman, Bernard</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF8_17</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Drachman, Bernard</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1890-07" source="" attested="yes">15 July 1890</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff8_17_1r.tif"/>
+                                <graphic url="smbx5ff8_17_1v.tif"/>
+                                <graphic url="smbx5ff8_17_2r.tif"/>
+                                <graphic url="smbx5ff8_17_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Rev. Dr. S. Morais&#44; President<lb/> of the Faculty of the Jewish Theo&#45;<lb/>&#45;logical Seminary&#33;<lb/></p>
+            <p>Honored Sir&#33;<lb/></p>
+            <p>I have the honor<lb/> to submit my report on the stand&#45;<lb/>&#45;ing of the Seminary classes during<lb/> the first month of the Summer term<lb/> of 5650&#45;1890 from June 15th to July 15th.<lb/>  There are at present 12 students<lb/> attending the Seminary&#44; 9 regularly<lb/> admitted and 3 awaiting admission.<lb/>  Of the regularly admitted students&#44;<lb/> one&#44; Alexander Barovsky&#44; has been<lb/> extremely irregular in his attendance<lb/> The students of the higher or Junior<lb/> class are Alex. Barovsky&#44; Joseph Hertz&#44; Sigmund Reich&#44;<lb/> Henry Speaker and David Wittenberg.<lb/>  The students of the lower or Prepar&#45;<lb/>&#45;atory class are Benjamin and Samuel<lb/> Ehrenreich&#44; Maurice Fried&#44; Max Goodman<lb/></p>
+                
+                <pb n="2"/>
+            <p>regularly admitted and David Bressler&#44;<lb/> Benjamin Ackerman and Joseph Witt&#45;<lb/>&#45;enberg&#44; applicants.<lb/></p>
+            <p>The subjects taught have been&#44;<lb/> in the Junior Department&#44; Isaiah<lb/> and Talmud and in the Prepar&#45;<lb/>&#45;atory Department Nehemiah and<lb/> Mishnah.  Besides this the classes<lb/> have been required to attend the<lb/> lectures which have been delivered<lb/> on Sunday mornings during the<lb/> month.  The attendance and pro&#45;<lb/>&#45;gress have been quite satisfactory<lb/> considering the extremely warm<lb/> and unpleasant weather which have&#44;<lb/> for the greater part&#44; prevailed.<lb/>  In concluding this report I would respectfully<lb/> request you to kindly dispense me<lb/> from delivering the lecture next<lb/> Sunday morning and also to<lb/> grant me leave of absence for a<lb/></p>
+                
+                <pb n="3"/>
+            <p>few weeks.  I have not felt well<lb/> for some time&#44; my strength&#44; I am<lb/> afraid&#44; is not adequate for proper<lb/> attention to duty and my physic&#45;<lb/>&#45;ian advises me to leave the city.<lb/>  The best arrangement would be to sub&#45;<lb/>&#45;stitute some other lecturer for me<lb/> next Sunday&#44; Dr H. P. Mendes will<lb/> be in the city&#44; and to give me the<lb/> closing lecture of the term.  By that<lb/> time&#44; I hope to be&#44; the Lord permitting<lb/> in better sorts and able to attend<lb/> properly to my duties.  Will you<lb/> kindly write at once advising me<lb/> of what disposition you make in this<lb/> matter.  I remain<lb/> very respectfully yours<lb/> Bernard Drachman<lb/></p>
+            <p>N. Y. July 15th 5650 								Preceptor<lb/></p>
+            </body>
+    </text>
+</TEI>

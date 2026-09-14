@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Leon</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF5_44</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Leon</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Kansas City, MO</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1894-04" source="" attested="yes">23 April 1894</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff5_43_1r.tif"/>
+                                <graphic url="smbx7ff5_43_1v.tif"/>
+                                <graphic url="smbx7ff5_43_2r.tif"/>
+                                <graphic url="smbx7ff5_43_2v.tif"/>
+                                <graphic url="smbx7ff5_43_3r.tif"/>
+                                <graphic url="smbx7ff5_43_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>&#91;Picture of the New Coates Hotel&#93;<lb/></p>
+            <p>BROADWAY.<lb/></p>
+            <p>THE NEW COATES.<lb/>
+                ABSOLUTELY FIRE PROOF<lb/>
+                THE LARGEST AND FINEST HOTEL IN THE CITY.<lb/>
+                COATES HOUSE MANAGEMENT CO.<lb/>
+                PROPRIETORS.<lb/>
+                J. L. COATES&#44; PRES&#39;T &#38; MANAGER.<lb/>
+                A. C. COATES&#44; SEC&#39;Y &#38; TREAS<lb/>
+                C. G. BAIRD&#44; ASS&#39;T MANAGER.<lb/>
+                COATES<lb/> OPERA HOUSE<lb/> ON DIAGONAL<lb/> CORNER.<lb/> BEST<lb/> ATTRACTIONS<lb/> ONLY.<lb/>
+                KANSAS CITY&#44; MO. Apr 23rd 1894<lb/></p>
+            <p>Dear Father<lb/></p>
+            <p>Last night I sent a spec&#45;<lb/>ial delivery letter&#44; to Nina telling her<lb/> that I had accepted a promising<lb/> position in Cawker City Kansas&#44; I<lb/> wrote to her instead of you&#44; for I knew<lb/> how much you have on your mind<lb/> at present.<lb/></p>
+            <p>To say that I sympathize<lb/> with you would not begin to express<lb/> how I feel for you and Rebecca and<lb/> all&#44; you said in your last letter<lb/> which informed of sweet little Garry&#39;s<lb/> death&#44; that you would be happy<lb/> if you could always hear that I am<lb/> on a good path&#44; every future act of<lb/> mine will prove to you that I<lb/> <hi rend="underline">will do right</hi> and in the future<lb/></p>
+            
+            <pb n="2"/>
+            <p>you will hear nothing but good of<lb/> me&#44; and from me<lb/></p>
+            <p>I accepted the<lb/> position in Kansas because the<lb/> business and weather continue dull<lb/> here&#44; and Mr. Weil will give me<lb/> a show later anyhow&#44; then this<lb/> man wants me badly and will<lb/> increase my salary according to<lb/> my ability and the state of trade&#44;<lb/> I leave behind me three staunch<lb/> friends&#44; Mr. Coy&#44; Mr. Simms&#44; and<lb/> Mr. Weil&#44; all advised me to accept<lb/> this place for the present anyhow&#44;<lb/> Cawker City is 250 miles from<lb/> here and has a population of 1600<lb/> as near as I can ascertain.<lb/></p>
+            <p>Mr Coy arrived home last<lb/></p>
+            
+            <pb n="3"/>
+            <p>evening&#44; and I have been with<lb/> him nearly all day&#44; I took lunch<lb/> with him&#44; he leaves to&#45;morrow<lb/> for the country&#44; he has implicit<lb/> confidence in  me and he and Mr.<lb/> Simms also promise me good places<lb/> when they have them.<lb/></p>
+            <p>If you write by<lb/> Thursday or Saturday night address<lb/> to c&#47;o Jacob Rothschild<lb/> Cawker City<lb/> <hi rend="underline">Kansas</hi><lb/> With love and hoping<lb/> <hi rend="underline">all</hi> are <hi rend="underline">well</hi>.<lb/>  Good Bye.<lb/> Leon<lb/></p>
+            </body>
+    </text>
+</TEI>

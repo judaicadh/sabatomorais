@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF3_55</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Ezekiel, Jacob</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1876-12" source="" attested="yes">1 December 1876</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff3_54_1r.tif"/>
+                                <graphic url="smbx2ff3_54_1v.tif"/>
+                                <graphic url="smbx2ff3_54_2r.tif"/>
+                                <graphic url="smbx2ff3_54_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>1<lb/>
+            Ladies and Gentlemen&#33;  After all that has been said<lb/> on this auspicious day&#44; the adding of some words from my<lb/> poor vocabulary&#44; would be&#44;&#45;&#45;to make use of a very inelegant<lb/> comparison&#45;&#45;&#44; like attempting to render a brilliant flame<lb/> still brighter by throwing therein a lucifer match.  But<lb/> you are to blame for having called upon me so ill&#45;pre&#45;<lb/>&#45;pared to speak fittingly and acceptably.  I shall&#44; how<lb/>&#45;ever&#44; screen myself from the shafts of your sharp cri&#45;<lb/>ticism behind the &#91;crossed&#45;out&#93; shield of brevity.  Several of you<lb/> may perhaps be not aware that I have already spoken<lb/> at some length this morning on the subject eloquently<lb/> and liberally expounded on yonder platform&#44; and&#45;permit<lb/> me to say without intending any &#91;&#63;&#93;dious distinction&#8212;specially<lb/> by our valued Christian friends the Honorable Horater Gates<lb/> Jones&#44; and Mr Charles S. Sheyser.  I shall not venture<lb/> therefore to repeat myself&#59; but since I am up&#44; <del>and</del> I will not<lb/> be seated without having given expression to few of the ideas<lb/> which the occasion suggested.<lb/>
+                To you my brethren of the house of Israel I will say&#59; that I<lb/> have seen this day illustrated again the <sic>marvellous</sic> unity of<lb/>
+            
+            <pb n="2"/>
+            2<lb/>
+            of our race.  Yes&#58; we are a unit&#8212;notwithstanding<lb/> ritual differences&#8212;in whatever involves principles and<lb/> vital ideas.  We are a unit in whatever pertains to<lb/> works of charity&#59; in what concerns our inalienable rights.<lb/>  We are a unit in claiming immunities warranted to all&#44;<lb/> in defending our faith from the aspersions of ignorant<lb/> and puny&#45;souled beings.  We are a unit in loving<lb/> freedom&#44; and in placing upon our heads as a diadem the<lb/> names of the immortal fathers of that Republic&#59; which has<lb/> opened an asylum for the oppressed&#44; by reason of opinion&#44;<lb/> and has proclaimed religious liberty.<lb/>
+            Another thought&#44;&#45;&#45;and I ask your pardon for being selfish&#45;&#45;<lb/> is the circumstance that the distinguished sculptor&#44; my honored<lb/> friend Moses Ezekiel&#44; drew his inspiration from Italy&#44; the<lb/> land where the bones of my parents lie&#44; and whence I may&#44;<lb/> with pride&#44; tithe the land that develops poetry and artistic<lb/> genius.  From Rome specially he drew that inspiration&#44;<lb/> the Rome where our fathers dwelt from ages immemorial&#44;<lb/> and where they disseminated lore&#59; the Rome which<lb/> in the time of the Empire learnt what is good in Christianity<lb/> from Mosaism&#44; as &#91;&#63;&#93; records that pagans became<lb/> Judaized&#59; the Rome of the Popes&#44; where Israel found<lb/> a shelter to his weary feet&#44; when expelled from barbarous<lb/>
+            
+            <pb n="3"/>
+            3<lb/>
+                Spain&#44; which does not to this day&#44; understand the<lb/> meaning of the word Liberty&#59; the Rome of the Popes<lb/> where our progenitors <del>became</del> were afterwards vilified and crashed&#44;<lb/> caged like <sic>raveous</sic> beasts within narrow and unhealthy limits&#59;<lb/> but now the Rome&#44; which has&#44; at last&#44; fulfilled the as&#45;<lb/>pirations of the best and greatest patriots from Dante<lb/> to Mazzini&#44; in becoming the metropolis of regenerated<lb/> Italy.  Now she has exchanged the badge of reproach<lb/> for that of honor.  Now she clothes her Hebrew children<lb/> with the insignia of power&#44; and sends them to the halls<lb/> of legislation&#44; to teach <del>wisdom to</del> the country of their birth<lb/> and love &#38; wisdom&#33;  It is my privilege&#44; Ladies and Gentlemen&#33;<lb/> to know some of those representative men of our race&#44;<lb/> and I can assure you that any communities may glory<lb/> in individuals so public&#45;spirited and liberal&#45;hearted.<lb/>  In that Rome it is then that our eminent sculptor<lb/> drew his inspiration&#44; in sight of that Vatican&#44; which<lb/> will yet become the <del>possession</del> property of its rightful owner&#44;<lb/> Victor Emanuel&#44; and will reveal a mine of rare knowledge<lb/> treasured therein and belonging to the sages of our people.<lb/>  May Moses Ezekiel acquire in that city and in the land<lb/> which gave the world a Buonarotti and a Carnova&#44;<lb/> renown and high celebrity&#44; an undying name reflecting<lb/>
+            
+            <pb n="4"/>
+            lustre on the faith of which he is a member&#44; and on the<lb/> country where he first saw the light of day&#59; even the<lb/> country of Religious Liberty<lb/>
+            
+            Jacob Ezekiel Esqre<lb/>
+                December 1<hi rend="sup">st</hi> 1876<lb/>
+            My dear Friend.<lb/>
+            As you are about to leave us&#44; I wish that you carry with you<lb/> a very trifling memento of my esteem for yourself and family&#44; by the<lb/> accompanying speech made yesterday&#44; and of which you expressed a<lb/> desire to possess a copy.  I have endeavoured to recall it&#44; but I am<lb/> not certain that it is exactly as delivered.  The sentiments&#44; however&#44; are<lb/> the same&#44; though the wording may perhaps differ.  I may also have<lb/> left some of the ideas unrecorded&#44; and have placed others in their stead&#44;<lb/> but my head has been so full lately of literary matters&#44; that it is<lb/> difficult to keep all in in its entirety.  Reiterating my kindest<lb/> regards to your circle&#44; and sincere prayers for your son&#39;s brilliant<lb/> success in the liberal arts&#44; I remain<lb/>
+            Yours very truly<lb/>
+            S. Morais.<lb/></p>
+        </body>
+    </text>
+</TEI>

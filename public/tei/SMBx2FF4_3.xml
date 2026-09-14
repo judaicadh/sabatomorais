@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Phillips, A. P.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF4_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Phillips, A. P.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>South Brisbane, Australia</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1877-01" source="" attested="yes">13 January 1877</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff4_3_1r.tif"/>
+                                <graphic url="smbx2ff4_3_1v.tif"/>
+                                <graphic url="smbx2ff4_3_2r.tif"/>
+                                <graphic url="smbx2ff4_3_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Corner Peel &#38; Stanley Streets<lb/>
+            South Brisbane<lb/>
+            Queensland Jan 13&#47;77<lb/></p>
+            <p>The Revd. S. <sic>Morris</sic><lb/>
+            My dear Sir&#44;<lb/></p>
+            <p>Your kind favor of the 17<hi rend="sup">th</hi>. Octr.<lb/> reached me today &#38; I hasten to reply thereto.<lb/></p>
+            <p>I now perceive the great omission<lb/> in my last with respect to the description of<lb/> the party sought after &#38; altho&#39; I now send you<lb/> the same&#44; I must admit to vagueness&#44; &#38; trust<lb/> at the same time it may in some way aid you in the search.<lb/></p>
+            <p>Be pleased to understand that<lb/> the present description may not of its own accuracy<lb/> identify Mr Goldman&#44; as he no doubt may have<lb/> much altered in the course of eleven or Twelve<lb/> years&#44; but at the time he was last seen&#44; he was<lb/> according to the statement of my requisitionist<lb/> &#40;who is a foreigner&#41; about 45 years of age&#8212;of<lb/> middle stature&#44; dark complexion&#44; with an<lb/> inclination to be stout&#8212;this is all I can give<lb/> you.<lb/></p>
+            <p>It appears likely to me&#44; if a person<lb/> of the above description be met&#8212;he might be asked<lb/> if he were at any time in Queensland&#8212;if found<lb/> that he had been in Queensland his identity would<lb/> then be established&#44; for he was then &#38; up till now<lb/> the only person of that name in the Colony<lb/></p>
+            <p>It is also possible should he have<lb/> died the Board of Health may have a record<lb/> of the place whence he came&#8212;viz Queensland<lb/> but the greatest probability appears to be that<lb/></p>
+            
+            <pb n="2"/>
+            <p>if dead he was buried by &#91;Hebrew&#93; &#38; they<lb/> would surely record the fact in the<del>ir</del> <lb/> books of the Synagogue<lb/></p>
+            <p>It is difficult for me to conjecture<lb/> how the &#91;Hebrew&#93; are situated in your city<lb/> but in these Colonies&#8212;there is not a single<lb/> Jewish individual who is not known &#38;<lb/> recognized by some one&#8212;it is no matter<lb/> where he might happen to come from&#8212;should<lb/> it &#91;&#63;&#93; be from India &#38; China Figis or<lb/> elsewhere&#45;&#45;&#38; judging from ourselves I am<lb/> led to believe that a private inquiry<lb/> among individuals especially &#40;foreign &#91;Hebrew&#93;&#41;<lb/> would effect the purpose&#45;&#45;&#38; I am the more<lb/> inclined to think so&#44; from your statement&#45;&#45;<lb/> &#34;for many persons of the name of Goldman<lb/> have lived &#38; died in our city&#34;&#45;&#45;if it were<lb/> possible to discover if one came from or<lb/> had been in Queensland&#8212;the matter would<lb/> be then settled.<lb/></p>
+            <p>I thank you for the h&#91;&#63;&#93; teaching<lb/> the law&#8212;as it would affect the marriage<lb/> of the parties in question&#8212;but I find<lb/> that the parties married &#40;not before a<lb/> magistrate&#41; but a Registrar&#8212;which is<lb/> about the same thing on the strength of<lb/> the information received that Mr. G. was<lb/> dead&#45;&#45;&#38; that prior to this marriage my<lb/></p>
+            
+            <pb n="3"/>
+            <p>requisitionist gave Mrs. G. protection<lb/> &#38; shelter only from alleged cruelty of her husband<lb/> Then if the information they had gotten was<lb/> a fact&#44; I would submit that the <sic>impedimt</sic><lb/> is removed &#38; the law<lb/> will not apply to them &#91;Hebrew&#93;<lb/></p>
+            <p>I have nothing further to add<lb/> but to commit the care of this matter<lb/> to your hand with the hope that<lb/> your kind endeavours will lead to<lb/> a successful issue<lb/></p>
+            <p>I remain<lb/>
+            My Dear Sir<lb/>
+            Yours faithfully<lb/>
+            A. P. Phillips<lb/></p>
+            
+            <p>In order to facilitate this matter<lb/> &#38; to bring it to a close&#8212;Would you<lb/> kindly in your reply enclose a<lb/> memo of any cost &#38; expenses<lb/> this affair may have put you to<lb/></p>
+            <p>APP<lb/></p>
+            <p>Please address as above<lb/></p>
+        </body>
+    </text>
+</TEI>

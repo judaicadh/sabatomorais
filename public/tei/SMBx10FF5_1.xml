@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx10FF5_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx10ff5_1_1r.tif"/>
+                                <graphic url="smbx10ff5_1_1v.tif"/>
+                                <graphic url="smbx10ff5_1_2r.tif"/>
+                                <graphic url="smbx10ff5_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>22</p>
+            
+            <p>For Sabbath Rosh Hodesh Adar Kishon<lb/></p>
+            
+            <p>Brethren&#33;  During the Hebrew month&#44; which has<lb/> just passed&#44; I purposed&#44; as each of its Sabbaths<lb/> was approaching&#44; to draw your attention to the<lb/> exposition of sundry passages in the section of the<lb/> day&#44; which require elucidation.  But some disturbing<lb/> cause always intervened&#44; to disqualify me for the<lb/> task.  Where domestic trials and the sorrows<lb/> of our neighbors keep our feelings in constant<lb/> agitation&#44; when we are made with a startling<lb/> frequency to stand by the coffin of those&#44; who but<lb/> yesterday seemed proofs against the strokes of death&#44;<lb/> the mind shrinks from subjects&#44; the discussing of<lb/> which demands a sequence of clear and well digested<lb/> thoughts.  It should&#44; however&#44; be a source<lb/> of real comfort to know&#44; that when the intellect<lb/> refuses to accompany us in our mental se researches&#44;<lb/> the heart will lead us where the burden of troubles<lb/> can&#44; for a time&#44; be cast aside&#44; and distress be<lb/> relieved.  Bleeding&#44; lacerated with wounds&#44;<lb/> the heart still flees whose healing is at hand.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Prayer offers the restorative.  Communion with<lb/> that Being who never grows weary of listening<lb/> to our wailing and our petitions&#44; yields a calmness<lb/> partaking of the celestial.  For &#34;the Lord is nigh<lb/> unto the broken&#45;hearted&#44; and the contrite of spirit<lb/> He will save.&#34;<lb/></p>
+            <p>Brethren in affliction&#33;  Brethren sympathising<lb/> with the afflicted&#33;  This place we have raised<lb/> as a ladder&#44; whence our supplications may ascend<lb/> unto our Father that is in heaven.  We<lb/> have designedly opened its holy ark towards the<lb/> side of the house&#44; in which visible signs of the<lb/> Divine presence hovered amid the Cherubim.<lb/>  With my face upturned towards that Oracle&#44; where<lb/> King Solomon once prayed that the plague of<lb/> every man&#39;s heart might be removed&#44; I will now<lb/> pour forth entreaties for all who suffer&#44; and<lb/> I will cry&#44; &#34;God of Israel&#33;  Many evils befell<lb/> the congregations of Thy people in the month<lb/> that has sunk in the ocean of time.  The<lb/> Avenger of Divine Justice stepped over the<lb/> <sic>threshhold</sic> of our peaceful homes.  Sin called<lb/></p>
+            
+            <pb n="3"/>
+            <p>him&#44; to spread its terrors round some by a pestilen&#45;<lb/>&#45;tial breath&#44; to threaten others with the loss of<lb/> their main supports&#44; by weakening and virulent diseases.<lb/>  Alas&#33; it has also carried way in its wrath as<lb/> victims&#44; the dearest and the most precious.  There&#45;<lb/>&#45;fore do parents mourn&#44; and children look wistfully<lb/> at the vacant seat&#44; which their mother was<lb/> wont to occupy.  Therefore are husbands cast down&#44;<lb/> and widows abide in dismal solitude.  Therefore<lb/> have ministers at Thy altar bemoaned the void<lb/> created in their circle&#44; and flocks have wept<lb/> o&#39;er the m remains of their pastors.  Oh God&#33;<lb/>  Let so much tribulation suffice as an atonement.<lb/>  And grant I beseech Thee&#44; that in the Hebrew month<lb/> we have greeted this Sabbath with psalmody&#44; there<lb/> may be fulfilled in us the sentence we read in Thy<lb/> volumes &#34;ye shall serve the Lord your God&#44; and He will<lb/> bless thy bread and thy water&#44; and I will take away<lb/> sickness from the midst of thee.&#34;  Grant in the<lb/> present month only what is joyous&#44; and conducive<lb/> to our success in life may happen.  Grant that it<lb/> may bring in its train health to the infirm&#44; sustenance<lb/></p>
+            
+            <pb n="4"/>
+            <p>to the needy&#44; consolation to the bereaved.  Grant<lb/> that the lessons of the past&#44; sad but useful&#44; may<lb/> awaken a spirit of forgiveness&#44; of forbearance&#44; and of<lb/> affection towards one another&#44; so that we may live<lb/> as brethren here below&#44; and qualify ourselves to abide<lb/> dwell like angels above.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Cohen, Nina; Cohen, Emanuel</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF5_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Cohen, Nina; Cohen, Emanuel</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1894-01" source="" attested="yes">January 1894</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff5_4_1r.tif"/>
+                                <graphic url="smbx7ff5_4_1v.tif"/>
+                                <graphic url="smbx7ff5_4_2r.tif"/>
+                                <graphic url="smbx7ff5_4_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Friday morning.<lb/></p>
+            <p>My dear Father&#44;<lb/></p>
+            <p>Manuel and I are most deeply<lb/> concerned about your letter.  We have thought and<lb/> reasoned and tried to find some way out of our<lb/> troubles&#44; but indeed we cannot find any solution<lb/> that seems a safe one.  The great trouble is that<lb/> even if he could be relied on at all&#44; there is no<lb/> work at present for anyone.  the Tribune is now<lb/> publishing advertisements for situations free&#44; and<lb/> begging people who can afford it to take extra<lb/> help.  Everywhere there is the same story of lack<lb/> of work.  When I was in K. C.&#44; Mr. Simm&#39;s arranged<lb/> for his being taken to St. Louis free&#44; and actually sup&#45;<lb/>posed that he had gone&#44; but at the last moment he<lb/> refused to go&#44; claiming that he could not get work<lb/> in a strange place.  We both feel certain that<lb/> the money spent on sending him away &#38; supporting<lb/> him would be thrown away at this time&#44; and we<lb/> feel that the only thing to be done&#44; is to give him<lb/> a respite to regain if possible physical strength &#38;<lb/> mental equilibrium.  That respite must be in<lb/> Minneapolis&#44; where we shall keep him as short<lb/> a time as possible &#38; then send him to his<lb/> next destination as soon as something offers.<lb/></p>
+            
+            <pb n="2"/>
+            <p>Of course I never intended to say that he should<lb/> work in Phila. or remain there permanently.  If<lb/> you still wish him to be sent to Texas&#44; Manuel<lb/> will go to Chicago for that purpose but it seems<lb/> to us that this will not shorten our evil days.<lb/></p>
+            <p>As to his coming here.  It seems to me that it would<lb/> be best to manage it so.  You write to him and<lb/> say that you cannot take him&#44; but that for your<lb/> sake&#44; we have consented to do so.  That he is to<lb/> be here until he has recovered himself&#44; meanwhile<lb/> using every means to obtain work far from<lb/> us all.  That he is to remain in the house<lb/> while here&#44; unless he goes out with me and<lb/> to try not to abuse our confidence while with<lb/> us.  That he is to write to me at once<lb/> or to telegraph telling me when he will be here.<lb/>  Now&#44; dear Papa&#44; you know that it gives me<lb/> happiness to do anything for you&#44; and since I<lb/> have a husband who is ready to bear my<lb/> burdens&#44; you must let us do this&#59; hoping that<lb/> it may turn out for the best.  I know that<lb/> the fact that he is here will relieve you from<lb/> a little of your anxiety at least as regards<lb/></p>
+            
+            <pb n="3"/>
+            <p>the money&#44; let us wait to speak of that.<lb/></p>
+            <p>Manuel advises that you take his &#40;L&#39;s&#41; receipt<lb/> in the form of <hi rend="underline">note</hi> for all money you<lb/> have sent &#38; continue to send.  You will understand<lb/> the reason for this.<lb/></p>
+            <p>Indeed my heart aches when I think of<lb/> all your troubles&#44; and I do not find any comfort<lb/> Your loving<lb/> Nina<lb/></p>
+            <p>My dear Mr. Morais&#44;<lb/></p>
+            <p>My judgment is that it would be a<lb/> waste of money and perhaps worse&#44; to send Leon into a strange<lb/></p>
+            
+            <pb n="4"/>
+            <p>place now.  He ought to be taken where he can get some encour&#45;<lb/>agement and some physical rest.  I know of no plan better than<lb/> Nina&#39;s for that purpose&#44; and for myself&#44; I shall be glad to do<lb/> what I can to give Leon another start.  There is always hope for<lb/> better things&#44; and I should feel that I had not done my duty&#44; if<lb/> I did not give the boy a helping hand.  I know that Leon&#39;s<lb/> conduct has given you much pain and anxiety&#44; but he may still<lb/> be a credit to you.  Much stranger things have happened.  He is young<lb/> and thoughtless.  He is physically worn out&#44; and he cannot readily re&#45;<lb/>sist temptations.  Let us give him another chance&#44; and when the proper<lb/> time comes&#44; start him again with health and hope.  I don&#39;t think any of<lb/> us will need regret what we do for him.  Yours Truly<lb/> Emanuel<lb/></p>
+            </body>
+    </text>
+</TEI>

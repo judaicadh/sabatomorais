@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF18_16</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Sollas, M. M.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1861-12" source="" attested="yes">12 December 1861</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff18_16_1r.tif"/>
+                                <graphic url="smbx1ff18_16_1v.tif"/>
+                                <graphic url="smbx1ff18_16_2r.tif"/>
+                                <graphic url="smbx1ff18_16_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>M M. Sollas Esqr<lb/>
+                Phila 12 Dec 1861<lb/>
+                Dear Sir<lb/></p>
+            <p>I deem it an honor to have been called<lb/> upon to solve a question which has already been<lb/> propounded to Jewish Ministers of distinction&#44; but reasons<lb/> that I need not explain prompt me to offer my opinion<lb/> privately instead of giving it publicity.<lb/></p>
+            <p>I have carefully read your communication to Dr Raphall&#44;<lb/> wherein the merits of the case in which you are interested<lb/> are fully discussed&#44; and I do not hesitate to say that<lb/> the conduct of the wardens of your congregation is alike<lb/> unwarrantable and blamable.  According to the laws<lb/> by which Israelites are graded&#44; a child of a Hebrew woman&#44;<lb/> though born of a Gentile&#44; is considered as one of our people<lb/> in every respect&#44; with the sole exception that a female<lb/> of such an extraction&#44; is not allowed to marry a priest<lb/> &#40;Cohen&#41;<lb/></p>
+                
+                <pb n="2"/>
+            <p>so it is explicitly laid down in the &#91;&#63;&#93; N&#91;&#63;&#93; vol<lb/> Eben A&#91;&#63;&#93; sect 4 par 5 &#38; 15 on the authority of the<lb/> Talmud treatise Yebamot p 45 p 2.<lb/></p>
+            <p>Mr Bessun is not therefore to be regarded as a proselyte<lb/> but as a native Jew&#44; whom&#44; certain circumstances which<lb/> he could not control&#44; prevented his entering the covenant<lb/> of Abraham at its due time&#44; but who with commendable<lb/> zeal submitted himself to the performance of that observance<lb/> in later years.  He is consequently entitled to all privileges<lb/> connected with synagogual worship&#44; and whosoever denies<lb/> the same to him&#44; is greatly to be reprehended.<lb/></p>
+            <p>The Revd Max Wolf acted on the premises as it behooves<lb/> every pious man&#59; and far from deserving censure&#44;<lb/> he must claim our thanks for having spiritually<lb/> <sic>benefitted</sic> <del>his</del> a fellow believer.  Besides&#44; it happens<lb/> that I am personally acquainted with that Gentle&#45;<lb/>man&#44; so that I may freely state that he is too<lb/></p>
+                
+                <pb n="3"/>
+            <p>much of a scholar to misunderstand the law&#44; and too<lb/> honest to act in <sic>contraviction</sic> thereof.<lb/></p>
+            <p>I trust that the pending question will be settled ami&#45;<lb/>&#45;cably&#44; and I can assure you&#44; dear sir&#44; that to learn<lb/> that the congregation have retracted&#44; and Mr<lb/> Bessun is permitted to worship the God of Israel in their midst&#44;<lb/> will much gratify<lb/></p>
+            <p>yours respectfully<lb/>
+                S Morais<lb/>
+            </p>
+            
+        </body>
+    </text>
+</TEI>

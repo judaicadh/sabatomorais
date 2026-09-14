@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Bernal, A. I. H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx17FF1_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Bernal, A. I. H.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Louisville, KY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1851-06" source="" attested="yes">3 June 1851</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx17ff1_1_1r.tif"/>
+                                <graphic url="smbx17ff1_1_1v.tif"/>
+                                <graphic url="smbx17ff1_1_2r.tif"/>
+                                <graphic url="smbx17ff1_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>Louisville&#44; Ky.&#44; 3 June 5611<lb/>
+                1851<lb/></p>
+            <p>Rev<hi rend="sup">d</hi>. and Dear Sir&#44;<lb/></p>
+            <p>Accept my sincere thanks for your kind<lb/> notice of my former epistle&#44; and assure yourself that<lb/> I shall ever feel happy to learn of your welfare&#44;<lb/> and that of our esteemed friend the Rev<hi rend="sup">d</hi>. D. Meldola<lb/> and his beloved family.  I must apologise for not replying<lb/> sooner to your communication at an earlier period&#59;<lb/> but had not any&#45;thing to communicate.<lb/></p>
+            <p>I earnestly trust the article in the &#34;Asmonean&#34;<lb/> concerning &#34;the occident &#38; Revd. Mr. Morais&#34; did not offend<lb/> you.  I know not whether your inward conception<lb/> of the hidden meaning of the author&#39;s words&#44; is the<lb/> same as mine&#58; I know him long&#58; I could not do<lb/> otherwise than pen those few lines as a rejoinder&#44; of<lb/> the facts of which I was made acquainted at the time<lb/> of the London Election by our friend above&#45;named&#58;<lb/> I sincerely hope you are not offended at the use<lb/> I have made of your name.  I am a Portuguese<lb/> and an Englishman&#59; I know his <hi rend="underline">genuine</hi> hatred to<lb/> both &#40;under cover&#41; and his conception of their total inferiority<lb/> in intellect to the Germans.  He has shown it in more<lb/> cases than one&#58; and <hi rend="underline">under the Rose</hi>&#44; I will illustrate<lb/> his vanity and egotism&#44; and I may say his non&#45;over&#45;strict<lb/> adherence to &#91;Hebrew&#93; by the following&#58; &#34;While the different<lb/> &#34;candidates were on peroba in London&#44; I was applied to&#44;<lb/> &#34;to take the office of Senior &#91;Hebrew&#93; and Preacher which I<lb/> &#34;declined&#59; and then application was made to my friend M<hi rend="sup">r</hi>.<lb/> &#34;Piza of Montreal.&#34;  When these words were spoken to me&#44;<lb/> I wrote to London to several friends&#44; and all I could<lb/> learn was that it was false in every respect.  Now<lb/> you may judge for yourself whether I have drawn a<lb/> false estimate of his character.  May you live<lb/> long and happy in the confidence&#44; love and esteem<lb/></p>
+            
+            <pb n="2"/>
+            <p>of your congregation&#59; and may your days pass as<lb/> the latter ones of Job.  Hoping soon to be&#44;<lb/> favoured with a few lines&#44; and therein any London<lb/> news you may obtain believe me to be tho&#39;<lb/> unknown  Your sincere friend &#38; well wisher<lb/> A. I. H. Bernal<lb/></p>
+            
+            <p>Excuse the writing as I have the Rheumatism<lb/> in my arm.<lb/></p>
+            <p>P. S.  Are you acquainted with Mr. J. L. Hackenburg&#44;<lb/> one of the best and most worthy men in your<lb/> city &#40;tho&#39; now poor&#41; he resides 116 Race St. just<lb/> below 4<hi rend="sup">th</hi>.&#45;&#45;if you can&#44; please give my best<lb/> love to him &#38; his amiable daughter with that<lb/> of all my family.<lb/></p>
+            <p>I wish my circumstances would enable<lb/> me to return to your city.<lb/></p>
+            <p>Please furnish me with your address.<lb/></p>
+            
+            <p>Who is Jacob Mendes De Solla&#44; the newly elected Hazan &#38;c<lb/> of Richmond&#44; Va<lb/></p>
+            
+            <pb n="3"/>
+            <p>Rev<hi rend="sup">d</hi> Sabbathai Morais<lb/>
+                care of A. Hart Esq<lb/>
+                cor. 4<hi rend="sup">th</hi> &#38; Chestnut<lb/>
+                Philadelphia<lb/>
+                Pa<lb/></p>
+            </body>
+    </text>
+</TEI>

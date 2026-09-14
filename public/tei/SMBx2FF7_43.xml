@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF7_43</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-07" source="" attested="yes">24 July 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff7_41_1r.tif"/>
+                                <graphic url="smbx2ff7_41_1v.tif"/>
+                                <graphic url="smbx2ff7_41_2r.tif"/>
+                                <graphic url="smbx2ff7_41_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>&#41;ESTABLISHED 1850.&#41;<lb/>
+                THE HEBREW LEADER&#44;<lb/>
+                294 BROADWAY&#44;<lb/>
+                &#40;P. O. Box 514&#41;<lb/></p>
+            <p>New York&#44; July 24<hi rend="sup">th</hi> 1879<lb/></p>
+            <p>Revd. S. Morais<lb/>
+                Philadelphia<lb/>
+                Dear Sir<lb/></p>
+            <p>It is proposed by<lb/> some respectable Jewish Gentlemen.<lb/> (orthodox&#41; to form a United States<lb/> Jewish Alliance&#44; having for its object&#44;<lb/> the establishment of a Jewish Academy &#38;<lb/> College in this City.  The forming of a Shechitor&#91;&#63;&#93;<lb/> Board for licensing Shochets&#44; a national<lb/> Jewish Labor Department or Employment Office.<lb/>  The erection of model family houses for the<lb/> Jewish poor&#44; etc etc.  What do you<lb/> think of such a project&#63;<lb/></p>  
+            <p>With kind regards Very Respectfully<lb/>
+                Dear Doctor<lb/>
+                &#91;&#63;&#93;<lb/></p>
+                
+                <pb n="2"/>
+            <p>Phila July 31<hi rend="sup">st</hi> 1879<lb/></p>
+            <p>Dear Sir<lb/></p>
+            <p>After a few days reflection&#44; I give you my views on the subject<lb/> of your favor of the 24<hi rend="sup">th</hi> inst.  A Jewish Academy is not needed<lb/> yet&#44; but all good men who wish the permanence of Judaism&#44; should favor &#34;free<lb/> schools&#44;&#34; give them a fresher &#91;crossed&#45;out&#93; impulse and see that with the knowledge of reading and translating Hebrew&#44; that<lb/> of the spirit of Mosaism&#44; and prophetism is imparted.  Ministers should labor<lb/> in their respective spheres to promote the study of higher branches of sacred literature&#44; inviting all without Minhag<lb/> distinctions to <del>benefit</del> avail themselves of the instruction.  A shechetah&#91;&#63;&#93; Board ought to exist but<lb/> its formation should &#91;crossed&#45;out&#93; bear the stamp of congregational authority.<lb/>  A meeting of <del>such of</del> &#91;&#63;&#93; leading congregations which the Rabbis and preachers who possess the qualifications<lb/> to examine&#44; be <del>present</del> asked to attend and receive a sanction from the representatives of &#91;&#63;&#93; of Jews&#44; would lend more weight to the <del>authority &#91;&#63;&#93; by</del> regulations of the Board&#44; and<lb/> get us a restraint on the &#91;&#63;&#93;&#44; not always tractable.<lb/></p>
+            <p>About the practicability of a labor office&#44; &#38; the creation of model family houses&#44; I find<lb/> myself utterly incompetent to pronounce an opinion.  It strikes me&#44; however&#44; that we fall<lb/> very short in performing our duty towards the poor of our faith.  With the &#91;&#63;&#93; our coreligionists are said<lb/> to possess&#44; we ought to be bred to elevate the condition of <del>the</del> indigent Israelites.  We Philadel&#45;<lb/>phians have somewhat improved in the method of dispensing charity&#44; still we are very very<lb/> far from reaching perfection.  In a city like yours a fund created for the purposes you name<lb/> if managed by clear&#45;headed&#44; trust&#45;worthy and tender&#45;hearted persons might accomplish<lb/> a wonful&#91;sic&#63;&#93; abundance of good.  Hoping that your resolves may &#91;&#63;&#93; to the lasting ad&#45;<lb/>vantage of the cause you have espoused&#44; I remain<lb/></p>
+            <p>yours respectfully<lb/>
+                S. Morais<lb/></p>
+            
+            <pb n="3"/>
+            <p>&#41;ESTABLISHED 1850.&#41;<lb/>
+                The Leading Jewish Paper in America.<lb/>
+                THE<lb/>
+                HEBREW LEADER&#44;<lb/>
+                NO 294 BROADWAY&#44;<lb/>
+                NEW YORK.<lb/></p>
+            <p>Revd. S. Morais&#34;<lb/>
+                Philadelphia<lb/>
+                Penn.<lb/></p>
+        </body>
+    </text>
+</TEI>

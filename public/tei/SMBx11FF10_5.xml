@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF10_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff10_5_1r.tif"/>
+                                <graphic url="smbx11ff10_5_1v.tif"/>
+                                <graphic url="smbx11ff10_5_2r.tif"/>
+                                <graphic url="smbx11ff10_5_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>a funeral oration<lb/></p>
+            <p>Brethren&#33;  Among the duties which the religion of Israel imposes&#44;<lb/> that of affording the dead an honorable burial&#44; has at all times been held sacred&#44; and<lb/> received from its followers universal obedience.  They The cynically disposed who affect<lb/> contempt for our maternal nature&#44; may declare the choice of the<lb/> mode of disposing of in which our inanimate body is to be disposed of quite unimportant&#59; but<lb/> the descendants of the patriarchs&#44; have been taught to consider the<lb/> human frame&#45;&#45;divinely appointed as the receptacle of the undying<lb/> spirit&#45;&#45;worthy of respect.  From the days of Abraham&#44; the<lb/> Hebrews have assigned a spot&#44; whither the departed may be conveyed<lb/> with imposing solemnity&#44; and whereon they who grieve may shed a<lb/> silent tears.  The call of In response to that duty&#44; whose performance must tem&#45;<lb/>&#45;porarily suspend the <sic>fulfilment</sic> of other essential obligations &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;&#44; have convened in we are clustered round these coffin mortal remains.  We<lb/> will have convened together to becomingly accompany our hoary&#45;headed brother to his final home.<lb/>  But jointly with this pious act&#44; our ancestral religion demands<lb/> &#91;Hebrew&#93; that the mourners be sought after&#44; to offer them and be offered conso&#45;<lb/>&#45;lation.  Judaism which aims to foster sympathetic feelings of human among the denizens<lb/> sympathy of this nether world asks that by word fittingly spoken&#44; a restorative<lb/> balm be applied to the hearts that sorrow.  Accordingly&#44;<lb/></p>
+            
+            <pb n="2"/>
+            <p>our Sages were wont to improve the occasion on which they might<lb/> comfort the bereaved by their opportune speaking.  And illustrations<lb/> of the kind offices they thus rendered mankind&#44; are recorded&#44; as an<lb/> incentive to their disciples.  Yet&#44; eager as I am to copy that<lb/> bright exemplar&#44; I find&#44; in the present instance&#44; that the correct sentiments<lb/> with which the family of my deceased friend are imbued&#44; open to<lb/> them a source of comfort consolation&#44; which I would&#44; in vain&#44; strive to supply.<lb/>  They naturally feel that a link has been broken in the silvery<lb/> chain that binds them together.  They cannot at this hour contem&#45;<lb/>&#45;plate with serenity the void which death has created by death in their circle.  But<lb/> the sadness experienced is mitigated by the reflector of God&#39;s<lb/> signal favors towards them and the beloved departed.  For&#44; his<lb/> brows had been encircled with that which the moralist of yore wisest of Kings<lb/> pronounced to be &#34;a crown of glory&#34; &#91;Hebrew&#93;&#44; even the attaining<lb/> of an exceedingly old age.  The jewels in that diadem sparkled shone<lb/> with brilliantly.  Numerous descendants vying with each other to do<lb/> their octogenarian sire reverence.  But the pious resignation<lb/> for the loss sustained&#44; must ripen into deep gratitude when<lb/> the mind reverts to the last moments of Hyman Polack upon earth.<lb/></p>
+            
+            <pb n="3"/>
+            <p>How few are those to whom such happiness is vouchsafed&#63;<lb/>  To retain all faculties unimpaired&#44; until the soul takes is about preparing to its flight<lb/> above.  To suffer none of the agonies which ordinarily precede<lb/> our dissolution.  To compose oneself as for a great slumber&#44; suddenly<lb/> to awaken in the realms of eternity.  Aye&#44; my friend&#33;  A murmur&#44;<lb/> a lament over a husband and a father who reached beyond was was celestially permitted to step beyond the limits<lb/> allotted to mortals&#44; and who died departed hence so wondrously at peace&#44; would be<lb/> a sin against the Lord of mercy.  You will not&#44; I am confident&#44;<lb/> trespass so greatly.  You will cherish the memory of the deceased<lb/> you loved well.  You will honor his name&#44; and rehearse his praises amid<lb/> his progeny.  But you will ever esteem yourselves blessed&#44; as you<lb/> revolve on your minds the words he forcibly uttered only an hour<lb/> before his transition from earth to heaven.  &#34;I have cause to be thank&#45;<lb/>&#45;ful&#34; said he&#44; &#34;for the Almighty has shown me the abundance<lb/> of His goodness.&#34;  That confession&#44; the truth of which you have<lb/> witnessed&#44; must prove to you all&#44; his dear relatives&#44; a perennial spring of<lb/> consolation.<lb/></p>
+            <p>But there is some who must lament the death of Hyman<lb/> Polack.  &#91;Hebrew&#93;.  &#34;Grief becomes<lb/> a whole association&#44; who has lost of one of its members&#34; write our Rabbins.<lb/></p>
+            
+            <pb n="4"/>
+            <p>The congregation Mickv&#232; Israel has reason to be sad.  For of late<lb/> its ranks have of late been thinned away.  Many who had inscribed<lb/> their names among its original founders and supporters have gone to<lb/> their long home&#44; and now I am called upon to perform the obsequies<lb/> and funeral rites of the oldest of the members that had hitherto sur&#45;<lb/>&#45;vived.  Yes&#44; I am sad because the veterans have fallen&#44; and<lb/> their places are not being filled.  I am sad&#44; because those<lb/> who had stood as a bulwark against the onslaughts constantly<lb/> made on the ancestral religion&#44; are no more&#44; and the Jewish<lb/> fabric is exposed to imminent danger.  Save it O God for<lb/> the sake of Thy covenant&#33;  Strengthen and uphold the hands<lb/> that labor for Thy holy cause&#44; and hearken unto the <sic>intreaty</sic><lb/> offered by the faithful&#44; who address Thy throne in angelic<lb/> language.  Our venerable brother&#44; whose spirit has just been ushered<lb/> into Thy presence&#44; will pray for the preservation of Thy laws&#44; and<lb/> the continuance of his congregation&#44; as at first constituted.  Grant<lb/> his petition&#44; and inspire us with humility&#44; that we may with single&#45;<lb/>&#45;ness of purpose follow the dictates of our prophets and sages&#59; cling&#45;<lb/>ing unto Thee here below as to the only anchor of salvation&#44; and<lb/> deserving thereby to join the chorus of the blessed in the world which is<lb/> everlasting.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>

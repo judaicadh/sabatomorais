@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Drachman, Bernard</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF11_20</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Drachman, Bernard</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Rockaway Beach, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-07" source="" attested="yes">11 July 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff11_20_3r.tif"/>
+                                <graphic url="smbx4ff11_20_3v.tif"/>
+                                <graphic url="smbx4ff11_20_1r.tif"/>
+                                <graphic url="smbx4ff11_20_1v.tif"/>
+                                <graphic url="smbx4ff11_20_2r.tif"/>
+                                <graphic url="smbx4ff11_20_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>From<lb/>
+                Rev. Dr. Drachman<lb/>
+                <hi rend="underline">Rockaway Beach Box 42</hi><lb/></p>
+            <p>Rev. Dr. S. Morais<lb/>
+                546 N. 5<hi rend="sup">th</hi> St<lb/>
+                Philadelphia<lb/>
+                Pa.<lb/></p>
+                
+                <pb n="1"/>
+            <p>Rockaway Beach&#44; July 11&#47;88<lb/></p>
+            <p>Dear Dr.<lb/></p>
+            <p>As you may need it for<lb/> the purpose of preparing a report<lb/> I again send a list of the subjects<lb/> in which the Seminary classes were<lb/> prepared for examination.  The<lb/> lower class had read with me&#44;<lb/> 20 chapters of Genesis with &#91;Hebrew&#93;&#44;<lb/> 50 Psalms&#44; the history from Joshua<lb/> to the death of <hi rend="underline">David in the original</hi><lb/> and the Grammar of the Noun and<lb/> Verb.  The higher class read eight<lb/> &#40;not six&#41; chapters of Exodus with a<lb/></p>
+                
+                <pb n="2"/>
+            <p>selection of commentators and in<lb/> Grammar had learnt the regular<lb/> verb.  With Dr. Lieberman the<lb/> lower class read Mishna Sabbath<lb/> and Talmud Bala Metzia and<lb/> the higher class Talmud Berachoth<lb/> and Chullin but the quantities I am<lb/> unable to state.<lb/></p>
+            <p>There are two subjects on which I<lb/> am very anxious to be informed&#44;<lb/> firstly&#44; concerning the results of the<lb/> examination as affecting the arrang&#45;<lb/>&#45;ement of classes it being evident<lb/> that the lower class contains boys of very<lb/> different degrees of progress&#44; secondly&#44;<lb/> concerning the <del>&#91;&#63;&#93;</del> course of<lb/> studies for the next years as I do<lb/> not how we are to arrange it in<lb/></p>
+                
+                <pb n="3"/>
+            <p>order to make it correspond to the de&#45;<lb/>&#45;mands of the curriculum.  Perhaps<lb/> when you are again in New York you<lb/> will arrange for a conference to settle<lb/> this point.  I delivered my first<lb/> lecture of the summer course last Sun&#45;<lb/>&#45;day&#44; the Seminarists were all<lb/> present but very few of the general<lb/> public.  I have also called on the<lb/> Chief Rabbi of the Polish congregation&#44;<lb/> who impressed me very favorably.<lb/>  At my next visit I shall try to<lb/> bring up the matter of the Seminary<lb/> and gain him over.<lb/></p>
+            <p>Hoping to have the pleasure of meeting<lb/> you soon again&#44; I remain<lb/> very respectfully<lb/> Bernard Drachman<lb/></p>
+            </body>
+    </text>
+</TEI>

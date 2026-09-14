@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Peixotto</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx1FF24_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Peixotto</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1868-08" source="" attested="yes">23 August 1868</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx1ff24_3_1r.tif"/>
+                                <graphic url="smbx1ff24_3_1v.tif"/>
+                                <graphic url="smbx1ff24_3_2r.tif"/>
+                                <graphic url="smbx1ff24_3_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/> 
+            
+            <p>To		Franklin Ville Ab. 23<hi rend="sup">Rd</hi> 5628<lb/>
+                The<lb/>
+                Revd S. Morais<lb/></p>
+                
+            <p>My Dear and Respected Friend<lb/></p> 
+            <p><sic>Consciencious</sic> scruples<lb/> being satisfied as to the necessity<lb/> of my absence from a<lb/> Congregation on the memora<lb/>ble day of this month so replete<lb/> with sad events to all Israel&#44;<lb/> I feel that you my spiritual<lb/> guide are also entitled to some<lb/> consideration and therefore<lb/> devote a few minutes in com&#45;<lb/>municating to you the man&#45;<lb/>ner in which I spent the<lb/> entire day&#59; not alone in com&#45;<lb/>pliment to the deep interest which<lb/> I have ever found manifested by<lb/> you for your entire congre<lb/>gation&#44; but for the high approb<lb/>ation of your merits&#44; and the<lb/> respect due for the favors I<lb/> have &#91;&#63;&#93; revived at<lb/> your hands I know it will<lb/> gratify you to learn that I was<lb/> able to fast the whole day&#44; which<lb/></p>
+                
+                <pb n="2"/>
+            <p>for the last two years I could <del>had</del><lb/> not.  I sat alone in my room<lb/> till I had gone through as much<lb/> of our service as usual<lb/> occasionally singing aloud&#44; to<lb/> feel nearer to my people and<lb/> to that &#91;&#63;&#93; blessed Land we<lb/> now mourn.  I also felt that<lb/> it was distinguishing the day much<lb/> more sensibly by the doleful<lb/> sound of my own voice on<lb/> this lamentable day my<lb/> image native powers served<lb/> me well in conducting me to<lb/> the sacred spot to which you<lb/> repair bearing with pious zeal<lb/> the testimony of God&#39;s favor<lb/> to His chosen ones.  I went<lb/> through every scene step by step<lb/> till I conclude the morning<lb/> service read part of the Book<lb/> of Job and pondered over the<lb/> advantages of a pious life and<lb/> perfect faith and trust in the<lb/> most High.  The morning being<lb/> thus spent in doleful loneliness<lb/> I could I could<sic></sic> better hear than in loneliness<lb/> the cheerful N&#91;&#63;&#93; and<lb/> the thrilling prayers throughout<lb/></p>
+                
+                <pb n="3"/>
+            <p>bearing strong contrast to the<lb/> home manner I questioned<lb/> myself as to the right of such<lb/> self infliction&#44; while the consci&#91;&#63;&#93;<lb/> &#91;&#63;&#93; come to my aid<lb/> saying&#44; are you not once<lb/> more enabled to respond<lb/> your whole days fast&#63; &#38;c &#38;c<lb/> This my Reverend friend was<lb/> the day spent though too far<lb/> from my home and kindred<lb/> The children were star gazing<lb/> till near eight oclock&#44; then pro&#45;<lb/>nounced it a clanny&#91;&#63;&#93; evening<lb/> tea being carefully prepared<lb/> I sat down to the plain<lb/> repast trusting that God<lb/> would look with favor on<lb/> the day.  I felt the next day<lb/> more vigorous than I had for<lb/> some time thus proving that<lb/> the light air of the country&#44; and<lb/> a temporary relaxation from<lb/> labor were highly necessary<lb/> my regards to Mrs M. who will<lb/> I hope be much benefit<sic></sic> by her<lb/> sojourn in Cape May.  Please dear<lb/> sir to accept the high esteem of<lb/></p> 
+            <p>Yours Respectfully.<lb/>
+                S. C Peixotto<lb/></p>
+                
+                <pb n="4"/>
+            <p>Should Esdoile&#91;&#63;&#93; Flrance<lb/> return to the city ere I do&#44; with<lb/> you be kind enough to<lb/> hasten him on with his Portion<lb/> as I have no doubt his Larmer&#91;&#63;&#93;<lb/> rambles have not aided him<lb/> much in that department.<lb/>  Love to Nina and the children<lb/></p>
+            <p>S. C. P.<lb/></p>
+                
+            <p>Will you dear sir favor<lb/> me by sending the<lb/> enclosed as I know not if<lb/> the family be in the city&#44;<lb/> should they be absent you<lb/> can keep it till they return<lb/></p>
+            <p>S. C. P.<lb/>
+            </p>
+            
+        </body>
+    </text>
+</TEI>

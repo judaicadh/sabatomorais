@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Barnum, N. K.; Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF11_28</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Barnum, N. K.; Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet></placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1885-07" source="" attested="yes">27 July 1885</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff11_27_2r.tif"/>
+                                <graphic url="smbx3ff11_27_2v.tif"/>
+                                <graphic url="smbx3ff11_27_1r.tif"/>
+                                <graphic url="smbx3ff11_27_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>TERMS FOR ADVERTISING.
+                Harper&#39;s New Monthly Magazine.&#45;&#45; A few select advertisements will be accepted for the back part of the MAGAZINE at he fol&#45;<lb/>lowing rates&#44; each insertion&#58;<lb/>
+                Small cards on an inside page&#44; per line......................................&#36; 2.00<lb/>
+                &#91; two columns for next three lines&#59; first column&#93;
+                First page of advertisement sheet&#44; or Third&#45;cover page...........&#36;500 00<lb/>
+                One&#45;half of such page when whole page is not taken...........&#36; 300 00<lb/>
+                One&#45;quarter of such page when whole page is not taken......&#36;150 00<lb/>
+                &#91;second column of three lines&#93;
+                An inside page of advertisement sheet...................... &#36;250 00<lb/>
+                One half of such page................................................  150 00<lb/>
+                One quarter of such page...........................................    75 00<lb/>
+                Fourth &#45;cover page......................................................&#36;1500<lb/></p>
+                
+            <p>Copy must be received six weeks in advance of sate of publication&#58; thus&#44; for March MAGAZINE copy must be not later than January 15.<lb/></p>
+            <p>HARPER&#39;S WEEKLY&#58; Per line&#44; each insertion&#44; Inside&#44; &#36;1 50; Outside&#44; &#36;2 00. Closes Friday at 9 A.M.<lb/></p>
+            <p>HARPERS BAZAR&#58; Per line&#44; each insertion &#36;1 00. Closes Saturday at 9 A.M.<lb/></p>
+            <p>HARPER&#39;S YOUNG PEOPLE&#58; COVER PAGES&#44; per line&#44; each insertion&#44; 50 cents. Closes Wednesday at 9 A.M.<lb/></p>
+            <p>Special Reading Notices in WEEKLY or BAZAR&#44; &#36;2 00 per line.		Average&#44; eight words to a line&#59;; twelve lines to an inch.<lb/></p>
+                
+            <p>N.K. BARNUM&#44; ADVERTISING AGENT.<lb/></p>
+            <p>Address&#58; Care of HARPER &#38; BROTHERS&#44; FRANKLIN SQUARE&#44; NEW YORK.<lb/></p>
+                
+            <p>July 27 1885<lb/></p>
+            <p>Rev S  Morais D.D.<lb/>
+                Dear Sir<lb/></p>
+            <p>My friend E W Arnold Esq<lb/> of N.Y. tells me that you are an emine&#45;<lb/>nt Hebrew Scholar &#38; that I can use his<lb/> name to write you. So I take the liberty<lb/> to ask you to give me the proper rendering<lb/> from the original Hebrew of the the word<lb/> &#34;Raven&#34; as it occurs I Kings 17<hi rend="sup">th</hi> 6 verse<lb/> from my limited stand it <sic>seemes</sic> to me<lb/> it should be arabins&#44; or more properly<lb/> &#34;Arabs&#44;&#34; but those who are more in the<lb/> Miracelons&#91;&#63;&#93; contend the word is<lb/> properly translated &#34; Ravens&#34;. You can<lb/> answer at your convenience.<lb/></p>
+            <p>With great respect  Yours truly<lb/>
+                &#91;stamped in blue ink&#93; N.K. BARNUM.<lb/></p>
+            <p>29 Halsey St Brooklyn NY.<lb/></p>
+                
+                <pb n="2"/>
+            <p>Dear Sir<lb/></p>
+            <p>Without denying the Author of Nature the power to use His creatures as He wills&#44; I<lb/>  am personally inclined to your opinion. In fact&#44; the question is discussed in the Talmud &#40; Treatise Holin&#91;&#63;&#93; p 5&#41;&#44; and<lb/> views are there expressed &#94; as to the possibility that the historian may have meant by &#34;Arebim&#34; men from the fortress of &#34;Areb&#34;.<lb/> &#40;See Judges VII. 25&#41;.  Still&#44; the discussion favors the general rendition&#59; nor can it be denied that the punct<lb/>uators understood the word so&#44; for they <del>connected with its</del> attached to its consonants such vowel&#45;points as might make the <del>word</del> Hebrew term<lb/> read &#94; &#40;Arebim&#41; &#34;Ravens&#34; <del>&#40;Arebim&#41;</del> whereas the vowels for <hi rend="underline">Arabs</hi> would be different  <del>and the word is Hebrew</del> we would read them<lb/> <del>would read</del> Arabiyini &#94; and not rebim. The whole chapter &#40; I Kings XVII&#41; evidences a  wish on the part of the<lb/> narrator to present Elijah as a being for whose sake nature <del>would be</del> was diverted from her course.<lb/></p>
+            <p>Yours respectfully<lb/>
+                S. Morais<lb/></p>
+            <p>July 28&#47; 85<lb/></p>
+                
+                
+                
+                
+                <pb n="3"/>
+            <p>July 28&#91;&#44;&#93; 1885<lb/></p>
+                
+            <p>In answer to a man with Harper&#39;s about<lb/> the word translated Raven.<lb/>
+                Dear Sir&#44;<lb/></p>
+            <p>Without denying the Author of Nature<lb/> the power to use his creation as He wills&#44; I am<lb/> personally inclined to your opinion. In fact the<lb/> question is discussed in the Talmud &#40;treatise...&#41;<lb/> and views are there expressed as to the possibility<lb/> that the historian may have meant by &#34;Arebim&#34; men<lb/> from the fortress of &#34;Areb&#34; &#40;Judges...&#41; Still the<lb/> &#45;&#45;&#45; favors the general rendition&#59; nor can it be<lb/> denied that the translators understood the word so&#44; for<lb/> they attached to its consonants such vowel points as<lb/> might make the Hebrew term read &#40;&#34;Arebim&#34;&#41; &#34;Ravens&#34;<lb/>&#45;&#45; the vowels for Arabs would be different<lb/> we  would read them Arabiyini and not Arebim.  The whole<lb/> chapter &#40;I Kings XVII&#41; evidence a wish on the part<lb/> of the narrator to present Elijah as a being for<lb/> whose sake nature was diverted from her course&#91;.&#93;</p>
+            <p>Yours respectfully<lb/>
+                <sic>signde</sic><lb/></p>
+        </body>
+    </text>
+</TEI>

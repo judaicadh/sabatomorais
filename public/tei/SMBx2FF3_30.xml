@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Miller, M. R.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF3_30</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Miller, M. R.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1876-10" source="" attested="yes">17 October 1876</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff3_29_1r.tif"/>
+                                <graphic url="smbx2ff3_29_1v.tif"/>
+                                <graphic url="smbx2ff3_29_2r.tif"/>
+                                <graphic url="smbx2ff3_29_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>301 S. Eighth st<lb/></p>
+            <p>Philadelphia&#44; Oct. 17&#44; 1876.<lb/></p>
+            <p>Rev. S. Morais&#58;<lb/>
+            Dear Sir&#44;<lb/></p>
+            <p>Our conversation last<lb/> <sic>sunday</sic> evening impressed me&#44; and I was<lb/> thinking of it all through the night.  If the<lb/> death of Socrates affected people very tenderly<lb/> and caused them to be at variance&#44; it would<lb/> be very appropriate advice to let the subject<lb/> alone&#44; and not admit it into public discus&#61;<lb/>sion.  Or&#44; if the Methodists were trying<lb/> to prejudice the public against Calvinism&#44;<lb/> and were constantly bringing the charge against<lb/> Calvin that he persecuted Servetus&#44; and that<lb/> Servetus died a martyr from the cruel perse&#61;<lb/>cution of Calvin&#44; and if they were thus driving<lb/> the wedge of exasperated separation among<lb/> Christians&#44; it seems to me that Calvinists<lb/> ought not to object to the hearing of all the<lb/> testimony that can be adduced on the sub&#61;<lb/>ject&#44; but at the same time they might say<lb/></p>
+            
+            <pb n="2"/>
+            <p>that Calvin was only a fallible man&#44; and<lb/> that if he was wrong on the subject of religi&#61;<lb/>ous toleration he might be right on a thou&#61;<lb/>sand more important points&#8212;that this is<lb/> an old question&#44; what part Calvin had in the<lb/> burning of Servetus&#63; and that it ought not<lb/> now to have any influence on any man&#39;s<lb/> faith or life&#44; and that for the sake of peace<lb/> and mutual good will&#44; it is best now to<lb/> let the question sleep.<lb/></p>
+            <p>But this&#44; as it appears to me&#44;<lb/> can not be said of the crucifixion of Jesus.<lb/>  Thousands feel that their own eternal<lb/> life is inseparably connected with the question<lb/> whether Jesus was worthy of death&#63;  It is in&#45;<lb/>finitely far from being a question of the<lb/> past&#44; in which the present living ages need<lb/> not take any special practical interest&#44; Why<lb/> Jesus was hung&#63;  Hence it appears to me<lb/> highly appropriate when we find the doctors<lb/> of the Talmud giving essentially the same<lb/> account of the charge against Jesus that<lb/> is given in the New Testament&#44; to bring them<lb/></p>
+            
+            <pb n="3"/>
+            <p>into court as witnesses and give their<lb/> testimony the value it deserves.  This is all<lb/> that I attempted to do.  I tried to do this work<lb/> fairly.  Silence is not always the best means<lb/> for the establishment of peace&#58; in many in&#45;<lb/>stances the only thing that establishes peace<lb/> is a full and fair investigation.  Christians<lb/> have the right to say in the face of Renau<lb/> and others that the witness of the Talmud<lb/> is against them.<lb/></p>
+            <p>Remember further&#44; that I did not<lb/> cite these evidences from the Talmud as against<lb/> the Jews&#44; but rather <hi rend="underline">as being on the side of<lb/> the truth of the New Testament</hi>.<lb/></p>
+            <p>I expect to leave Philadelphia<lb/> this week&#44; and I will be pleased to see you<lb/> before I leave.<lb/></p>
+            <p>I remain<lb/>
+            Yours very truly<lb/>
+            M. R. Miller.<lb/></p>
+        </body>
+    </text>
+</TEI>

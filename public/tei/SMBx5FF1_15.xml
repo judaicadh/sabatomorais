@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes"></author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF1_15</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes"></author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1889-02" source="" attested="yes">24 February 1889</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff1_15_1r.tif"/>
+                                <graphic url="smbx5ff1_15_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>Published Every Friday.								Telephone&#58; 243&#44; 39th<lb/></p>
+            <p>Editorial Rooms<lb/>
+                The American Hebrew&#44;<lb/>
+                498&#45;500 Third Avenue.<lb/></p>
+            <p>New York&#44; 24th Feb.&#44; 1890<lb/></p>
+            <p>&#40;DICTATED.&#41;
+                DEAR SIR&#58;<lb/></p>
+            <p>In recent years and particularly during<lb/> the summer season&#44; there has been manifested in this country an<lb/> antipathy towards persons of the Jewish faith&#44; strangely at variance<lb/> with that liberality of spirit supposed to be inherent in the<lb/> American character&#44; and contrary to one of the great teachings of<lb/> Christianity&#58; &#34;on earth peace&#44; good will to man.&#34;  This manifests<lb/> itself in the refusal to admit Jews to Summer resorts&#44; in the exclusion<lb/> of Jewish children from various private schools&#45;&#45;all at the demand<lb/> of Christian patrons&#45;&#45;&#44; in the black&#45;balling at clubs of proposed<lb/> Jewish members&#44; and in various other forms.  No discrimination on<lb/> account of character is ever made.  The fact that one is of the Jewish<lb/> faith seems sufficient to bar association with him.<lb/></p>
+            <p>In order to ascertain the cause of this prejudice&#44; and&#44; if pos&#45;<lb/>sible&#44; eradicate it&#44; we have deemed it advisable to address the<lb/> subjoined queries to a limited number of influential Christians of<lb/> various callings and denominations&#44; and would ask your careful con&#45;<lb/>sideration of them&#44; and a reply by the 15th of March&#44; prox.<lb/></p>
+            <p>We admit that Jews&#44; like all human beings&#44; have their ignoble as<lb/> well as noble types&#44; but this difference is as between members of<lb/> the human family&#44; and is not due to their faith&#59; a faith to which&#44; it<lb/> will be admitted&#44; all the dominant sects owe their origin.<lb/></p>
+            <p>We ask your candid reply to these questions.  If you have in<lb/> mind what you consider wholesome truths&#44; please do not hesitate to<lb/> state them&#44; however unpalatable you think they may be to either<lb/> Jew or Christian.  They may help us to understand more thoroughly<lb/> the causes of a prejudice which&#44; while it exists&#44; is as un&#45;Christian<lb/> as it is un&#45;American.<lb/></p>
+            <p>We are sure that your inborn sense of justice will induce you<lb/> to assist in wiping out this unworthy sentiment&#44; as a matter of<lb/> fairness to your fellowman and duty to your faith.<lb/>  Respectfully&#44; yours&#44;<lb/></p>
+            </body>
+    </text>
+</TEI>

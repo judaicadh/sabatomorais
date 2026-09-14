@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Ensel, G. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF6_94</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Ensel, G. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Springfield, IL</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1878-11" source="" attested="yes">November 1878</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff6_95_1r.tif"/>
+                                <graphic url="smbx2ff6_95_1v.tif"/>
+                                <graphic url="smbx2ff6_95_2r.tif"/>
+                                <graphic url="smbx2ff6_95_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>Springfield Ills November 1878<lb/></p>
+            <p>Revd S. Morais<lb/>
+                Philadelphia Pa.<lb/></p>
+            <p>Dear Sir&#33;  Although a perfect stranger to you&#44; I take<lb/> the liberty to address these lines to you&#44; as an<lb/> explanation to the enclosed slips from our local<lb/> papers.  Since nearly 40 years an ardent student<lb/> of Church Music in general and Hebrew &#91;Hebrew&#93;<lb/> in particular&#44; I have been encouraged by some<lb/> friends&#44; when attending the Milwaukee Council&#44;<lb/> to revive my musical studies as to our ancient<lb/> Traditional Melodies and to assist in a future<lb/> effort to gather them&#44; thus to metamorphose them<lb/> from &#91;Hebrew&#93; to &#91;Hebrew&#93;.  I have spent the<lb/> last 6 or 8 months in the study of this&#44; my old<lb/> hobby&#34;&#34;and the first fruit in the lecture by<lb/> invitation of a Christian Church.  To still<lb/> augment my collection&#44; I like to study the<lb/> &#34;Portuguese&#34; melodies and in order to attain this desired<lb/> end&#44; I would most respectfully ask you&#44; whether there<lb/> are musical works printed&#44; which contain the Portug.<lb/> Liturgy&#8212;not only a few Hymns or Pintim&#91;&#63;&#93;&#44; but<lb/> <hi rend="underline">the</hi> Liturgy&#8212;Psalm &#91;&#63;&#93;&#44; Canticles and all.<lb/></p>
+                <pb n="2"/>
+            <p>are there&#44; besides the music&#44; works in either<lb/> Hebrew&#44; <sic>french</sic> or Italian&#34;&#34;treating on the<lb/> subject&#44; so as to enable me to get acquainted<lb/> with the Liturgy&#63;  I understand somewhat these<lb/> 3 languages and I believe&#44; I could even work my&#45;<lb/>self into the <sic>spanish</sic>&#44; if a work should be<lb/> written in that language.<lb/></p>
+            <p>Hoping you will kindly excuse me<lb/> from addressing you&#44; I do so on the suggestion<lb/> of my friends Dr Sonnerheim in St Louis and<lb/> Dr Wise in Cincinnati&#44; to whom I am permitted<lb/> to refer.<lb/></p>
+            <p>Please God&#44; I intend to visit the<lb/> East next summer for the conference&#44;<lb/> when&#34;&#34;with your permission&#8212;I shall<lb/> have the honor to pay you a visit and<lb/> make your personal acquaintance.<lb/></p>
+            <p>To disabuse you from any<lb/> <hi rend="underline">high</hi> opinion&#44; you may form about me<lb/> as to my &#34;erudition&#44; deep scholarly<lb/> learning&#44; L&#91;&#63;&#93; I beg to state&#44;<lb/> that I am a Merchant now&#44; and 22<lb/> years ago was a&#8212;Chasan.  But I<lb/> have retained my love for Jewish Affairs<lb/></p>
+                
+                <pb n="3"/>
+            <p>and especially Hebrew music and am<lb/> constantly connected with everything&#44;<lb/> that tends to make our Holy Religion<lb/> more deeply rooting in the hearts of our<lb/> co&#45;religionists.<lb/></p>
+            <p>Again asking your pardon for<lb/> my intrusion upon your time&#44; I am&#44;<lb/> Revd Sir<lb/></p>
+            <p>Yours most Respectfully<lb/>
+                G S Ensel.<lb/></p>
+        </body>
+    </text>
+</TEI>

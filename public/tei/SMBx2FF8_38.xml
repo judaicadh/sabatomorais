@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Isaacs, A. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF8_38</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Isaacs, A. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1879-11" source="" attested="yes">17 November 1879</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff8_38_1r.tif"/>
+                                <graphic url="smbx2ff8_38_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>The &#34;Jewish Messenger&#44;&#34;<lb/>
+                92 Walker Street.<lb/></p>
+            <p>New York&#44; Nov 17 1879<lb/></p>
+            <p>My dear Friend&#58;<lb/></p>
+            <p>I am glad I left 14. alone.  I<lb/> have not Lalle&#39;s emendations.  &#91;&#63;&#93;chender<lb/> has not answered yet.  I did not write<lb/> to Berliner.  Those German fellows are<lb/> terribly busy &#38; neglect their correspondents.<lb/></p>
+            <p>This angle&#45;handed work<lb/> here&#8212;for the present.  Thank God&#44;<lb/> in &#91;&#63;&#93;s&#39; time when the children<lb/> became men &#38; women&#44; I may have an<lb/> &#91;&#63;&#93;bal congregation.  May the dream be<lb/> realized &#38; not rudely be broken<lb/> like so many other visions of young<lb/> men.  Motives of delicacy have<lb/> hitherto restrained me from referring<lb/> to the E. B&#39;way syn. &#91;&#63;&#93; which is<lb/> being &#91;&#63;&#93;rred on steadily&#44; with excellent<lb/> results&#44; &#38; in which I shall very<lb/> soon open classes in Mishna&#44;<lb/> Bible &#38; Jewish History&#44; for Sabbaths<lb/> &#40;12&#45;2&#41;.  But now since I suggested to<lb/></p>
+                
+                <pb n="2"/>
+            <p>&#91;&#63;&#93; to start me in his syn.&#44; I can refer to<lb/> that without being suspected of personal<lb/> advertisement.  On Sabbath last&#44; I attended<lb/> the service there &#40;I preach once a month&#41;<lb/> &#38; the sight was superb.  I have never<lb/> seen such an assemblage of children<lb/> in a synagogue for worship.  There were<lb/> nearly 400 &#38; the wall was lined<lb/> with grown people.  &#91;&#63;&#93; spoke well<lb/> &#38; to the point.  Oh&#44; his blessed<lb/> work&#44; which shall bring its<lb/> fruition in time.  As soon as<lb/> one year more passes&#44; &#38; the boys<lb/> and girls are a little maturer&#44; there<lb/> are many ways of improving the<lb/> method in use.  Their English literature<lb/> must be taught as well &#38; Sunday evenings<lb/> I shall utilize for social purposes<lb/> making the little ones read&#44; sing <del>play</del>&#44; &#38; dance &#38; have then parents at<lb/> hand.  This is the best way to<lb/> Amer. them.<lb/></p>
+            <p>Yours&#44;<lb/> 
+                A S Isaacs<lb/>
+                Rev. S. Morais<lb/></p>
+        </body>
+    </text>
+</TEI>

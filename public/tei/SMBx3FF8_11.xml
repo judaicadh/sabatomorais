@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Henry, H. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx3FF8_11</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Henry, H. S.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1884-09" source="" attested="yes">5 September 1884</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx3ff8_11_1r.tif"/>
+                                <graphic url="smbx3ff8_11_1v.tif"/>
+                                <graphic url="smbx3ff8_11_2r.tif"/>
+                                <graphic url="smbx3ff8_11_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>H.S. Henry &#38; Son&#44;<lb/>
+                Box 3144&#44; P.O.<lb/>
+                CABLE ADDRESS&#45;&#45;KENRY&#44; NEW YORK.<lb/></p>
+                
+            <p>48 Exchange Place&#44;<lb/>
+                New York&#44; 5 Sept. 1884<lb/></p>
+                
+            <p>Rev<hi rend="sup">d</hi> S. Morais<lb/>
+                Philadelphia<lb/></p>
+            <p>Dear Sir&#44;<lb/></p>
+            <p>I am in receipt of your favor of 4 Inst<lb/> and notice all your remarks in reply to mine of the<lb/> 29 Ult. &#32;  I can only regret that spite&#91;&#63;&#93; of the<lb/> interest evidently taken in the affairs of the Colony<lb/> at Vineland&#44; so little to likely to result of benefit to<lb/> our poor brethren there. &#32; From the action of Mr.<lb/> D. Sulzberger in withdrawing promises made in behalf<lb/> of the family Bessman&#44; because he understood that<lb/> some people from New York were visiting the colony. I<lb/> should imagine that you thought us able to respond to<lb/> every kind of call&#44; irrespective of what I wrote to you<lb/> as to our pecuniary condition.  I can conscientiously<lb/> say on behalf of myself and colleagues&#44; that we&#91;&#63;&#93; never<lb/> made a promise to any poor colonist that we did not<lb/> carry it out&#44; and if the poor Bessmans are to be<lb/> deprived of your aid and bounty on any grounds other<lb/> than their own demerits&#44; I consider it unjust and<lb/> cruel in the extreme. In New York&#44; we are apt to<lb/> do our charity first&#44; and think of it afterwards&#8212;it is<lb/> the reverse of charity&#44; to promise a poor man something<lb/> and then&#44; because we fancy somebody else will find<lb/> the money&#44; refuse to extend the necessary aid ourselves.<lb/></p>
+            <p>I have not seen any of the Larden&#91;&#63;&#93; gentleman you<lb/> mention&#8212;my time being too much occupied to enable<lb/> me to go with them to Vineland at such short notice&#44;<lb/> and their time being really too much circumscribed<lb/> to permit of their meeting me&#44; as I believe they desire<lb/> to do. &#32; They were very favorably impressed&#44; I<lb/> understand with what they said at Vineland&#44; and<lb/> consider it much more likely to prosper than any<lb/> other Colony they visited. &#32; I can assure you<lb/></p>
+                
+                <pb n="2"/>
+            <p>that there is no idea about abandoning the Colony or<lb/> allowing it to disperse&#44; nor do I see any reason<lb/> for such an eventuality. No measures are<lb/> necessary to this end&#44; beyond some further money<lb/> contributions which will be forthcoming doubtless<lb/> when their necessity is made apparent&#44; and a<lb/> building up of some other &#91;&#63;&#93; at the Colony<lb/> which we have now some chance to secure.<lb/></p>
+            <p>While we shal be grateful for the aid of our brethren<lb/> in Philadelphia&#44; we do not rely on them at all<lb/> as past experience tells us that it is a case of<lb/>&#34;much cry and little wool.&#34;<lb/></p>
+            <p>I close the correspondence with a hope that<lb/> you may still find it convenient to meet me when<lb/> I next go to Vineland&#8212;of which I &#91;&#63;&#93;  inform you<lb/> and I am&#32; Dear Sir<lb/></p>
+            <p>Yours faithfully<lb/>
+                HS Henry<lb/></p>
+        </body>
+    </text>
+</TEI>

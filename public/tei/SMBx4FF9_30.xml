@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Brace, S. C.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF9_30</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Brace, S. C.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-05" source="" attested="yes">May 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff9_30_1r.tif"/>
+                                <graphic url="smbx4ff9_30_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+ 
+                <pb n="1"/>
+            <p>Philada. Record May 1888.<lb/>
+                <hi rend="bold">The Talmud and Dr. Morais.</hi><lb/></p>
+            <p><emph rend="italics">Editor of The Record</emph>&#58;<lb/></p>
+            <p>The Richmond <emph rend="italics">Religious Herald</emph> of this week<lb/> contains the following article&#44; which may not be<lb/> out of place if transferred to your columns.<lb/> S. C. B.<lb/></p>
+            <p>THE TALMUD ON LEAVEN.<lb/></p>
+            <p><emph rend="italics">Editor Religious Herald</emph>&#58; The French trans&#45;<lb/>lation of the Talmud by Schwab&#44; which is in<lb/> course of publication in Paris&#44; opens vol v. with<lb/> the treatise on the Passover.  Amusingly<lb/> minute directions are given for clearing the<lb/> house of leaven in anticipation of this great<lb/> annual feast.  Every apartment into which<lb/> leavened bread can possibly have been carried<lb/> must be searched by the light of a lamp.  The<lb/> wine cellar must be searched&#44; because in the<lb/> course of a repast a servant may have<lb/> been sent to draw more wine&#44; and may<lb/> have had bread in his hand&#44; of which<lb/> pieces may have been dropped.  Search must<lb/> therefore be made <emph rend="italics">around and among</emph> the casks<lb/> of wine&#44; so that all such pieces of <emph rend="italics">bread</emph> may be<lb/> removed.  But what of the wine itself&#63;  Must<lb/> this be removed&#44; as a leavened thing&#63;  There is<lb/> not the slightest hing that such a thought ever<lb/> came into the mind of any rabbi or casuist.  In<lb/> a somewhat extended discussion of minute<lb/> points pertaining to the search there is no<lb/> shadow of a suggestion that anyone ever raised<lb/> the question of whether <emph rend="italics">the wine</emph> was leavened by<lb/> its own fermentation.  Comment on this evi&#45;<lb/>dence is unnecessary.<lb/></p>
+            <p>The learned and highly respected Dr. S. Mo&#45;<lb/>rais&#44; of Philadelphia&#44; who is prominent among<lb/> the Directors of the Hebrew Theological Semi&#45;<lb/>nary&#44; established within a year or two in the city<lb/> of New York&#44; has given to the public his clear<lb/> declaration that&#44; in the view of Israelites&#44; &#34;the<lb/> prohibition of fermentation extends no further<lb/> than to farinaceous substances.&#34;  In a note re&#45;<lb/>cently addressed to the writer of this communi&#45;<lb/>cation he repeats this declaration and adds&#58; &#34;In<lb/> my native country&#44; Italy&#44; I habitually drank or&#45;<lb/>dinary wine&#34;&#45;&#45;meaning in Passover observ&#45;<lb/>ances.<lb/></p>
+            <p>The readers of the <emph rend="italics">Religious Herald</emph> will have<lb/> noticed that Rabbi A. P. Mendes&#44; whom Mr.<lb/> Denison consulted&#44; does not make any objection<lb/> to the imported &#34;strictly <emph rend="italics">kasher</emph> or <emph rend="italics">proper wine</emph>&#34;<lb/> on the ground that it is a fermented wine &#40;as we<lb/> all know that it is&#41;&#44; but because it is &#34;necessarily<lb/> expensive and beyond the reach of any but the<lb/> affluent.&#34;  No matter what substitutes are al&#45;<lb/>lowed by the Jewish teachers&#44; the point remains<lb/> unmoved that these teachers do not regard fer&#45;<lb/>mented grape wine as a leavened article.<lb/></p>
+            <p>By S. C. Brace.<lb/></p>
+            </body>
+    </text>
+</TEI>

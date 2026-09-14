@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Heller, M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx4FF14_17</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Heller, M.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New Orleans, LA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1888-12" source="" attested="yes">4 December 1888</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx4ff14_17_1r.tif"/>
+                                <graphic url="smbx4ff14_17_1v.tif"/>
+                                <graphic url="smbx4ff14_17_2r.tif"/>
+                                <graphic url="smbx4ff14_17_2v.tif"/>
+                                <graphic url="smbx4ff14_17_3r.tif"/>
+                                <graphic url="smbx4ff14_17_3v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 3 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>New Orleans&#44; Dec 4<hi rend="sup">th</hi> 1888.<lb/></p>
+            <p>Rev. S. Morais<lb/>
+                Venerated Colleague&#33;<lb/></p>
+            <p>I fear&#44; your good opinion of me&#44; which makes me so<lb/> proud and happy&#44; when even I think of you&#44; will have been<lb/> shaken considerably by my neglect of answering im&#45;<lb/>mediately those kind words &#40;a very inspiration to me<lb/> at the time&#41; which you had the amiability of sending to<lb/> me.  I cherished them&#44; indeed&#44; above many precious things.<lb/>  With the reverence in which I hold your manhood&#44; with<lb/> the undying impression which that one conversation<lb/> with you has left upon me&#44; staying with me as a fruitful<lb/> source of impulse&#44; I know of no one&#44; whose approval I should<lb/> rather have&#44; if I am now to have his companionship<lb/> advice and ever present example.<lb/></p>
+            <p>The words that I spoke &#40;I take the liberty of sending<lb/> them to you in extenso&#41; were felt fervently and intended<lb/> sincerely&#59; I dislike to say that their effect has been<lb/></p>
+                
+                <pb n="2"/>
+            <p>utterly worthless beyond a little applause and praise.<lb/>  It is energy and not fervor&#44; personal agitation and not<lb/> urgent entreaty that accomplish results&#59; and I find<lb/> my bashfulness and unworldliness a most serious<lb/> hindrance to my work.<lb/></p>
+            <p>But I have not yet told you&#44; venerated sir&#44; <del>why</del> how I<lb/> could have been guilty of such apparent lack of appre&#45;<lb/>ciation&#59; when I inform you that I have in these days<lb/> engaged myself to be married to an estimable and<lb/> loveable young lady&#44; and when you recall the flurry<lb/> of excitement and the flutter of confusion which<lb/> generally attend such crises I am almost certain<lb/> that I shall stand excused with you.<lb/></p>
+            <p>I fear I have no right to occupy your valuable time<lb/> with more converse.  To me a correspondence with you<lb/> would be a great boon.  If you can make the sacrifice<lb/> Rev. Sir&#44; write again&#44; at your convenience to<lb/> Yours Devotedly<lb/> M. Heller.<lb/></p>
+            
+            <pb n="3"/>
+            <p>From<lb/>
+                M. H.<lb/>
+                338 St. Chas.<lb/>
+                N. O. La.<lb/></p>
+            <p>Rev. S. Morais<lb/>
+                546 North Fifth St.<lb/>
+                Philadelphia Pa.<lb/></p>
+            </body>
+    </text>
+</TEI>

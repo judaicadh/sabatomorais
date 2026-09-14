@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx5FF4_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Felsenthal, B.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1889-07" source="" attested="yes">8 July 1889</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx5ff4_1_1r.tif"/>
+                                <graphic url="smbx5ff4_1_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+
+                <pb n="1"/>
+            <p>546 N. 5th St.<lb/></p>
+                
+            <p>Philadelphia&#44; July 8&#44; &#39;89.<lb/></p>
+            <p>Rev. Dr. B. Felsenthal.<lb/></p>
+                
+            <p>My Dear Sir &#38; Respected Friend&#58;<lb/></p>
+                
+            <p>Your very kind letter just received&#44; is<lb/> amply appreciated.  Accept my sincere thanks.<lb/></p>
+                
+            <p>The edition of &#91;Hebrew&#93; in my possession<lb/> is Venice 1595.  It is by no means free from errors.  Years<lb/> ago&#44; reading it with the pupils of the defunct Maimonides<lb/> College&#44; I detected in numerable omissions and blunders.  Pro&#45;<lb/>fessor Rosin&#39;s work&#44; to which Dr. Bellelheim refers&#44; I have<lb/> not seen.  If Dr. Jastrow were in town&#44; I might borrow it&#44; as<lb/> I fancy he has it.  The Dr. lent me Rosin&#39;s edition of &#91;Hebrew&#93;<lb/> containing some interesting prefatory remarks and clear anno&#45;<lb/>tations.<lb/></p>
+                
+            <p>I am not so certain that the author of<lb/> &#91;Hebrew&#93; intended to intimate the existence of a biennial<lb/> cycle.  I would term my inference &#40;<hi rend="underline">in point and apprise</hi>&#44;&#41; or<lb/> &#91;Hebrew&#93;&#44; even less than that&#44; and you should&#44; my<lb/> dear Sir&#44; represent it as such in having it brought before the<lb/> public.  I hold that the dignity of Hebrew literature demands<lb/> exceeding carefulness on our part not to jump at conclusions.<lb/></p>
+                
+            <p>I agree with you that the &#91;Hebrew&#93; is a stumb&#45;<lb/>ling block in the way of the &#91;Hebrew&#93;&#44; and the two cannot be re&#45;<lb/>conciled&#44; except &#91;Hebrew&#93;.<lb/></p>
+                
+            <p>To your question&#44; why I did not address<lb/> the <hi rend="underline">Menorah</hi> I answer&#44; that I considered that procedure formal<lb/> and unfriendly.  It was due to you&#44; that I should submit my<lb/> remarks to your judgment&#44; and leave it to your option to pub&#45;<lb/>lish them in full&#44; in part&#44; or enlarged upon my<sic></sic> your sensible<lb/> observations.<lb/></p>
+                
+            <p>Like yourself&#44; I have reason to deplore<lb/> the want of fairness in our journals&#44; the abundance of buncombe<lb/> in some&#44; the fulsome flattery or cutting reflections in others.<lb/>  However&#44; thirty six years and a half have familiarized me with<lb/> all that&#44; and what pained or gladdened me in years past&#44; I read<lb/> now with tolerable composure.<lb/></p>
+                
+            <p>Live happily and believe me&#44; yours with<lb/> high regard<lb/> S. Morais<lb/></p>
+                
+            <p>P. S.  I remember that you asked me once&#44; whether certain un&#45;<lb/>common Biblical names were used in Italy.  Since then I met<lb/> with some&#44; f.r. &#91;Hebrew&#93; Bianchini<lb/> Finzi &#91;Hebrew&#93; Finzi &#91;Hebrew&#93; De Lapapa<lb/> and similar&#44; scattered among various books&#44; especially of &#91;Hebrew&#93;<lb/></p>
+            </body>
+    </text>
+</TEI>

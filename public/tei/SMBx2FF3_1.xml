@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Felsenthal, B.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF3_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Felsenthal, B.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Chicago, IL</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1876-01" source="" attested="yes">21 January 1876</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff3_1_1r.tif"/>
+                                <graphic url="smbx2ff3_1_1v.tif"/>
+                                <graphic url="smbx2ff3_1_2r.tif"/>
+                                <graphic url="smbx2ff3_1_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>237 S. Desplaines <sic>st.</sic><lb/>
+            Chicago&#44; January 21. 1876.<lb/></p>
+            <p>Dear Sir&#44;<lb/></p>
+            <p>Your kind letter of the 17. inst. I did not<lb/> receive until yesterday.  In regard to the one copy of<lb/> Luzzato&#39;s Pentateuch which you have kindly reserved for<lb/> me&#44; I hope you will not misunderstand me if I say<lb/> the following&#58; I am living under such conditions&#44; <del>of</del><lb/> that necessity rather compels me to restrict my expendi&#45;<lb/>tures very&#44; very much.  Although that now and then<lb/> I try to enlarge my Hebrew library somewhat&#44; yet it<lb/> sometimes <del>it</del> gives me much pain and sorrow that I cannot<lb/> follow my heart&#39;s inclinations to their full extent in<lb/> that respect.  However I believe that some of Luzz.&#39;s<lb/> works will find buyers here.  I have spoken with<lb/> several coreligionists in this city who declared themselves<lb/> gladly willing to get some of Luzz.&#39;s writing.  Permit<lb/> me to suggest that you&#44; dear Sir&#44; address a few<lb/> lines to each of the gentlemen which I will name here&#58;<lb/></p>
+            <p>Rev. Dr. K. Kohler&#44; cor. 21. st. &#38; Indiana Avenue&#59;<lb/> Mr. Igratz Kunreuther&#44; Huron st.. near Wells st.;<lb/></p>
+            
+            <pb n="2"/>
+            <p>Mr. F. Kiss&#44; 51 Lasalle st.;<lb/></p>
+            <p>Mr. H. Eliassof&#44; 38 Cass st.<lb/></p>
+            <p>You may unhesitatingly tell these gentlemen that<lb/> I have written to you of their desire to come into<lb/> possession of Luzz.&#39;s excellent Hebrew works.<lb/></p>
+            <p>The catalogue you mention has not yet reached<lb/> me.<lb/></p>
+            <p>In regard to that man who came from Alexandria<lb/> to this country and left his wife in the old world&#44;<lb/> I took pains to find him.  But my endeavors were<lb/> in vain.  &#91;Hebrew&#93;.  I hardly think that he is<lb/> in Chicago.<lb/></p>
+            <p>I must not forget to acknowledge receipt of<lb/> your postal&#45;card which was written in such an<lb/> elegant and beautiful Hebrew&#44; and  I cannot but say&#44;<lb/> &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;<lb/> Jew. Record&#34; &#91;Hebrew&#93;<lb/></p>
+            
+            <pb n="3"/>
+            <p>&#91;Hebrew&#93;<lb/></p>
+            <p>I desire to mail this letter yet to&#45;day&#44; and therefore<lb/> I conclude these hasty lines.  With the assurance of<lb/> my high regards&#44; I am&#44; dear Sir&#44;<lb/></p>
+            <p>yours very respectfully<lb/>
+            B. Felsenthal<lb/></p>
+            <p>Rabbi S. Morais&#44;<lb/>
+            Philada.<lb/></p>
+        </body>
+    </text>
+</TEI>

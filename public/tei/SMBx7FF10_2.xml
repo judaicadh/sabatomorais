@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF10_2</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Cohen, Nina</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1896-07" source="" attested="yes">19 July 1896</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff10_2_1r.tif"/>
+                                <graphic url="smbx7ff10_2_1v.tif"/>
+                                <graphic url="smbx7ff10_2_2r.tif"/>
+                                <graphic url="smbx7ff10_2_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>S. Morais<lb/>
+                546 N. Fifth St<lb/></p>
+            <p>Philadelphia&#44; July 19 1896<lb/>
+                9th of Ab&#45;56<lb/></p>
+            <p>My dear Nina&#58;<lb/></p>
+            <p>My writing this morning is at the same time a painful and<lb/> agreeable duty.  Had I enjoyed fair health&#44; duty would have found me<lb/> in Synagogue&#44; had I been suffering still as I have suffered during the<lb/> whole week past&#44; I could not make the effort of addressing you.  Henry<lb/> has assumed my place.  Esther went for me to the burial ground to give<lb/> the keeper a few dollars.<lb/></p>
+            <p>Many called on me yesterday.  I saw none&#44; except Herman.  Now&#44; my<lb/> last sickness brought to mind what I spoke to you about several times<lb/> when you were here.  There has been a period in my life&#44; when my aversion<lb/> to publishing anything of mine&#44; or about myself&#44; determined me to deal<lb/> with my writings as with my body&#44; viz&#44; to have them consumed in two<lb/> layers of quick <sic>line</sic>.  But I reconsidered that thought&#44; for some things<lb/> which I may have translated from Hebrew or Italian&#44; and somethings ori&#45;<lb/>ginal may be of service to modern Jewish literature.  In that case it<lb/> would be selfish to carry out the original idea.  In the large book<lb/> <sic>labelled</sic> &#34;Published writings&#34; in the box named &#34;lectures&#34; there may be<lb/> met what a discreet and unbiased reviewer will reproduce in correct and<lb/> interesting shape.  For instance&#44; the &#34;Prolegomena&#34; just given has been<lb/> favorably received.  As soon as I receive a copy of it I will mark<lb/> corrections which the editor did not rectify&#44; notwithstanding his<lb/> promise.  Sometime ago&#44; I looked over other writings&#44; but you know how<lb/> difficult it is for me to go searching into mistakes&#44; and clearing<lb/> whatever is dirty from a literary standpoint.  Henry&#39;s blind partiality<lb/> might thwart my intention.  Possibly&#44; <del>je wpi&#59;d ;et tje 1<lb/>2ress bring</del> he would let the press bring<lb/></p>
+            
+            <pb n="2"/>
+            <p>forth every scrap&#44; which may have pleased at the time&#44; but which might&#44;<lb/> perhaps&#44; read as valueless in after years.  Yourself and Emanuel would<lb/> exercise due discretion&#44; and regarding the Hebrew&#44; you may find some<lb/> impartial critic.<lb/></p>
+            <p>Lectures&#44; unless of a national or literary tendency&#44; may as well<lb/> be consigned to oblivion.  My predecessor has left many volumes of<lb/> sermons.  Who reads them&#63;  My contemporaries&#44; send broadcast their<lb/> weekly discourses.  They will be shortlived.  Let therefore deep con&#45;<lb/>sideration guide the printing of anything of mine.<lb/></p>
+            <p>If I succeed in having Jeremiah translated it will appear in the<lb/> next Bible and you may say that the translation was mine.  I could not<lb/> attend the last meeting of the translators on Thursday&#44; but it is a<lb/> question in my mind whether I would submit to have my rendition over&#45;<lb/>hauled by the text revisors.  Time will show.<lb/></p>
+            <p>My principal anxiety now is how to be rejuvenated enough for<lb/> the fall work.  Let us hope on<lb/> Good bye keep well<lb/> much love from<lb/> S. M.<lb/></p>
+            
+            <p>G<lb/></p>
+            </body>
+    </text>
+</TEI>

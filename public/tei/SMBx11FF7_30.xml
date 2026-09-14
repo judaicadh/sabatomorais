@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx11FF7_30</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx11ff7_30_1r.tif"/>
+                                <graphic url="smbx11ff7_30_1v.tif"/>
+                                <graphic url="smbx11ff7_30_2r.tif"/>
+                                <graphic url="smbx11ff7_30_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>For a funeral<lb/></p>
+            <p>Israelites.  Had the youth who met with so sudden<lb/> and untimely a death been known and universally ad&#45;<lb/>&#45;mired for excellencies peculiar in their character&#44; I still<lb/> would forbear rehearsing his praise.  For&#44; innumerable<lb/> are the allurements which lead our steps away from the<lb/> path of duty&#59; countless the occasions on which we<lb/> forget the teachings received in our tender years&#44; to and follow<lb/> a system subversive of the lessons which we once<lb/> considered perfect and conducive to happiness.<lb/>  Here&#44; evil surroundings&#44; there&#44; pernicious readings.<lb/>  In some instances&#44; the rising of artificial wants stirs<lb/> us to set up a standard of rebellion against religion&#44;<lb/> in others&#44; lurking passions aid the hidden cause which<lb/> breeds defection and dishonesty.  And if such is<lb/> our human condition of life during every stage of life&#44; how<lb/> much more exposed to those perils it must needs be<lb/> at an age when the buoyancy of spirits prevails&#44;<lb/> and the will has not been brought under control&#63;<lb/>  Wisely have therefore the Sages of Israel written&#44; that<lb/> we should not trust ourselves until the day of our death.<lb/></p>
+            
+            <pb n="2"/>
+            <p>When man has reached the full term of his earthly existence<lb/> and has unswervedly continued upright&#44; then may<lb/> the servant of God proclaim aloud that the deceased aloud was<lb/> righteous&#44; then he may tell that the departed had<lb/> lived to a purpose&#44; that he had <sic>benefitted</sic> society<lb/> by his example.  Moses Hoog&#44; whose death<lb/> we deplore&#44; had not attained the age of maturity.<lb/>  That the directors of the institution which sought his<lb/> welfare&#44; speak favorably of this youth&#44; shows that<lb/> his past record has been good&#59; that the family under<lb/> whose roof he dwelt&#44; bore him affection&#44; proves<lb/> that he possessed sterling qualities&#44; that his em&#45;<lb/>&#45;ployers sincerely lament the loss sustained&#44; signi&#45;<lb/>&#45;fies that he was trust&#45;worthy&#44; capable and amia&#45;<lb/>&#45;ble.  And those virtues&#44; thus early exhibited&#44; will<lb/> win for hi ma share in that eternal inheritance&#44;<lb/> which we mortals cannot describe nor conceive&#44; but<lb/> which must be great and glorious&#44; as He is great and<lb/> glorious who created man&#39;s distinguishing characteristic&#45;&#45;<lb/>our intellectual soul.  But as our brother<lb/> departed hence so young&#44; and we cannot divine what<lb/> his future would have been&#44; in a spiritual sense&#44; we ought<lb/></p>
+            
+            <pb n="3"/>
+            <p>not to waste time in sulking for laudations&#44; but<lb/> rather employ it to improve the sad occasion by ur&#45;<lb/>&#45;ging the living to goodness and piety.<lb/></p>
+            <p>Ah my young friends&#33;  Life is a precious gift from<lb/> God&#44; and we should use it as an object over the preserva&#45;<lb/>&#45;tion of which we must watch with exceeding care.<lb/>  To trifle with it&#44; to impair it&#44; to endanger it is a<lb/> grievous sin.  Nothing but duty should induce<lb/> us temporarily to set aside the wants of the body&#59;<lb/> and who does not know how very very closely con&#45;<lb/>&#45;nected is our physical health with the state of our mind&#63;<lb/>  The latter specially we should guard against its becoming di&#45;<lb/>&#45;seased by evil thoughts and feelings.<lb/></p>  
+            <p>I am the last to advise seclusion as a means to re&#45;<lb/>&#45;main untainted by the contact of vicious companions.<lb/>  I am the last to advise ignorance as a shield against dis&#45;<lb/>&#45;turbing doubts and skepticism.  No&#44; it is our destiny<lb/> to associate with our fellow&#45;creatures&#44; but let us be chary<lb/> in the choice of friends&#44; we obey a natural impulse<lb/> in unfolding the books which lay before our views vision notions<lb/> to which we had been heretofore strangers&#44; but we should<lb/> be careful of the serpent in the field of science and literature&#44;<lb/></p>
+            
+            <pb n="4"/>
+            <p>we should not accept what endangers the soundness<lb/> of our religious principles&#59; even the wholesome idea which<lb/> Judaism always sets forth.  God and His revealed<lb/> will word&#44; as enunciated by Moses&#44; and as told in the sect&#45;<lb/>ion read last Sabbath.  The heavens&#44; and the<lb/> heavens of heavens the earth and all the fulness<lb/> thereof are the Lord&#39;s&#44; but he manifested Himlsl<lb/> Himself and His will to us for our happiness&#39; sake.<lb/>  &#91;Hebrew&#93;.<lb/></p>
+            <p>Such is my counsel to the youths of this age&#44; and<lb/> would I could influence thousands of Jewish lads in America<lb/> who&#44; mistaking the blessed born of liberty for license&#44; defy public<lb/> opinion&#44; scoff at the wisdom gathered from experience&#44; and finally<lb/> lose that balance which would have helped them up straight in<lb/> body and mind.  To you my dear children who enjoy<lb/> the advantage of a home in whose atmosphere you breathe in pu&#45;<lb/>rity&#44; I say&#58; indulge in amusements&#44; but be prudent in selecting<lb/> the exercises which will add to your strength&#59; study diligently&#44;<lb/> but avoid what might pervert your understanding&#59; be simple&#45;<lb/>&#45;hearted&#44; warm&#45;natured&#44; enthusiastic&#44; generous&#44; but above all hope&#45;<lb/>in Him who is the Primary source of life&#59; the Fountain&#45;head of veri&#45;<lb/>&#45;table pleasures.  &#40;Here follows a prayer&#41;.<lb/></p>
+            </body>
+    </text>
+</TEI>

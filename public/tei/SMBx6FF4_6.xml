@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Hartogensis, B. H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF4_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Hartogensis, B. H.</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1891-06" source="" attested="yes">23 June 1891</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff4_6_1r.tif"/>
+                                <graphic url="smbx6ff4_6_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                <pb n="1"/>
+            <p>The Jewish Exponent&#44;<lb/>
+                Published Every Friday.<lb/></p>							
+            <p>1009 E. Baltimore Street.<lb/>
+                Baltimore June 23 1891<lb/></p>
+            <p>Rev Dr S. Morais<lb/></p>
+            <p>Dear Sir&#58; I hope this note will<lb/> find you and your dear ones in good health&#44;<lb/> as it leaves me and mine.<lb/></p>
+            <p>The purpose of this note is to ask a favor&#44; one that<lb/> I hope will not give you much trouble to comply with.<lb/>  The Sabbath Bible Class&#44; of which I have the honor to<lb/> be leader&#44; discusses weekly some chapter in the<lb/> Pentateuch in order to get its fullest meaning&#44;<lb/> but in that effort to add to our appreciation<lb/> of its truth&#44; historic character and lofty ideals.<lb/>  We have now reached Exodus and shall next<lb/> week &#40;July 4&#41; reach the story of how the<lb/> Egyptian astrologers successfully imitated<lb/> the miracles of Moses.  This incident of which<lb/> much has been written on both sides&#44; I have<lb/> never had properly explained to me.  But I<lb/> remember having read that you once ex&#45;<lb/>plained to some teachers enough to satisfy<lb/> their inquiring minds and I thought it pos&#45;<lb/>sible that you might be willing to do as much<lb/></p>
+                
+                <pb n="2"/>
+            <p>for us.  That is my request.<lb/></p>
+            <p>I should feel obliged to you if you would let me<lb/> have such an explanation if possible for this<lb/> Sabbath&#39;s meeting&#44; or if not in time for that<lb/> of the week following.  And this favor will be<lb/> appreciated&#44; I am sure&#44; by all the members of<lb/> the class.<lb/></p>
+            <p>You will kindly give my regards to your son<lb/> Henry and tell him that I hope he is satisfied<lb/> with the progress he is making on &#34;The Ledger &#40;&#63;&#41;&#34;<lb/> If he will persist in doing as much good work<lb/> as he can&#44; despite all its discouragements he<lb/> will find it will pay him in the long run.  I&#44; for<lb/> instance&#44; have by similar persistence in my work<lb/> on <hi rend="underline">The American</hi> secured a substantial position as<lb/> Editor of Notes &#38; Queries&#44; and editorial writer.<lb/>  Strange to say&#44; however&#44; though the work is arduous<lb/> and the hours long&#44; I threw away work engagements<lb/> that brought me more money for less effort in order<lb/> to secure it.  Now however I have an increase in salary<lb/> of 25&#37;.  I say these little things about myself in<lb/> order that your son Henry&#44; who is somewhat pessimis&#45;<lb/>tic&#44; may be encouraged by them in his work.<lb/></p>
+            <p>Requesting your compliance with my re&#45;<lb/>quest and extending my best wishes to you and yours<lb/> I am Yours Truly<lb/> B. H Hartogensis<lb/></p>
+            </body>
+    </text>
+</TEI>

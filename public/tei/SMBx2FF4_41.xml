@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx2FF4_41</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cincinnati, OH</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1877-05" source="" attested="yes">21 May 1877</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx2ff4_40_1r.tif"/>
+                                <graphic url="smbx2ff4_40_1v.tif"/>
+                                <graphic url="smbx2ff4_40_2r.tif"/>
+                                <graphic url="smbx2ff4_40_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>3 pages on 2 sheets<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Office of Ezekiel &#38; Co.<lb/>
+            Auction and Commission Merchants&#44;<lb/>
+            Nos. 19 &#38; 21 West Pearl Street<lb/></p>
+            <p>Cincinnati&#44; May 21. 1877.<lb/></p>
+            <p>Rev S. Morais.<lb/>
+            My valued friend&#33;<lb/></p>
+            <p>The sun is powerful<lb/> here to day&#44; too warm to write&#44;<lb/> but I thought of an old motto<lb/> I used to read on one of Phila<lb/> Hose carriages&#44; when a boy&#44; and<lb/> it was simply this.  &#34;When duty<lb/> calls&#44; &#34;Tis ours to obey.&#34;  Well now<lb/> the fact is&#44; I have been with the<lb/> Doctor for a couple of hours&#44; and<lb/> speaking about college affairs &#38;<lb/> the prospects for a new class for<lb/> the next session.  I spoke to him<lb/> about the larger boys at the<lb/> &#34;Foster Home&#34; at Phila of the oppor<lb/>tunity that now affords <del>here</del><lb/> for those who are far advanced<lb/> enough in Eng &#38; Hebrew to enter<lb/> the college here&#44; and desire to<lb/></p>
+            
+            <pb n="2"/>
+            <p>to get a Eng &#38; Hebrew collegiate<lb/> education.  I mean those who<lb/> wish&#44; to come as indigent students<lb/> they will be well provided for<lb/> during the whole time they are<lb/> here&#44; with all the <sic>neccessaries</sic><lb/> of Life&#44; can attend Hebrew College<lb/> every day&#44; High School or Univer&#45;<lb/>sity all without charge&#44; it may<lb/> require from 4 to 8 years study&#44;<lb/> see what an opportunity is now<lb/> <sic>offerred</sic> for poor young man&#44; the<lb/> Doctor requested me to write to you<lb/> that in case any of the boys<lb/> may desire to embrace the oppor<lb/>tunity now <sic>offorred</sic>&#44; and who may<lb/> require a little extra study of<lb/> the Hebrew&#44; to be admitted into the<lb/> college&#44; that you might now have<lb/> <del>appl</del> ample time to prepare them<lb/> for the next session.  I named the<lb/> Foster Home boys because they<lb/> being trained by discipline&#44; will<lb/> make good scholars&#44; but if you<lb/> know any other poor young men&#44;<lb/> who desire to study&#44; let them make<lb/></p>
+            
+            <pb n="3"/>
+            <p>early application for admission<lb/> and I will attend to it&#44; as a<lb/> matter of course we cannot take<lb/> but a few more indigent students<lb/> for the next class.  We have now<lb/> 12 that we support costing us<lb/> from 5 to 6000 dollars a year<lb/> we might take 5 or 6 more the<lb/> coming session&#44; so we thought<lb/> to write to you.  I would like to<lb/> give Philadelphia the preference<lb/> as we will meet there this <del>July</del><lb/> July&#44; therefore I let you know<lb/> in time&#44; by this opportunity you<lb/> can do an act of charity to a<lb/> few that may be deserving.<lb/>  I often wish that when I was<lb/> young&#44; that such a chance<lb/> would have offered itself to me.<lb/></p>
+            <p>I hope this may meet you well&#44;<lb/> with the dear ones.  Tell dear<lb/> Nina her letter reached me in<lb/> time for this week.<lb/></p>
+            <p>I will write more anon<lb/>
+            Truly as Ever&#44;<lb/>
+            Jacob Ezekiel<lb/></p>
+        </body>
+    </text>
+</TEI>

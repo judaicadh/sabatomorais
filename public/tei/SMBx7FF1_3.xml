@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx7FF1_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Voorsanger, Jacob</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Morais, Sabato</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>San Francisco, CA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1893-05" source="" attested="yes">29 May 1893</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx7ff1_3_1r.tif"/>
+                                <graphic url="smbx7ff1_3_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>JACOB VOORSANGER&#44;<lb/>
+                RABBI OF TEMPLE EMANUEL<lb/>
+                2316 CALIFORNIA STREET.<lb/></p>
+            <p>SAN FRANCISCO&#44; CAL. May 29 1893<lb/></p>
+            <p>The Rev Dr. S. Morais&#44;<lb/>
+                Philadelphia&#44; Pa.<lb/>
+                My dear Sir<lb/></p>
+            <p>The first leisure moments I enjoy after a long season<lb/> of arduous labor I employ in penning you a few lines.  First of all&#44;<lb/> permit me to inform you that my dear second son&#44; Leon Morais Voorsanger&#44;<lb/> was a &#91;Hebrew&#93; on last Shabuoth and read the &#91;Hebrew&#93; in a<lb/> clear&#44; strong voice to the evident delectation of the vast congregation present.<lb/>  In our service we read from &#91;Hebrew&#93; until &#91;Hebrew&#93;&#44; nearly two chapters&#44;<lb/> and the lad proved to be well trained.  In view of the fact that about the<lb/> same time last year we were about to lose our child&#44; of which I wrote you<lb/> at the time&#44; you can understand how happy his mother and I have<lb/> been and we pray that we may yet bring him &#91;Hebrew&#93;.  The boy<lb/> has not only fully recovered his strength&#44; but he has never been in such<lb/> good health and his career in the schools is brilliant indeed.  I will take<lb/> it as a kindly act&#44; if out of your goodness of heart you will send<lb/> my dear child&#44; who after a fashion is your God&#45;son&#44; a few words<lb/> of blessing&#44; and coming from you he will thoroughly appreciate them&#44;<lb/> for he knows you well&#44; since his father often speaks of you.  The fact<lb/> that he read the &#91;Hebrew&#93; should convince you of two things&#59; first&#44; that we have<lb/> an excellent Hebrew department in our religious school&#44; and secondly&#44;<lb/> that we are not so radical as perhaps we are made out to be.<lb/></p>
+            <p>You have no doubt already met the Rev Joseph L. Levy.  I have made<lb/> it his duty to call on you on my personal behalf&#44; to be as &#91;Hebrew&#93; and<lb/> to convey to you my unchanged sentiments of regard and affection.<lb/>  I hope he has done so&#59; but it would not surprise me if he had not.<lb/>  I see from the journals that he has already incurred your displeasure&#44;<lb/> and I venture to recommend&#44; that you reserve your sage and eloquent<lb/> words for more dangerous opponents.  The young man is an enthusiast&#44;<lb/> believes that an unbridled tongue is a meritorious thing&#44; and has not<lb/> the faintest conception of discretion.  He possesses some education&#59; half<lb/> of his reading is undigested&#44; and I dare say&#44; his elevation has com&#45;<lb/>pletely intoxicated him.  He means well enough&#59; and he is a kindly<lb/></p>
+            
+            <pb n="2"/>
+            <p>fellow&#44; who ten years hence will sing a different song.  He lacks the<lb/> conservatism of age&#44; and I beg you to be patient with him.  He served<lb/> three years on this Coast&#44; and left many friends.<lb/>
+                And now a word or two about literary matters.  May I inquire of you&#44; whether<lb/> the famous expression &#91;Hebrew&#93; is at all found in the<lb/> Talmud&#63;  I cannot find it after the most diligent search&#44; of course&#44; it<lb/> is found in Maimonides&#39; &#91;Hebrew&#93;&#44; where the &#91;Hebrew&#93; quotes &#91;Hebrew&#93;<lb/> but that must be a misprint for on that page there is not the faintest<lb/> suggestion of such a text.  The quotation that comes nearest to it is<lb/> in &#91;Hebrew&#93;&#44; where the Talmud tries so curiously to<lb/> prove that Job has no share in the future world &#91;Hebrew&#93;.<lb/>  What makes me suspicious is the fact that Kohut&#39;s Arukh S. V. &#91;Hebrew&#63;&#93; does not<lb/> quote the passage&#44; and that the passage itself is fashioned after the Talmud&#45;<lb/>ical &#91;Hebrew&#93;&#44; which&#44; if I have not forgotten&#44; is in &#91;Hebrew&#93;.  Will<lb/> you kindly give me information on the subject&#63;<lb/></p>
+            <p>My next query is the following&#58; How do you&#44; from your standpoint&#44; account for<lb/> the discrepancy in the text of the Ten commandments in Deuteronomy and<lb/> Exodus&#63;  In the fourth word&#44; the text is so variant that it excites the closest<lb/> inquiry.  Much has been written on the subject&#59; but little satisfies me.  The most<lb/> radical difference is that the Deuteronomist bases the observance of the Sabbath<lb/> on &#91;Hebrew&#93; and the author of Exodus on the creation of the world.  Did<lb/> Moses write them both&#63;  The most vexatious part of it is that both Exodus<lb/> and Deuteronomy attribute the words to God&#59; in Exodus &#91;Hebrew&#93; and in<lb/> Deuteronomy &#91;Hebrew&#93;&#44; where the word &#91;Hebrew&#93; excites my suspicion&#44;<lb/> inasmuch as the term &#91;Hebrew&#93; is used in Numbers.  How do you explain it&#63;  Would<lb/> you object to an explanation that accounts for an original Ten words&#44;<lb/> which&#44; later on&#44; in ten different versions&#44; found their way to the North<lb/> and South of Palestine&#63;  I am anxious about this matter.  I know that<lb/> you are more liberal with the prophets&#44; so far as text&#45;criticism is con&#45;<lb/>cerned&#44; than with the Pentateuch&#44; and it is in view of your conservative<lb/> views that I prefer to have my query answered by you.  It will be<lb/> unnecessary to give me the Jewish views&#44; I know them.  I am anxious<lb/> for a personal opinion.<lb/></p>
+            <p>I have&#44; last winter&#44; prepared and delivered a course of nine lectures on the poetry of the<lb/> old Testament&#44; which before publication I would like to submit to<lb/> your inspection.  They are radical but &#91;Hebrew&#93;.  Would you under&#45;<lb/>take the task&#63;  Awaiting an early reply I am as ever<lb/> Faithfully yours<lb/> Jacob Voorsanger<lb/></p>
+            </body>
+    </text>
+</TEI>

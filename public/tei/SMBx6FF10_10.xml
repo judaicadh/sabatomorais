@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx6FF10_10</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes">Blumenthal, Joseph</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="1892-07" source="" attested="yes">27 July 1892</dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx6ff10_10_1r.tif"/>
+                                <graphic url="smbx6ff10_10_1v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+                <pb n="1"/>
+            <p>C<lb/>
+                O<lb/>
+                P<lb/>
+                Y<lb/></p>
+            <p>Philadelphia&#44; July 27&#44; 1892.<lb/></p>
+            <p>Hon. Joseph Blumenthal&#44;<lb/>
+                My dear Sir&#58;<lb/></p>
+            <p>Enclosed you will find my communication<lb/> to Mr. Bernstein.  Should your mind suggest another&#44; let me know<lb/> your views unhesitatingly.  I confess that experience has set me<lb/> against second hand pupils.  You will remember the case of Fried&#45;<lb/>laender&#44; on whom we spent time and money to no purpose&#44; and that<lb/> of Schlepinger&#44; which was altogether very disappointing.  I very<lb/> much regret that the youth mentioned in Dr. Freidenwald&#39;s re&#45;<lb/>cent letters to me&#44; did not apply.  Possibly&#44; the Orphan Asylum&#44;<lb/> of which he is an inmate saw fit to send the youth to Cincinnati.<lb/>  The requirements in its college are fewer than in our Seminary.<lb/>  The Rabbis it ordains need not be Talmudists nor even Hebraists.<lb/>  The ability to speak readily&#44; with an odor of scholarship&#44; is<lb/> what gains for all of them lucrative positions.  Orthodoxy or<lb/> heterodoxy enters not into the question.  Now&#44; I do want our<lb/> students to graduate as learned youths in the true sense of the<lb/> word.  I do want them to have settled principles&#44; but I feel that<lb/> unless their acquaintance with idiomatic English is thorough&#44;<lb/> unless they can command attention by an eloquence flowing from<lb/> the heart and supported by erudition&#44; they will never compete<lb/> with W&#39;s pupils.  It is a thousand pities that natives do not<lb/> form the bulk of our students.  The two whom I have under my<lb/> strict supervision give hopes&#44; but they are too young&#44; and con&#45;<lb/>servatism needs now a half a dozen at least to defend it intell&#45;<lb/>igently and approvedly.  In my reply to Mr. Cohen&#44; I freely ex&#45;<lb/>pressed my ideas.  I could not approve of placing in our new home&#44;<lb/> a person whose lack of knowledge of the vernacular&#44; and whose<lb/> tout ensemble might fail to command the reverence due to one vir&#45;<lb/>tually the principal guide of our scholars.  Would to God that we<lb/> could fill the Seminary with those &#34;to the manner born&#34;&#44; but N.Y.&#44;<lb/> from where they ought to come&#44; did not supply that dedideratum.<lb/>  As to the present season&#44; I understood that an occasional session<lb/> was to have been had.  Though the heat is simply terrific&#44; I have<lb/> managed to instruct my pupils&#44; even without my enjoying the best of<lb/> health.  I trust you are well&#44; and I wish that you send bill to<lb/> my cong. and to others if necessary&#44; as well as copies of the<lb/> report.<lb/></p>
+            <p>With kind regards&#44;<lb/>
+                S. MORAIS<lb/></p>
+            </body>
+    </text>
+</TEI>

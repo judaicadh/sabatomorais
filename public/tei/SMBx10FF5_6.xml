@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS</repository>
+                        <collection>Dropsie</collection>
+                        <idno>SMBx10FF5_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author attested="yes" accepted="yes" signature="yes">Morais, Sabato</author>
+                        <addressee editor="false" attested="yes" accepted="yes"></addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec></placeRec>
+                        <dateLet when="" source="" attested="yes"></dateLet>
+                        
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="smbx10ff5_6_1r.tif"/>
+                                <graphic url="smbx10ff5_6_1v.tif"/>
+                                <graphic url="smbx10ff5_6_2r.tif"/>
+                                <graphic url="smbx10ff5_6_2v.tif"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>4 pages on 1 sheet<dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"></condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p></p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>       
+                                
+
+                <pb n="1"/>
+            <p>&#91;Hebrew&#93;<lb/></p>
+            <p>Dear Brethren&#33;  In the address I delivered last Sabbath&#44; I urged your perusal of the seventh<lb/> and eighth chapters of Zechariah&#44; deeming them a convincing proof that the hope of<lb/> Israel&#39;s restoration is not&#44; as new teachers would fain make us believe&#44; a sheer chimera&#44;<lb/> an illusive expectation&#44; which past history and the light of modern civilization<lb/> ought to have dispelled from our minds.  This day I will strengthen my position&#44;<lb/> by one simple quotation.  It shall not be from the Prophets&#44; whose prognostications<lb/> have been pronounced by the hypocritics too vague&#44; to attach thereunto a<lb/> definite meaning.  Nor will I cite those glorious predictions of the son of Amoz<lb/> which we are categorically told to have been already fulfilled in the days of<lb/> King Ezekiah.  But I will let him speak&#44; whose language cannot in any wise<lb/> be open to captious objections.  Prior to his death&#44; Moses summoned to&#45;<lb/>&#45;gether in solemn convocation every member of the Hebrew household.  In a rapid<lb/> sketch he represented to all the manifold benefits they had obtained at the<lb/> hands of their heavenly Sovereign&#44; and reminded them of the allegiance they<lb/> owed Him&#44; from pure gratitude.  He admonished the nation&#44; both individually<lb/> and collectively not to abjure their fidelity to that Being&#44; who had proved their<lb/> Legislator and Guide&#44; and foretold at the same time the calamity that would<lb/> surely ensue from an abandonment of his sacred covenant.  Peering in<lb/> the future&#44; he beheld the land which flowed with milk and honey&#44; cursed<lb/> with sterility&#44; and her former inhabitants&#44; expiating their iniquities in ini&#45;<lb/>&#45;mical countries.  But the faithful shepherd of Jacob&#44; did not exhibit<lb/> the unhappiness attending a dereliction from the behests of the Almighty&#44;<lb/> without teaching his flock how to redeem their universal rejection.  For&#44; if<lb/> the long night of sorrow&#44; was not destined to change into the bright&#45;morning<lb/> dawn&#44; despair might have caused a deeper sinking into the slough of vice.<lb/>  Therefore he unequivocally pointed out penitence&#44; as the certain means by<lb/> which sinful Israel could appease their provoked Father&#44; and regain the<lb/> pristine station.  &#91;Hebrew&#93;<lb/> &#91;Hebrew&#93;<lb/></p>
+            
+            <pb n="2"/>
+            <p>&#34;And it shall come to pass&#44; when all these things are come upon thee&#44; the<lb/> blessing and the curse&#44; which I have set before thee&#44; and thou shalt call<lb/> them to mind among all the nations&#44; whether the Lord thy God hath driven<lb/> thee.  And thou shalt return unto the Lord thy God&#44; and shalt obey his<lb/> voice according to all that I command thee this day&#44; thou&#44; and thy children&#44;<lb/> with all thy heart and with all thy soul.  Then the Lord thy God will &#91;&#63;&#93;<lb/> thy captivity&#44; and have compassion upon thee&#44; and will return and gather<lb/> thee from all the nations&#44; whither the Lord thy God hath scattered thee.<lb/>  If thy outcasts be at the utmost parts of heaven&#44; from thence will the Lord<lb/> thy God gather thee&#44; and from thence will He fit in thee.  And the Lord thy<lb/> God will bring thee into the land which thy fathers possessed&#44; and<lb/> thou shalt possess it&#44; and He will do thee good&#44; and multiply thee<lb/> above thy fathers&#34;  My Brethren&#33;  The consolatory promise so obviously<lb/> offered on the above five verses of Deuteronomy&#44; has been a healing balm<lb/> to our many tribulations during the last eighteen centuries.  When the<lb/> Nazarene persecuted us&#44; plundered and tortured us&#44; because we rejected a<lb/> a creed incompatible with the code of Sinai.  When they robbed us of our<lb/> cherished offspring&#44; to rear them in a religion&#44; which assumes to itself the<lb/> exclusive power of salvation.  When the progeny of Abraham&#39;s hand&#45;maid&#44;<lb/> trod on the neck of the descendants of her mistress&#44; and sought their extir&#45;<lb/>&#45;pation&#44; we were steeled against all sufferings&#44; by the steadfast conviction that<lb/> the declaration of Moses&#44; was a message from our infallible God.  But now<lb/> we are told that we have been grasping at a shadow&#44; that our nationality<lb/> can never be reconstructed&#59; that the deliverance of Israel is identified with<lb/> the moral progress of mankind&#44; that Jerusalem is&#44; wheresoever we<lb/> enjoy political immunities.  In other words&#44; we are told with great assurance&#44;<lb/> that all the predictions of our seers&#44; touching our restoration&#44; are either ambiguously<lb/> expressed&#44; or they have received a full consummation at various periods of our<lb/> ancient history.  But can an assertion so bold&#44; be in truth&#44; applicable<lb/></p>
+            
+            <pb n="3"/>
+            <p>to the sentences under discussion&#63;  Oh my friends&#33; let us not be dazzled by<lb/> the display of grand eloquence&#44; or by that of a vast erudition&#44; let us reflect&#44;<lb/> and judge for ourselves.  Can words be more clearly uttered than those spoken by<lb/> the son of Amram&#63;  What signification can ever be attached to the phrase&#44; &#34;God<lb/> will gather thee from all the nations&#34; and to the other &#34;He will bring thee again<lb/> unto the land of thy fathers&#34; What&#44; but the literal&#63;  Is that a promise&#44; couched&#44;<lb/> like a heathen oracle&#44; in an obscure and unfathomable diction&#63;  Or are we able<lb/> triumphantly to show the happy ear in which it was verified with precision&#63;<lb/>  We may examine our morals with the severest scrutiny&#44; but we shall fail<lb/> to discover the complete restoration&#44; which appeared in the vision of the Arch&#45;prophet.<lb/>  That it cannot allude to the return of our progenitors from the Babylonian cap&#45;<lb/>&#45;tivity is palpably evident from the fact that of the immense number of Hebrews<lb/> scattered then throughout Asia and Africa&#44; only fifty thousand accompanied<lb/> Zerubabel to the land of the patriarchs.  Moreover&#44; the position of that compara&#45;<lb/>&#45;tively small number&#44; far from justifying the prediction &#34;He shall do well with<lb/> and multiply thee more than thy fathers&#34; &#91;Hebrew&#93;&#44; would on the contrary<lb/> suffer greatly when placed in parallel with that of their ancestors.  In the palmy<lb/> days of the Jewish monarchy&#44; the supremacy of Israel was felt among all the<lb/> neighbouring nations&#44; and they who had become dependent tributaries&#59; but during<lb/> the four hundred and fifty years that the second sanctuary existed&#44; the denizens<lb/> of Judea were under a continual vassalage to the preponderating Power.<lb/>  Now to Persia&#44; anon to Greece&#44; at one time to the Ptolomeys&#44; at another<lb/> to the Ceasars.  Nor was the glory of the Temple&#45;&#45;even of that which Herod<lb/> rebuilt with so extraordinary a splendour that might be deemed fabulous&#45;&#45;<lb/> equal to the glory which shone upon the sacred edifice reared by Solomon.<lb/>  A heavenly fire had not descended thereon&#59; the ark of the testimony&#59; the<lb/> Urim &#38; Thummim&#44; did not grace that fane of our Lord as in the days of yore.  And verily<lb/> if the divine declaration to which I have hitherto reverted&#44; is not at all borne out<lb/> by the events connected with that period of our history&#44; we shall in vain<lb/></p>
+            
+            <pb n="4"/>
+            <p>seek for its application at any anterior or posterior epochs.  This incontestable<lb/> truth could not but force itself into the minds of the hypercritics&#59; yet they were<lb/> not daunted by the difficulties it presents against their skeptical opinions.<lb/>  Unable to place that prophecy of the righteous servant of God among the occur&#45;<lb/>&#45;rence that are already buried in oblivion&#44; or to quibble as to its want of explicit&#45;<lb/>&#45;ness&#44; they resorted to a speedier course.  With no less audacity than impiety&#44;<lb/> they stigmatized it as an interpolation of some unknown writer of later times.<lb/>  We will not attempt to rebut an assertion so entirely subversive of our religion.<lb/>  It devolves on those who have so confidently made it to substantiate it&#44; and to<lb/> explain also&#44; according to the views they entertain&#44; other allusions of similar import inters&#45;<lb/>&#45;persed throughout the books of Moses.  We&#44; as believing Israelite&#44; must needs look<lb/> up to the first five verses of the 30th Chapter of Deuteronomy as to the beacon&#45;<lb/>light which has guided and will still guide our dangerous path through shoals<lb/> and rocks midst the ocean of time.  For&#44; if our undying hope in the happy future destined<lb/> for Israel&#44; rested for support solely upon those five sentences&#44; it would stand upon<lb/> immoveable foundations.  But when conjointly with them we read the seven portions<lb/> of the prophets appropriately selected for the weeks intervening between the fast of<lb/> Ab and our New Year&#45;&#45;those glorious transcendent out pourings of our inspired bards&#45;&#45;our faith in the restoration must deepen itself in our inmost<lb/> hearts&#44; for&#44; &#34;the grass withereth&#44; and the flower fadeth&#44; but the world of our God shall<lb/> stand for ever.&#34;  &#91;Hebrew&#93;  It may please the Disposer of human sublunary<lb/> events&#44; to promote the accomplishment of his fiat by human agency.<lb/>  The moral progress of mankind&#59; the principles of equality enunciated and<lb/> partially carried out in sundry lands&#44; may pave the way to the &#34;Messenger<lb/> of good tidings&#44; who publisheth peace and salvation&#44; and sayith to Zion&#58; thy God<lb/> reigneth&#34; but to regard the means as the end&#44; is an open denial of Scriptur&#45;<lb/>&#45;al verities&#44; for &#34;the Redeemer shall come to Zion&#44; &#38; for those of Jacob who<lb/> turn away from their transgressions&#44; saith the Lord&#34;  That celestial assurance<lb/> has ever sustained us and for its consummation&#44; the exiles of Judea incessantly pray every day&#59;<lb/> because they were taught to believe that independence&#44; freedom&#44; national prosperity and national hap&#45;<lb/>&#45;piness will then be the inalienable portion of all the descendants of Abraham&#44; when<lb/> they shall dwell each under his vine&#44; &#38; under his fig&#45;tree&#44; &#38; there will be none to make<lb/> them afraid.  May it be so&#44; speedily in our days.  Amen.<lb/></p>
+            </body>
+    </text>
+</TEI>
