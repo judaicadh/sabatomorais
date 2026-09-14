@@ -172,7 +172,7 @@ const isLetter = (itemData.type || "").toLowerCase() === "letter" && hasRecipien
               Facsimile
             </span>
           </div>
-          <div class="h-[55vh] max-h-[42rem] min-h-[22rem] overflow-hidden md:h-[60vh] lg:h-[72vh]">
+          <div class="min-h-[22rem] p-2">
             {manifestUrl ? (
               <Clover client:only="react" manifest={manifestUrl} />
             ) : (

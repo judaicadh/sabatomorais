@@ -48,6 +48,10 @@ const Clover: React.FC<CloverProps> = ({ manifest, manifestUrls }) => {
     const viewerOptions = useMemo(
         () => ({
             showTitle: false,
+            // Sizes the OpenSeadragon image region. Keeping it a bit shorter than
+            // the panel leaves room for Clover's bottom pager (the page /
+            // thumbnail strip with Previous/Next page controls) to stay visible.
+            canvasHeight: "52vh",
             informationPanel: { open: false, renderToggle: false, renderContentSearch: false },
             openSeadragon: {
                 gestureSettingsMouse: { scrollToZoom: true, clickToZoom: true },
@@ -62,9 +66,10 @@ const Clover: React.FC<CloverProps> = ({ manifest, manifestUrls }) => {
     if (urls.length === 0) return null;
 
     return (
-        <div className="space-y-4 h-full">
+        <div className="w-full">
             {urls.length > 1 && (
                 <select
+                    className="mb-2 rounded-sm border border-border bg-paper-light px-2 py-1 text-sm text-ink"
                     value={selectedManifest}
                     onChange={(e) => setSelectedManifest(e.target.value)}
                 >
@@ -75,13 +80,11 @@ const Clover: React.FC<CloverProps> = ({ manifest, manifestUrls }) => {
                     ))}
                 </select>
             )}
-            <div className="h-full w-full">
-                <Viewer
-                    iiifContent={selectedManifest}
-                    options={viewerOptions}
-                    customTheme={customTheme}
-                />
-            </div>
+            <Viewer
+                iiifContent={selectedManifest}
+                options={viewerOptions}
+                customTheme={customTheme}
+            />
         </div>
     );
 };

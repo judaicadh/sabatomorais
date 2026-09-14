@@ -6,21 +6,49 @@ import { slugify } from "../scripts/slugify.js";
 
 const toArray = (v) => (Array.isArray(v) ? v : v ? [v] : []);
 
+const toNames = (...vals) =>
+  vals
+    .flatMap(toArray)
+    .filter(Boolean)
+    .flatMap((x) => (typeof x === "string" ? x.split("|") : x?.name ? [x.name] : []))
+    .map((s) => String(s).trim())
+    .filter(Boolean);
+
+const getDecade = (dateVal) => {
+  const m = String(dateVal || "").match(/(1[78]\d\d)/);
+  if (!m) return "";
+  return `${Math.floor(Number(m[1]) / 10) * 10}s`;
+};
+
 const cards = items
   .map((item) => {
     const preferred = item.slug || item.id || item.title;
     const slug = preferred ? slugify(String(preferred)) : null;
     if (!slug) return null;
+    const languages = toNames(item.language || item["dcterms:language"]);
+    const people = toNames(item.creators, item.contributors, item["dcterms:contributor"]);
+    const subjects = toNames(item.subject);
+    const date = toArray(item.date)[0] || "";
     return {
       slug,
       title: item.title2 || item.title || "Untitled",
       description: item.description || "",
       type: item.type || "Item",
-      date: toArray(item.date)[0] || "",
+      date,
+      decade: getDecade(date),
+      languages,
       thumbnail: item.thumbnail || "",
+      // extra searchable text not otherwise printed on the card
+      keywords: [...people, ...subjects].join(" "),
     };
   })
   .filter(Boolean);
+
+// Build filter option lists from the data so they stay accurate.
+const uniqSorted = (arr) => [...new Set(arr.filter(Boolean))].sort();
+const typeOptions = uniqSorted(cards.map((c) => c.type));
+const languageOptions = uniqSorted(cards.flatMap((c) => c.languages));
+const decadeOptions = uniqSorted(cards.map((c) => c.decade));
 ---
 
 <BaseLayout>
@@ -64,17 +92,82 @@ const cards = items
   <!-- Collection grid -->
   <section id="collection" class="gilt-top bg-paper">
     <div class="mx-auto max-w-screen-xl px-4 py-16">
-      <div class="mb-10 text-center">
+      <div class="mb-8 text-center">
         <p class="eyebrow mb-2">The Collection</p>
         <h2 class="font-heading text-3xl text-navy sm:text-4xl">Browse Items</h2>
-        <p class="mt-2 font-sans text-sm tracking-wide text-ink-muted">{cards.length} items</p>
       </div>
 
-      <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      <!-- Search & filter bar -->
+      <div class="mx-auto mb-8 max-w-4xl" data-filter-bar>
+        <div class="relative mb-4">
+          <svg
+            class="pointer-events-none absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-ink-muted"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.6"
+          >
+            <circle cx="11" cy="11" r="7" />
+            <path stroke-linecap="round" d="M21 21l-4.3-4.3" />
+          </svg>
+          <input
+            id="filter-search"
+            type="search"
+            autocomplete="off"
+            placeholder="Search titles, people, subjects, descriptions…"
+            class="w-full rounded-sm border border-border bg-card py-3 pl-12 pr-4 font-sans text-base text-ink shadow-sm outline-none transition placeholder:text-ink-muted focus:border-navy focus:ring-1 focus:ring-navy"
+          />
+        </div>
+
+        <div class="flex flex-wrap items-end justify-center gap-3">
+          <label class="flex flex-col text-left">
+            <span class="eyebrow mb-1">Type</span>
+            <select id="filter-type" class="rounded-sm border border-border bg-card px-3 py-2 font-sans text-sm text-ink outline-none focus:border-navy">
+              <option value="">All types</option>
+              {typeOptions.map((t) => <option value={t}>{t}</option>)}
+            </select>
+          </label>
+
+          <label class="flex flex-col text-left">
+            <span class="eyebrow mb-1">Language</span>
+            <select id="filter-language" class="rounded-sm border border-border bg-card px-3 py-2 font-sans text-sm text-ink outline-none focus:border-navy">
+              <option value="">All languages</option>
+              {languageOptions.map((l) => <option value={l}>{l}</option>)}
+            </select>
+          </label>
+
+          <label class="flex flex-col text-left">
+            <span class="eyebrow mb-1">Decade</span>
+            <select id="filter-decade" class="rounded-sm border border-border bg-card px-3 py-2 font-sans text-sm text-ink outline-none focus:border-navy">
+              <option value="">All decades</option>
+              {decadeOptions.map((d) => <option value={d}>{d}</option>)}
+            </select>
+          </label>
+
+          <button
+            id="filter-clear"
+            type="button"
+            class="rounded-sm border border-navy/30 px-4 py-2 font-sans text-xs font-semibold uppercase tracking-widest text-navy transition hover:border-navy hover:bg-paper-dark"
+          >
+            Clear
+          </button>
+        </div>
+
+        <p class="mt-4 text-center font-sans text-sm tracking-wide text-ink-muted">
+          <span id="filter-count">{cards.length}</span> of {cards.length} items
+        </p>
+      </div>
+
+      <div id="collection-grid" class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
         {cards.map((c) => (
           <a
             href={`/item/${c.slug}`}
             class="frame-gold group flex flex-col overflow-hidden rounded-sm bg-card transition duration-300 hover:-translate-y-1 hover:shadow-xl"
+            data-card
+            data-type={c.type}
+            data-lang={c.languages.join("|")}
+            data-decade={c.decade}
+            data-keywords={c.keywords}
           >
             <div class="aspect-[4/3] w-full overflow-hidden border-b border-border bg-paper-dark">
               {c.thumbnail ? (
@@ -109,6 +202,78 @@ const cards = items
           </a>
         ))}
       </div>
+
+      <p id="filter-empty" hidden class="mt-16 text-center font-body text-lg text-ink-muted">
+        No items match your search. <button type="button" id="filter-empty-clear" class="underline hover:text-burgundy">Clear filters</button>
+      </p>
     </div>
   </section>
+
+  <script is:inline>
+    (function () {
+      const search = document.getElementById("filter-search");
+      const typeSel = document.getElementById("filter-type");
+      const langSel = document.getElementById("filter-language");
+      const decadeSel = document.getElementById("filter-decade");
+      const clearBtn = document.getElementById("filter-clear");
+      const emptyClear = document.getElementById("filter-empty-clear");
+      const countEl = document.getElementById("filter-count");
+      const emptyEl = document.getElementById("filter-empty");
+      const grid = document.getElementById("collection-grid");
+      if (!grid) return;
+
+      // Cache each card with a lowercased haystack (visible text + hidden keywords).
+      const cards = Array.from(grid.querySelectorAll("[data-card]")).map((el) => ({
+        el,
+        type: (el.dataset.type || "").toLowerCase(),
+        langs: (el.dataset.lang || "").toLowerCase().split("|").filter(Boolean),
+        decade: (el.dataset.decade || "").toLowerCase(),
+        hay: ((el.dataset.keywords || "") + " " + el.textContent).toLowerCase(),
+      }));
+
+      const norm = (s) => (s || "").trim().toLowerCase();
+
+      function apply() {
+        const q = norm(search.value);
+        const terms = q.split(/\s+/).filter(Boolean);
+        const type = norm(typeSel.value);
+        const lang = norm(langSel.value);
+        const decade = norm(decadeSel.value);
+        let shown = 0;
+
+        for (const c of cards) {
+          const ok =
+            (!type || c.type === type) &&
+            (!lang || c.langs.includes(lang)) &&
+            (!decade || c.decade === decade) &&
+            (terms.length === 0 || terms.every((t) => c.hay.includes(t)));
+          c.el.hidden = !ok;
+          if (ok) shown++;
+        }
+
+        countEl.textContent = String(shown);
+        emptyEl.hidden = shown !== 0;
+      }
+
+      function clearAll() {
+        search.value = "";
+        typeSel.value = "";
+        langSel.value = "";
+        decadeSel.value = "";
+        apply();
+        search.focus();
+      }
+
+      let t;
+      search.addEventListener("input", () => {
+        clearTimeout(t);
+        t = setTimeout(apply, 120);
+      });
+      [typeSel, langSel, decadeSel].forEach((el) => el.addEventListener("change", apply));
+      clearBtn.addEventListener("click", clearAll);
+      if (emptyClear) emptyClear.addEventListener("click", clearAll);
+
+      apply();
+    })();
+  </script>
 </BaseLayout>
