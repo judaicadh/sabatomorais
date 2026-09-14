@@ -1,0 +1,55 @@
+/* src/styles/global.css */
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@import "@fontsource-variable/lora";
+@import "@fontsource-variable/epilogue";
+@import "@fontsource/neuton";
+
+@plugin "@tailwindcss/typography";
+
+@theme {
+  /* Paper / ink palette */
+  --color-paper-light: #fdfaf6;
+  --color-paper: #f8f4ec;
+  --color-paper-dark: #ede7dd;
+  --color-ink-hover: #221d1b;
+  --color-ink: #2f2a26;
+  --color-ink-muted: #5a5046;
+
+  --color-accent-50: #fdf4e7;
+  --color-accent-100: #f5e2c5;
+  --color-accent-200: #e6cba1;
+  --color-accent-700: #8a6d3b;
+
+  /* Semantic tokens used across the UI (nav, footer, cards) */
+  --color-background: #f8f4ec;
+  --color-foreground: #2f2a26;
+  --color-card: #ffffff;
+  --color-border: #e6ddd0;
+  --color-primary: #37474f;
+  --color-accent: #8a6d3b;
+  --color-accent-foreground: #2f2a26;
+  --color-muted-foreground: #6b6157;
+
+  --font-heading: Neuton, serif;
+  --font-body: "Lora Variable", serif;
+  --font-sans: "Epilogue Variable", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-paper text-ink font-body;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-heading text-ink;
+  }
+  p {
+    @apply font-body text-ink-muted dark:text-accent-50;
+  }
+}
