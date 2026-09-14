@@ -1,0 +1,110 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Motif from "../components/Motif.astro";
+
+// The exact model and prompt used for AI-assisted transcription in FromThePage.
+const aiModel = "gemini-3.1-pro-preview";
+const aiPrompt = `Please transcribe all the text you see in this image as accurately as possible.
+
+Guidelines:
+- Preserve the original formatting, line breaks, and layout
+- Maintain paragraph structure and spacing
+- Use spaces, not &nbsp
+- If the text is handwritten, interpret it as accurately as you can
+- Include all visible text, including marginalia, headers, and footers
+- Preserve punctuation and capitalization as shown
+- If you encounter text that is unclear or illegible, transcribe what you can and use [?] for uncertain characters or [illegible] for completely unreadable sections
+- Do not add any commentary, explanations, or notes
+- Only provide the transcribed text itself
+- Use Markdown tables to format any accounts, lists, or other tabular text, following this example:
+  | | |
+  --- | --- | --- | ---
+  |     |     |
+- Multicolumn texts should be transcribed in reading order
+
+Please begin the transcription now:`;
+---
+
+<BaseLayout
+  title="Methodology"
+  description="How the transcriptions in the Sabato Morais Digital Repository were produced, including human transcription on FromThePage and AI-assisted transcription."
+>
+  <article class="mx-auto max-w-3xl px-4 py-16 sm:py-20">
+    <header class="mb-12 text-center">
+      <p class="eyebrow mb-3">How This Was Made</p>
+      <h1 class="font-heading text-4xl leading-tight text-navy sm:text-5xl">
+        Methodology
+      </h1>
+      <div class="ornament mx-auto mt-6 max-w-sm">
+        <Motif class="text-gold" size={20} />
+      </div>
+    </header>
+
+    <div class="prose prose-neutral max-w-none font-body text-lg text-ink prose-headings:font-heading prose-headings:text-navy prose-a:text-burgundy prose-strong:text-ink">
+      <p>
+        The transcriptions in the <strong>Sabato Morais Digital Repository</strong>
+        were produced in two complementary ways: by human transcribers working on the{" "}
+        <a href="https://fromthepage.com/">FromThePage</a> crowdsourcing platform, and,
+        for a portion of the collection, with the help of artificial intelligence.
+      </p>
+
+      <h2 id="human">Human transcription</h2>
+
+      <p>
+        A portion of the transcriptions was created and reviewed by volunteers and
+        scholars working directly with the original page images on FromThePage. These
+        contributors are credited on our{" "}
+        <a href="/acknowledgements">Acknowledgements</a> page. Their work included
+        both transcribing documents from scratch and reviewing and correcting existing
+        transcriptions.
+      </p>
+
+      <h2 id="ai">AI-assisted transcription</h2>
+
+      <p>
+        To extend coverage across a large corpus, some transcriptions were generated
+        with an AI model and then made available for review and correction. Because
+        these transcriptions are machine-generated, <strong>they may contain errors</strong>,
+        particularly with handwriting, marginalia, non-English text, and damaged or
+        faint pages. We encourage readers to consult the original page images alongside
+        the transcription, and to{" "}
+        <a href="https://judaicadhpenn.org/">let us know</a> about any errors they find.
+      </p>
+
+      <p>
+        AI-assisted transcriptions were generated using the{" "}
+        <strong>{aiModel}</strong> model through FromThePage, with the following prompt:
+      </p>
+    </div>
+
+    <!-- Prompt (verbatim) -->
+    <figure class="mt-6">
+      <figcaption class="mb-2 font-sans text-xs uppercase tracking-widest text-ink-muted">
+        Transcription prompt &middot; {aiModel}
+      </figcaption>
+      <pre class="overflow-x-auto whitespace-pre-wrap rounded-sm border border-border bg-paper-light p-6 font-mono text-sm leading-relaxed text-ink">{aiPrompt}</pre>
+    </figure>
+
+    <div class="prose prose-neutral mt-10 max-w-none font-body text-lg text-ink prose-headings:font-heading prose-headings:text-navy prose-a:text-burgundy prose-strong:text-ink">
+      <h2 id="encoding">Encoding &amp; presentation</h2>
+      <p>
+        Transcriptions are encoded in{" "}
+        <abbr title="Text Encoding Initiative">TEI</abbr> and presented alongside
+        high-resolution page images delivered through{" "}
+        <abbr title="International Image Interoperability Framework">IIIF</abbr>, so
+        readers can study the text and the original document side by side. Descriptive
+        metadata for each item is drawn from the holding institutions' catalog records.
+      </p>
+    </div>
+
+    <div class="mt-14 border-t border-border pt-8 text-center">
+      <div class="ornament mx-auto mb-6 max-w-xs">
+        <Motif class="text-gold" size={16} />
+      </div>
+      <p class="mx-auto max-w-2xl font-body text-base leading-relaxed text-ink-muted">
+        Spotted an error in a transcription? Please contact{" "}
+        <a href="https://judaicadhpenn.org/" class="text-burgundy underline">Judaica Digital Humanities at Penn</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>

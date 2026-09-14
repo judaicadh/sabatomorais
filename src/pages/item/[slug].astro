@@ -155,6 +155,12 @@ const isLetter = (itemData.type || "").toLowerCase() === "letter" && hasRecipien
               Transcription
             </span>
           </div>
+          {itemData.xml && (
+            <p class="border-b border-border bg-paper-light px-5 py-2 text-center font-sans text-xs leading-relaxed text-ink-muted">
+              Some transcriptions were generated with AI assistance and may contain
+              errors. <a href="/methodology" class="text-burgundy underline">See methodology</a>.
+            </p>
+          )}
           <div class="h-[55vh] max-h-[42rem] min-h-[22rem] overflow-y-auto p-5 md:h-[60vh] lg:h-[72vh]">
             {itemData.xml ? (
               <TEILoader client:only="react" url={itemData.xml} />

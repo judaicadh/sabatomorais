@@ -10,9 +10,11 @@ const transcribers = [
   { name: "Donatella Fischer", role: "Independent researcher" },
   { name: "Martina Perotta", role: "PhD student, Trento" },
   { name: "Pia Settimi", role: "Independent researcher" },
+  { name: "Martina Mampieri", role: "" },
 ];
 
-// Contributors who reviewed transcriptions (crowdsourcing usernames).
+// FromThePage volunteers who transcribed/reviewed; credited by username
+// because we don't have their real names.
 const reviewers = [
   "LIFrancophone",
   "sabern",
@@ -27,8 +29,6 @@ const reviewers = [
 
 const partners = [
   "Penn Libraries",
-  "Congregation Mikveh Israel",
-  "The Jewish Theological Seminary",
 ];
 ---
 
@@ -56,12 +56,17 @@ const partners = [
     </div>
 
     <!-- Transcription team -->
-    <div class="mt-12 space-y-10">
+    <div class="mt-12">
       <section class="frame-gold rounded-sm bg-card p-7 sm:p-8">
-        <h2 class="mb-1 font-heading text-2xl text-navy">Transcription</h2>
-        <p class="mb-5 font-sans text-sm text-ink-muted">
-          Scholars who transcribed Morais's writings and correspondence.
+        <h2 class="mb-1 font-heading text-2xl text-navy">Transcription &amp; Review</h2>
+        <p class="mb-6 font-sans text-sm text-ink-muted">
+          A portion of Morais's writings and correspondence was transcribed and
+          reviewed by volunteers on FromThePage; other transcriptions were generated
+          with AI assistance (see our{" "}
+          <a href="/methodology" class="text-burgundy underline">Methodology</a>).
+          We are grateful to the following contributors.
         </p>
+
         <ul class="space-y-3">
           {transcribers.map((person) => (
             <li class="flex items-baseline gap-3 font-body text-lg text-ink">
@@ -75,12 +80,9 @@ const partners = [
             </li>
           ))}
         </ul>
-      </section>
 
-      <section class="frame-gold rounded-sm bg-card p-7 sm:p-8">
-        <h2 class="mb-1 font-heading text-2xl text-navy">Review</h2>
-        <p class="mb-5 font-sans text-sm text-ink-muted">
-          Contributors who reviewed and corrected transcriptions.
+        <p class="mb-3 mt-7 font-sans text-xs uppercase tracking-widest text-ink-muted">
+          Additional contributors, credited by username
         </p>
         <ul class="flex flex-wrap gap-2">
           {reviewers.map((name) => (
@@ -110,7 +112,7 @@ const partners = [
       <p class="mx-auto max-w-2xl font-body text-base leading-relaxed text-ink-muted">
         Materials are reproduced with the permission of the holding institutions.
         For questions about rights and reuse, or to suggest a correction, please
-        contact
+        contact{" "}
         <a href="https://judaicadhpenn.org/" class="text-burgundy underline">Judaica Digital Humanities at Penn</a>.
       </p>
     </div>
