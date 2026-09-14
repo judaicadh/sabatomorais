@@ -48,11 +48,26 @@ node scripts/generateItems.mjs     # rebuilds src/data/items.json from public/te
 ```
 
 The generator ([`scripts/generateItems.mjs`](scripts/generateItems.mjs)) reads each
-TEI header and body and derives the id, title (from the first meaningful body line),
-a description excerpt, author, addressee, place, date, language, and page extent. It
-classifies items with an addressee as `Letter`, otherwise `Manuscript`. Curated
-titles/descriptions can be pinned per id in the `OVERRIDES` map at the top of the
-script. Re-run it whenever you add or change TEI files.
+TEI header and body and derives a base record (id, title from the first meaningful
+body line, description excerpt, place, extent), then **enriches it from two CSVs in
+`data/`**:
+
+- **`data/apotheca.csv`** — the Apotheca/Colenda export, matched on
+  `metadata.identifier`. Supplies date, geographic subjects, languages, authority
+  names, rights, box/folder, call number, catalog link, and the **ARK**. From the
+  ARK the generator builds the IIIF manifest URL
+  `https://colenda.library.upenn.edu/items/<ark>/manifest`, which fills the Facsimile
+  panel with real page images.
+- **`data/descriptive.csv`** — the curated descriptive sheet, matched on `work_id`.
+  Where present it wins for title, description, date/display date, people, and
+  geography.
+
+Items in the Apotheca export get a live IIIF viewer; items only in the descriptive
+sheet **are not on Colenda yet**, so they show "No image available" until they are —
+at which point their ARK lands in the Apotheca export and the manifest appears
+automatically. Curated titles/descriptions can also be pinned per id in the
+`OVERRIDES` map at the top of the script. Re-run the generator whenever you add or
+change TEI files or update the CSVs.
 
 Per item, the reading view uses:
 

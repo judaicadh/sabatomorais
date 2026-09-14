@@ -111,9 +111,11 @@ const itemNode = {
 
 const title = itemData.title2 || itemData.title || "Untitled";
 const dates = toArray(itemData.date);
+const dateDisplay = itemData.dateDisplay || dates[0] || "";
 const fromPlaces = toNames(itemData.fromLocation);
 const toPlaces = toNames(itemData.toLocation);
-const isLetter = (itemData.type || "").toLowerCase() === "letter";
+const hasRecipient = toNames(rawContributors).length > 0;
+const isLetter = (itemData.type || "").toLowerCase() === "letter" && hasRecipient;
 ---
 
 <BaseLayout
@@ -229,6 +231,38 @@ const isLetter = (itemData.type || "").toLowerCase() === "letter";
                     <span class="font-sans text-gray-500 dark:text-gray-400">Collection:</span> {itemData.collection}
                   </p>
                 )}
+                {itemData.callNumber && (
+                  <p class="text-sm text-ink dark:text-gray-100">
+                    <span class="font-sans text-gray-500 dark:text-gray-400">Call number:</span> {itemData.callNumber}
+                  </p>
+                )}
+                {itemData.extent && (
+                  <p class="text-sm text-ink dark:text-gray-100">
+                    <span class="font-sans text-gray-500 dark:text-gray-400">Extent:</span> {itemData.extent}
+                  </p>
+                )}
+                {itemData.rights && (
+                  <p class="text-sm text-ink dark:text-gray-100">
+                    <span class="font-sans text-gray-500 dark:text-gray-400">Rights:</span>{" "}
+                    {itemData.rightsUri ? (
+                      <a href={itemData.rightsUri} class="underline hover:text-accent-700 dark:hover:text-accent-200">{itemData.rights}</a>
+                    ) : (
+                      itemData.rights
+                    )}
+                  </p>
+                )}
+                {(itemData.catalogUrl || itemData.apothecaUrl) && (
+                  <p class="text-sm text-ink dark:text-gray-100">
+                    <span class="font-sans text-gray-500 dark:text-gray-400">Source record:</span>{" "}
+                    {itemData.catalogUrl && (
+                      <a href={itemData.catalogUrl} class="underline hover:text-accent-700 dark:hover:text-accent-200">Library catalog</a>
+                    )}
+                    {itemData.catalogUrl && itemData.apothecaUrl && " · "}
+                    {itemData.apothecaUrl && (
+                      <a href={itemData.apothecaUrl} class="underline hover:text-accent-700 dark:hover:text-accent-200">Apotheca</a>
+                    )}
+                  </p>
+                )}
               </div>
             </section>
           </div>
@@ -259,7 +293,7 @@ const isLetter = (itemData.type || "").toLowerCase() === "letter";
               <h3 class="mb-3 text-lg font-heading text-navy dark:text-gray-100">Dates</h3>
               <div class="space-y-2">
                 <p class="text-sm text-ink dark:text-gray-100">
-                  <span class="font-sans text-gray-500 dark:text-gray-400">Gregorian:</span> {dates[0] || "Unknown"}
+                  <span class="font-sans text-gray-500 dark:text-gray-400">Date:</span> {dateDisplay || "Unknown"}
                 </p>
                 {itemData.hebrewdate && (
                   <p class="text-sm text-ink dark:text-gray-100">
