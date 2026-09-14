@@ -1,0 +1,115 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Motif from "../components/Motif.astro";
+
+// Edit these lists to credit the people and institutions behind the project.
+const sections = [
+  {
+    title: "Project Direction",
+    entries: [
+      "Add project director(s) here",
+      "Add faculty or curatorial leads here",
+    ],
+  },
+  {
+    title: "Editing & Transcription",
+    entries: [
+      "Add TEI editors and transcribers here",
+      "Add research assistants here",
+    ],
+  },
+  {
+    title: "Digitization & Technology",
+    entries: [
+      "Add imaging / IIIF partners here",
+      "Add developers and designers here",
+    ],
+  },
+];
+
+const partners = [
+  "Penn Libraries",
+  "Congregation Mikveh Israel",
+  "The Jewish Theological Seminary",
+];
+
+const funders = [
+  "Add funding bodies and grants here",
+];
+---
+
+<BaseLayout
+  title="Acknowledgements"
+  description="The people, institutions, and funders behind the Sabato Morais Digital Repository."
+>
+  <article class="mx-auto max-w-3xl px-4 py-16 sm:py-20">
+    <header class="mb-12 text-center">
+      <p class="eyebrow mb-3">With Gratitude</p>
+      <h1 class="font-heading text-4xl leading-tight text-navy sm:text-5xl">
+        Acknowledgements
+      </h1>
+      <div class="ornament mx-auto mt-6 max-w-sm">
+        <Motif class="text-gold" size={20} />
+      </div>
+    </header>
+
+    <div class="prose prose-neutral max-w-none font-body text-lg text-ink prose-headings:font-heading prose-headings:text-navy prose-a:text-burgundy prose-strong:text-ink">
+      <p>
+        The <strong>Sabato Morais Digital Repository</strong> is the work of many
+        hands. We are grateful to the individuals and institutions whose scholarship,
+        care, and generosity made this collection possible.
+      </p>
+    </div>
+
+    <!-- Team -->
+    <div class="mt-12 space-y-10">
+      {sections.map((section) => (
+        <section class="frame-gold rounded-sm bg-card p-7 sm:p-8">
+          <h2 class="mb-4 font-heading text-2xl text-navy">{section.title}</h2>
+          <ul class="space-y-2">
+            {section.entries.map((entry) => (
+              <li class="flex items-baseline gap-3 font-body text-lg text-ink">
+                <Motif class="shrink-0 translate-y-1 text-gold" size={13} />
+                <span>{entry}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+
+    <!-- Partners & Funders -->
+    <div class="mt-12 grid grid-cols-1 gap-8 sm:grid-cols-2">
+      <section>
+        <p class="eyebrow mb-3">Partner Institutions</p>
+        <ul class="space-y-2">
+          {partners.map((p) => (
+            <li class="border-b border-border pb-2 font-body text-lg text-ink">{p}</li>
+          ))}
+        </ul>
+      </section>
+
+      <section>
+        <p class="eyebrow mb-3">Support &amp; Funding</p>
+        <ul class="space-y-2">
+          {funders.map((f) => (
+            <li class="border-b border-border pb-2 font-body text-lg text-ink">{f}</li>
+          ))}
+        </ul>
+      </section>
+    </div>
+
+    <!-- Rights note -->
+    <div class="mt-14 border-t border-border pt-8 text-center">
+      <div class="ornament mx-auto mb-6 max-w-xs">
+        <Motif class="text-gold" size={16} />
+      </div>
+      <p class="mx-auto max-w-2xl font-body text-base leading-relaxed text-ink-muted">
+        Materials are reproduced with the permission of the holding institutions.
+        For questions about rights and reuse, or to suggest a correction, please
+        contact
+        <a href="https://judaicadhpenn.org/" class="text-burgundy underline">Judaica Digital Humanities at Penn</a>.
+      </p>
+    </div>
+  </article>
+</BaseLayout>
