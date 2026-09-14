@@ -2,39 +2,33 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Motif from "../components/Motif.astro";
 
-// Edit these lists to credit the people and institutions behind the project.
-const sections = [
-  {
-    title: "Project Direction",
-    entries: [
-      "Add project director(s) here",
-      "Add faculty or curatorial leads here",
-    ],
-  },
-  {
-    title: "Editing & Transcription",
-    entries: [
-      "Add TEI editors and transcribers here",
-      "Add research assistants here",
-    ],
-  },
-  {
-    title: "Digitization & Technology",
-    entries: [
-      "Add imaging / IIIF partners here",
-      "Add developers and designers here",
-    ],
-  },
+// People who transcribed Morais's writings and correspondence.
+const transcribers = [
+  { name: "Alessia Fontanella", role: "PhD student, Bar-Ilan University" },
+  { name: "Alice Avanzi", role: "Independent researcher" },
+  { name: "Camilla Berveglieri", role: "Master's student, Venice" },
+  { name: "Donatella Fischer", role: "Independent researcher" },
+  { name: "Martina Perotta", role: "PhD student, Trento" },
+  { name: "Pia Settimi", role: "Independent researcher" },
+];
+
+// Contributors who reviewed transcriptions (crowdsourcing usernames).
+const reviewers = [
+  "LIFrancophone",
+  "sabern",
+  "AFontanella",
+  "Alice A.T.",
+  "MaryV",
+  "glnite",
+  "Steviedog",
+  "sofiaglynne",
+  "txblaize",
 ];
 
 const partners = [
   "Penn Libraries",
   "Congregation Mikveh Israel",
   "The Jewish Theological Seminary",
-];
-
-const funders = [
-  "Add funding bodies and grants here",
 ];
 ---
 
@@ -61,42 +55,51 @@ const funders = [
       </p>
     </div>
 
-    <!-- Team -->
+    <!-- Transcription team -->
     <div class="mt-12 space-y-10">
-      {sections.map((section) => (
-        <section class="frame-gold rounded-sm bg-card p-7 sm:p-8">
-          <h2 class="mb-4 font-heading text-2xl text-navy">{section.title}</h2>
-          <ul class="space-y-2">
-            {section.entries.map((entry) => (
-              <li class="flex items-baseline gap-3 font-body text-lg text-ink">
-                <Motif class="shrink-0 translate-y-1 text-gold" size={13} />
-                <span>{entry}</span>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))}
+      <section class="frame-gold rounded-sm bg-card p-7 sm:p-8">
+        <h2 class="mb-1 font-heading text-2xl text-navy">Transcription</h2>
+        <p class="mb-5 font-sans text-sm text-ink-muted">
+          Scholars who transcribed Morais's writings and correspondence.
+        </p>
+        <ul class="space-y-3">
+          {transcribers.map((person) => (
+            <li class="flex items-baseline gap-3 font-body text-lg text-ink">
+              <Motif class="shrink-0 translate-y-1 text-gold" size={13} />
+              <span>
+                {person.name}
+                {person.role && (
+                  <span class="block font-sans text-sm text-ink-muted">{person.role}</span>
+                )}
+              </span>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section class="frame-gold rounded-sm bg-card p-7 sm:p-8">
+        <h2 class="mb-1 font-heading text-2xl text-navy">Review</h2>
+        <p class="mb-5 font-sans text-sm text-ink-muted">
+          Contributors who reviewed and corrected transcriptions.
+        </p>
+        <ul class="flex flex-wrap gap-2">
+          {reviewers.map((name) => (
+            <li class="rounded-full border border-border bg-paper-light px-4 py-1.5 font-sans text-sm text-ink">
+              {name}
+            </li>
+          ))}
+        </ul>
+      </section>
     </div>
 
-    <!-- Partners & Funders -->
-    <div class="mt-12 grid grid-cols-1 gap-8 sm:grid-cols-2">
-      <section>
-        <p class="eyebrow mb-3">Partner Institutions</p>
-        <ul class="space-y-2">
-          {partners.map((p) => (
-            <li class="border-b border-border pb-2 font-body text-lg text-ink">{p}</li>
-          ))}
-        </ul>
-      </section>
-
-      <section>
-        <p class="eyebrow mb-3">Support &amp; Funding</p>
-        <ul class="space-y-2">
-          {funders.map((f) => (
-            <li class="border-b border-border pb-2 font-body text-lg text-ink">{f}</li>
-          ))}
-        </ul>
-      </section>
+    <!-- Partners -->
+    <div class="mt-12">
+      <p class="eyebrow mb-3">Partner Institutions</p>
+      <ul class="grid grid-cols-1 gap-x-8 sm:grid-cols-2">
+        {partners.map((p) => (
+          <li class="border-b border-border py-2 font-body text-lg text-ink">{p}</li>
+        ))}
+      </ul>
     </div>
 
     <!-- Rights note -->
