@@ -125,3 +125,9 @@
 .gilt-top {
   border-top: 3px double var(--color-gold-soft);
 }
+
+/* TEI original-spelling (<sic>) markers inside a transcription */
+.prose sic {
+  text-decoration: underline dotted var(--color-burgundy);
+  text-underline-offset: 2px;
+}
